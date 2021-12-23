@@ -1,0 +1,1811 @@
+disease	drug	proximity	pval
+Arthritis, Rheumatoid	2-mercaptobenzothiazole	2	0.582236563438162
+Arthritis, Rheumatoid	5-o-phosphono-alpha-d-ribofuranosyl diphosphate	1	0.126306832321692
+Arthritis, Rheumatoid	5cocktail	0.75	0.000386375438972984
+Arthritis, Rheumatoid	abacavir	0	0.130825545294118
+Arthritis, Rheumatoid	abaloparatide	2	0.950917309563736
+Arthritis, Rheumatoid	abarelix	2	0.642821746770719
+Arthritis, Rheumatoid	abatacept	0	0.000332996536393762
+Arthritis, Rheumatoid	abciximab	0.307692307692308	2.5930499439749e-10
+Arthritis, Rheumatoid	abemaciclib	0.5	0.0552969427903502
+Arthritis, Rheumatoid	abiraterone	0	0.0089910899178126
+Arthritis, Rheumatoid	acalabrutinib	1	0.643348413060771
+Arthritis, Rheumatoid	acamprosate	1.66666666666667	0.945337004039322
+Arthritis, Rheumatoid	acarbose	1.25	0.0940572355329785
+Arthritis, Rheumatoid	acebutolol	0	0.00177735641065568
+Arthritis, Rheumatoid	aceclofenac	0	0.00104425150519584
+Arthritis, Rheumatoid	acemetacin	0	0.000424064607222689
+Arthritis, Rheumatoid	acenocoumarol	0	0.0199688854130538
+Arthritis, Rheumatoid	acetaminophen	0.5	0.00076703953099035
+Arthritis, Rheumatoid	acetazolamide	1.57142857142857	0.621553255191248
+Arthritis, Rheumatoid	acetohexamide	1	0.290976804233318
+Arthritis, Rheumatoid	acetohydroxamic acid	0	0.007713034344138
+Arthritis, Rheumatoid	acetophenazine	0.666666666666667	0.135854678283582
+Arthritis, Rheumatoid	acetylcholine	1.33333333333333	0.323471603880392
+Arthritis, Rheumatoid	acetylcysteine	0.9	0.271167561223949
+Arthritis, Rheumatoid	acetyldigitoxin	1	0.629927932097713
+Arthritis, Rheumatoid	acetylsalicylic acid	0.714285714285714	0.000211210561941542
+Arthritis, Rheumatoid	acitretin	1.14285714285714	0.943832298588054
+Arthritis, Rheumatoid	aclidinium	1.4	0.266321945128802
+Arthritis, Rheumatoid	acrivastine	1	0.254586591660958
+Arthritis, Rheumatoid	adalimumab	0	7.66904909597165e-09
+Arthritis, Rheumatoid	adapalene	0.857142857142857	0.207518591871623
+Arthritis, Rheumatoid	ademetionine	1.625	0.9367110187206
+Arthritis, Rheumatoid	adenine	1	0.118635054338924
+Arthritis, Rheumatoid	adenosine	0.5	0.000362947370753549
+Arthritis, Rheumatoid	adenosine phosphate	1.4	0.931777489672151
+Arthritis, Rheumatoid	afamelanotide	1	0.433031969448293
+Arthritis, Rheumatoid	afatinib	0.666666666666667	0.599239516386724
+Arthritis, Rheumatoid	aflibercept	0.666666666666667	0.00441759382286135
+Arthritis, Rheumatoid	agkistrodon piscivorus antivenin	3	0.985106459294717
+Arthritis, Rheumatoid	agomelatine	0.333333333333333	0.000900302204827618
+Arthritis, Rheumatoid	ajmaline	1	0.453959046709007
+Arthritis, Rheumatoid	albiglutide	2	0.999697413868731
+Arthritis, Rheumatoid	albutrepenonacog alfa	1	0.517763715333372
+Arthritis, Rheumatoid	alcaftadine	1	0.237947879231275
+Arthritis, Rheumatoid	alclofenac	0	0.00173907999269577
+Arthritis, Rheumatoid	alclometasone	0	0.0828311253611191
+Arthritis, Rheumatoid	aldesleukin	0.333333333333333	0.000221144619286982
+Arthritis, Rheumatoid	alectinib	1	0.585500004359447
+Arthritis, Rheumatoid	alefacept	0	1.60916410666457e-18
+Arthritis, Rheumatoid	alemtuzumab	0.1	1.68230863100621e-14
+Arthritis, Rheumatoid	alendronic acid	1	0.353016104590871
+Arthritis, Rheumatoid	alfacalcidol	0.5	0.0509143357888951
+Arthritis, Rheumatoid	alfentanil	2	0.997829637196624
+Arthritis, Rheumatoid	alfuzosin	1.25	0.545616746217848
+Arthritis, Rheumatoid	alglucosidase alfa	2	0.986527949143274
+Arthritis, Rheumatoid	alimemazine	1	0.157061111661211
+Arthritis, Rheumatoid	alirocumab	1	0.311810558442077
+Arthritis, Rheumatoid	aliskiren	2	0.866034820163734
+Arthritis, Rheumatoid	alitretinoin	1.22222222222222	0.739800072338673
+Arthritis, Rheumatoid	allopurinol	2	0.774016505617207
+Arthritis, Rheumatoid	almitrine	1	0.569452950120241
+Arthritis, Rheumatoid	almotriptan	2.5	0.985398577568965
+Arthritis, Rheumatoid	alogliptin	0	1.6982674071476e-07
+Arthritis, Rheumatoid	alosetron	1	0.195648466884798
+Arthritis, Rheumatoid	alpelisib	1	0.679454089019012
+Arthritis, Rheumatoid	alpha-1-proteinase inhibitor	1	0.484989796885206
+Arthritis, Rheumatoid	alpha-linolenic acid	1.3	0.844397385805732
+Arthritis, Rheumatoid	alpha-tocopherol succinate	1	0.243395161081946
+Arthritis, Rheumatoid	alprazolam	1.85714285714286	0.890463385608743
+Arthritis, Rheumatoid	alprostadil	1.33333333333333	0.220167492186517
+Arthritis, Rheumatoid	alteplase	0.75	0.0415466377319888
+Arthritis, Rheumatoid	aluminium	1	0.191049623756237
+Arthritis, Rheumatoid	aluminium phosphate	1	0.216815136848173
+Arthritis, Rheumatoid	aluminum acetate	1	0.212572313216447
+Arthritis, Rheumatoid	aluminum chloride	1	0.474861446728315
+Arthritis, Rheumatoid	alverine	2	0.889784089383552
+Arthritis, Rheumatoid	alvimopan	1.66666666666667	0.990655289163084
+Arthritis, Rheumatoid	amantadine	1.4	0.54237200792976
+Arthritis, Rheumatoid	ambenonium	2	0.947898228041979
+Arthritis, Rheumatoid	ambrisentan	0.5	0.0232425048399819
+Arthritis, Rheumatoid	amcinonide	0.5	0.134436594086408
+Arthritis, Rheumatoid	amifampridine	2	0.920304796612983
+Arthritis, Rheumatoid	amifostine	2	0.682339922599685
+Arthritis, Rheumatoid	amiloride	1	0.0703521274513269
+Arthritis, Rheumatoid	aminocaproic acid	0.666666666666667	0.0201028406854263
+Arthritis, Rheumatoid	aminoglutethimide	0.5	0.00373315563696858
+Arthritis, Rheumatoid	aminolevulinic acid	1	0.39615116870671
+Arthritis, Rheumatoid	aminophylline	0.5	0.000232266428389861
+Arthritis, Rheumatoid	aminosalicylic acid	0.333333333333333	0.00819753592459612
+Arthritis, Rheumatoid	amiodarone	1	0.293565804253419
+Arthritis, Rheumatoid	amisulpride	0.75	0.184541514744176
+Arthritis, Rheumatoid	amitriptyline	1.34375	0.471120976665831
+Arthritis, Rheumatoid	amlexanox	1	0.045832352270726
+Arthritis, Rheumatoid	amlodipine	1.14285714285714	0.0931212076023391
+Arthritis, Rheumatoid	amobarbital	1.7	0.749754526021843
+Arthritis, Rheumatoid	amodiaquine	2	0.751749008540493
+Arthritis, Rheumatoid	amoxapine	1.39024390243902	0.252149577866645
+Arthritis, Rheumatoid	amphetamine	1.17647058823529	0.0254804334595578
+Arthritis, Rheumatoid	ampicillin	1.66666666666667	0.576867288316884
+Arthritis, Rheumatoid	amrinone	0.75	0.0232263467578417
+Arthritis, Rheumatoid	amsacrine	1	0.402621067205672
+Arthritis, Rheumatoid	amyl nitrite	2	0.903963477699237
+Arthritis, Rheumatoid	amylmetacresol	2	0.773485148271616
+Arthritis, Rheumatoid	amylocaine	1.42857142857143	0.32657436515898
+Arthritis, Rheumatoid	anagrelide	0	0.00235702249885759
+Arthritis, Rheumatoid	anakinra	0	0.0141365755117512
+Arthritis, Rheumatoid	anastrozole	0	0.000537770559747784
+Arthritis, Rheumatoid	ancestim	0	0.023296851685566
+Arthritis, Rheumatoid	ancrod	1	0.46399641640112
+Arthritis, Rheumatoid	andexanet alfa	1	0.252411540378021
+Arthritis, Rheumatoid	angiotensin ii	1	0.391491006441466
+Arthritis, Rheumatoid	anileridine	2	0.992434325242536
+Arthritis, Rheumatoid	anisindione	1	0.326869143203014
+Arthritis, Rheumatoid	anisotropine methylbromide	1.33333333333333	0.479619303662155
+Arthritis, Rheumatoid	anistreplase	0.75	0.130788028240741
+Arthritis, Rheumatoid	antazoline	1	0.193238115385616
+Arthritis, Rheumatoid	anthralin	1.33333333333333	0.713856668001591
+Arthritis, Rheumatoid	anti-inhibitor coagulant complex	0.625	0.00127708637346405
+Arthritis, Rheumatoid	antihemophilic factor (recombinant), pegylated	1	0.411941065699398
+Arthritis, Rheumatoid	antihemophilic factor human	1	0.299924641125915
+Arthritis, Rheumatoid	antihemophilic factor, human recombinant	0.909090909090909	0.178216439739463
+Arthritis, Rheumatoid	antipyrine	0	6.40462291700789e-05
+Arthritis, Rheumatoid	antithrombin alfa	0.5	0.0469426653691375
+Arthritis, Rheumatoid	antithrombin iii human	1	0.267859356095353
+Arthritis, Rheumatoid	antithymocyte immunoglobulin (rabbit)	0.444444444444444	1.00960052629684e-05
+Arthritis, Rheumatoid	antrafenine	0	0.000116584785990849
+Arthritis, Rheumatoid	apalutamide	1.71428571428571	0.833257228606593
+Arthritis, Rheumatoid	apixaban	1	0.42822036299915
+Arthritis, Rheumatoid	apomorphine	1.46666666666667	0.670593234886543
+Arthritis, Rheumatoid	apraclonidine	1.33333333333333	0.576237902215284
+Arthritis, Rheumatoid	aprepitant	0	0.016946622474652
+Arthritis, Rheumatoid	aprotinin	1.25	0.346370689304485
+Arthritis, Rheumatoid	arbutamine	0	0.000331077306600534
+Arthritis, Rheumatoid	arbutin	2	0.757309135160473
+Arthritis, Rheumatoid	ardeparin	1	0.220977457648181
+Arthritis, Rheumatoid	arformoterol	0	0.0642720250089849
+Arthritis, Rheumatoid	argatroban	0	0.0167088726204978
+Arthritis, Rheumatoid	aripiprazole	1.27906976744186	0.198220099283628
+Arthritis, Rheumatoid	aripiprazole lauroxil	1.36	0.442870323193771
+Arthritis, Rheumatoid	armodafinil	1	0.426706865425165
+Arthritis, Rheumatoid	arsenic trioxide	0.7	0.00317314026637559
+Arthritis, Rheumatoid	ascorbic acid	1.52173913043478	0.978890693795357
+Arthritis, Rheumatoid	asenapine	1.10526315789474	0.0387604364148994
+Arthritis, Rheumatoid	asfotase alfa	2	0.970884320105708
+Arthritis, Rheumatoid	asparagine	1.33333333333333	0.539827837277029
+Arthritis, Rheumatoid	aspartic acid	1.3	0.876037312085616
+Arthritis, Rheumatoid	astemizole	1.25	0.628408886831008
+Arthritis, Rheumatoid	atenolol	0	0.0015147711304251
+Arthritis, Rheumatoid	atezolizumab	0	0.00705701740035358
+Arthritis, Rheumatoid	atomoxetine	1.36363636363636	0.805074036903255
+Arthritis, Rheumatoid	atorvastatin	1	0.479132264527758
+Arthritis, Rheumatoid	atosiban	2	0.973234210109552
+Arthritis, Rheumatoid	atovaquone	0	0.0250667285148313
+Arthritis, Rheumatoid	atracurium besylate	3	0.97362117374864
+Arthritis, Rheumatoid	atropine	1.42857142857143	0.346165133381222
+Arthritis, Rheumatoid	auranofin	0.5	0.105465256935319
+Arthritis, Rheumatoid	aurothioglucose	2	0.88434731404167
+Arthritis, Rheumatoid	avanafil	2	0.754728197170023
+Arthritis, Rheumatoid	avatrombopag	0.5	0.00264954058626479
+Arthritis, Rheumatoid	avelumab	0	0.00458187869512901
+Arthritis, Rheumatoid	axicabtagene ciloleucel	0	0.00397610514522009
+Arthritis, Rheumatoid	axitinib	1	0.512253823256754
+Arthritis, Rheumatoid	azacitidine	1	0.599239516386724
+Arthritis, Rheumatoid	azatadine	1	0.18259966441783
+Arthritis, Rheumatoid	azathioprine	0.5	0.000401652335492208
+Arthritis, Rheumatoid	azelaic acid	2	0.7307788117136
+Arthritis, Rheumatoid	azelastine	1.5	0.46418494038984
+Arthritis, Rheumatoid	azilsartan medoxomil	1	0.398789028222759
+Arthritis, Rheumatoid	azithromycin	0	0.0183312539360592
+Arthritis, Rheumatoid	bacitracin	0.5	0.0713836198960353
+Arthritis, Rheumatoid	baclofen	1.5	0.774710125077741
+Arthritis, Rheumatoid	balsalazide	0.25	0.000544636099006173
+Arthritis, Rheumatoid	baricitinib	0.5	0.00244456361980624
+Arthritis, Rheumatoid	basiliximab	0.0833333333333333	9.08665458644764e-19
+Arthritis, Rheumatoid	becaplermin	0.666666666666667	0.226719092573876
+Arthritis, Rheumatoid	beclomethasone dipropionate	0	0.0828311253611191
+Arthritis, Rheumatoid	belatacept	0	0.000227858394338549
+Arthritis, Rheumatoid	belimumab	0	0.00329523259479362
+Arthritis, Rheumatoid	belinostat	1	0.828716408532511
+Arthritis, Rheumatoid	bemiparin	1	0.195884167594315
+Arthritis, Rheumatoid	benazepril	0	0.00742311490913355
+Arthritis, Rheumatoid	bendazac	0	0.000179786360277753
+Arthritis, Rheumatoid	bendroflumethiazide	1.2	0.304482182588004
+Arthritis, Rheumatoid	benralizumab	0.5	0.0279233210938122
+Arthritis, Rheumatoid	benserazide	1	0.135435530666733
+Arthritis, Rheumatoid	benzatropine	1.2	0.279463459976176
+Arthritis, Rheumatoid	benzocaine	2	0.662702464330446
+Arthritis, Rheumatoid	benzoic acid	1.6	0.820357767409373
+Arthritis, Rheumatoid	benzonatate	1	0.5
+Arthritis, Rheumatoid	benzphetamine	1.25	0.384031061906773
+Arthritis, Rheumatoid	benzthiazide	1.16666666666667	0.322371633733908
+Arthritis, Rheumatoid	benzylpenicillin	2	0.622700868133309
+Arthritis, Rheumatoid	benzylpenicilloyl polylysine	1	0.248753869792055
+Arthritis, Rheumatoid	bepotastine	1	0.200136020119627
+Arthritis, Rheumatoid	bepridil	1.5	0.969150393282995
+Arthritis, Rheumatoid	berberine	0	0.00512083709545472
+Arthritis, Rheumatoid	betahistine	1.5	0.321293250283474
+Arthritis, Rheumatoid	betamethasone	0	0.101876769798225
+Arthritis, Rheumatoid	betaxolol	0	0.00339753793133293
+Arthritis, Rheumatoid	betazole	2	0.542261602078794
+Arthritis, Rheumatoid	bethanechol	1.25	0.29749817424936
+Arthritis, Rheumatoid	bethanidine	0.857142857142857	0.0175418468047631
+Arthritis, Rheumatoid	betrixaban	1	0.421016794762921
+Arthritis, Rheumatoid	bevacizumab	0	6.8703844192044e-16
+Arthritis, Rheumatoid	bexarotene	1	0.657702878356116
+Arthritis, Rheumatoid	bezafibrate	0.857142857142857	0.505257941633964
+Arthritis, Rheumatoid	bicalutamide	0	0.145349313679669
+Arthritis, Rheumatoid	bilastine	1	0.158536173025104
+Arthritis, Rheumatoid	bimatoprost	1.33333333333333	0.45076949256235
+Arthritis, Rheumatoid	binimetinib	0.2	7.92048595722278e-07
+Arthritis, Rheumatoid	bioallethrin	1.53571428571429	0.538506476490385
+Arthritis, Rheumatoid	biotin	1	0.164669350179176
+Arthritis, Rheumatoid	biperiden	2.5	0.966394755951725
+Arthritis, Rheumatoid	bisoprolol	0	0.00259089222578789
+Arthritis, Rheumatoid	bivalirudin	0	0.00475262930189151
+Arthritis, Rheumatoid	bleomycin	1	0.580471939347127
+Arthritis, Rheumatoid	blinatumomab	0.5	0.0232181578892057
+Arthritis, Rheumatoid	bortezomib	1	0.754728197170023
+Arthritis, Rheumatoid	bosentan	0.5	0.0416362999677639
+Arthritis, Rheumatoid	bosutinib	0.8	0.0517021652332116
+Arthritis, Rheumatoid	botulinum toxin type a	1	0.62282512785252
+Arthritis, Rheumatoid	botulinum toxin type b	1.66666666666667	0.957822856411677
+Arthritis, Rheumatoid	bremelanotide	1.6	0.806884194560285
+Arthritis, Rheumatoid	brentuximab vedotin	1	0.311810558442077
+Arthritis, Rheumatoid	bretylium	1	0.615393999131272
+Arthritis, Rheumatoid	brexanolone	1.84615384615385	0.915441089415711
+Arthritis, Rheumatoid	brexpiprazole	1.2	0.418276397025449
+Arthritis, Rheumatoid	brigatinib	0.888888888888889	0.820009587996869
+Arthritis, Rheumatoid	brimonidine	1.66666666666667	0.783636156274211
+Arthritis, Rheumatoid	brinzolamide	1.4	0.187332177244084
+Arthritis, Rheumatoid	brivaracetam	1.63636363636364	0.65728608583626
+Arthritis, Rheumatoid	brolucizumab	0	0.000611773532486205
+Arthritis, Rheumatoid	bromazepam	1.8	0.872084490077021
+Arthritis, Rheumatoid	bromfenac	0	0.000139709790549087
+Arthritis, Rheumatoid	bromocriptine	1.38888888888889	0.689150718362726
+Arthritis, Rheumatoid	bromodiphenhydramine	1	0.244143902589468
+Arthritis, Rheumatoid	brompheniramine	1.33333333333333	0.196396267645802
+Arthritis, Rheumatoid	buclizine	1.5	0.535599117846346
+Arthritis, Rheumatoid	budesonide	0.5	0.139258101448123
+Arthritis, Rheumatoid	bufexamac	0.5	0.00156539528584946
+Arthritis, Rheumatoid	bumetanide	1.4	0.78446208563969
+Arthritis, Rheumatoid	bupivacaine	1.5	0.29925090381317
+Arthritis, Rheumatoid	buprenorphine	1.75	0.986245607821753
+Arthritis, Rheumatoid	bupropion	1.5	0.564732057656075
+Arthritis, Rheumatoid	buserelin	1.5	0.477056880824563
+Arthritis, Rheumatoid	buspirone	1.28571428571429	0.579855323160961
+Arthritis, Rheumatoid	butabarbital	1.76470588235294	0.958872620182486
+Arthritis, Rheumatoid	butalbital	1.76470588235294	0.952845882897063
+Arthritis, Rheumatoid	butamben	1.58620689655172	0.730782826272212
+Arthritis, Rheumatoid	butenafine	2	0.761446394020469
+Arthritis, Rheumatoid	butobarbital	1.7	0.736601140916562
+Arthritis, Rheumatoid	butorphanol	1.66666666666667	0.995552855244934
+Arthritis, Rheumatoid	butriptyline	0.333333333333333	0.000775978575928605
+Arthritis, Rheumatoid	butylscopolamine	1	0.261291266917843
+Arthritis, Rheumatoid	cabazitaxel	1	0.629927932097713
+Arthritis, Rheumatoid	cabergoline	1.25	0.461112352362252
+Arthritis, Rheumatoid	cabozantinib	1	0.920435151869795
+Arthritis, Rheumatoid	caffeine	1.25	0.0531582743929802
+Arthritis, Rheumatoid	calcifediol	0	0.0343387827006148
+Arthritis, Rheumatoid	calcipotriol	0	0.0268132799920443
+Arthritis, Rheumatoid	calcitriol	0.5	0.0488162610446166
+Arthritis, Rheumatoid	calcium	1.26315789473684	0.704973892895982
+Arthritis, Rheumatoid	calcium carbimide	2	0.520063713378856
+Arthritis, Rheumatoid	calcium chloride	1	0.331496102607741
+Arthritis, Rheumatoid	calcium citrate	1.38709677419355	0.99836992065167
+Arthritis, Rheumatoid	calcium levulinate	1.5	0.899281003089835
+Arthritis, Rheumatoid	calcium phosphate	1.38709677419355	0.996952363275949
+Arthritis, Rheumatoid	calcium phosphate dihydrate	1.38709677419355	0.997319292437816
+Arthritis, Rheumatoid	camphor	1.5	0.413840481037823
+Arthritis, Rheumatoid	canakinumab	0	0.0037861140718788
+Arthritis, Rheumatoid	candesartan cilexetil	1	0.489748697606803
+Arthritis, Rheumatoid	cangrelor	2	0.580884475808947
+Arthritis, Rheumatoid	cannabidiol	1.07894736842105	0.000403845964527555
+Arthritis, Rheumatoid	cantharidin	1	0.539827837277029
+Arthritis, Rheumatoid	capecitabine	0	0.00330463889886464
+Arthritis, Rheumatoid	caplacizumab	1	0.431949773586689
+Arthritis, Rheumatoid	capromab pendetide	2	0.716634167103687
+Arthritis, Rheumatoid	capsaicin	1	0.337233505310062
+Arthritis, Rheumatoid	capsicum oleoresin	1	0.326822414282475
+Arthritis, Rheumatoid	captopril	0.4	4.75400800849759e-05
+Arthritis, Rheumatoid	carbamazepine	1.33333333333333	0.32594407776218
+Arthritis, Rheumatoid	carbamoylcholine	1.66666666666667	0.81965857862662
+Arthritis, Rheumatoid	carbetocin	2	0.799756873986619
+Arthritis, Rheumatoid	carbidopa	1	0.045787005477403
+Arthritis, Rheumatoid	carbimazole	2	0.599239516386724
+Arthritis, Rheumatoid	carbinoxamine	1	0.234761056098754
+Arthritis, Rheumatoid	carbocisteine	0	6.63496460862948e-06
+Arthritis, Rheumatoid	carbon monoxide	2	0.713010047059884
+Arthritis, Rheumatoid	carboprost tromethamine	1	0.214008248414405
+Arthritis, Rheumatoid	carboxin	1	0.667945862951248
+Arthritis, Rheumatoid	carboxymethylcellulose	1	0.398789028222759
+Arthritis, Rheumatoid	carfilzomib	0.666666666666667	0.027787398263431
+Arthritis, Rheumatoid	carglumic acid	1	0.467517173550279
+Arthritis, Rheumatoid	cariprazine	1	0.0970859962880844
+Arthritis, Rheumatoid	carisoprodol	2	0.917748197356857
+Arthritis, Rheumatoid	carmustine	1	0.451624910262871
+Arthritis, Rheumatoid	carprofen	0	0.000619610240715218
+Arthritis, Rheumatoid	carteolol	0	0.0100780101243638
+Arthritis, Rheumatoid	carvedilol	1	0.156521434098286
+Arthritis, Rheumatoid	castor oil	0.5	0.0191661555841579
+Arthritis, Rheumatoid	catridecacog	1	0.0355349715584219
+Arthritis, Rheumatoid	catumaxomab	0.285714285714286	1.37725503085178e-08
+Arthritis, Rheumatoid	cefazolin	0	2.93425841295331e-05
+Arthritis, Rheumatoid	cefdinir	1	0.200243126013381
+Arthritis, Rheumatoid	cefotaxime	1.66666666666667	0.455581256566315
+Arthritis, Rheumatoid	ceftriaxone	1.33333333333333	0.108285014723741
+Arthritis, Rheumatoid	celecoxib	1	0.171905752432454
+Arthritis, Rheumatoid	celiprolol	0.833333333333333	0.0338390948956011
+Arthritis, Rheumatoid	cemiplimab	0	0.00697280550607278
+Arthritis, Rheumatoid	cenegermin	1	0.607564331445103
+Arthritis, Rheumatoid	ceritinib	1	0.532482826449721
+Arthritis, Rheumatoid	cerivastatin	2	0.940745760034524
+Arthritis, Rheumatoid	cerliponase alfa	1	0.546040953290993
+Arthritis, Rheumatoid	certolizumab pegol	0	4.10349678958117e-05
+Arthritis, Rheumatoid	ceruletide	2	0.698334113854067
+Arthritis, Rheumatoid	cetirizine	1	0.263942163391565
+Arthritis, Rheumatoid	cetrorelix	1.5	0.524277486122418
+Arthritis, Rheumatoid	cetuximab	0.0909090909090909	1.53511619094078e-13
+Arthritis, Rheumatoid	cevimeline	1	0.17474908294509
+Arthritis, Rheumatoid	chenodeoxycholic acid	1.33333333333333	0.582568746553104
+Arthritis, Rheumatoid	chloramphenicol	1	0.478762193332918
+Arthritis, Rheumatoid	chlorcyclizine	1	0.237947879231275
+Arthritis, Rheumatoid	chlordiazepoxide	1.84615384615385	0.85876974438746
+Arthritis, Rheumatoid	chlorhexidine	2	0.809561487371844
+Arthritis, Rheumatoid	chlormerodrin	1.5	0.451589391327231
+Arthritis, Rheumatoid	chlormezanone	2	0.707342694491119
+Arthritis, Rheumatoid	chlorobutanol	1	0.586197071489264
+Arthritis, Rheumatoid	chloroprocaine	1.5	0.467732535817052
+Arthritis, Rheumatoid	chloroquine	1	0.20748427080964
+Arthritis, Rheumatoid	chlorothiazide	0.666666666666667	0.00931121196145703
+Arthritis, Rheumatoid	chlorpheniramine	1	0.149617685791409
+Arthritis, Rheumatoid	chlorpromazine	1.11538461538462	0.0750539191215896
+Arthritis, Rheumatoid	chlorpropamide	3	0.994508296547654
+Arthritis, Rheumatoid	chlorprothixene	1.08333333333333	0.0480891793547118
+Arthritis, Rheumatoid	chlorthalidone	1	0.057647347716886
+Arthritis, Rheumatoid	chlorzoxazone	2	0.985989868537999
+Arthritis, Rheumatoid	cholecalciferol	0	0.0168486203632545
+Arthritis, Rheumatoid	cholecystokinin	0.833333333333333	0.224348388931713
+Arthritis, Rheumatoid	cholesterol	0.666666666666667	0.0801676466677237
+Arthritis, Rheumatoid	choline	1.14285714285714	0.116801348653765
+Arthritis, Rheumatoid	choline magnesium trisalicylate	0	0.000631529596826754
+Arthritis, Rheumatoid	choline salicylate	1.14285714285714	0.115992993103607
+Arthritis, Rheumatoid	chondroitin sulfate	0.5	0.0023208199102129
+Arthritis, Rheumatoid	choriogonadotropin alfa	1	0.332587818893463
+Arthritis, Rheumatoid	chorionic gonadotropin (human)	1	0.300937512677996
+Arthritis, Rheumatoid	chromic chloride	1	0.615393999131272
+Arthritis, Rheumatoid	chromic nitrate	1	0.384243740072142
+Arthritis, Rheumatoid	chromium	1	0.397628210603647
+Arthritis, Rheumatoid	chromium gluconate	1	0.342662411140854
+Arthritis, Rheumatoid	chromium nicotinate	1	0.390833696462425
+Arthritis, Rheumatoid	chromous sulfate	1	0.394384087107309
+Arthritis, Rheumatoid	chymopapain	1	0.264984422415713
+Arthritis, Rheumatoid	ciclesonide	0	0.0734691879310566
+Arthritis, Rheumatoid	ciclopirox	1	0.580471939347127
+Arthritis, Rheumatoid	cilastatin	2	0.6363485929968
+Arthritis, Rheumatoid	cilazapril	0	0.0148474736925965
+Arthritis, Rheumatoid	cilostazol	0	0.00313750194961989
+Arthritis, Rheumatoid	cimetidine	2	0.576141472282767
+Arthritis, Rheumatoid	cinacalcet	2	0.922370569371404
+Arthritis, Rheumatoid	cinchocaine	1.33333333333333	0.82525091705491
+Arthritis, Rheumatoid	cinnarizine	1.5	0.632551564608583
+Arthritis, Rheumatoid	ciprofibrate	1	0.636008977465021
+Arthritis, Rheumatoid	ciprofloxacin	1	0.657702878356116
+Arthritis, Rheumatoid	cisapride	0.75	0.0062393105671946
+Arthritis, Rheumatoid	cisatracurium	3	0.98810259032472
+Arthritis, Rheumatoid	cisplatin	0.25	6.20447061794629e-06
+Arthritis, Rheumatoid	citalopram	0.5	0.0225403497883854
+Arthritis, Rheumatoid	citric acid	1.27272727272727	0.122458597733581
+Arthritis, Rheumatoid	citrulline	0.75	5.37551149946742e-08
+Arthritis, Rheumatoid	cladribine	1	0.196775674200369
+Arthritis, Rheumatoid	clarithromycin	1	0.525138553271685
+Arthritis, Rheumatoid	clemastine	1	0.26458114376481
+Arthritis, Rheumatoid	clenbuterol	0.2	4.82160996353204e-07
+Arthritis, Rheumatoid	clevidipine	1.5	0.54050759962188
+Arthritis, Rheumatoid	clidinium	2	0.7307788117136
+Arthritis, Rheumatoid	clobazam	1.84615384615385	0.876071399162099
+Arthritis, Rheumatoid	clobetasol propionate	0	0.087559238440391
+Arthritis, Rheumatoid	clobetasone	0	0.0970859962880845
+Arthritis, Rheumatoid	clocortolone	0	0.0734691879310566
+Arthritis, Rheumatoid	clodronic acid	1	0.668096209285778
+Arthritis, Rheumatoid	clofarabine	1	0.607564331445103
+Arthritis, Rheumatoid	clofazimine	2	0.776236277462655
+Arthritis, Rheumatoid	clofedanol	1	0.225401533437759
+Arthritis, Rheumatoid	clofibrate	1	0.593951541384903
+Arthritis, Rheumatoid	clomifene	0.5	0.615393999131272
+Arthritis, Rheumatoid	clomipramine	0.666666666666667	0.00230037279633075
+Arthritis, Rheumatoid	clonazepam	1.8	0.936631232780279
+Arthritis, Rheumatoid	clonidine	1.5	0.767914275971976
+Arthritis, Rheumatoid	clopidogrel	2	0.576315426342973
+Arthritis, Rheumatoid	clorazepic acid	1.85714285714286	0.910062546649807
+Arthritis, Rheumatoid	clotiazepam	1.76923076923077	0.822492263060561
+Arthritis, Rheumatoid	clotrimazole	1.5	0.824135003686734
+Arthritis, Rheumatoid	clove oil	0.5	0.0213653224359065
+Arthritis, Rheumatoid	clozapine	1.25925925925926	0.0830201777878337
+Arthritis, Rheumatoid	coagulation factor ix (recombinant)	0.857142857142857	0.110721226374212
+Arthritis, Rheumatoid	coagulation factor ix human	0.857142857142857	0.0795987265499249
+Arthritis, Rheumatoid	coagulation factor vii human	1	0.206662211802317
+Arthritis, Rheumatoid	coagulation factor viia recombinant human	1.33333333333333	0.667974753322116
+Arthritis, Rheumatoid	cobimetinib	0	0.0343387827006148
+Arthritis, Rheumatoid	cocaine	1.44444444444444	0.472720293324573
+Arthritis, Rheumatoid	coccidioides immitis spherule	0	3.22346666254565e-09
+Arthritis, Rheumatoid	codeine	1.66666666666667	0.985551160197059
+Arthritis, Rheumatoid	colchicine	1	0.849809281466247
+Arthritis, Rheumatoid	collagenase clostridium histolyticum	1	0.468662124091882
+Arthritis, Rheumatoid	conestat alfa	0.666666666666667	0.00252264449837826
+Arthritis, Rheumatoid	conivaptan	2	0.937195227659243
+Arthritis, Rheumatoid	copanlisib	1	0.475136919190631
+Arthritis, Rheumatoid	copper	0.955882352941177	3.69629336802291e-06
+Arthritis, Rheumatoid	corifollitropin alfa	1	0.424245677433905
+Arthritis, Rheumatoid	corticorelin ovine triflutate	1	0.295939517095743
+Arthritis, Rheumatoid	corticotropin	1	0.0581986861538126
+Arthritis, Rheumatoid	cortisone acetate	0	0.0552969427903502
+Arthritis, Rheumatoid	creatine	1.42857142857143	0.718189609658192
+Arthritis, Rheumatoid	crisaborole	1.5	0.754017342054927
+Arthritis, Rheumatoid	crizanlizumab	1	0.267859356095353
+Arthritis, Rheumatoid	crizotinib	1	0.860741898551877
+Arthritis, Rheumatoid	crofelemer	0.5	0.0530266850542839
+Arthritis, Rheumatoid	cromoglicic acid	1.5	0.900452091351523
+Arthritis, Rheumatoid	crotalus adamanteus antivenin	3	0.988385214991556
+Arthritis, Rheumatoid	cryptenamine	1.4	0.316046369814104
+Arthritis, Rheumatoid	cupric chloride	1	0.414499995640553
+Arthritis, Rheumatoid	curcumin	0.4	0.00431578119395459
+Arthritis, Rheumatoid	cyanocobalamin	0.833333333333333	9.45582422722814e-05
+Arthritis, Rheumatoid	cyclandelate	2	0.829715160672413
+Arthritis, Rheumatoid	cyclizine	1	0.191028112076338
+Arthritis, Rheumatoid	cyclobenzaprine	0.888888888888889	0.0336052440482751
+Arthritis, Rheumatoid	cyclopentolate	2	0.762052120768725
+Arthritis, Rheumatoid	cyclophosphamide	1	0.599239516386724
+Arthritis, Rheumatoid	cyclosporine	0.75	0.0712380415955856
+Arthritis, Rheumatoid	cyclothiazide	1.2	0.0987862279177111
+Arthritis, Rheumatoid	cycrimine	2	0.785991751585595
+Arthritis, Rheumatoid	cyproheptadine	1	0.0999993739555401
+Arthritis, Rheumatoid	cyproterone acetate	0.5	0.195352915834827
+Arthritis, Rheumatoid	cysteamine	1.5	0.405999691789448
+Arthritis, Rheumatoid	cysteine	1.15384615384615	0.254703711640376
+Arthritis, Rheumatoid	cystine	1.66666666666667	0.548601682849543
+Arthritis, Rheumatoid	cytarabine	1	0.435697353664104
+Arthritis, Rheumatoid	d-alpha-tocopherol acetate	1	0.212221784675335
+Arthritis, Rheumatoid	d-methionine	1	0.460172162722971
+Arthritis, Rheumatoid	d-serine	1	0.531849285753597
+Arthritis, Rheumatoid	dabigatran etexilate	0	0.013472050856726
+Arthritis, Rheumatoid	dabrafenib	0.8	0.363894554121422
+Arthritis, Rheumatoid	dacarbazine	1	0.59717034588582
+Arthritis, Rheumatoid	dactinomycin	1	0.669116495807116
+Arthritis, Rheumatoid	dalfampridine	1.64285714285714	0.956067033478859
+Arthritis, Rheumatoid	dalteparin	0.75	0.0335818452479343
+Arthritis, Rheumatoid	damoctocog alfa pegol	1	0.40282965411418
+Arthritis, Rheumatoid	danaparoid	1	0.311618801804697
+Arthritis, Rheumatoid	danazol	0.4	0.00891380748804811
+Arthritis, Rheumatoid	dantrolene	1	0.464400882153654
+Arthritis, Rheumatoid	dapiprazole	1.33333333333333	0.496162491312039
+Arthritis, Rheumatoid	daratumumab	0	0.0157595530055813
+Arthritis, Rheumatoid	darbepoetin alfa	1	0.594351872130646
+Arthritis, Rheumatoid	darifenacin	1.4	0.204837717741078
+Arthritis, Rheumatoid	darolutamide	0	0.0141113739999048
+Arthritis, Rheumatoid	dasatinib	0.826086956521739	0.131598530082991
+Arthritis, Rheumatoid	daunorubicin	1	0.663277068561605
+Arthritis, Rheumatoid	debrisoquine	2	0.785056455360617
+Arthritis, Rheumatoid	decamethonium	2	0.987537913003441
+Arthritis, Rheumatoid	decitabine	1	0.629927932097713
+Arthritis, Rheumatoid	defibrotide	0.666666666666667	0.0342115578677477
+Arthritis, Rheumatoid	deflazacort	0	0.087559238440391
+Arthritis, Rheumatoid	degarelix	2	0.669894312914843
+Arthritis, Rheumatoid	demecarium	1	0.0517888372724617
+Arthritis, Rheumatoid	denileukin diftitox	0.333333333333333	0.000672119465681958
+Arthritis, Rheumatoid	denosumab	0	0.000958758037258479
+Arthritis, Rheumatoid	deoxycholic acid	0.666666666666667	0.0269625741651983
+Arthritis, Rheumatoid	dequalinium	1.33333333333333	0.585851937057964
+Arthritis, Rheumatoid	deserpidine	2	0.835426283658345
+Arthritis, Rheumatoid	desflurane	1.66666666666667	0.729424256327917
+Arthritis, Rheumatoid	desipramine	1.14285714285714	0.0675916996559631
+Arthritis, Rheumatoid	deslanoside	1	0.615393999131272
+Arthritis, Rheumatoid	desloratadine	1	0.197986968615508
+Arthritis, Rheumatoid	desmopressin	2	0.917403761134491
+Arthritis, Rheumatoid	desogestrel	0	4.10349678958117e-05
+Arthritis, Rheumatoid	desonide	0	0.106681351614555
+Arthritis, Rheumatoid	desoximetasone	0	0.0642720250089849
+Arthritis, Rheumatoid	desoxycorticosterone acetate	1	0.593348289699399
+Arthritis, Rheumatoid	desvenlafaxine	1	0.202500109443156
+Arthritis, Rheumatoid	deutetrabenazine	2	0.805691455537061
+Arthritis, Rheumatoid	dexamethasone	0.6	0.0323886758786743
+Arthritis, Rheumatoid	dexbrompheniramine	1	0.209619315180907
+Arthritis, Rheumatoid	dexchlorpheniramine maleate	1	0.195352915834827
+Arthritis, Rheumatoid	dexfenfluramine	0.5	0.01649865841085
+Arthritis, Rheumatoid	dexibuprofen	0.666666666666667	0.00010867058385464
+Arthritis, Rheumatoid	dexketoprofen	0	0.000111367123340403
+Arthritis, Rheumatoid	dexlansoprazole	0.666666666666667	0.00231012759180464
+Arthritis, Rheumatoid	dexmedetomidine	1	0.369204520583618
+Arthritis, Rheumatoid	dexmethylphenidate	1	0.156786605682566
+Arthritis, Rheumatoid	dexrazoxane	1	0.655955893774368
+Arthritis, Rheumatoid	dextroamphetamine	1.4	0.582655882544278
+Arthritis, Rheumatoid	dextromethorphan	1.33333333333333	0.782538481486449
+Arthritis, Rheumatoid	dextropropoxyphene	1.75	0.980520880000969
+Arthritis, Rheumatoid	dextrothyroxine	1.33333333333333	0.659216553602762
+Arthritis, Rheumatoid	dezocine	2	0.999558223117392
+Arthritis, Rheumatoid	diacerein	0.333333333333333	4.7822733412776e-10
+Arthritis, Rheumatoid	diamorphine	1.75	0.981953285995046
+Arthritis, Rheumatoid	diazepam	1.8125	0.910058290120983
+Arthritis, Rheumatoid	diazoxide	1.16666666666667	0.324922081077456
+Arthritis, Rheumatoid	dibotermin alfa	1	0.580471939347127
+Arthritis, Rheumatoid	dichloroacetic acid	1	0.297211430732516
+Arthritis, Rheumatoid	dichlorobenzyl alcohol	1.7	0.678255890830471
+Arthritis, Rheumatoid	diclofenac	0	0.000215067158247367
+Arthritis, Rheumatoid	diclofenamide	1.25	0.136542821549697
+Arthritis, Rheumatoid	dicoumarol	0.333333333333333	0.00272759652804087
+Arthritis, Rheumatoid	dicyclomine	2	0.910826329334346
+Arthritis, Rheumatoid	didanosine	1	0.409719815650881
+Arthritis, Rheumatoid	dienestrol	0.5	0.62282512785252
+Arthritis, Rheumatoid	dienogest	0	0.00191420013909588
+Arthritis, Rheumatoid	diethylcarbamazine	0.5	0.00743309710846585
+Arthritis, Rheumatoid	diethylpropion	1.5	0.713010047059884
+Arthritis, Rheumatoid	diethylstilbestrol	0.777777777777778	0.710290368935659
+Arthritis, Rheumatoid	diflorasone	0	0.087559238440391
+Arthritis, Rheumatoid	diflunisal	0	1.56486355842787e-05
+Arthritis, Rheumatoid	difluocortolone	0	0.00241502114633555
+Arthritis, Rheumatoid	difluprednate	0	0.0828311253611191
+Arthritis, Rheumatoid	digitoxin	1	0.615393999131272
+Arthritis, Rheumatoid	digoxin	1	0.615393999131272
+Arthritis, Rheumatoid	dihydro-alpha-ergocryptine	1.25	0.424546904889139
+Arthritis, Rheumatoid	dihydroergocornine	1.33333333333333	0.106269677670414
+Arthritis, Rheumatoid	dihydroergocristine	1.31034482758621	0.132550792516466
+Arthritis, Rheumatoid	dihydroergotamine	1.75	0.792730177744053
+Arthritis, Rheumatoid	dihydrotachysterol	0	0.0509143357888951
+Arthritis, Rheumatoid	diltiazem	1.5	0.495148554640377
+Arthritis, Rheumatoid	dimenhydrinate	1	0.214331659935238
+Arthritis, Rheumatoid	dimethyl fumarate	0.5	0.135666060946383
+Arthritis, Rheumatoid	dimetindene	1.5	0.609536635343562
+Arthritis, Rheumatoid	dinoprost	2	0.727448766363799
+Arthritis, Rheumatoid	dinoprost tromethamine	1.5	0.571649788216521
+Arthritis, Rheumatoid	dinoprostone	1	0.01542992844928
+Arthritis, Rheumatoid	diosmin	1	0.576237902215284
+Arthritis, Rheumatoid	dioxybenzone	1	0.580471939347127
+Arthritis, Rheumatoid	diphemanil	0	0.0111274016753387
+Arthritis, Rheumatoid	diphenhydramine	1.5	0.67820405285007
+Arthritis, Rheumatoid	diphenidol	1.33333333333333	0.435276242460427
+Arthritis, Rheumatoid	diphenoxylate	1.5	0.969882418898387
+Arthritis, Rheumatoid	diphenylpyraline	1	0.232050613477793
+Arthritis, Rheumatoid	dipivefrin	0.8	0.0262516331326951
+Arthritis, Rheumatoid	dipyridamole	1.16666666666667	0.252148645307836
+Arthritis, Rheumatoid	dipyrithione	0	0.000161283123187535
+Arthritis, Rheumatoid	disopyramide	1.25	0.545102617506402
+Arthritis, Rheumatoid	disulfiram	1	0.182398672537112
+Arthritis, Rheumatoid	dl-methylephedrine	1	0.0750323567254476
+Arthritis, Rheumatoid	dobutamine	0.666666666666667	0.0978688663298689
+Arthritis, Rheumatoid	docetaxel	0.833333333333333	0.233785766597962
+Arthritis, Rheumatoid	doconexent	0.833333333333333	0.418204244481891
+Arthritis, Rheumatoid	dofetilide	1	0.413840481037823
+Arthritis, Rheumatoid	dolasetron	1	0.203575460555435
+Arthritis, Rheumatoid	domperidone	1	0.342245924421293
+Arthritis, Rheumatoid	donepezil	0.933333333333333	0.0378420206518606
+Arthritis, Rheumatoid	dopamine	1.26666666666667	0.380040184577794
+Arthritis, Rheumatoid	dorzolamide	1.25	0.0855366162578496
+Arthritis, Rheumatoid	dosulepin	1.3125	0.251885935031267
+Arthritis, Rheumatoid	dotatate gallium ga-68	2	0.922629045893056
+Arthritis, Rheumatoid	doxacurium	2.5	0.995488676882192
+Arthritis, Rheumatoid	doxapram	2	0.969703592721795
+Arthritis, Rheumatoid	doxazosin	1.2	0.243925170376726
+Arthritis, Rheumatoid	doxepin	1.15789473684211	0.0117223510592895
+Arthritis, Rheumatoid	doxercalciferol	0	0.0688467277161217
+Arthritis, Rheumatoid	doxorubicin	1	0.667945862951247
+Arthritis, Rheumatoid	doxylamine	1.33333333333333	0.472577934438782
+Arthritis, Rheumatoid	dronabinol	1.5	0.407154212082594
+Arthritis, Rheumatoid	dronedarone	1.28	0.43786892446205
+Arthritis, Rheumatoid	droperidol	1	0.32353920188468
+Arthritis, Rheumatoid	drospirenone	0.25	0.00394496696416136
+Arthritis, Rheumatoid	drotaverine	1	0.355432869030064
+Arthritis, Rheumatoid	drotrecogin alfa	0.833333333333333	0.00450387512363654
+Arthritis, Rheumatoid	droxidopa	1.1	0.130717092960003
+Arthritis, Rheumatoid	dulaglutide	2	0.999029554513718
+Arthritis, Rheumatoid	duloxetine	1	0.203304196188907
+Arthritis, Rheumatoid	dupilumab	0	0.00634771342066102
+Arthritis, Rheumatoid	durvalumab	0	4.69855392851235e-05
+Arthritis, Rheumatoid	duvelisib	0.5	0.056498451575618
+Arthritis, Rheumatoid	dyclonine	2	0.683821579896597
+Arthritis, Rheumatoid	dydrogesterone	0	4.10349678958117e-05
+Arthritis, Rheumatoid	dyphylline	1.375	0.376099942812094
+Arthritis, Rheumatoid	ecallantide	1	0.253561227679913
+Arthritis, Rheumatoid	echothiophate	0	7.93779689483734e-08
+Arthritis, Rheumatoid	econazole	1	0.5
+Arthritis, Rheumatoid	eculizumab	0	0.0124478483681481
+Arthritis, Rheumatoid	edotreotide gallium ga-68	1.75	0.928955462050684
+Arthritis, Rheumatoid	edoxaban	1	0.5
+Arthritis, Rheumatoid	edrophonium	1	0.0582515570045382
+Arthritis, Rheumatoid	efalizumab	0	1.00191525130104e-16
+Arthritis, Rheumatoid	eflornithine	1	0.472637094561425
+Arthritis, Rheumatoid	efmoroctocog alfa	1	0.419528060652873
+Arthritis, Rheumatoid	elagolix	2	0.678211240116835
+Arthritis, Rheumatoid	eletriptan	1.85714285714286	0.948384857403875
+Arthritis, Rheumatoid	eliglustat	2	0.795079292224762
+Arthritis, Rheumatoid	elotuzumab	2	0.765238943901246
+Arthritis, Rheumatoid	eltrombopag	1	0.29472078406355
+Arthritis, Rheumatoid	eluxadoline	1.66666666666667	0.984703550931821
+Arthritis, Rheumatoid	emapalumab	0	0.00642889704118585
+Arthritis, Rheumatoid	emedastine	1	0.234761056098754
+Arthritis, Rheumatoid	emicizumab	1	0.254965053289705
+Arthritis, Rheumatoid	enalapril	0	0.0138150546214141
+Arthritis, Rheumatoid	enalaprilat	0.5	0.00553635972622351
+Arthritis, Rheumatoid	enasidenib	1	0.29472078406355
+Arthritis, Rheumatoid	encainide	1	0.480136231299757
+Arthritis, Rheumatoid	encorafenib	0.5	0.0266397701088151
+Arthritis, Rheumatoid	enflurane	1.73684210526316	0.913090643217358
+Arthritis, Rheumatoid	enfortumab vedotin	2	0.823382066967322
+Arthritis, Rheumatoid	enoxacin	1	0.667945862951248
+Arthritis, Rheumatoid	enoxaparin	1	0.302072864878376
+Arthritis, Rheumatoid	enoximone	0	0.000109654864703868
+Arthritis, Rheumatoid	enprofylline	0.833333333333333	0.0105962837652991
+Arthritis, Rheumatoid	entacapone	1	0.553579204630712
+Arthritis, Rheumatoid	entrectinib	0.833333333333333	0.103142693639622
+Arthritis, Rheumatoid	enzacamene	0	0.00562321745446086
+Arthritis, Rheumatoid	enzalutamide	0	0.145349313679669
+Arthritis, Rheumatoid	ephedrine	1.75	0.894317131231252
+Arthritis, Rheumatoid	epicriptine	1.2	0.398247704270671
+Arthritis, Rheumatoid	epinastine	1	0.105206465457507
+Arthritis, Rheumatoid	epinephrine	0.875	0.0708971314916581
+Arthritis, Rheumatoid	epirubicin	1	0.623858525135034
+Arthritis, Rheumatoid	eplerenone	1	0.511012043694639
+Arthritis, Rheumatoid	epoprostenol	1.33333333333333	0.182859016487044
+Arthritis, Rheumatoid	eprosartan	1	0.478762193332918
+Arthritis, Rheumatoid	eptifibatide	1	0.615393999131272
+Arthritis, Rheumatoid	erdafitinib	0.888888888888889	0.458776600692618
+Arthritis, Rheumatoid	erenumab	0	0.00707124038333861
+Arthritis, Rheumatoid	ergocalciferol	1.5	0.453653285934359
+Arthritis, Rheumatoid	ergoloid mesylate	1.31034482758621	0.0743971666099798
+Arthritis, Rheumatoid	ergometrine	1	0.248250991459507
+Arthritis, Rheumatoid	ergotamine	1.5	0.731730261755874
+Arthritis, Rheumatoid	eribulin	0.5	0.0622806119801863
+Arthritis, Rheumatoid	erlotinib	0.5	0.565406593191326
+Arthritis, Rheumatoid	erythrityl tetranitrate	1.5	0.906508917884968
+Arthritis, Rheumatoid	erythromycin	1	0.189670152439976
+Arthritis, Rheumatoid	erythropoietin	1	0.608710552977649
+Arthritis, Rheumatoid	escitalopram	1.26666666666667	0.369021932013507
+Arthritis, Rheumatoid	esculin	0	0.1647100087752
+Arthritis, Rheumatoid	esketamine	1.3	0.852280345608557
+Arthritis, Rheumatoid	eslicarbazepine	2	0.765238943901246
+Arthritis, Rheumatoid	eslicarbazepine acetate	2	0.775903459682176
+Arthritis, Rheumatoid	esmolol	0	0.0106586025352712
+Arthritis, Rheumatoid	esomeprazole	0.5	0.00824911011469896
+Arthritis, Rheumatoid	estazolam	1.8	0.888795029271124
+Arthritis, Rheumatoid	estradiol	0.714285714285714	0.444263457745398
+Arthritis, Rheumatoid	estradiol acetate	0.714285714285714	0.508663378829515
+Arthritis, Rheumatoid	estradiol benzoate	0.714285714285714	0.430905848244431
+Arthritis, Rheumatoid	estradiol cypionate	0.714285714285714	0.421476016178961
+Arthritis, Rheumatoid	estradiol dienanthate	0.714285714285714	0.4168128752682
+Arthritis, Rheumatoid	estradiol valerate	0.714285714285714	0.424245677433905
+Arthritis, Rheumatoid	estramustine	0.5	0.61665803552731
+Arthritis, Rheumatoid	estriol	0.333333333333333	0.62282512785252
+Arthritis, Rheumatoid	estrone	0.2	0.00726270241047524
+Arthritis, Rheumatoid	eszopiclone	1.84615384615385	0.860045828962655
+Arthritis, Rheumatoid	etacrynic acid	1	0.325730059648302
+Arthritis, Rheumatoid	etafedrine	0	0.106681351614555
+Arthritis, Rheumatoid	etanercept	0.0769230769230769	1.30869151343816e-14
+Arthritis, Rheumatoid	etelcalcetide	2	0.894520927905336
+Arthritis, Rheumatoid	ethanol	1.63636363636364	0.963554259381444
+Arthritis, Rheumatoid	ethanolamine oleate	1	0.434593406808674
+Arthritis, Rheumatoid	ethchlorvynol	1.84615384615385	0.853024657907922
+Arthritis, Rheumatoid	ethinamate	0.5	0.00475262930189152
+Arthritis, Rheumatoid	ethinylestradiol	0.666666666666667	0.629518196223263
+Arthritis, Rheumatoid	ethosuximide	2	0.615756259927858
+Arthritis, Rheumatoid	ethotoin	1	0.461685207244589
+Arthritis, Rheumatoid	ethynodiol diacetate	0	0.000370197764702743
+Arthritis, Rheumatoid	etidronic acid	1	0.593951541384903
+Arthritis, Rheumatoid	etodolac	0.333333333333333	0.000104410409855031
+Arthritis, Rheumatoid	etomidate	1.85714285714286	0.886191745978072
+Arthritis, Rheumatoid	etonogestrel	0	0.000143540578803737
+Arthritis, Rheumatoid	etoposide	1	0.662018518600356
+Arthritis, Rheumatoid	etoricoxib	0	0.00166977083450618
+Arthritis, Rheumatoid	eugenol	0.5	0.217029277806636
+Arthritis, Rheumatoid	exemestane	0	0.00960400493048852
+Arthritis, Rheumatoid	exenatide	2	0.999516575857616
+Arthritis, Rheumatoid	ezetimibe	1.33333333333333	0.269876552605778
+Arthritis, Rheumatoid	ezogabine	1.75	0.828106556695188
+Arthritis, Rheumatoid	famotidine	2	0.476707620840019
+Arthritis, Rheumatoid	febuxostat	2	0.768649129441006
+Arthritis, Rheumatoid	fedratinib	0.666666666666667	0.146499794012033
+Arthritis, Rheumatoid	felbamate	1.33333333333333	0.835602145871105
+Arthritis, Rheumatoid	felodipine	1.76923076923077	0.99425086407883
+Arthritis, Rheumatoid	fenfluramine	0.5	0.00464086487736003
+Arthritis, Rheumatoid	fenofibrate	1	0.241824224663333
+Arthritis, Rheumatoid	fenofibric acid	0.8	0.165700982446672
+Arthritis, Rheumatoid	fenoldopam	1.5	0.72373006021957
+Arthritis, Rheumatoid	fenoprofen	0.25	0.000522861835383114
+Arthritis, Rheumatoid	fenoterol	0	3.81786578405273e-07
+Arthritis, Rheumatoid	fentanyl	1.25	0.688098195819049
+Arthritis, Rheumatoid	ferric cation	1	0.706709131192249
+Arthritis, Rheumatoid	ferric pyrophosphate citrate	1.4	0.803869149668734
+Arthritis, Rheumatoid	ferrous ascorbate	1.21428571428571	0.59888977888187
+Arthritis, Rheumatoid	ferrous fumarate	1.21428571428571	0.559439451353097
+Arthritis, Rheumatoid	ferrous gluconate	1.21428571428571	0.5432144157478
+Arthritis, Rheumatoid	ferrous glycine sulfate	1.21428571428571	0.576384991941498
+Arthritis, Rheumatoid	ferrous succinate	1.21428571428571	0.599316174614495
+Arthritis, Rheumatoid	fesoterodine	1.4	0.215973001568779
+Arthritis, Rheumatoid	fexofenadine	1	0.253561227679913
+Arthritis, Rheumatoid	filgrastim	1	0.489748697606804
+Arthritis, Rheumatoid	finafloxacin	1	0.662018518600356
+Arthritis, Rheumatoid	fingolimod	1.5	0.775903459682176
+Arthritis, Rheumatoid	fish oil	1.26923076923077	0.299147037302309
+Arthritis, Rheumatoid	flavin adenine dinucleotide	1.23076923076923	0.20595411443335
+Arthritis, Rheumatoid	flavin mononucleotide	0.9	0.00427514492071311
+Arthritis, Rheumatoid	flavone	1.66666666666667	0.85575902427331
+Arthritis, Rheumatoid	flavoxate	2	0.900428398781174
+Arthritis, Rheumatoid	flecainide	1.25	0.808489401399577
+Arthritis, Rheumatoid	flibanserin	1	0.204983367201644
+Arthritis, Rheumatoid	floxuridine	0	0.000120538516227595
+Arthritis, Rheumatoid	fluciclovine (18f)	1.30769230769231	0.873099850661941
+Arthritis, Rheumatoid	flucytosine	1	0.643348413060771
+Arthritis, Rheumatoid	fludarabine	1	0.564967107932764
+Arthritis, Rheumatoid	fludrocortisone	0.5	0.124459658528421
+Arthritis, Rheumatoid	flufenamic acid	0.5	0.0207213533055275
+Arthritis, Rheumatoid	flumazenil	1.84615384615385	0.881544359786621
+Arthritis, Rheumatoid	flumethasone	0	0.0642720250089849
+Arthritis, Rheumatoid	flunarizine	1.6	0.870731953763093
+Arthritis, Rheumatoid	flunisolide	0	0.078132659042057
+Arthritis, Rheumatoid	flunitrazepam	1.88888888888889	0.847280166983892
+Arthritis, Rheumatoid	fluocinolone acetonide	0.666666666666667	0.00616066356539009
+Arthritis, Rheumatoid	fluocinonide	1	0.460172162722971
+Arthritis, Rheumatoid	fluorometholone	0	0.087559238440391
+Arthritis, Rheumatoid	fluorouracil	0	0.00141806632782734
+Arthritis, Rheumatoid	fluoxetine	1.42857142857143	0.696887157949039
+Arthritis, Rheumatoid	fluoxymesterone	0.6	0.179222586394104
+Arthritis, Rheumatoid	flupentixol	1	0.156165819400802
+Arthritis, Rheumatoid	fluphenazine	0.666666666666667	0.0771859832436031
+Arthritis, Rheumatoid	flurandrenolide	0	0.111496930767197
+Arthritis, Rheumatoid	flurazepam	1.8	0.879918080054861
+Arthritis, Rheumatoid	flurbiprofen	0	0.000150034456017074
+Arthritis, Rheumatoid	fluspirilene	1	0.138965708130142
+Arthritis, Rheumatoid	flutamide	0.666666666666667	0.232346734113479
+Arthritis, Rheumatoid	fluticasone	0.5	0.0153312027460797
+Arthritis, Rheumatoid	fluticasone furoate	0.333333333333333	0.0150265405036574
+Arthritis, Rheumatoid	fluticasone propionate	0.5	0.0220355087937357
+Arthritis, Rheumatoid	fluvastatin	1.5	0.961368691815535
+Arthritis, Rheumatoid	fluvoxamine	0.5	0.0575764807348677
+Arthritis, Rheumatoid	folic acid	1	0.0456879708436651
+Arthritis, Rheumatoid	follitropin	1	0.421016794762921
+Arthritis, Rheumatoid	fondaparinux	1	0.336243941172055
+Arthritis, Rheumatoid	foreskin fibroblast (neonatal)	0.6	0.000314415469090165
+Arthritis, Rheumatoid	foreskin keratinocyte (neonatal)	0.454545454545455	3.03449816511827e-06
+Arthritis, Rheumatoid	formoterol	0	0.000181270188819275
+Arthritis, Rheumatoid	fosinopril	0	0.0138258183538257
+Arthritis, Rheumatoid	fosnetupitant	0	0.0123292572350124
+Arthritis, Rheumatoid	fosphenytoin	1	0.391289447022351
+Arthritis, Rheumatoid	fospropofol	2	0.943379896579761
+Arthritis, Rheumatoid	fostamatinib	0.972972972972973	0.000763064852750966
+Arthritis, Rheumatoid	framycetin	1	0.57592734943351
+Arthritis, Rheumatoid	fremanezumab	1	0.233724458363009
+Arthritis, Rheumatoid	frovatriptan	2.5	0.981466034113725
+Arthritis, Rheumatoid	fructose	1	0.352794369308844
+Arthritis, Rheumatoid	furosemide	1.5	0.62282512785252
+Arthritis, Rheumatoid	gabapentin	1.66666666666667	0.800394937377631
+Arthritis, Rheumatoid	gabapentin enacarbil	2	0.763011573822688
+Arthritis, Rheumatoid	gadopentetic acid	1	0.585500004359447
+Arthritis, Rheumatoid	galantamine	1.8	0.841259451390291
+Arthritis, Rheumatoid	galcanezumab	1	0.302178439823939
+Arthritis, Rheumatoid	gallamine triethiodide	2.2	0.993710823219284
+Arthritis, Rheumatoid	gallium nitrate	0.75	0.0685947573075874
+Arthritis, Rheumatoid	galsulfase	2	0.999984945453128
+Arthritis, Rheumatoid	gamma-aminobutyric acid	1.33333333333333	0.376863047688117
+Arthritis, Rheumatoid	gamma-hydroxybutyric acid	1.5	0.480626445208343
+Arthritis, Rheumatoid	ganirelix	2	0.634507400515704
+Arthritis, Rheumatoid	gemcitabine	0.666666666666667	0.0794289731506479
+Arthritis, Rheumatoid	gemeprost	1	0.2605667386515
+Arthritis, Rheumatoid	gemfibrozil	1.5	0.669445922475936
+Arthritis, Rheumatoid	gemtuzumab ozogamicin	0.181818181818182	2.08719875162924e-13
+Arthritis, Rheumatoid	gentamicin	0.5	0.0063490200035374
+Arthritis, Rheumatoid	gestrinone	0.5	0.0416467380771212
+Arthritis, Rheumatoid	gilteritinib	1.44444444444444	0.337581028426068
+Arthritis, Rheumatoid	gimeracil	0	0.000494791332597229
+Arthritis, Rheumatoid	ginkgo biloba	1.8	0.959909465497555
+Arthritis, Rheumatoid	ginseng	0.333333333333333	0.000899270377876622
+Arthritis, Rheumatoid	glasdegib	2	0.947898228041979
+Arthritis, Rheumatoid	glatiramer	0	0.00439442401552821
+Arthritis, Rheumatoid	gliclazide	1.5	0.710268251583504
+Arthritis, Rheumatoid	glimepiride	2	0.965788442132252
+Arthritis, Rheumatoid	glipizide	1.5	0.900520534453799
+Arthritis, Rheumatoid	gliquidone	3	0.999169865629761
+Arthritis, Rheumatoid	glucagon	2	0.983985158375455
+Arthritis, Rheumatoid	gluconolactone	1	0.119708214418983
+Arthritis, Rheumatoid	glucosamine	0	8.19313163365515e-08
+Arthritis, Rheumatoid	glutamic acid	1.56716417910448	0.999968325962897
+Arthritis, Rheumatoid	glutathione	1.28947368421053	0.0668741714006453
+Arthritis, Rheumatoid	glutathione disulfide	1	0.177876139423223
+Arthritis, Rheumatoid	glutethimide	1.84615384615385	0.87372494711534
+Arthritis, Rheumatoid	glyburide	1.77777777777778	0.999000088377879
+Arthritis, Rheumatoid	glycerin	1.16666666666667	0.426211655119381
+Arthritis, Rheumatoid	glycine	1.32	0.246485313813446
+Arthritis, Rheumatoid	glycine betaine	0	0.0089291314988845
+Arthritis, Rheumatoid	glycol salicylate	0	7.95607727450691e-05
+Arthritis, Rheumatoid	glycolic acid	1	0.556515707849836
+Arthritis, Rheumatoid	glycopyrronium	1.33333333333333	0.333934721906779
+Arthritis, Rheumatoid	glycyrrhizic acid	0.333333333333333	2.14235712260346e-05
+Arthritis, Rheumatoid	glymidine	2	0.912847898337726
+Arthritis, Rheumatoid	golimumab	0	0.000137262833944128
+Arthritis, Rheumatoid	golodirsen	1	0.511971914797816
+Arthritis, Rheumatoid	gonadorelin	2	0.649124338583784
+Arthritis, Rheumatoid	goserelin	1.5	0.512556632779244
+Arthritis, Rheumatoid	granisetron	1	0.124796430383166
+Arthritis, Rheumatoid	griseofulvin	2	0.732220182265914
+Arthritis, Rheumatoid	guaifenesin	1.42857142857143	0.9141316928843
+Arthritis, Rheumatoid	guanabenz	1.5	0.685386502182862
+Arthritis, Rheumatoid	guanadrel	2	0.799756873986619
+Arthritis, Rheumatoid	guanethidine	2	0.804647084165173
+Arthritis, Rheumatoid	guanfacine	1.5	0.684434128866794
+Arthritis, Rheumatoid	guanidine	0.75	0.0222009547713303
+Arthritis, Rheumatoid	guselkumab	0	0.0169670876471517
+Arthritis, Rheumatoid	halazepam	1.8	0.886013545147414
+Arthritis, Rheumatoid	halcinonide	2	0.911492008562598
+Arthritis, Rheumatoid	halofantrine	1	0.593348289699399
+Arthritis, Rheumatoid	haloperidol	1.22222222222222	0.333095403983558
+Arthritis, Rheumatoid	halothane	1.66666666666667	0.96774904627816
+Arthritis, Rheumatoid	heparin	1.16666666666667	0.368108961265775
+Arthritis, Rheumatoid	hexachlorophene	1	0.612942442430792
+Arthritis, Rheumatoid	hexafluronium	0	1.82004396295719e-05
+Arthritis, Rheumatoid	hexocyclium	1.25	0.231654779323169
+Arthritis, Rheumatoid	hexylcaine	1.5	0.596332173760099
+Arthritis, Rheumatoid	hexylresorcinol	1.33333333333333	0.743013813150005
+Arthritis, Rheumatoid	histamine	1.4	0.132379171000414
+Arthritis, Rheumatoid	histrelin	2	0.632101226858225
+Arthritis, Rheumatoid	homatropine	1.4	0.25482292661843
+Arthritis, Rheumatoid	homatropine methylbromide	1.4	0.257314894104821
+Arthritis, Rheumatoid	homosalate	0	0.00650099884004575
+Arthritis, Rheumatoid	human c1-esterase inhibitor	0.666666666666667	0.0039477783572364
+Arthritis, Rheumatoid	human immunoglobulin g	0.1	2.95516494216439e-15
+Arthritis, Rheumatoid	human thrombin	0.625	0.000518798431653956
+Arthritis, Rheumatoid	huperzine a	2	0.933192798731142
+Arthritis, Rheumatoid	hyaluronic acid	0.916666666666667	0.023175436558684
+Arthritis, Rheumatoid	hydralazine	1	0.307677846923054
+Arthritis, Rheumatoid	hydrochlorothiazide	1.5	0.830891799128877
+Arthritis, Rheumatoid	hydrocodone	1.33333333333333	0.725284626276797
+Arthritis, Rheumatoid	hydrocortamate	0	0.0597526250645845
+Arthritis, Rheumatoid	hydrocortisone	0.5	0.166645290323902
+Arthritis, Rheumatoid	hydrocortisone acetate	1	0.370552544556885
+Arthritis, Rheumatoid	hydrocortisone butyrate	1	0.376197166457533
+Arthritis, Rheumatoid	hydrocortisone cypionate	1	0.396931931866262
+Arthritis, Rheumatoid	hydrocortisone phosphate	1	0.399006486911367
+Arthritis, Rheumatoid	hydrocortisone probutate	1	0.440934869649366
+Arthritis, Rheumatoid	hydrocortisone valerate	1	0.332054137048752
+Arthritis, Rheumatoid	hydroflumethiazide	1.375	0.717755929758397
+Arthritis, Rheumatoid	hydromorphone	1.66666666666667	0.992213475741668
+Arthritis, Rheumatoid	hydroquinone	2	0.740047211010652
+Arthritis, Rheumatoid	hydroxocobalamin	1.11111111111111	0.00290299693037397
+Arthritis, Rheumatoid	hydroxychloroquine	0	0.0014534568667212
+Arthritis, Rheumatoid	hydroxyprogesterone caproate	0	4.10349678958117e-05
+Arthritis, Rheumatoid	hydroxyurea	1	0.484989796885206
+Arthritis, Rheumatoid	hydroxyzine	1	0.283228276121785
+Arthritis, Rheumatoid	hyoscyamine	1.25	0.217831214063327
+Arthritis, Rheumatoid	hypromellose	1	0.12211843333219
+Arthritis, Rheumatoid	ibalizumab	0.333333333333333	3.64119247814276e-05
+Arthritis, Rheumatoid	ibandronate	1	0.377940582532638
+Arthritis, Rheumatoid	ibritumomab tiuxetan	0.181818181818182	2.92983293585694e-13
+Arthritis, Rheumatoid	ibrutinib	1	0.649739785701631
+Arthritis, Rheumatoid	ibuprofen	0.6	0.00167280905792544
+Arthritis, Rheumatoid	ibutilide	1.375	0.39180514875387
+Arthritis, Rheumatoid	icatibant	0.5	0.00253341447992248
+Arthritis, Rheumatoid	icosapent	0.909090909090909	0.0152124460599231
+Arthritis, Rheumatoid	idarubicin	1	0.636755337944229
+Arthritis, Rheumatoid	idelalisib	1	0.414055832271377
+Arthritis, Rheumatoid	idursulfase	2	0.998799546771543
+Arthritis, Rheumatoid	ifenprodil	1	0.662766494689938
+Arthritis, Rheumatoid	ifosfamide	1	0.566780568211948
+Arthritis, Rheumatoid	iloperidone	1.09090909090909	0.23128553712817
+Arthritis, Rheumatoid	iloprost	1.25	0.339739989505848
+Arthritis, Rheumatoid	imatinib	0.75	0.0763912613554545
+Arthritis, Rheumatoid	imipramine	1.24	0.284500962770718
+Arthritis, Rheumatoid	imiquimod	0	5.8204034955892e-05
+Arthritis, Rheumatoid	indacaterol	0	0.0734691879310566
+Arthritis, Rheumatoid	indapamide	1	0.348169863958127
+Arthritis, Rheumatoid	indecainide	1	0.389537016279682
+Arthritis, Rheumatoid	indigotindisulfonic acid	1.42857142857143	0.78217545131312
+Arthritis, Rheumatoid	indomethacin	1	0.0518190644055788
+Arthritis, Rheumatoid	infliximab	0	4.10349678958117e-05
+Arthritis, Rheumatoid	inotuzumab ozogamicin	1	0.482236284666628
+Arthritis, Rheumatoid	insulin aspart	1	0.615393999131272
+Arthritis, Rheumatoid	insulin degludec	1	0.63675533794423
+Arthritis, Rheumatoid	insulin detemir	1	0.63675533794423
+Arthritis, Rheumatoid	insulin glargine	1	0.629927932097713
+Arthritis, Rheumatoid	insulin glulisine	1	0.615393999131272
+Arthritis, Rheumatoid	insulin human	1	0.437203185097574
+Arthritis, Rheumatoid	insulin lispro	1	0.63675533794423
+Arthritis, Rheumatoid	insulin pork	0.866666666666667	0.00433173089478526
+Arthritis, Rheumatoid	interferon alfa-2a, recombinant	0.5	0.0630991432995044
+Arthritis, Rheumatoid	interferon alfa-2b	0.5	0.0170314536518801
+Arthritis, Rheumatoid	interferon alfa-n1	0.5	0.0344995759627837
+Arthritis, Rheumatoid	interferon alfa-n3	0.5	0.0429043718241245
+Arthritis, Rheumatoid	interferon alfacon-1	0.5	0.0105527669522231
+Arthritis, Rheumatoid	interferon beta-1a	0.5	0.0300302298190888
+Arthritis, Rheumatoid	interferon beta-1b	0.5	0.0174020199416134
+Arthritis, Rheumatoid	interferon gamma-1b	0	0.000230549468620556
+Arthritis, Rheumatoid	iopodic acid	2	0.718855150211579
+Arthritis, Rheumatoid	ipilimumab	0	0.0110594039024411
+Arthritis, Rheumatoid	ipratropium	1.33333333333333	0.527693116558079
+Arthritis, Rheumatoid	irbesartan	1	0.474861446728315
+Arthritis, Rheumatoid	irinotecan	1	0.0576083394664997
+Arthritis, Rheumatoid	iron	1.21428571428571	0.576155139470539
+Arthritis, Rheumatoid	iron dextran	1.4	0.883040185519157
+Arthritis, Rheumatoid	iron sucrose	2	0.854947720754452
+Arthritis, Rheumatoid	isavuconazole	1.11111111111111	0.317392396124216
+Arthritis, Rheumatoid	isocarboxazid	1.5	0.316919241467373
+Arthritis, Rheumatoid	isoetharine	0	0.00352536455521137
+Arthritis, Rheumatoid	isoflurane	1.65	0.88718295402094
+Arthritis, Rheumatoid	isoflurophate	0.666666666666667	0.000483424142383779
+Arthritis, Rheumatoid	isometheptene	1.5	0.602563703555997
+Arthritis, Rheumatoid	isoniazid	0	1.66743120651709e-08
+Arthritis, Rheumatoid	isoprenaline	0.5	2.24856646748321e-06
+Arthritis, Rheumatoid	isopropamide	0.5	0.00626983482698322
+Arthritis, Rheumatoid	isopropyl alcohol	1.07142857142857	0.119637904434753
+Arthritis, Rheumatoid	isosorbide	0.666666666666667	0.187625218315692
+Arthritis, Rheumatoid	isosorbide dinitrate	2	0.903963477699237
+Arthritis, Rheumatoid	isosorbide mononitrate	1	0.253123099714367
+Arthritis, Rheumatoid	isotretinoin	1	0.68291420666201
+Arthritis, Rheumatoid	isradipine	1.85714285714286	0.970943127380688
+Arthritis, Rheumatoid	istradefylline	0.5	0.0431740457557222
+Arthritis, Rheumatoid	itraconazole	1	0.246122754601408
+Arthritis, Rheumatoid	ivabradine	1	0.211384817696613
+Arthritis, Rheumatoid	ivermectin	2	0.813943183619319
+Arthritis, Rheumatoid	ivosidenib	1	0.467517173550279
+Arthritis, Rheumatoid	ixabepilone	1	0.599239516386724
+Arthritis, Rheumatoid	ixekizumab	0	0.0034089547399886
+Arthritis, Rheumatoid	kaletra	0.714285714285714	0.000280112799955059
+Arthritis, Rheumatoid	kappadione	1	0.187772946262168
+Arthritis, Rheumatoid	ketamine	1.39130434782609	0.306833845707483
+Arthritis, Rheumatoid	ketazolam	1.8	0.815141472588257
+Arthritis, Rheumatoid	ketoconazole	0.6	0.0263305048758568
+Arthritis, Rheumatoid	ketoprofen	0	2.63598576381684e-07
+Arthritis, Rheumatoid	ketorolac	0	5.95139643284324e-06
+Arthritis, Rheumatoid	ketotifen	1	0.300744792897567
+Arthritis, Rheumatoid	keyhole limpet hemocyanin	0	0.00988956202926295
+Arthritis, Rheumatoid	l-glutamine	1	0.375150502058842
+Arthritis, Rheumatoid	l-lysine	1.66666666666667	0.881395186237595
+Arthritis, Rheumatoid	labetalol	0.8	0.0786876318320951
+Arthritis, Rheumatoid	lacidipine	1.33333333333333	0.388987627565356
+Arthritis, Rheumatoid	lacosamide	1.5	0.238340113067789
+Arthritis, Rheumatoid	lactose	1	0.129212425506978
+Arthritis, Rheumatoid	lamotrigine	1.40625	0.198272461490302
+Arthritis, Rheumatoid	lanadelumab	1	0.23128553712817
+Arthritis, Rheumatoid	lanreotide	2	0.978620773130397
+Arthritis, Rheumatoid	lansoprazole	1	0.649739785701631
+Arthritis, Rheumatoid	larotrectinib	1	0.539827837277029
+Arthritis, Rheumatoid	lasmiditan	2	0.482147583592264
+Arthritis, Rheumatoid	lasofoxifene	0.666666666666667	0.636008977465021
+Arthritis, Rheumatoid	latanoprost	2	0.71240073356931
+Arthritis, Rheumatoid	latanoprostene bunod	2	0.745413408339042
+Arthritis, Rheumatoid	lauric acid	1.25	0.321253841245375
+Arthritis, Rheumatoid	leflunomide	0.666666666666667	0.039984255144231
+Arthritis, Rheumatoid	lemborexant	2	0.794437638425791
+Arthritis, Rheumatoid	lenalidomide	0.5	0.00441759382286134
+Arthritis, Rheumatoid	lenograstim	1	0.5
+Arthritis, Rheumatoid	lenvatinib	0.9	0.460172162722971
+Arthritis, Rheumatoid	lepirudin	0	0.013472050856726
+Arthritis, Rheumatoid	lercanidipine	2	0.553849710341409
+Arthritis, Rheumatoid	lesinurad	1	0.0831693454326775
+Arthritis, Rheumatoid	letrozole	0	0.00591556961227989
+Arthritis, Rheumatoid	leuprolide	2	0.649124338583784
+Arthritis, Rheumatoid	levacetylmethadol	2	0.961163709112287
+Arthritis, Rheumatoid	levallorphan	2	0.99796239995424
+Arthritis, Rheumatoid	levamisole	2	0.721390205472866
+Arthritis, Rheumatoid	levamlodipine	0.75	0.0454686570944587
+Arthritis, Rheumatoid	levetiracetam	1	0.164397854128895
+Arthritis, Rheumatoid	levobetaxolol	0	0.00411483763504441
+Arthritis, Rheumatoid	levobunolol	0	0.00250861804390463
+Arthritis, Rheumatoid	levobupivacaine	2	0.652061235061403
+Arthritis, Rheumatoid	levocabastine	1.5	0.281526035062586
+Arthritis, Rheumatoid	levocarnitine	1.36363636363636	0.0734485062816278
+Arthritis, Rheumatoid	levocetirizine	1	0.185788019487802
+Arthritis, Rheumatoid	levodopa	1.2	0.415304653433784
+Arthritis, Rheumatoid	levofloxacin	1	0.679454089019012
+Arthritis, Rheumatoid	levomenthol	1.46153846153846	0.562467936098196
+Arthritis, Rheumatoid	levomilnacipran	1	0.177840519360356
+Arthritis, Rheumatoid	levonordefrin	1.66666666666667	0.773469502301971
+Arthritis, Rheumatoid	levonorgestrel	0.2	0.00509478218655059
+Arthritis, Rheumatoid	levorphanol	1.66666666666667	0.991070868501115
+Arthritis, Rheumatoid	levosalbutamol	0	0.111496930767197
+Arthritis, Rheumatoid	levosimendan	1.75	0.968178358696311
+Arthritis, Rheumatoid	levothyroxine	0.75	0.180374328623561
+Arthritis, Rheumatoid	lidocaine	1.16666666666667	0.479328090957091
+Arthritis, Rheumatoid	lifitegrast	0	0.014830179898632
+Arthritis, Rheumatoid	linaclotide	2	0.713010047059884
+Arthritis, Rheumatoid	linagliptin	0	3.86539784067624e-05
+Arthritis, Rheumatoid	lindane	1	0.214672934766565
+Arthritis, Rheumatoid	liothyronine	1	0.599239516386724
+Arthritis, Rheumatoid	liotrix	1	0.57592734943351
+Arthritis, Rheumatoid	lipegfilgrastim	1	0.454795947408348
+Arthritis, Rheumatoid	lipoic acid	2	0.783227911188632
+Arthritis, Rheumatoid	liraglutide	2	0.998530847833438
+Arthritis, Rheumatoid	lisinopril	1	0.176863943530817
+Arthritis, Rheumatoid	lisuride	1.4	0.744154352999789
+Arthritis, Rheumatoid	lithium carbonate	1.25	0.416663619318052
+Arthritis, Rheumatoid	lithium citrate	1.25	0.455479929938641
+Arthritis, Rheumatoid	lixisenatide	2	0.999029554513718
+Arthritis, Rheumatoid	lofexidine	1.5	0.861429097573882
+Arthritis, Rheumatoid	lomefloxacin	1	0.655955893774368
+Arthritis, Rheumatoid	lomitapide	1	0.0877470324827414
+Arthritis, Rheumatoid	lomustine	1	0.0668072012688581
+Arthritis, Rheumatoid	lonoctocog alfa	0.909090909090909	0.137678474127047
+Arthritis, Rheumatoid	loperamide	1.28571428571429	0.980200426558811
+Arthritis, Rheumatoid	lopinavir	0.666666666666667	0.000835009966648698
+Arthritis, Rheumatoid	loratadine	1	0.351161976763582
+Arthritis, Rheumatoid	lorazepam	1.85714285714286	0.874074634068886
+Arthritis, Rheumatoid	lorcaserin	1	0.30697935481696
+Arthritis, Rheumatoid	lorlatinib	1	0.556515707849836
+Arthritis, Rheumatoid	lormetazepam	1.8	0.630457551011486
+Arthritis, Rheumatoid	lornoxicam	0	0.000273474135797204
+Arthritis, Rheumatoid	lorpiprazole	1.1	0.0837114025816499
+Arthritis, Rheumatoid	losartan	1	0.419528060652873
+Arthritis, Rheumatoid	loteprednol etabonate	0	0.140507572935521
+Arthritis, Rheumatoid	lovastatin	1	0.282829544037019
+Arthritis, Rheumatoid	loxapine	1.25806451612903	0.0706302466022251
+Arthritis, Rheumatoid	loxoprofen	0	0.000405710865271126
+Arthritis, Rheumatoid	lubiprostone	2	0.993652286579339
+Arthritis, Rheumatoid	lumateperone	0.6	0.0114114678531483
+Arthritis, Rheumatoid	lumiracoxib	0	0.000522210497055944
+Arthritis, Rheumatoid	lurasidone	1.16666666666667	0.533872291336391
+Arthritis, Rheumatoid	lusutrombopag	1	0.262924894367483
+Arthritis, Rheumatoid	lutetium lu 177 dotatate	1.8	0.934320474400204
+Arthritis, Rheumatoid	lutropin alfa	1	0.37717487214748
+Arthritis, Rheumatoid	lyme disease vaccine (recombinant ospa)	0	0.000323168204676333
+Arthritis, Rheumatoid	lypressin	2	0.951518002249544
+Arthritis, Rheumatoid	macimorelin	0	4.33603205100575e-05
+Arthritis, Rheumatoid	macitentan	0.5	0.0214234978042247
+Arthritis, Rheumatoid	mafenide	2	0.744154352999789
+Arthritis, Rheumatoid	magnesium acetate	1	0.590280184349119
+Arthritis, Rheumatoid	magnesium acetate tetrahydrate	1.42857142857143	0.941253265940733
+Arthritis, Rheumatoid	magnesium carbonate	1.42857142857143	0.920781202281279
+Arthritis, Rheumatoid	magnesium cation	1	0.636755337944229
+Arthritis, Rheumatoid	magnesium sulfate	1.66666666666667	0.84129957683434
+Arthritis, Rheumatoid	malathion	0	3.79504607122699e-06
+Arthritis, Rheumatoid	manganese	0.6	0.00957441187033674
+Arthritis, Rheumatoid	manidipine	1.5	0.620293102789367
+Arthritis, Rheumatoid	maprotiline	1.29411764705882	0.309923787458584
+Arthritis, Rheumatoid	maraviroc	0	0.003059101631187
+Arthritis, Rheumatoid	masoprocol	1	0.564302646335896
+Arthritis, Rheumatoid	mazindol	1.25	0.444780814015316
+Arthritis, Rheumatoid	mecamylamine	1.75	0.754157278470682
+Arthritis, Rheumatoid	mecasermin	1	0.588058934300602
+Arthritis, Rheumatoid	mecasermin rinfabate	1	0.5
+Arthritis, Rheumatoid	meclizine	1	0.29925090381317
+Arthritis, Rheumatoid	meclofenamic acid	1	0.0839075931840256
+Arthritis, Rheumatoid	medrogestone	0	4.10349678958117e-05
+Arthritis, Rheumatoid	medroxyprogesterone acetate	1.5	0.519350008046941
+Arthritis, Rheumatoid	medrysone	0	0.0552969427903502
+Arthritis, Rheumatoid	mefenamic acid	0	0.000600993329385527
+Arthritis, Rheumatoid	mefloquine	1.33333333333333	0.396934314444491
+Arthritis, Rheumatoid	megestrol acetate	0	0.000755367851640562
+Arthritis, Rheumatoid	meloxicam	0	0.000366272933069421
+Arthritis, Rheumatoid	memantine	1.625	0.897950800701922
+Arthritis, Rheumatoid	menadione	0.769230769230769	0.000658587494026267
+Arthritis, Rheumatoid	menotropins	1	0.360821938236815
+Arthritis, Rheumatoid	menthyl salicylate	0	0.000159108590157534
+Arthritis, Rheumatoid	mepenzolate	1	0.142052815389075
+Arthritis, Rheumatoid	meperidine	1.375	0.67491145361101
+Arthritis, Rheumatoid	mephentermine	1	0.0780150094325157
+Arthritis, Rheumatoid	mephenytoin	1	0.517763715333372
+Arthritis, Rheumatoid	mepivacaine	2	0.673130856796986
+Arthritis, Rheumatoid	mepolizumab	2	0.662702464330446
+Arthritis, Rheumatoid	meprobamate	1.84615384615385	0.82756128805567
+Arthritis, Rheumatoid	mepyramine	1	0.171433802878072
+Arthritis, Rheumatoid	mercaptopurine	0.5	0.00686283323308301
+Arthritis, Rheumatoid	mesalazine	0.285714285714286	5.71015039484549e-05
+Arthritis, Rheumatoid	mesoridazine	0.5	0.0407943174931928
+Arthritis, Rheumatoid	metamfetamine	1.44444444444444	0.56647261785374
+Arthritis, Rheumatoid	metamizole	0	0.0119194455153501
+Arthritis, Rheumatoid	metaraminol	1	0.37337735346795
+Arthritis, Rheumatoid	metergoline	2	0.769165652694591
+Arthritis, Rheumatoid	metformin	1.66666666666667	0.842317381999741
+Arthritis, Rheumatoid	methacholine	0	0.0202072542549996
+Arthritis, Rheumatoid	methadone	1.42857142857143	0.824426733061795
+Arthritis, Rheumatoid	methantheline	2	0.709806698731503
+Arthritis, Rheumatoid	methazolamide	1.25	0.185010752717006
+Arthritis, Rheumatoid	methdilazine	1	0.267779817734086
+Arthritis, Rheumatoid	methimazole	2	0.641816341539171
+Arthritis, Rheumatoid	methionine	1	0.0580815113139745
+Arthritis, Rheumatoid	methocarbamol	0	0.000683139251857894
+Arthritis, Rheumatoid	methohexital	2	0.807810194832129
+Arthritis, Rheumatoid	methotrexate	0	2.43250370925518e-05
+Arthritis, Rheumatoid	methotrimeprazine	1.26315789473684	0.209888062129209
+Arthritis, Rheumatoid	methoxamine	1.33333333333333	0.553261159209675
+Arthritis, Rheumatoid	methoxy polyethylene glycol-epoetin beta	1	0.638534927211517
+Arthritis, Rheumatoid	methoxyflurane	1.66666666666667	0.734550165209838
+Arthritis, Rheumatoid	methscopolamine bromide	1.33333333333333	0.415045636199692
+Arthritis, Rheumatoid	methsuximide	2	0.642821746770719
+Arthritis, Rheumatoid	methyclothiazide	1.25	0.196846351068536
+Arthritis, Rheumatoid	methyl aminolevulinate	0	0.00358432786859548
+Arthritis, Rheumatoid	methyldopa	1	0.117824614216223
+Arthritis, Rheumatoid	methylene blue	1	0.316799002918507
+Arthritis, Rheumatoid	methylergometrine	1	0.180604679993029
+Arthritis, Rheumatoid	methylnaltrexone	2	0.999701499343903
+Arthritis, Rheumatoid	methylphenidate	1.66666666666667	0.864217284326183
+Arthritis, Rheumatoid	methylphenobarbital	1.63636363636364	0.776504049497779
+Arthritis, Rheumatoid	methylprednisolone	0.5	0.162433031555221
+Arthritis, Rheumatoid	methyltestosterone	0	0.145349313679669
+Arthritis, Rheumatoid	methyprylon	1.84615384615385	0.813871602974639
+Arthritis, Rheumatoid	methysergide	1.375	0.417220502559579
+Arthritis, Rheumatoid	metipranolol	0	0.00172386080320274
+Arthritis, Rheumatoid	metixene	1.4	0.28793237228982
+Arthritis, Rheumatoid	metoclopramide	1.25	0.234809101710202
+Arthritis, Rheumatoid	metocurine	2.5	0.996067289923029
+Arthritis, Rheumatoid	metocurine iodide	3	0.976722497551553
+Arthritis, Rheumatoid	metolazone	1	0.414681534245301
+Arthritis, Rheumatoid	metoprolol	0	0.00363375303537253
+Arthritis, Rheumatoid	metreleptin	1	0.444596229464796
+Arthritis, Rheumatoid	metyrapone	1	0.0199688854130538
+Arthritis, Rheumatoid	metyrosine	1	0.424245677433905
+Arthritis, Rheumatoid	mexiletine	1	0.553579204630712
+Arthritis, Rheumatoid	mianserin	1.21739130434783	0.159181238428303
+Arthritis, Rheumatoid	miconazole	1.33333333333333	0.520019098769885
+Arthritis, Rheumatoid	midazolam	1.83333333333333	0.580463757963544
+Arthritis, Rheumatoid	midodrine	1.33333333333333	0.547031872205921
+Arthritis, Rheumatoid	midostaurin	0.833333333333333	0.313155041626298
+Arthritis, Rheumatoid	mifamurtide	0	3.92438826128784e-07
+Arthritis, Rheumatoid	mifepristone	0.5	0.00825545692791682
+Arthritis, Rheumatoid	migalastat	1	0.3636514070032
+Arthritis, Rheumatoid	miglitol	1.25	0.273310235267854
+Arthritis, Rheumatoid	miglustat	2	0.769920976127739
+Arthritis, Rheumatoid	milnacipran	1.33333333333333	0.746602344677252
+Arthritis, Rheumatoid	milrinone	0	0.0157760190226322
+Arthritis, Rheumatoid	miltefosine	0	0.00601677807542063
+Arthritis, Rheumatoid	minaprine	1	0.042725056803948
+Arthritis, Rheumatoid	minocycline	0.428571428571429	2.8461427708059e-07
+Arthritis, Rheumatoid	minoxidil	1	0.172225479846114
+Arthritis, Rheumatoid	mirabegron	0	0.00161745595845735
+Arthritis, Rheumatoid	mirtazapine	1.125	0.159113457298292
+Arthritis, Rheumatoid	misoprostol	0.75	0.00465772684125255
+Arthritis, Rheumatoid	mitotane	0.4	0.00411272830055316
+Arthritis, Rheumatoid	mitoxantrone	1	0.636755337944229
+Arthritis, Rheumatoid	mivacurium	1.25	0.123929110989181
+Arthritis, Rheumatoid	moclobemide	1.5	0.314675757223007
+Arthritis, Rheumatoid	modafinil	1	0.250733147743253
+Arthritis, Rheumatoid	moexipril	0	0.00030895844755826
+Arthritis, Rheumatoid	mogamulizumab	1	0.615393999131272
+Arthritis, Rheumatoid	molindone	1.25	0.507570319808473
+Arthritis, Rheumatoid	molsidomine	1	0.299791595468696
+Arthritis, Rheumatoid	mometasone	0	0.0037493195525411
+Arthritis, Rheumatoid	mometasone furoate	0	0.00186352132845065
+Arthritis, Rheumatoid	monobenzone	2	0.764013890622623
+Arthritis, Rheumatoid	montelukast	2	0.928903943895059
+Arthritis, Rheumatoid	moricizine	1	0.363991022534979
+Arthritis, Rheumatoid	moroctocog alfa	0.909090909090909	0.208545967990371
+Arthritis, Rheumatoid	morphine	1.5	0.899366730941208
+Arthritis, Rheumatoid	moxetumomab pasudotox	1	0.456341363915494
+Arthritis, Rheumatoid	moxifloxacin	1	0.649739785701631
+Arthritis, Rheumatoid	moxisylyte	1.5	0.691659921402439
+Arthritis, Rheumatoid	moxonidine	1	0.340216617954281
+Arthritis, Rheumatoid	muromonab	0.214285714285714	6.61863440749959e-12
+Arthritis, Rheumatoid	mycophenolate mofetil	1	0.375529764048735
+Arthritis, Rheumatoid	mycophenolic acid	0.5	0.034970312371616
+Arthritis, Rheumatoid	myrrh	1	0.628408886831008
+Arthritis, Rheumatoid	n-acetylglucosamine	1.71428571428571	0.787215057438739
+Arthritis, Rheumatoid	nabilone	1.5	0.418204244481891
+Arthritis, Rheumatoid	nabumetone	0	0.00117810135238814
+Arthritis, Rheumatoid	nadh	1.27611940298507	0.547377481282361
+Arthritis, Rheumatoid	nadolol	0	0.000911485345824184
+Arthritis, Rheumatoid	nadroparin	1	0.403075085451468
+Arthritis, Rheumatoid	nafarelin	2	0.597744843908253
+Arthritis, Rheumatoid	naftifine	2	0.755856097410532
+Arthritis, Rheumatoid	nalbuphine	1.66666666666667	0.992431788834185
+Arthritis, Rheumatoid	naldemedine	1.66666666666667	0.994114110754548
+Arthritis, Rheumatoid	nalmefene	1.66666666666667	0.997843391831822
+Arthritis, Rheumatoid	naloxegol	2	0.99686249805038
+Arthritis, Rheumatoid	naloxone	1.14285714285714	0.907158278415572
+Arthritis, Rheumatoid	naltrexone	1.66666666666667	0.98992955549861
+Arthritis, Rheumatoid	nandrolone decanoate	0	0.140507572935521
+Arthritis, Rheumatoid	nandrolone phenpropionate	0	0.116321074396589
+Arthritis, Rheumatoid	naphazoline	1	0.229909317282265
+Arthritis, Rheumatoid	naproxen	0	0.00033446477787975
+Arthritis, Rheumatoid	naratriptan	2.25	0.992666843922234
+Arthritis, Rheumatoid	natalizumab	0	2.64922296541614e-16
+Arthritis, Rheumatoid	nateglinide	1.5	0.852691004275062
+Arthritis, Rheumatoid	nebivolol	0	0.000102641527598006
+Arthritis, Rheumatoid	nedocromil	1.6	0.924675204720242
+Arthritis, Rheumatoid	nefazodone	1	0.0507401447343955
+Arthritis, Rheumatoid	nelarabine	1	0.532482826449721
+Arthritis, Rheumatoid	neomycin	2	0.906135587999489
+Arthritis, Rheumatoid	neostigmine	2	0.936289709825418
+Arthritis, Rheumatoid	nepafenac	0	8.77980206427685e-05
+Arthritis, Rheumatoid	nesiritide	1.66666666666667	0.922989980829442
+Arthritis, Rheumatoid	netarsudil	1.33333333333333	0.788251065546641
+Arthritis, Rheumatoid	netupitant	0	0.0162008023014141
+Arthritis, Rheumatoid	niacin	2	0.885229450205915
+Arthritis, Rheumatoid	nialamide	1.33333333333333	0.392100331697241
+Arthritis, Rheumatoid	nicardipine	1.53333333333333	0.746180337161197
+Arthritis, Rheumatoid	nicergoline	1	0.363244662055771
+Arthritis, Rheumatoid	nicorandil	2	0.788615182303386
+Arthritis, Rheumatoid	nicotinamide	1	0.376754727900437
+Arthritis, Rheumatoid	nicotine	1.7	0.742101058859278
+Arthritis, Rheumatoid	nifedipine	1.66666666666667	0.99413006318526
+Arthritis, Rheumatoid	nilotinib	0.5	0.0113096986876618
+Arthritis, Rheumatoid	nilutamide	0	0.145349313679669
+Arthritis, Rheumatoid	nilvadipine	1.83333333333333	0.896631600675204
+Arthritis, Rheumatoid	nimesulide	0.5	0.0222502802208018
+Arthritis, Rheumatoid	nimodipine	1.3	0.383551175952712
+Arthritis, Rheumatoid	nintedanib	0.916666666666667	0.446156131285059
+Arthritis, Rheumatoid	niraparib	0.5	0.176220180823174
+Arthritis, Rheumatoid	nisoldipine	1.8	0.9076877421883
+Arthritis, Rheumatoid	nitisinone	1	0.202043332788426
+Arthritis, Rheumatoid	nitrazepam	1.75	0.791638975771894
+Arthritis, Rheumatoid	nitrendipine	1.875	0.962896352362423
+Arthritis, Rheumatoid	nitric oxide	1.33333333333333	0.339381425193524
+Arthritis, Rheumatoid	nitroglycerin	2	0.852532503977938
+Arthritis, Rheumatoid	nitroprusside	2	0.880459116494086
+Arthritis, Rheumatoid	nitrous acid	2	0.963471057308494
+Arthritis, Rheumatoid	nivolumab	0	0.00987829753703751
+Arthritis, Rheumatoid	nizatidine	2	0.488933015325381
+Arthritis, Rheumatoid	nomifensine	1.28571428571429	0.213990019292966
+Arthritis, Rheumatoid	nonacog beta pegol	1.33333333333333	0.801191718751551
+Arthritis, Rheumatoid	norelgestromin	0.333333333333333	0.00549170345234618
+Arthritis, Rheumatoid	norepinephrine	1.18181818181818	0.167116470151293
+Arthritis, Rheumatoid	norethisterone	0	0.00251754891118318
+Arthritis, Rheumatoid	norethynodrel	0.333333333333333	0.176220180823174
+Arthritis, Rheumatoid	norfloxacin	1	0.629927932097713
+Arthritis, Rheumatoid	norgestimate	0	0.00191420013909588
+Arthritis, Rheumatoid	norgestrel	0	0.00539242504474907
+Arthritis, Rheumatoid	nortriptyline	1.08333333333333	0.0174635724418936
+Arthritis, Rheumatoid	noscapine	1	0.234761056098754
+Arthritis, Rheumatoid	nylidrin	1.5	0.734599311651211
+Arthritis, Rheumatoid	obeticholic acid	1	0.477056880824563
+Arthritis, Rheumatoid	obinutuzumab	1	0.282115250420375
+Arthritis, Rheumatoid	ocrelizumab	1	0.370312142124973
+Arthritis, Rheumatoid	ocriplasmin	0.666666666666667	0.0694070509959314
+Arthritis, Rheumatoid	octreotide	2	0.976730007987086
+Arthritis, Rheumatoid	ofatumumab	1	0.371145714811151
+Arthritis, Rheumatoid	ofloxacin	1	0.655955893774368
+Arthritis, Rheumatoid	olanzapine	1.36363636363636	0.0946613519088066
+Arthritis, Rheumatoid	olaparib	0.666666666666667	0.160505840276117
+Arthritis, Rheumatoid	olaratumab	1	0.62282512785252
+Arthritis, Rheumatoid	oleic acid	1	0.150081039390842
+Arthritis, Rheumatoid	olmesartan	1	0.40282965411418
+Arthritis, Rheumatoid	olodaterol	0	0.0552969427903502
+Arthritis, Rheumatoid	olopatadine	1.375	0.337349070662147
+Arthritis, Rheumatoid	olsalazine	0	0.000448126399584343
+Arthritis, Rheumatoid	omalizumab	1	0.255528312032582
+Arthritis, Rheumatoid	omega-3-acid ethyl esters	1	0.649739785701631
+Arthritis, Rheumatoid	omega-3-carboxylic acids	1.33333333333333	0.544681518854903
+Arthritis, Rheumatoid	omega-3 fatty acids	0.666666666666667	0.387057557569208
+Arthritis, Rheumatoid	omeprazole	1	0.655955893774368
+Arthritis, Rheumatoid	ondansetron	1.6	0.686838957248455
+Arthritis, Rheumatoid	opicapone	1	0.471066840587124
+Arthritis, Rheumatoid	opium	1.66666666666667	0.98299180941387
+Arthritis, Rheumatoid	oprelvekin	0	0.000841868824438045
+Arthritis, Rheumatoid	orciprenaline	0	0.0597526250645845
+Arthritis, Rheumatoid	orlistat	1.66666666666667	0.766214233402038
+Arthritis, Rheumatoid	ornithine	1.54545454545455	0.626170125865265
+Arthritis, Rheumatoid	orphenadrine	1.57142857142857	0.815939874653241
+Arthritis, Rheumatoid	oseltamivir	1.5	0.386027709643196
+Arthritis, Rheumatoid	ouabain	1.33333333333333	0.640332328528065
+Arthritis, Rheumatoid	oxacillin	2	0.559557878581428
+Arthritis, Rheumatoid	oxandrolone	0	0.159871187246137
+Arthritis, Rheumatoid	oxaprozin	0	0.00163228078068042
+Arthritis, Rheumatoid	oxazepam	1.8	0.912940558414527
+Arthritis, Rheumatoid	oxcarbazepine	1.7	0.672951796558968
+Arthritis, Rheumatoid	oxetacaine	2	0.744154352999789
+Arthritis, Rheumatoid	oxiconazole	1	0.539827837277029
+Arthritis, Rheumatoid	oxprenolol	0	6.70787405933532e-05
+Arthritis, Rheumatoid	oxtriphylline	0.6	0.00333646143424695
+Arthritis, Rheumatoid	oxybenzone	0	0.00398786901845502
+Arthritis, Rheumatoid	oxybuprocaine	2	0.674003318364977
+Arthritis, Rheumatoid	oxybutynin	1.33333333333333	0.394384087107309
+Arthritis, Rheumatoid	oxycodone	1.66666666666667	0.989123878973044
+Arthritis, Rheumatoid	oxygen	2	0.973248335787141
+Arthritis, Rheumatoid	oxymetazoline	1.5	0.704237510086487
+Arthritis, Rheumatoid	oxymetholone	0.5	0.1649918540896
+Arthritis, Rheumatoid	oxymorphone	1.5	0.927727888700805
+Arthritis, Rheumatoid	oxyphencyclimine	1.33333333333333	0.455935668602885
+Arthritis, Rheumatoid	oxyphenonium	2	0.774587528964022
+Arthritis, Rheumatoid	oxytocin	1.5	0.490769601445515
+Arthritis, Rheumatoid	paclitaxel	0.833333333333333	0.164573716341655
+Arthritis, Rheumatoid	palbociclib	0.5	0.087559238440391
+Arthritis, Rheumatoid	palifermin	1	0.730311442247224
+Arthritis, Rheumatoid	paliperidone	1.26666666666667	0.488402968631457
+Arthritis, Rheumatoid	palivizumab	0	3.98485263751224e-14
+Arthritis, Rheumatoid	palmitic acid	1.2	0.288883650648926
+Arthritis, Rheumatoid	palonosetron	1	0.155178084514321
+Arthritis, Rheumatoid	pamidronic acid	1	0.411941065699398
+Arthritis, Rheumatoid	pancuronium	1.66666666666667	0.745974211813851
+Arthritis, Rheumatoid	panobinostat	1	0.814162609945223
+Arthritis, Rheumatoid	pantoprazole	0.5	0.0100851384204738
+Arthritis, Rheumatoid	papain	0	0.000137262833944128
+Arthritis, Rheumatoid	papaverine	2	0.90628567807258
+Arthritis, Rheumatoid	parachlorophenol	2	0.886801293716764
+Arthritis, Rheumatoid	paramethadione	2	0.752556198548912
+Arthritis, Rheumatoid	parathyroid hormone	2	0.923893578146534
+Arthritis, Rheumatoid	parecoxib	0.5	0.0192480202529312
+Arthritis, Rheumatoid	pargyline	1.5	0.313535294491211
+Arthritis, Rheumatoid	paricalcitol	0	0.0466151774612966
+Arthritis, Rheumatoid	paroxetine	1.31428571428571	0.122988223896867
+Arthritis, Rheumatoid	pasireotide	1.75	0.923397699040403
+Arthritis, Rheumatoid	pazopanib	0.8	0.0885079914374022
+Arthritis, Rheumatoid	pefloxacin	1	0.599239516386724
+Arthritis, Rheumatoid	pegaptanib	1	0.460172162722971
+Arthritis, Rheumatoid	pegfilgrastim	1	0.423762097784716
+Arthritis, Rheumatoid	peginesatide	1	0.61590091449025
+Arthritis, Rheumatoid	peginterferon alfa-2a	0.5	0.0151664294868651
+Arthritis, Rheumatoid	peginterferon alfa-2b	0.5	0.0170314536518801
+Arthritis, Rheumatoid	pegvisomant	1	0.5
+Arthritis, Rheumatoid	pembrolizumab	0	0.00610967222308836
+Arthritis, Rheumatoid	pemetrexed	0.25	9.15671096101568e-06
+Arthritis, Rheumatoid	penbutolol	1	0.260247901265096
+Arthritis, Rheumatoid	pentaerythritol tetranitrate	2	0.981273270207841
+Arthritis, Rheumatoid	pentagastrin	1	0.346733632696818
+Arthritis, Rheumatoid	pentamidine	2	0.949331343538752
+Arthritis, Rheumatoid	pentazocine	1.66666666666667	0.948297834766788
+Arthritis, Rheumatoid	pentobarbital	1.64	0.978320250952841
+Arthritis, Rheumatoid	pentolinium	2	0.838005186794038
+Arthritis, Rheumatoid	pentosan polysulfate	1.33333333333333	0.712202758204344
+Arthritis, Rheumatoid	pentostatin	0	0.0263788262513599
+Arthritis, Rheumatoid	pentoxifylline	1.16666666666667	0.208718720379756
+Arthritis, Rheumatoid	pentoxyverine	1.45454545454545	0.647139325845913
+Arthritis, Rheumatoid	perampanel	1	0.548375089737129
+Arthritis, Rheumatoid	pergolide	1.41176470588235	0.703992763971267
+Arthritis, Rheumatoid	perhexiline	1.33333333333333	0.5
+Arthritis, Rheumatoid	periciazine	0.75	0.206662211802317
+Arthritis, Rheumatoid	perindopril	0.5	0.0353794578043861
+Arthritis, Rheumatoid	permethrin	0.666666666666667	0.166409925100109
+Arthritis, Rheumatoid	perphenazine	1	0.595584279303509
+Arthritis, Rheumatoid	pexidartinib	0.75	0.148647916262726
+Arthritis, Rheumatoid	phenacemide	1	0.210400037027288
+Arthritis, Rheumatoid	phenazopyridine	1	0.128937039663287
+Arthritis, Rheumatoid	phendimetrazine	1.33333333333333	0.41760146793266
+Arthritis, Rheumatoid	phenelzine	1.66666666666667	0.596454283500262
+Arthritis, Rheumatoid	phenformin	2	0.980031114586946
+Arthritis, Rheumatoid	phenindamine	1	0.248847503884743
+Arthritis, Rheumatoid	phenindione	0	0.0266397701088151
+Arthritis, Rheumatoid	pheniramine	0.666666666666667	0.00723169211684596
+Arthritis, Rheumatoid	phenmetrazine	1.5	0.724940881341723
+Arthritis, Rheumatoid	phenobarbital	1.46153846153846	0.971586645824565
+Arthritis, Rheumatoid	phenolphthalein	0.75	0.5
+Arthritis, Rheumatoid	phenoxybenzamine	1.25	0.677413356810352
+Arthritis, Rheumatoid	phenoxymethylpenicillin	2	0.516936005300029
+Arthritis, Rheumatoid	phenprocoumon	0	0.0268132799920443
+Arthritis, Rheumatoid	phentermine	1.16666666666667	0.130031364148676
+Arthritis, Rheumatoid	phentolamine	1.25	0.415484383243018
+Arthritis, Rheumatoid	phenyl salicylate	0	0.00039947149959638
+Arthritis, Rheumatoid	phenylalanine	1.42857142857143	0.697910093363744
+Arthritis, Rheumatoid	phenylbutazone	0.333333333333333	0.000915939187943083
+Arthritis, Rheumatoid	phenylephrine	1.33333333333333	0.516385944841834
+Arthritis, Rheumatoid	phenylpropanolamine	1	0.134378424191507
+Arthritis, Rheumatoid	phenytoin	1.53333333333333	0.562940545664495
+Arthritis, Rheumatoid	pholcodine	1.66666666666667	0.992599490655433
+Arthritis, Rheumatoid	phosphatidyl serine	1.7	0.937129798971747
+Arthritis, Rheumatoid	phylloquinone	1	0.190108526162359
+Arthritis, Rheumatoid	physostigmine	1.66666666666667	0.784338188364268
+Arthritis, Rheumatoid	pidolic acid	0.888888888888889	0.00130909865438484
+Arthritis, Rheumatoid	pilocarpine	1.25	0.262909365801061
+Arthritis, Rheumatoid	pimavanserin	0.5	0.0636949011018784
+Arthritis, Rheumatoid	pimecrolimus	1	0.539827837277029
+Arthritis, Rheumatoid	pimozide	1	0.666155239894443
+Arthritis, Rheumatoid	pinaverium	2	0.88779601049277
+Arthritis, Rheumatoid	pindolol	0.8	0.0254121479553525
+Arthritis, Rheumatoid	pioglitazone	1	0.426427642321015
+Arthritis, Rheumatoid	pipecuronium	1.66666666666667	0.732530303108559
+Arthritis, Rheumatoid	piperazine	2	0.875203569616834
+Arthritis, Rheumatoid	pipotiazine	1	0.276107828887867
+Arthritis, Rheumatoid	pipradrol	1.5	0.530809008469575
+Arthritis, Rheumatoid	pirbuterol	0	0.00576863486313516
+Arthritis, Rheumatoid	pirenzepine	2	0.718855150211579
+Arthritis, Rheumatoid	piretanide	2	0.699062487322004
+Arthritis, Rheumatoid	pirfenidone	1	0.5
+Arthritis, Rheumatoid	piroxicam	0	4.29217115567691e-05
+Arthritis, Rheumatoid	pitavastatin	1	0.316314345464242
+Arthritis, Rheumatoid	pitolisant	1.5	0.468482011047855
+Arthritis, Rheumatoid	pizotifen	1.4375	0.626882193496861
+Arthritis, Rheumatoid	plecanatide	1	0.326869143203014
+Arthritis, Rheumatoid	plerixafor	1	0.594351872130646
+Arthritis, Rheumatoid	podofilox	1	0.847608862454569
+Arthritis, Rheumatoid	polatuzumab vedotin	1	0.394384087107309
+Arthritis, Rheumatoid	polyethylene glycol 400	1.5	0.225119304204408
+Arthritis, Rheumatoid	polythiazide	1	0.292980198348618
+Arthritis, Rheumatoid	pomalidomide	0.333333333333333	0.00161321479990586
+Arthritis, Rheumatoid	ponatinib	0.866666666666667	0.188488550612064
+Arthritis, Rheumatoid	porfimer sodium	0	0.00185017112378603
+Arthritis, Rheumatoid	potassium	1	0.629927932097713
+Arthritis, Rheumatoid	potassium acetate	1	0.580471939347127
+Arthritis, Rheumatoid	potassium cation	1	0.607564331445103
+Arthritis, Rheumatoid	potassium chloride	1.83333333333333	0.922392544779966
+Arthritis, Rheumatoid	potassium nitrate	1	0.519863768700243
+Arthritis, Rheumatoid	potassium sulfate	1	0.615393999131272
+Arthritis, Rheumatoid	practolol	0	0.00789661499876828
+Arthritis, Rheumatoid	pralatrexate	0	6.68698302285481e-05
+Arthritis, Rheumatoid	pralidoxime	1	0.0231339538507228
+Arthritis, Rheumatoid	pramipexole	1.2	0.492563710532998
+Arthritis, Rheumatoid	pramlintide	0.5	0.00280776360274938
+Arthritis, Rheumatoid	pramocaine	1.42857142857143	0.2887770982774
+Arthritis, Rheumatoid	prasterone	1.41379310344828	0.837954496255729
+Arthritis, Rheumatoid	prasugrel	2	0.560859110588853
+Arthritis, Rheumatoid	pravastatin	1.5	0.937719388019814
+Arthritis, Rheumatoid	prazepam	1.8	0.858776053025524
+Arthritis, Rheumatoid	prazosin	1.33333333333333	0.640975832526575
+Arthritis, Rheumatoid	prednicarbate	0	0.0970859962880845
+Arthritis, Rheumatoid	prednisolone	0	0.0688467277161217
+Arthritis, Rheumatoid	prednisolone acetate	0	0.087559238440391
+Arthritis, Rheumatoid	prednisone	0	0.0509143357888951
+Arthritis, Rheumatoid	pregabalin	2	0.777910342438448
+Arthritis, Rheumatoid	pregnenolone	1.5	0.806761884614384
+Arthritis, Rheumatoid	prenylamine	1	0.811981186989076
+Arthritis, Rheumatoid	prilocaine	1	0.424615498442596
+Arthritis, Rheumatoid	primaquine	0.5	0.0339588267224264
+Arthritis, Rheumatoid	primidone	1.76470588235294	0.934584465280034
+Arthritis, Rheumatoid	probenecid	1	0.042369301605816
+Arthritis, Rheumatoid	probucol	1.5	0.721334869422762
+Arthritis, Rheumatoid	procainamide	1	0.545883750509933
+Arthritis, Rheumatoid	procaine	1.73333333333333	0.969968889370082
+Arthritis, Rheumatoid	procarbazine	1.5	0.355602207092451
+Arthritis, Rheumatoid	procaterol	0	0.0828311253611191
+Arthritis, Rheumatoid	prochlorperazine	1.375	0.552472720680089
+Arthritis, Rheumatoid	procyclidine	1.25	0.218193444000272
+Arthritis, Rheumatoid	profenamine	2	0.9655651113284
+Arthritis, Rheumatoid	proflavine	0	0.00228105693436015
+Arthritis, Rheumatoid	progesterone	0.5	0.00854758329853815
+Arthritis, Rheumatoid	proguanil	0	0.00525450610556538
+Arthritis, Rheumatoid	promazine	1.14285714285714	0.0877758508374384
+Arthritis, Rheumatoid	promethazine	1.18181818181818	0.0768096818103265
+Arthritis, Rheumatoid	propafenone	0.5	0.0209206796003881
+Arthritis, Rheumatoid	propanoic acid	2	0.998682052385562
+Arthritis, Rheumatoid	propantheline	2	0.75937400108276
+Arthritis, Rheumatoid	proparacaine	2	0.656466702479979
+Arthritis, Rheumatoid	propiomazine	1.14285714285714	0.0882394986551091
+Arthritis, Rheumatoid	propiverine	1.28571428571429	0.283990289136408
+Arthritis, Rheumatoid	propofol	1.86666666666667	0.942945322342537
+Arthritis, Rheumatoid	propoxycaine	1.42857142857143	0.336882474733864
+Arthritis, Rheumatoid	propranolol	0.8	0.00444564850099592
+Arthritis, Rheumatoid	propyl alcohol	1	0.454795947408348
+Arthritis, Rheumatoid	propylene glycol	0	0.0107241100216758
+Arthritis, Rheumatoid	propylhexedrine	2	0.74466542673994
+Arthritis, Rheumatoid	propylthiouracil	2	0.601980538460934
+Arthritis, Rheumatoid	protamine sulfate	1	0.362729643687478
+Arthritis, Rheumatoid	protein s human	0.666666666666667	0.0433620679029387
+Arthritis, Rheumatoid	prothrombin	0.5	0.00431850096304357
+Arthritis, Rheumatoid	protirelin	2	0.679454089019012
+Arthritis, Rheumatoid	protokylol	0	0.0828311253611191
+Arthritis, Rheumatoid	protriptyline	1	0.250618758965203
+Arthritis, Rheumatoid	prucalopride	1	0.0707715833997436
+Arthritis, Rheumatoid	pseudoephedrine	0.714285714285714	0.00139800392642148
+Arthritis, Rheumatoid	pyrantel	2	0.720271470431409
+Arthritis, Rheumatoid	pyrethrum extract	1	0.484989796885206
+Arthritis, Rheumatoid	pyridostigmine	1	0.0521106064840071
+Arthritis, Rheumatoid	pyridoxal phosphate	1.40816326530612	0.694636652704841
+Arthritis, Rheumatoid	pyridoxine	1	0.347980765933984
+Arthritis, Rheumatoid	pyrimethamine	0.5	0.0610033375385353
+Arthritis, Rheumatoid	pyruvic acid	1.5	0.601365627275681
+Arthritis, Rheumatoid	quazepam	1.8	0.858568357599445
+Arthritis, Rheumatoid	quetiapine	1.38461538461538	0.497416087359659
+Arthritis, Rheumatoid	quinagolide	1.33333333333333	0.587871624378718
+Arthritis, Rheumatoid	quinapril	0	0.0146637086171286
+Arthritis, Rheumatoid	quinethazone	1	0.0653443689225805
+Arthritis, Rheumatoid	quinidine	1.16666666666667	0.345555879785535
+Arthritis, Rheumatoid	quinidine barbiturate	1.4	0.549621669538177
+Arthritis, Rheumatoid	quinine	2	0.905892792965079
+Arthritis, Rheumatoid	rabeprazole	1	0.599239516386724
+Arthritis, Rheumatoid	racepinephrine	1	0.0831536900633011
+Arthritis, Rheumatoid	raloxifene	0.5	0.546040953290993
+Arthritis, Rheumatoid	raltitrexed	0	7.14954984029423e-06
+Arthritis, Rheumatoid	ramelteon	0	1.58970662223878e-05
+Arthritis, Rheumatoid	ramipril	0.5	0.0133350842594505
+Arthritis, Rheumatoid	ramucirumab	1	0.599239516386724
+Arthritis, Rheumatoid	ranibizumab	0	7.20502530022551e-05
+Arthritis, Rheumatoid	ranitidine	2	0.917742668496158
+Arthritis, Rheumatoid	ranolazine	1.44	0.506927402069713
+Arthritis, Rheumatoid	rapacuronium	2	0.898414003550572
+Arthritis, Rheumatoid	rasagiline	1	0.250733147743253
+Arthritis, Rheumatoid	ravulizumab	0	0.0174359267135294
+Arthritis, Rheumatoid	reboxetine	2	0.785056455360617
+Arthritis, Rheumatoid	regadenoson	0	0.0197748428916373
+Arthritis, Rheumatoid	regorafenib	0.888888888888889	0.476813537792211
+Arthritis, Rheumatoid	remdesivir	1	0.515010203114794
+Arthritis, Rheumatoid	remifentanil	1.66666666666667	0.99371779694914
+Arthritis, Rheumatoid	remoxipride	0.8	0.0495709823874695
+Arthritis, Rheumatoid	repaglinide	1.5	0.878716248720469
+Arthritis, Rheumatoid	rescinnamine	0	0.0231339538507228
+Arthritis, Rheumatoid	reserpine	1	0.176617933032678
+Arthritis, Rheumatoid	reslizumab	2	0.634758496127105
+Arthritis, Rheumatoid	resorcinol	2	0.648476303192096
+Arthritis, Rheumatoid	resveratrol	0.695652173913043	7.31900568183166e-05
+Arthritis, Rheumatoid	reteplase	0.75	0.0921852242889643
+Arthritis, Rheumatoid	revefenacin	1.4	0.220723104343278
+Arthritis, Rheumatoid	ribavirin	1	0.155228418658064
+Arthritis, Rheumatoid	ribociclib	0.5	0.0781326590420571
+Arthritis, Rheumatoid	riboflavin	1.5	0.38567271794326
+Arthritis, Rheumatoid	ribostamycin	1	0.590280184349119
+Arthritis, Rheumatoid	rifampicin	1	0.539827837277029
+Arthritis, Rheumatoid	rifaximin	1	0.5
+Arthritis, Rheumatoid	rilmenidine	1	0.326585213894444
+Arthritis, Rheumatoid	rilonacept	0	2.41319535289802e-05
+Arthritis, Rheumatoid	rilpivirine	1	0.585500004359447
+Arthritis, Rheumatoid	riluzole	1	0.27349815740043
+Arthritis, Rheumatoid	rimexolone	0	0.0828311253611191
+Arthritis, Rheumatoid	rimonabant	1	0.244143902589468
+Arthritis, Rheumatoid	riociguat	1	0.302058790150911
+Arthritis, Rheumatoid	risankizumab	0	0.000189308087141879
+Arthritis, Rheumatoid	risedronic acid	1	0.40282965411418
+Arthritis, Rheumatoid	risperidone	1.26666666666667	0.516230892468447
+Arthritis, Rheumatoid	ritodrine	0	0.0466151774612966
+Arthritis, Rheumatoid	ritonavir	1	0.532482826449721
+Arthritis, Rheumatoid	rituximab	1	0.371469100933172
+Arthritis, Rheumatoid	rivaroxaban	1	0.483063994699971
+Arthritis, Rheumatoid	rivastigmine	1	0.0474576782124204
+Arthritis, Rheumatoid	rizatriptan	2.33333333333333	0.971527475320767
+Arthritis, Rheumatoid	rocuronium	2	0.933277313635838
+Arthritis, Rheumatoid	rofecoxib	0.5	0.0265343786550731
+Arthritis, Rheumatoid	roflumilast	1.5	0.749932381938541
+Arthritis, Rheumatoid	rolapitant	0	0.00610967222308836
+Arthritis, Rheumatoid	romidepsin	0.8	0.00217036280337557
+Arthritis, Rheumatoid	romiplostim	1	0.306623359753351
+Arthritis, Rheumatoid	romosozumab	0	0.000975801560496466
+Arthritis, Rheumatoid	ropinirole	1.33333333333333	0.646418607069152
+Arthritis, Rheumatoid	ropivacaine	2	0.652522749559522
+Arthritis, Rheumatoid	rosiglitazone	0.857142857142857	0.414924116304498
+Arthritis, Rheumatoid	rosuvastatin	1	0.309420465698755
+Arthritis, Rheumatoid	rotigotine	1.42857142857143	0.768887016574722
+Arthritis, Rheumatoid	roxithromycin	0	0.00743374736811149
+Arthritis, Rheumatoid	rucaparib	0.666666666666667	0.100718996910165
+Arthritis, Rheumatoid	rufinamide	1	0.481274004266148
+Arthritis, Rheumatoid	rupatadine	1	0.156030173245014
+Arthritis, Rheumatoid	rutin	1.5	0.847608862454569
+Arthritis, Rheumatoid	ruxolitinib	0.5	0.088507991437402
+Arthritis, Rheumatoid	safinamide	2	0.702218205881302
+Arthritis, Rheumatoid	salbutamol	0	1.15458185951497e-06
+Arthritis, Rheumatoid	salicylic acid	0.666666666666667	0.0141909077389714
+Arthritis, Rheumatoid	salmeterol	0	2.28775805822235e-05
+Arthritis, Rheumatoid	salmon calcitonin	0	0.00789712871243673
+Arthritis, Rheumatoid	salsalate	0	0.000394835290263179
+Arthritis, Rheumatoid	sapropterin	1.25	0.42407265056649
+Arthritis, Rheumatoid	sargramostim	1	0.313785585210132
+Arthritis, Rheumatoid	sarilumab	0	9.84000425912593e-16
+Arthritis, Rheumatoid	saxagliptin	0	3.24681988655479e-05
+Arthritis, Rheumatoid	scopolamine	1.5	0.344623222626702
+Arthritis, Rheumatoid	secobarbital	1.58823529411765	0.924021305956818
+Arthritis, Rheumatoid	secretin human	2	0.90205527648214
+Arthritis, Rheumatoid	secukinumab	0	0.00343547126662879
+Arthritis, Rheumatoid	segesterone acetate	0	0.00247132596698394
+Arthritis, Rheumatoid	selegiline	1.5	0.250725026362194
+Arthritis, Rheumatoid	selexipag	1	0.492060084858238
+Arthritis, Rheumatoid	selinexor	0	0.0597526250645845
+Arthritis, Rheumatoid	semaglutide	2	0.999178881507179
+Arthritis, Rheumatoid	sennosides	2	0.7313607281088
+Arthritis, Rheumatoid	seractide acetate	2	0.802629147393496
+Arthritis, Rheumatoid	sermorelin	1	0.124459658528421
+Arthritis, Rheumatoid	sertindole	1	0.159259791354319
+Arthritis, Rheumatoid	sertraline	1	0.200520043123336
+Arthritis, Rheumatoid	sevoflurane	1.66666666666667	0.783510075329126
+Arthritis, Rheumatoid	sibutramine	1	0.189292968632387
+Arthritis, Rheumatoid	sildenafil	1.33333333333333	0.362524019776724
+Arthritis, Rheumatoid	silicon dioxide	2	0.626582911591458
+Arthritis, Rheumatoid	silodosin	1.33333333333333	0.48826299030563
+Arthritis, Rheumatoid	siltuximab	0	0.00166773422131117
+Arthritis, Rheumatoid	silver	1.53846153846154	0.60773115565374
+Arthritis, Rheumatoid	simoctocog alfa	1	0.407311237130003
+Arthritis, Rheumatoid	simvastatin	1	0.287966992416682
+Arthritis, Rheumatoid	siponimod	2	0.933995675434395
+Arthritis, Rheumatoid	sipuleucel-t	2	0.70814789630607
+Arthritis, Rheumatoid	sirolimus	1	0.551533360387653
+Arthritis, Rheumatoid	sitagliptin	0	2.43250370925518e-05
+Arthritis, Rheumatoid	sitaxentan	0.5	0.0329480017549051
+Arthritis, Rheumatoid	sodium carbonate	1	0.0678919716383241
+Arthritis, Rheumatoid	sodium ferric gluconate complex	1.75	0.980930527213722
+Arthritis, Rheumatoid	sodium sulfate	0.5	0.0163171436633248
+Arthritis, Rheumatoid	sodium tetradecyl sulfate	1	0.27838169083712
+Arthritis, Rheumatoid	solifenacin	1.4	0.294583967667054
+Arthritis, Rheumatoid	solriamfetol	1.5	0.603068068133738
+Arthritis, Rheumatoid	somatostatin	1.8	0.963725583119487
+Arthritis, Rheumatoid	somatotropin	1	0.491721969753225
+Arthritis, Rheumatoid	somatrem	1	0.539827837277029
+Arthritis, Rheumatoid	sonidegib	2	0.940339918502362
+Arthritis, Rheumatoid	sorafenib	0.8	0.372122067883643
+Arthritis, Rheumatoid	sotalol	0.333333333333333	0.0123907357379234
+Arthritis, Rheumatoid	soybean oil	1	0.594351872130646
+Arthritis, Rheumatoid	sparfloxacin	1	0.629927932097713
+Arthritis, Rheumatoid	spirapril	0	0.0230120620528935
+Arthritis, Rheumatoid	spironolactone	1.3	0.131559697001809
+Arthritis, Rheumatoid	stanozolol	0	0.155031410571942
+Arthritis, Rheumatoid	stearic acid	1	0.0907783254152794
+Arthritis, Rheumatoid	stiripentol	1.73333333333333	0.886436610142962
+Arthritis, Rheumatoid	streptokinase	1	0.539827837277029
+Arthritis, Rheumatoid	streptomycin	0	0.0124285826422103
+Arthritis, Rheumatoid	streptozocin	1.5	0.783944498078726
+Arthritis, Rheumatoid	succinic acid	1.35	0.875634896248885
+Arthritis, Rheumatoid	succinylcholine	1.33333333333333	0.462713238498771
+Arthritis, Rheumatoid	sucralfate	0.6	0.00496040300918018
+Arthritis, Rheumatoid	sufentanil	1.66666666666667	0.992974311845591
+Arthritis, Rheumatoid	sulfamethoxazole	0	0.000370197764702743
+Arthritis, Rheumatoid	sulfasalazine	0.7	0.00194809227880716
+Arthritis, Rheumatoid	sulfinpyrazone	0.75	0.0575008919659028
+Arthritis, Rheumatoid	sulindac	0.857142857142857	0.0133169303608187
+Arthritis, Rheumatoid	sulodexide	1	0.138589172606812
+Arthritis, Rheumatoid	sulpiride	1.25	0.419458724667716
+Arthritis, Rheumatoid	sumatriptan	2.25	0.97614029422306
+Arthritis, Rheumatoid	sunitinib	0.875	0.336633260005312
+Arthritis, Rheumatoid	suprofen	0	0.000669800310115333
+Arthritis, Rheumatoid	susoctocog alfa	1	0.509108092805775
+Arthritis, Rheumatoid	suvorexant	2	0.774710125077741
+Arthritis, Rheumatoid	tacrine	1.33333333333333	0.19489982215531
+Arthritis, Rheumatoid	tacrolimus	1	0.57592734943351
+Arthritis, Rheumatoid	tadalafil	2	0.748149345982921
+Arthritis, Rheumatoid	tafamidis	1	0.532482826449721
+Arthritis, Rheumatoid	tafluprost	2	0.748354210523905
+Arthritis, Rheumatoid	tagraxofusp	1.5	0.853500205987967
+Arthritis, Rheumatoid	talazoparib	0.5	0.168165781882537
+Arthritis, Rheumatoid	talbutal	1.76470588235294	0.930831434195055
+Arthritis, Rheumatoid	tamoxifen	0.764705882352941	0.388615494013277
+Arthritis, Rheumatoid	tamsulosin	1.33333333333333	0.545616746217848
+Arthritis, Rheumatoid	tapentadol	1.33333333333333	0.692823527626538
+Arthritis, Rheumatoid	tasimelteon	0	0.000299977209168824
+Arthritis, Rheumatoid	tasonermin	0	0.00263194038870109
+Arthritis, Rheumatoid	taurine	1.6875	0.782746939162415
+Arthritis, Rheumatoid	taurocholic acid	1.5	0.664188705146085
+Arthritis, Rheumatoid	tazarotene	1	0.688889622633327
+Arthritis, Rheumatoid	technetium tc-99m nofetumomab merpentan	1	0.0834163164776463
+Arthritis, Rheumatoid	technetium tc-99m tilmanocept	2	0.712711692525709
+Arthritis, Rheumatoid	teduglutide	2	0.689481932081082
+Arthritis, Rheumatoid	tegafur	0	0.000756915782773437
+Arthritis, Rheumatoid	tegafur-uracil	0	4.46872497587731e-05
+Arthritis, Rheumatoid	tegaserod	0.75	0.000670709586691326
+Arthritis, Rheumatoid	telaprevir	2	0.538314792755411
+Arthritis, Rheumatoid	telmisartan	0.5	0.183338059177379
+Arthritis, Rheumatoid	telotristat ethyl	1	0.0424109272029303
+Arthritis, Rheumatoid	temazepam	1.8125	0.89586246003754
+Arthritis, Rheumatoid	tenapanor	2	0.899213363880163
+Arthritis, Rheumatoid	tenecteplase	0.818181818181818	0.0147328054144023
+Arthritis, Rheumatoid	teniposide	1	0.62282512785252
+Arthritis, Rheumatoid	tenoxicam	0	0.000149426644130322
+Arthritis, Rheumatoid	terazosin	1.2	0.277278437144049
+Arthritis, Rheumatoid	terbinafine	2	0.775903459682176
+Arthritis, Rheumatoid	terbutaline	0	4.87185338100814e-05
+Arthritis, Rheumatoid	terfenadine	1.28571428571429	0.195885299791722
+Arthritis, Rheumatoid	teriflunomide	0	0.0124161433813674
+Arthritis, Rheumatoid	teriparatide	2	0.913343411794921
+Arthritis, Rheumatoid	terlipressin	2	0.958805750413547
+Arthritis, Rheumatoid	tesamorelin	1	0.0979447235178599
+Arthritis, Rheumatoid	testolactone	0	0.00226386904211275
+Arthritis, Rheumatoid	testosterone	0.333333333333333	0.30697935481696
+Arthritis, Rheumatoid	testosterone cypionate	0.333333333333333	0.277341916373481
+Arthritis, Rheumatoid	testosterone enanthate	0.333333333333333	0.185027728582271
+Arthritis, Rheumatoid	testosterone propionate	0	0.130825545294118
+Arthritis, Rheumatoid	testosterone undecanoate	0.333333333333333	0.230079023872261
+Arthritis, Rheumatoid	tetrabenazine	1.5	0.704672991404271
+Arthritis, Rheumatoid	tetracaine	1.33333333333333	0.35447434470825
+Arthritis, Rheumatoid	tetrachlorodecaoxide	1	0.200881463637116
+Arthritis, Rheumatoid	tetracosactide	2	0.801056558037696
+Arthritis, Rheumatoid	tetracycline	0.5	0.0385616735745122
+Arthritis, Rheumatoid	tetradecyl hydrogen sulfate (ester)	1	0.286989952940116
+Arthritis, Rheumatoid	tetraferric tricitrate decahydrate	1	0.690579534301245
+Arthritis, Rheumatoid	tetryzoline	1	0.290976804233318
+Arthritis, Rheumatoid	thalidomide	0.571428571428571	0.0020376000457602
+Arthritis, Rheumatoid	theophylline	1.07142857142857	0.139582368785641
+Arthritis, Rheumatoid	thiamine	2	0.623229760077832
+Arthritis, Rheumatoid	thiamylal	2.33333333333333	0.993650979996463
+Arthritis, Rheumatoid	thiethylperazine	1	0.297781794118698
+Arthritis, Rheumatoid	thimerosal	1	0.081277059504532
+Arthritis, Rheumatoid	thiopental	1.58333333333333	0.582445760869886
+Arthritis, Rheumatoid	thioridazine	0.833333333333333	0.0669103888208719
+Arthritis, Rheumatoid	thiothixene	0.666666666666667	0.043340073340406
+Arthritis, Rheumatoid	thonzonium	1	0.629927932097713
+Arthritis, Rheumatoid	thonzylamine	1.33333333333333	0.249563869805735
+Arthritis, Rheumatoid	threonine	1.33333333333333	0.557740724492194
+Arthritis, Rheumatoid	thrombin	0.7	0.000181008879359931
+Arthritis, Rheumatoid	thrombin alfa	0.625	0.000190256055613977
+Arthritis, Rheumatoid	thrombomodulin alfa	0	0.000142298911495665
+Arthritis, Rheumatoid	thyrotropin alfa	0	0.00495304914046106
+Arthritis, Rheumatoid	tiagabine	2	0.62282512785252
+Arthritis, Rheumatoid	tiaprofenic acid	0	0.000202810842418635
+Arthritis, Rheumatoid	ticagrelor	2	0.515577397852868
+Arthritis, Rheumatoid	ticlopidine	2	0.449264695465761
+Arthritis, Rheumatoid	tildrakizumab	0	0.00291996759719845
+Arthritis, Rheumatoid	tiludronic acid	1	0.643348413060771
+Arthritis, Rheumatoid	timolol	0	0.00716101182692848
+Arthritis, Rheumatoid	tinzaparin	0.333333333333333	0.0121801208417895
+Arthritis, Rheumatoid	tioconazole	1	0.297371775078432
+Arthritis, Rheumatoid	tiotropium	1.4	0.333488697532121
+Arthritis, Rheumatoid	tipiracil	1	0.272551233636201
+Arthritis, Rheumatoid	tirofiban	1	0.461685207244589
+Arthritis, Rheumatoid	tisagenlecleucel	0	0.00549697586756374
+Arthritis, Rheumatoid	titanium dioxide	2	0.625149391500964
+Arthritis, Rheumatoid	tixocortol	0.5	0.0781326590420571
+Arthritis, Rheumatoid	tizanidine	1.42857142857143	0.670957355928763
+Arthritis, Rheumatoid	tocainide	1	0.466065877768001
+Arthritis, Rheumatoid	tocilizumab	0	0.00794030964911151
+Arthritis, Rheumatoid	tocofersolan	0	0.00344218137235557
+Arthritis, Rheumatoid	tofacitinib	0.25	0.000116584785990849
+Arthritis, Rheumatoid	tolazamide	2.5	0.995653896607195
+Arthritis, Rheumatoid	tolazoline	1.5	0.531488637123491
+Arthritis, Rheumatoid	tolbutamide	2	0.890912072975891
+Arthritis, Rheumatoid	tolcapone	1	0.527362905438575
+Arthritis, Rheumatoid	tolfenamic acid	0	7.27086212157078e-05
+Arthritis, Rheumatoid	tolmetin	0	0.000114478232748311
+Arthritis, Rheumatoid	tolterodine	1.4	0.28109412712382
+Arthritis, Rheumatoid	tolvaptan	2	0.964069680887074
+Arthritis, Rheumatoid	topiramate	1.5	0.543314574105682
+Arthritis, Rheumatoid	topotecan	1	0.044565462758543
+Arthritis, Rheumatoid	torasemide	1.5	0.470358446034537
+Arthritis, Rheumatoid	toremifene	0.5	0.590280184349119
+Arthritis, Rheumatoid	tositumomab	0.1	3.78698190936435e-15
+Arthritis, Rheumatoid	tramadol	1.31818181818182	0.637710712644759
+Arthritis, Rheumatoid	trametinib	0.5	0.0366723993108426
+Arthritis, Rheumatoid	trandolapril	0	0.0157595530055813
+Arthritis, Rheumatoid	tranexamic acid	1	0.569452950120241
+Arthritis, Rheumatoid	tranylcypromine	1.5	0.33847444920445
+Arthritis, Rheumatoid	trastuzumab	0.166666666666667	3.36315160421342e-16
+Arthritis, Rheumatoid	trastuzumab deruxtecan	0.5	0.0261257512622351
+Arthritis, Rheumatoid	travoprost	2	0.725206377980299
+Arthritis, Rheumatoid	trazodone	0.857142857142857	0.0171431393754464
+Arthritis, Rheumatoid	treprostinil	1.33333333333333	0.483551703886947
+Arthritis, Rheumatoid	triamcinolone	0	0.0642720250089849
+Arthritis, Rheumatoid	triamterene	0.75	0.0436603036872758
+Arthritis, Rheumatoid	triazolam	1.8125	0.900908652901421
+Arthritis, Rheumatoid	trichlormethiazide	1	0.163114894498633
+Arthritis, Rheumatoid	triclosan	0.8	0.241388208604781
+Arthritis, Rheumatoid	trifarotene	1	0.646706410279848
+Arthritis, Rheumatoid	trifluoperazine	1.33333333333333	0.811067456565646
+Arthritis, Rheumatoid	triflupromazine	1.4	0.651701892312734
+Arthritis, Rheumatoid	trifluridine	0	0.0081165754106084
+Arthritis, Rheumatoid	triflusal	0.5	0.0193332037334708
+Arthritis, Rheumatoid	trihexyphenidyl	1.4	0.210115283414543
+Arthritis, Rheumatoid	trilostane	0.666666666666667	0.515161180908251
+Arthritis, Rheumatoid	trimebutine	1.58333333333333	0.92059093811215
+Arthritis, Rheumatoid	trimetazidine	2	0.969616659790337
+Arthritis, Rheumatoid	trimethadione	2	0.61665803552731
+Arthritis, Rheumatoid	trimethoprim	0	5.02768867908873e-05
+Arthritis, Rheumatoid	trimetrexate	0	0.0148341364657234
+Arthritis, Rheumatoid	trimipramine	1.125	0.023866246845306
+Arthritis, Rheumatoid	tripelennamine	1	0.251645789476095
+Arthritis, Rheumatoid	triprolidine	1	0.2686392718912
+Arthritis, Rheumatoid	triptorelin	2	0.633552798967032
+Arthritis, Rheumatoid	troglitazone	0.777777777777778	0.0832078931221642
+Arthritis, Rheumatoid	trolamine salicylate	0	4.46872497587731e-05
+Arthritis, Rheumatoid	troleandomycin	1	0.565406593191326
+Arthritis, Rheumatoid	tromethamine	1.2	0.0781326590420571
+Arthritis, Rheumatoid	tropicamide	1.25	0.237884486492796
+Arthritis, Rheumatoid	tropisetron	1	0.145634116043317
+Arthritis, Rheumatoid	trospium	2	0.703256859031327
+Arthritis, Rheumatoid	trovafloxacin	1	0.629927932097713
+Arthritis, Rheumatoid	tryptophan	1.5	0.70074909618683
+Arthritis, Rheumatoid	tuberculin purified protein derivative	0	3.24681988655479e-05
+Arthritis, Rheumatoid	tubocurarine	1.75	0.820875090339032
+Arthritis, Rheumatoid	turoctocog alfa	0.666666666666667	0.0563042610367588
+Arthritis, Rheumatoid	turoctocog alfa pegol	0.666666666666667	0.0641942830177821
+Arthritis, Rheumatoid	tyloxapol	1	0.575384501557404
+Arthritis, Rheumatoid	tyrosine	1.5	0.812472838278543
+Arthritis, Rheumatoid	tyrothricin	2	0.940745760034524
+Arthritis, Rheumatoid	ubidecarenone	1	0.511971914797816
+Arthritis, Rheumatoid	ubrogepant	0	0.00554365633609041
+Arthritis, Rheumatoid	udenafil	2	0.764013890622623
+Arthritis, Rheumatoid	ulipristal	0	0.00380491323460633
+Arthritis, Rheumatoid	ulobetasol	0	0.0466151774612966
+Arthritis, Rheumatoid	umeclidinium	1.4	0.285426222675178
+Arthritis, Rheumatoid	upadacitinib	1	0.629927932097713
+Arthritis, Rheumatoid	urea	1	0.377421058024996
+Arthritis, Rheumatoid	urofollitropin	1	0.404653594320306
+Arthritis, Rheumatoid	urokinase	0.7	0.00249679803467768
+Arthritis, Rheumatoid	ursodeoxycholic acid	1.5	0.5
+Arthritis, Rheumatoid	ustekinumab	0	0.000162994090182695
+Arthritis, Rheumatoid	valdecoxib	1	0.0770931069206467
+Arthritis, Rheumatoid	valine	1.33333333333333	0.81593987465324
+Arthritis, Rheumatoid	valproic acid	1.38888888888889	0.716960910016569
+Arthritis, Rheumatoid	valrubicin	1	0.662018518600356
+Arthritis, Rheumatoid	valsartan	1	0.449519206289237
+Arthritis, Rheumatoid	vandetanib	0.6	0.181587526034606
+Arthritis, Rheumatoid	vardenafil	1.33333333333333	0.333209424462438
+Arthritis, Rheumatoid	varenicline	1.5	0.5
+Arthritis, Rheumatoid	vasopressin	2	0.937636096021233
+Arthritis, Rheumatoid	vecuronium	3	0.985251262048608
+Arthritis, Rheumatoid	vedolizumab	0.5	0.52486308080937
+Arthritis, Rheumatoid	velaglucerase alfa	1	0.610462983720318
+Arthritis, Rheumatoid	vemurafenib	1	0.615393999131272
+Arthritis, Rheumatoid	venetoclax	0	0.0089291314988845
+Arthritis, Rheumatoid	venlafaxine	1	0.242175325640427
+Arthritis, Rheumatoid	verapamil	1.27272727272727	0.487710992509226
+Arthritis, Rheumatoid	vernakalant	1	0.399942923285803
+Arthritis, Rheumatoid	vigabatrin	1.5	0.542535818263789
+Arthritis, Rheumatoid	vilanterol	0	0.116321074396589
+Arthritis, Rheumatoid	vilazodone	1	0.271664936184579
+Arthritis, Rheumatoid	vildagliptin	0	0.00313750194961989
+Arthritis, Rheumatoid	viloxazine	2	0.793285612424399
+Arthritis, Rheumatoid	vinblastine	1.16666666666667	0.615466522925053
+Arthritis, Rheumatoid	vincristine	1	0.82561461744185
+Arthritis, Rheumatoid	vindesine	1	0.62282512785252
+Arthritis, Rheumatoid	vinflunine	1	0.82561461744185
+Arthritis, Rheumatoid	vinorelbine	1	0.849809281466247
+Arthritis, Rheumatoid	vismodegib	2	0.929228416600256
+Arthritis, Rheumatoid	vitamin a	1.82352941176471	0.950868598309316
+Arthritis, Rheumatoid	vitamin d	0	0.000552824704103315
+Arthritis, Rheumatoid	vitamin e	1	0.155571210068969
+Arthritis, Rheumatoid	von willebrand factor human	1	0.486763653916883
+Arthritis, Rheumatoid	vonicog alfa	1	0.564732057656075
+Arthritis, Rheumatoid	vorapaxar	1	0.480136231299757
+Arthritis, Rheumatoid	voretigene neparvovec	2	0.658641208782744
+Arthritis, Rheumatoid	vorinostat	1	0.590280184349119
+Arthritis, Rheumatoid	vortioxetine	1.14285714285714	0.168906528752686
+Arthritis, Rheumatoid	voxelotor	2	0.886548242236068
+Arthritis, Rheumatoid	warfarin	0.5	0.0685947573075874
+Arthritis, Rheumatoid	xamoterol	0	0.00431221996018381
+Arthritis, Rheumatoid	xanthinol	1	0.403667826239901
+Arthritis, Rheumatoid	ximelagatran	0	0.00196985565512884
+Arthritis, Rheumatoid	xylometazoline	1.5	0.707768546257944
+Arthritis, Rheumatoid	yohimbine	1.58823529411765	0.964908677409761
+Arthritis, Rheumatoid	zafirlukast	3	0.994747112169684
+Arthritis, Rheumatoid	zaleplon	2	0.845936658675607
+Arthritis, Rheumatoid	zanamivir	2	0.537147451489957
+Arthritis, Rheumatoid	zanubrutinib	0.666666666666667	0.00466832522193855
+Arthritis, Rheumatoid	zidovudine	1	0.539827837277029
+Arthritis, Rheumatoid	zileuton	1	0.427460010658366
+Arthritis, Rheumatoid	zimelidine	1	0.0702325240791776
+Arthritis, Rheumatoid	zinc	0.947826086956522	3.08513985965753e-07
+Arthritis, Rheumatoid	zinc acetate	0.947826086956522	2.77822467332209e-10
+Arthritis, Rheumatoid	zinc chloride	0.947826086956522	2.02468783744012e-08
+Arthritis, Rheumatoid	ziprasidone	1.36	0.385828248413963
+Arthritis, Rheumatoid	zofenopril	0	0.00810168050613629
+Arthritis, Rheumatoid	zoledronic acid	1.5	0.477056880824563
+Arthritis, Rheumatoid	zolmitriptan	2.25	0.983469498091077
+Arthritis, Rheumatoid	zolpidem	1.75	0.589726131998202
+Arthritis, Rheumatoid	zonisamide	1.68	0.784454913743668
+Arthritis, Rheumatoid	zopiclone	1.8	0.656432201496278
+Arthritis, Rheumatoid	zotepine	1	0.095060308082268
+Arthritis, Rheumatoid	zucapsaicin	1	0.32587579081213
+Arthritis, Rheumatoid	zuclopenthixol	1	0.0901402845245816

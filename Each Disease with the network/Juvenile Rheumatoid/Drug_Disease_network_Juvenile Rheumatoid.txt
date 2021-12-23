@@ -1,0 +1,1811 @@
+disease	drug	proximity	pval
+Arthritis, Juvenile Rheumatoid	2-mercaptobenzothiazole	3	0.999862737166056
+Arthritis, Juvenile Rheumatoid	5-o-phosphono-alpha-d-ribofuranosyl diphosphate	1.33333333333333	0.0226421482720282
+Arthritis, Juvenile Rheumatoid	5cocktail	1.5	0.0159980143806222
+Arthritis, Juvenile Rheumatoid	abacavir	0	0.207838699590591
+Arthritis, Juvenile Rheumatoid	abaloparatide	2	0.704237510086487
+Arthritis, Juvenile Rheumatoid	abarelix	2	0.411941065699398
+Arthritis, Juvenile Rheumatoid	abatacept	0.5	3.67906982563153e-10
+Arthritis, Juvenile Rheumatoid	abciximab	1.61538461538462	0.122588457653674
+Arthritis, Juvenile Rheumatoid	abemaciclib	0.5	0.137546188317945
+Arthritis, Juvenile Rheumatoid	abiraterone	2	0.602636552769861
+Arthritis, Juvenile Rheumatoid	acalabrutinib	1	0.332054137048753
+Arthritis, Juvenile Rheumatoid	acamprosate	1.95238095238095	0.636144280562698
+Arthritis, Juvenile Rheumatoid	acarbose	1.5	0.00174931615201128
+Arthritis, Juvenile Rheumatoid	acebutolol	1	0.194308544462939
+Arthritis, Juvenile Rheumatoid	aceclofenac	2	0.737075105632517
+Arthritis, Juvenile Rheumatoid	acemetacin	2	0.730114899667302
+Arthritis, Juvenile Rheumatoid	acenocoumarol	1	0.218002487463221
+Arthritis, Juvenile Rheumatoid	acetaminophen	1.75	0.633135002151876
+Arthritis, Juvenile Rheumatoid	acetazolamide	2	0.637093254980052
+Arthritis, Juvenile Rheumatoid	acetohexamide	2	0.663277068561605
+Arthritis, Juvenile Rheumatoid	acetohydroxamic acid	2	0.608710552977649
+Arthritis, Juvenile Rheumatoid	acetophenazine	1.33333333333333	0.222089657561552
+Arthritis, Juvenile Rheumatoid	acetylcholine	1.83333333333333	0.223064116881266
+Arthritis, Juvenile Rheumatoid	acetylcysteine	1.6	0.537449403712529
+Arthritis, Juvenile Rheumatoid	acetyldigitoxin	1	0.232658061024763
+Arthritis, Juvenile Rheumatoid	acetylsalicylic acid	1.42857142857143	0.753720235451004
+Arthritis, Juvenile Rheumatoid	acitretin	1.14285714285714	0.0487199036481533
+Arthritis, Juvenile Rheumatoid	aclidinium	1.8	0.143111577524079
+Arthritis, Juvenile Rheumatoid	acrivastine	1	6.11031905461104e-09
+Arthritis, Juvenile Rheumatoid	adalimumab	0	0.00988956202926295
+Arthritis, Juvenile Rheumatoid	adapalene	1.14285714285714	0.0326749355284835
+Arthritis, Juvenile Rheumatoid	ademetionine	1.625	0.0597577751677782
+Arthritis, Juvenile Rheumatoid	adenine	1.5	0.15776056636257
+Arthritis, Juvenile Rheumatoid	adenosine	1.25	0.00157680774330576
+Arthritis, Juvenile Rheumatoid	adenosine phosphate	1.6	0.327325721779398
+Arthritis, Juvenile Rheumatoid	afamelanotide	2	0.648476303192096
+Arthritis, Juvenile Rheumatoid	afatinib	1	0.203428523821845
+Arthritis, Juvenile Rheumatoid	aflibercept	2.66666666666667	0.99997797722792
+Arthritis, Juvenile Rheumatoid	agkistrodon piscivorus antivenin	3	0.985067608337573
+Arthritis, Juvenile Rheumatoid	agomelatine	2	0.800859088180412
+Arthritis, Juvenile Rheumatoid	ajmaline	2	0.701397079231245
+Arthritis, Juvenile Rheumatoid	albendazole	1	0.392435668554897
+Arthritis, Juvenile Rheumatoid	albiglutide	2	0.81593987465324
+Arthritis, Juvenile Rheumatoid	albutrepenonacog alfa	2	0.732140643904647
+Arthritis, Juvenile Rheumatoid	alcaftadine	1	0.00495439390502486
+Arthritis, Juvenile Rheumatoid	alclofenac	2	0.777123544639358
+Arthritis, Juvenile Rheumatoid	aldesleukin	0.666666666666667	9.00090817289435e-05
+Arthritis, Juvenile Rheumatoid	alectinib	1	0.18406012534676
+Arthritis, Juvenile Rheumatoid	alefacept	1.6	0.0372562411850058
+Arthritis, Juvenile Rheumatoid	alemtuzumab	1.7	0.0661222037189809
+Arthritis, Juvenile Rheumatoid	alendronic acid	1.8	0.768950647941314
+Arthritis, Juvenile Rheumatoid	alfacalcidol	0.5	0.0202072542549996
+Arthritis, Juvenile Rheumatoid	alfentanil	2	0.791720028361604
+Arthritis, Juvenile Rheumatoid	alfuzosin	2	0.790388094013849
+Arthritis, Juvenile Rheumatoid	alglucosidase alfa	2	0.717170455962981
+Arthritis, Juvenile Rheumatoid	alimemazine	1	0.000137262833944128
+Arthritis, Juvenile Rheumatoid	alirocumab	2	0.680480040814262
+Arthritis, Juvenile Rheumatoid	aliskiren	2	0.610462983720318
+Arthritis, Juvenile Rheumatoid	alitretinoin	1.33333333333333	0.0567745330487167
+Arthritis, Juvenile Rheumatoid	allopurinol	2	0.528115198294818
+Arthritis, Juvenile Rheumatoid	almitrine	1	0.227761049963818
+Arthritis, Juvenile Rheumatoid	almotriptan	2.5	0.988760094842646
+Arthritis, Juvenile Rheumatoid	alogliptin	1	0.0383141933541994
+Arthritis, Juvenile Rheumatoid	alosetron	2	0.62282512785252
+Arthritis, Juvenile Rheumatoid	alpelisib	1	0.27525620658238
+Arthritis, Juvenile Rheumatoid	alpha-1-proteinase inhibitor	1	0.0509143357888951
+Arthritis, Juvenile Rheumatoid	alpha-linolenic acid	1.7	0.702851720165949
+Arthritis, Juvenile Rheumatoid	alpha-tocopherol succinate	1.33333333333333	0.134168487257967
+Arthritis, Juvenile Rheumatoid	alprazolam	2	0.288949669942758
+Arthritis, Juvenile Rheumatoid	alprostadil	1.66666666666667	0.0953270945466952
+Arthritis, Juvenile Rheumatoid	alteplase	2	0.962344311977623
+Arthritis, Juvenile Rheumatoid	aluminium	1.5	0.621387750603233
+Arthritis, Juvenile Rheumatoid	aluminium phosphate	1.5	0.519863768700243
+Arthritis, Juvenile Rheumatoid	aluminum acetate	1.5	0.530936048250347
+Arthritis, Juvenile Rheumatoid	aluminum chloride	2	0.71967755253324
+Arthritis, Juvenile Rheumatoid	alverine	2	0.643348413060771
+Arthritis, Juvenile Rheumatoid	alvimopan	1.66666666666667	0.406048458615097
+Arthritis, Juvenile Rheumatoid	amantadine	1.8	0.2393414336732
+Arthritis, Juvenile Rheumatoid	ambenonium	2	0.673753328496286
+Arthritis, Juvenile Rheumatoid	ambrisentan	2	0.727448766363799
+Arthritis, Juvenile Rheumatoid	amcinonide	1.5	0.94931114627627
+Arthritis, Juvenile Rheumatoid	amifampridine	2	0.651217293242611
+Arthritis, Juvenile Rheumatoid	amifostine	2	0.352794369308844
+Arthritis, Juvenile Rheumatoid	amiloride	2.125	0.977219966873641
+Arthritis, Juvenile Rheumatoid	aminocaproic acid	2	0.933995675434395
+Arthritis, Juvenile Rheumatoid	aminoglutethimide	1	0.000246241106472371
+Arthritis, Juvenile Rheumatoid	aminolevulinic acid	1	0.0199688854130538
+Arthritis, Juvenile Rheumatoid	aminophylline	1.5	0.123085347216271
+Arthritis, Juvenile Rheumatoid	aminosalicylic acid	1.33333333333333	0.243038381988665
+Arthritis, Juvenile Rheumatoid	amiodarone	1.57142857142857	0.343957534526783
+Arthritis, Juvenile Rheumatoid	amisulpride	1.75	0.656449105971642
+Arthritis, Juvenile Rheumatoid	amitriptyline	1.90625	0.755425340432307
+Arthritis, Juvenile Rheumatoid	amlexanox	1.75	0.212318904730908
+Arthritis, Juvenile Rheumatoid	amlodipine	2	0.637976195437706
+Arthritis, Juvenile Rheumatoid	amobarbital	2	0.522346810217828
+Arthritis, Juvenile Rheumatoid	amodiaquine	2	0.546040953290993
+Arthritis, Juvenile Rheumatoid	amoxapine	1.92682926829268	0.367185264614264
+Arthritis, Juvenile Rheumatoid	amphetamine	1.76470588235294	0.262629031838179
+Arthritis, Juvenile Rheumatoid	ampicillin	2.33333333333333	0.926757822766651
+Arthritis, Juvenile Rheumatoid	amrinone	1.5	0.164648763525241
+Arthritis, Juvenile Rheumatoid	amsacrine	1.25	0.0957415103620123
+Arthritis, Juvenile Rheumatoid	amyl nitrite	2	0.628408886831008
+Arthritis, Juvenile Rheumatoid	amylmetacresol	2	0.471884801705182
+Arthritis, Juvenile Rheumatoid	amylocaine	2	0.555049546535346
+Arthritis, Juvenile Rheumatoid	anagrelide	2	0.733163079974869
+Arthritis, Juvenile Rheumatoid	anakinra	0	0.000110240669660863
+Arthritis, Juvenile Rheumatoid	anastrozole	0	3.09203286925253e-09
+Arthritis, Juvenile Rheumatoid	ancestim	1	0.293290868807751
+Arthritis, Juvenile Rheumatoid	ancrod	2	0.741986367007745
+Arthritis, Juvenile Rheumatoid	andexanet alfa	2	0.701397079231245
+Arthritis, Juvenile Rheumatoid	angiotensin ii	2	0.737578529093946
+Arthritis, Juvenile Rheumatoid	anileridine	2	0.722330181576224
+Arthritis, Juvenile Rheumatoid	anisindione	2	0.67412420918787
+Arthritis, Juvenile Rheumatoid	anisotropine methylbromide	1.66666666666667	0.100751656360577
+Arthritis, Juvenile Rheumatoid	anistreplase	2	0.950389875002652
+Arthritis, Juvenile Rheumatoid	antazoline	1	0.00650238267099552
+Arthritis, Juvenile Rheumatoid	anthralin	1.66666666666667	0.514777254915897
+Arthritis, Juvenile Rheumatoid	anti-inhibitor coagulant complex	1.875	0.816531554839559
+Arthritis, Juvenile Rheumatoid	antihemophilic factor (recombinant), pegylated	2	0.747588459621979
+Arthritis, Juvenile Rheumatoid	antihemophilic factor human	2	0.658398271676732
+Arthritis, Juvenile Rheumatoid	antihemophilic factor, human recombinant	1.54545454545455	0.478976047158203
+Arthritis, Juvenile Rheumatoid	antipyrine	2	0.791794708667689
+Arthritis, Juvenile Rheumatoid	antithrombin alfa	2	0.864984842057043
+Arthritis, Juvenile Rheumatoid	antithrombin iii human	2	0.654490539014738
+Arthritis, Juvenile Rheumatoid	antithymocyte immunoglobulin (rabbit)	1.55555555555556	0.183744121756117
+Arthritis, Juvenile Rheumatoid	antrafenine	2	0.741986367007745
+Arthritis, Juvenile Rheumatoid	apalutamide	1.92857142857143	0.334876364364949
+Arthritis, Juvenile Rheumatoid	apixaban	2	0.717884749579625
+Arthritis, Juvenile Rheumatoid	apomorphine	2.13333333333333	0.98485563863721
+Arthritis, Juvenile Rheumatoid	apraclonidine	2	0.74769439472951
+Arthritis, Juvenile Rheumatoid	aprepitant	2	0.578054424127042
+Arthritis, Juvenile Rheumatoid	aprotinin	1.75	0.415986381827774
+Arthritis, Juvenile Rheumatoid	arbutamine	1	0.0423169315471019
+Arthritis, Juvenile Rheumatoid	arbutin	2	0.484989796885206
+Arthritis, Juvenile Rheumatoid	ardeparin	2	0.641816341539171
+Arthritis, Juvenile Rheumatoid	arformoterol	0	0.0920320564679599
+Arthritis, Juvenile Rheumatoid	argatroban	2	0.869174454705882
+Arthritis, Juvenile Rheumatoid	aripiprazole	1.93023255813953	0.928893837922861
+Arthritis, Juvenile Rheumatoid	aripiprazole lauroxil	1.96	0.836996875648311
+Arthritis, Juvenile Rheumatoid	armodafinil	2	0.663277068561605
+Arthritis, Juvenile Rheumatoid	arsenic trioxide	1	0.117893215439927
+Arthritis, Juvenile Rheumatoid	ascorbic acid	1.78260869565217	0.218105925914703
+Arthritis, Juvenile Rheumatoid	asenapine	1.78947368421053	0.526420654495189
+Arthritis, Juvenile Rheumatoid	asfotase alfa	2	0.671829972706849
+Arthritis, Juvenile Rheumatoid	asparagine	1.83333333333333	0.520592908040793
+Arthritis, Juvenile Rheumatoid	aspartic acid	1.6	0.101471934512373
+Arthritis, Juvenile Rheumatoid	astemizole	1.75	0.649075679103406
+Arthritis, Juvenile Rheumatoid	atenolol	1	0.247143433065646
+Arthritis, Juvenile Rheumatoid	atezolizumab	1	0.000120538516227595
+Arthritis, Juvenile Rheumatoid	atomoxetine	1.90909090909091	0.887702755855841
+Arthritis, Juvenile Rheumatoid	atorvastatin	1.4	0.171116920550399
+Arthritis, Juvenile Rheumatoid	atosiban	2	0.6729449639444
+Arthritis, Juvenile Rheumatoid	atovaquone	2	0.648476303192096
+Arthritis, Juvenile Rheumatoid	atracurium besylate	3	0.980607941682367
+Arthritis, Juvenile Rheumatoid	atropine	2	0.587643926527934
+Arthritis, Juvenile Rheumatoid	auranofin	1.5	0.717170455962981
+Arthritis, Juvenile Rheumatoid	aurothioglucose	2	0.482236284666628
+Arthritis, Juvenile Rheumatoid	avanafil	2	0.585500004359447
+Arthritis, Juvenile Rheumatoid	avatrombopag	1	0.000297042850072515
+Arthritis, Juvenile Rheumatoid	avelumab	1	0.00512083709545472
+Arthritis, Juvenile Rheumatoid	axicabtagene ciloleucel	2	0.696022825051387
+Arthritis, Juvenile Rheumatoid	axitinib	1.66666666666667	0.589326050273376
+Arthritis, Juvenile Rheumatoid	azacitidine	2	0.931153272283878
+Arthritis, Juvenile Rheumatoid	azatadine	1	0.000143540578803737
+Arthritis, Juvenile Rheumatoid	azathioprine	1	0.133634066516391
+Arthritis, Juvenile Rheumatoid	azelaic acid	2	0.546040953290993
+Arthritis, Juvenile Rheumatoid	azelastine	1.75	0.167959062795475
+Arthritis, Juvenile Rheumatoid	azilsartan medoxomil	2	0.717170455962981
+Arthritis, Juvenile Rheumatoid	azithromycin	2	0.651217293242611
+Arthritis, Juvenile Rheumatoid	bacitracin	1	0.104533106080326
+Arthritis, Juvenile Rheumatoid	baclofen	2	0.777599493897346
+Arthritis, Juvenile Rheumatoid	balsalazide	1.5	0.382035473164631
+Arthritis, Juvenile Rheumatoid	baricitinib	1	0.178061648860501
+Arthritis, Juvenile Rheumatoid	basiliximab	1.5	0.00220966785784741
+Arthritis, Juvenile Rheumatoid	becaplermin	1.33333333333333	0.556515707849836
+Arthritis, Juvenile Rheumatoid	beclomethasone dipropionate	1	0.430547049879759
+Arthritis, Juvenile Rheumatoid	belatacept	0.5	3.68568335751875e-09
+Arthritis, Juvenile Rheumatoid	belimumab	2	0.586197071489264
+Arthritis, Juvenile Rheumatoid	belinostat	1.27272727272727	0.952591806963133
+Arthritis, Juvenile Rheumatoid	bemiparin	2	0.734909872385584
+Arthritis, Juvenile Rheumatoid	benazepril	0	4.29885397763093e-09
+Arthritis, Juvenile Rheumatoid	bendazac	2	0.791794708667689
+Arthritis, Juvenile Rheumatoid	bendroflumethiazide	2	0.798074767007181
+Arthritis, Juvenile Rheumatoid	benralizumab	1.5	0.119540883505914
+Arthritis, Juvenile Rheumatoid	benserazide	2	0.45740174409047
+Arthritis, Juvenile Rheumatoid	benzatropine	1.8	0.257920979606324
+Arthritis, Juvenile Rheumatoid	benzocaine	2	0.37717487214748
+Arthritis, Juvenile Rheumatoid	benzoic acid	2.2	0.967751614239792
+Arthritis, Juvenile Rheumatoid	benzonatate	2	0.706709131192249
+Arthritis, Juvenile Rheumatoid	benzphetamine	2	0.748174084061876
+Arthritis, Juvenile Rheumatoid	benzthiazide	1.83333333333333	0.472027632678438
+Arthritis, Juvenile Rheumatoid	benzylpenicillin	3	0.994723833768221
+Arthritis, Juvenile Rheumatoid	benzylpenicilloyl polylysine	2	0.68291420666201
+Arthritis, Juvenile Rheumatoid	bepotastine	1	0.00475262930189152
+Arthritis, Juvenile Rheumatoid	bepridil	1.8	0.781023908028686
+Arthritis, Juvenile Rheumatoid	berberine	2	0.809429490163818
+Arthritis, Juvenile Rheumatoid	betahistine	2	0.359450752398652
+Arthritis, Juvenile Rheumatoid	betamethasone	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	betaxolol	1	0.251825915938124
+Arthritis, Juvenile Rheumatoid	betazole	2	0.318495368566627
+Arthritis, Juvenile Rheumatoid	bethanechol	1.75	0.203944385222317
+Arthritis, Juvenile Rheumatoid	bethanidine	1.57142857142857	0.179843890410476
+Arthritis, Juvenile Rheumatoid	betrixaban	2	0.707491192330872
+Arthritis, Juvenile Rheumatoid	bevacizumab	1.7	0.216325380129773
+Arthritis, Juvenile Rheumatoid	bexarotene	1	0.0765995169592956
+Arthritis, Juvenile Rheumatoid	bezafibrate	1.42857142857143	0.646983895409129
+Arthritis, Juvenile Rheumatoid	bilastine	1	0.0316812646126114
+Arthritis, Juvenile Rheumatoid	bimatoprost	1.66666666666667	0.145043524527483
+Arthritis, Juvenile Rheumatoid	binimetinib	0.6	1.73380540602846e-07
+Arthritis, Juvenile Rheumatoid	bioallethrin	2.07142857142857	0.960796299899586
+Arthritis, Juvenile Rheumatoid	biotin	1.55555555555556	0.18655037402234
+Arthritis, Juvenile Rheumatoid	biperiden	2.5	0.955330685526462
+Arthritis, Juvenile Rheumatoid	bisoprolol	1	0.296244389702026
+Arthritis, Juvenile Rheumatoid	bivalirudin	2	0.840128812753863
+Arthritis, Juvenile Rheumatoid	bleomycin	1.5	0.400760483613276
+Arthritis, Juvenile Rheumatoid	blinatumomab	1.5	0.174229343022176
+Arthritis, Juvenile Rheumatoid	bortezomib	1	0.237947879231275
+Arthritis, Juvenile Rheumatoid	bosentan	2	0.738188339266113
+Arthritis, Juvenile Rheumatoid	bosutinib	1.3	0.655955893774368
+Arthritis, Juvenile Rheumatoid	botulinum toxin type a	2	0.861402446574017
+Arthritis, Juvenile Rheumatoid	botulinum toxin type b	2	0.84377007904765
+Arthritis, Juvenile Rheumatoid	bremelanotide	2	0.734420722260533
+Arthritis, Juvenile Rheumatoid	brentuximab vedotin	1	0.0108761210269565
+Arthritis, Juvenile Rheumatoid	bretylium	1	0.242497250706788
+Arthritis, Juvenile Rheumatoid	brexanolone	2	0.318310635098895
+Arthritis, Juvenile Rheumatoid	brexpiprazole	1.8	0.43775250900149
+Arthritis, Juvenile Rheumatoid	brigatinib	1.11111111111111	0.231655792441728
+Arthritis, Juvenile Rheumatoid	brimonidine	2	0.634758496127105
+Arthritis, Juvenile Rheumatoid	brinzolamide	2	0.372120981950705
+Arthritis, Juvenile Rheumatoid	brivaracetam	2	0.56703115467533
+Arthritis, Juvenile Rheumatoid	brolucizumab	2	0.772238950036182
+Arthritis, Juvenile Rheumatoid	bromazepam	2	0.318149576563407
+Arthritis, Juvenile Rheumatoid	bromfenac	2	0.76871446287183
+Arthritis, Juvenile Rheumatoid	bromocriptine	2.05555555555556	0.98268835938007
+Arthritis, Juvenile Rheumatoid	bromodiphenhydramine	1	0.021056092656507
+Arthritis, Juvenile Rheumatoid	brompheniramine	1.66666666666667	0.038939601825777
+Arthritis, Juvenile Rheumatoid	buclizine	1.5	0.0326318662221502
+Arthritis, Juvenile Rheumatoid	budesonide	1.5	0.988690301312338
+Arthritis, Juvenile Rheumatoid	bufexamac	1.75	0.737214638620754
+Arthritis, Juvenile Rheumatoid	bumetanide	1.8	0.573085330463162
+Arthritis, Juvenile Rheumatoid	bupivacaine	1.5	0.0446693144735382
+Arthritis, Juvenile Rheumatoid	buprenorphine	1.75	0.385282480293211
+Arthritis, Juvenile Rheumatoid	bupropion	2	0.707463282544198
+Arthritis, Juvenile Rheumatoid	buserelin	2	0.565406593191326
+Arthritis, Juvenile Rheumatoid	buspirone	1.85714285714286	0.524088007971552
+Arthritis, Juvenile Rheumatoid	butabarbital	2	0.473091170232925
+Arthritis, Juvenile Rheumatoid	butalbital	2	0.486423138229448
+Arthritis, Juvenile Rheumatoid	butamben	2.13793103448276	0.996231940908251
+Arthritis, Juvenile Rheumatoid	butenafine	2	0.555403770535204
+Arthritis, Juvenile Rheumatoid	butobarbital	2	0.533922695224167
+Arthritis, Juvenile Rheumatoid	butorphanol	1.66666666666667	0.28803490755652
+Arthritis, Juvenile Rheumatoid	butriptyline	1.66666666666667	0.26518594000479
+Arthritis, Juvenile Rheumatoid	butylscopolamine	1.5	0.212833698648089
+Arthritis, Juvenile Rheumatoid	cabazitaxel	1	0.175729049320987
+Arthritis, Juvenile Rheumatoid	cabergoline	1.95	0.96647928255312
+Arthritis, Juvenile Rheumatoid	cabozantinib	1	0.254025788186149
+Arthritis, Juvenile Rheumatoid	caffeine	1.75	0.0659167159975355
+Arthritis, Juvenile Rheumatoid	calcifediol	0	0.0130453342405627
+Arthritis, Juvenile Rheumatoid	calcipotriol	0	0.00800780921348431
+Arthritis, Juvenile Rheumatoid	calcitriol	1	0.143735413536034
+Arthritis, Juvenile Rheumatoid	calcium	1.68421052631579	0.445139614270586
+Arthritis, Juvenile Rheumatoid	calcium carbimide	2	0.310579197322978
+Arthritis, Juvenile Rheumatoid	calcium chloride	1	0.0139557179990722
+Arthritis, Juvenile Rheumatoid	calcium citrate	1.67741935483871	0.336464127218377
+Arthritis, Juvenile Rheumatoid	calcium levulinate	1.5	0.449519206289237
+Arthritis, Juvenile Rheumatoid	calcium phosphate	1.67741935483871	0.370926030856678
+Arthritis, Juvenile Rheumatoid	calcium phosphate dihydrate	1.67741935483871	0.327264302540892
+Arthritis, Juvenile Rheumatoid	camphor	2	0.453412880681193
+Arthritis, Juvenile Rheumatoid	canakinumab	0	2.95931710105896e-07
+Arthritis, Juvenile Rheumatoid	candesartan cilexetil	2	0.732530303108559
+Arthritis, Juvenile Rheumatoid	cangrelor	2	0.272516864499218
+Arthritis, Juvenile Rheumatoid	cannabidiol	1.76315789473684	0.0431339421005431
+Arthritis, Juvenile Rheumatoid	cantharidin	1	0.0828311253611192
+Arthritis, Juvenile Rheumatoid	capecitabine	0	0.00247430809538021
+Arthritis, Juvenile Rheumatoid	caplacizumab	2	0.701397079231245
+Arthritis, Juvenile Rheumatoid	capromab pendetide	2	0.522943119175437
+Arthritis, Juvenile Rheumatoid	capsaicin	1.5	0.521408725246311
+Arthritis, Juvenile Rheumatoid	capsicum oleoresin	2	0.664313379729564
+Arthritis, Juvenile Rheumatoid	captopril	1	1.6249733004388e-05
+Arthritis, Juvenile Rheumatoid	carbamazepine	2	0.771971292524114
+Arthritis, Juvenile Rheumatoid	carbamoylcholine	2	0.718133719938966
+Arthritis, Juvenile Rheumatoid	carbetocin	2	0.550480793710763
+Arthritis, Juvenile Rheumatoid	carbidopa	2	0.453959046709007
+Arthritis, Juvenile Rheumatoid	carbimazole	3	0.982590118286827
+Arthritis, Juvenile Rheumatoid	carbinoxamine	1	0.000323168204676333
+Arthritis, Juvenile Rheumatoid	carbocisteine	0	0.00252358521547903
+Arthritis, Juvenile Rheumatoid	carbon monoxide	2	0.525138553271685
+Arthritis, Juvenile Rheumatoid	carboprost tromethamine	1	0.0168784322106508
+Arthritis, Juvenile Rheumatoid	carboxin	1	0.35343246457713
+Arthritis, Juvenile Rheumatoid	carboxymethylcellulose	2	0.690579534301245
+Arthritis, Juvenile Rheumatoid	carfilzomib	0.666666666666667	0.000144373004622697
+Arthritis, Juvenile Rheumatoid	carglumic acid	2	0.752556198548912
+Arthritis, Juvenile Rheumatoid	cariprazine	1.66666666666667	0.14500954787363
+Arthritis, Juvenile Rheumatoid	carisoprodol	2	0.472637094561425
+Arthritis, Juvenile Rheumatoid	carmustine	1	0.1111956827109
+Arthritis, Juvenile Rheumatoid	carprofen	2	0.745413408339042
+Arthritis, Juvenile Rheumatoid	carteolol	1	0.2692211882864
+Arthritis, Juvenile Rheumatoid	carvedilol	1.77777777777778	0.87806311414758
+Arthritis, Juvenile Rheumatoid	castor oil	2	0.657337588859146
+Arthritis, Juvenile Rheumatoid	catridecacog	2	0.423762097784716
+Arthritis, Juvenile Rheumatoid	catumaxomab	1.42857142857143	0.00349512715721187
+Arthritis, Juvenile Rheumatoid	cefazolin	1	8.41071644328895e-06
+Arthritis, Juvenile Rheumatoid	cefdinir	2	0.5
+Arthritis, Juvenile Rheumatoid	cefotaxime	2.33333333333333	0.989218357436458
+Arthritis, Juvenile Rheumatoid	ceftriaxone	2.33333333333333	0.78783455846881
+Arthritis, Juvenile Rheumatoid	celecoxib	1.75	0.504802691204177
+Arthritis, Juvenile Rheumatoid	celiprolol	1.5	0.122314250319533
+Arthritis, Juvenile Rheumatoid	cemiplimab	2	0.588058934300602
+Arthritis, Juvenile Rheumatoid	cenegermin	1	0.179222586394104
+Arthritis, Juvenile Rheumatoid	ceritinib	1	0.198581893526159
+Arthritis, Juvenile Rheumatoid	cerivastatin	2	0.679454089019012
+Arthritis, Juvenile Rheumatoid	cerliponase alfa	1	0.115168378527761
+Arthritis, Juvenile Rheumatoid	certolizumab pegol	0	0.0138258183538257
+Arthritis, Juvenile Rheumatoid	ceruletide	3	0.998782799476807
+Arthritis, Juvenile Rheumatoid	cetirizine	1	0.0157127631529373
+Arthritis, Juvenile Rheumatoid	cetrorelix	2	0.464256849500084
+Arthritis, Juvenile Rheumatoid	cetuximab	1.63636363636364	0.126578071728251
+Arthritis, Juvenile Rheumatoid	cevimeline	1.5	0.0381018102800688
+Arthritis, Juvenile Rheumatoid	chenodeoxycholic acid	1.66666666666667	0.356333236988417
+Arthritis, Juvenile Rheumatoid	chloramphenicol	1	0.0960086135467055
+Arthritis, Juvenile Rheumatoid	chlorcyclizine	1	0.000756915782773438
+Arthritis, Juvenile Rheumatoid	chlordiazepoxide	2	0.29724523165098
+Arthritis, Juvenile Rheumatoid	chlorhexidine	2	0.539827837277029
+Arthritis, Juvenile Rheumatoid	chlormerodrin	2	0.657702878356116
+Arthritis, Juvenile Rheumatoid	chlormezanone	2	0.57177963700085
+Arthritis, Juvenile Rheumatoid	chlorobutanol	2	0.754347689258409
+Arthritis, Juvenile Rheumatoid	chloroprocaine	2	0.636008977465021
+Arthritis, Juvenile Rheumatoid	chloroquine	1.33333333333333	0.103197880987154
+Arthritis, Juvenile Rheumatoid	chlorothiazide	2	0.692111041554552
+Arthritis, Juvenile Rheumatoid	chlorpheniramine	1.75	0.242872251142911
+Arthritis, Juvenile Rheumatoid	chlorpromazine	1.80769230769231	0.439941725552198
+Arthritis, Juvenile Rheumatoid	chlorpropamide	3	0.999003728080721
+Arthritis, Juvenile Rheumatoid	chlorprothixene	1.75	0.0764320910725167
+Arthritis, Juvenile Rheumatoid	chlorthalidone	2	0.480136231299757
+Arthritis, Juvenile Rheumatoid	chlorzoxazone	2	0.727448766363799
+Arthritis, Juvenile Rheumatoid	cholecalciferol	0	0.0127133305188349
+Arthritis, Juvenile Rheumatoid	cholecystokinin	1.66666666666667	0.853226688509441
+Arthritis, Juvenile Rheumatoid	cholesterol	1	0.0304589545072289
+Arthritis, Juvenile Rheumatoid	choline	2.14285714285714	0.9233962359507
+Arthritis, Juvenile Rheumatoid	choline magnesium trisalicylate	2	0.790292034819316
+Arthritis, Juvenile Rheumatoid	choline salicylate	2.14285714285714	0.982452153734603
+Arthritis, Juvenile Rheumatoid	chondroitin sulfate	1.25	0.00185017112378603
+Arthritis, Juvenile Rheumatoid	choriogonadotropin alfa	2	0.72373006021957
+Arthritis, Juvenile Rheumatoid	chorionic gonadotropin (human)	2	0.666155239894443
+Arthritis, Juvenile Rheumatoid	chromic chloride	1	0.337981481399644
+Arthritis, Juvenile Rheumatoid	chromic nitrate	2	0.690579534301245
+Arthritis, Juvenile Rheumatoid	chromium	2	0.685059521266246
+Arthritis, Juvenile Rheumatoid	chromium gluconate	2	0.706709131192249
+Arthritis, Juvenile Rheumatoid	chromium nicotinate	2	0.685059521266246
+Arthritis, Juvenile Rheumatoid	chromous sulfate	2	0.701397079231245
+Arthritis, Juvenile Rheumatoid	chymopapain	2	0.57592734943351
+Arthritis, Juvenile Rheumatoid	ciclesonide	1	0.409719815650881
+Arthritis, Juvenile Rheumatoid	ciclopirox	1	0.21313749767595
+Arthritis, Juvenile Rheumatoid	cilastatin	2	0.34466037212257
+Arthritis, Juvenile Rheumatoid	cilazapril	0	2.18347675226758e-16
+Arthritis, Juvenile Rheumatoid	cilostazol	2	0.783690621275128
+Arthritis, Juvenile Rheumatoid	cimetidine	2	0.320563107207765
+Arthritis, Juvenile Rheumatoid	cinacalcet	2	0.655955893774368
+Arthritis, Juvenile Rheumatoid	cinchocaine	1.66666666666667	0.561743433363971
+Arthritis, Juvenile Rheumatoid	cinnarizine	1.875	0.212972542380664
+Arthritis, Juvenile Rheumatoid	ciprofibrate	2	0.793285612424399
+Arthritis, Juvenile Rheumatoid	ciprofloxacin	1.5	0.577192933194247
+Arthritis, Juvenile Rheumatoid	cisapride	1.75	0.389537016279682
+Arthritis, Juvenile Rheumatoid	cisatracurium	3	0.961898189719931
+Arthritis, Juvenile Rheumatoid	cisplatin	1.25	0.163748328197486
+Arthritis, Juvenile Rheumatoid	citalopram	1.5	0.0866565882050787
+Arthritis, Juvenile Rheumatoid	citric acid	1.68181818181818	0.0247954675563811
+Arthritis, Juvenile Rheumatoid	citrulline	1.83333333333333	0.447403654235451
+Arthritis, Juvenile Rheumatoid	cladribine	1.77777777777778	0.657223420190422
+Arthritis, Juvenile Rheumatoid	clarithromycin	2	0.756604838918054
+Arthritis, Juvenile Rheumatoid	clemastine	1	0.00475262930189152
+Arthritis, Juvenile Rheumatoid	clenbuterol	1	0.00558580331352695
+Arthritis, Juvenile Rheumatoid	clevidipine	2	0.65978338204572
+Arthritis, Juvenile Rheumatoid	clidinium	2	0.53600358359888
+Arthritis, Juvenile Rheumatoid	clobazam	2	0.326128066556731
+Arthritis, Juvenile Rheumatoid	clobetasol propionate	1	0.409719815650881
+Arthritis, Juvenile Rheumatoid	clobetasone	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	clocortolone	1	0.443484292150164
+Arthritis, Juvenile Rheumatoid	clodronic acid	1	0.109294322207076
+Arthritis, Juvenile Rheumatoid	clofarabine	1.5	0.428665256456222
+Arthritis, Juvenile Rheumatoid	clofazimine	2	0.522943119175437
+Arthritis, Juvenile Rheumatoid	clofedanol	1	0.00650238267099552
+Arthritis, Juvenile Rheumatoid	clofibrate	2	0.822776798877586
+Arthritis, Juvenile Rheumatoid	clomifene	0.5	0.17438538255815
+Arthritis, Juvenile Rheumatoid	clomipramine	1.66666666666667	0.237051704921085
+Arthritis, Juvenile Rheumatoid	clonazepam	2	0.402454886456188
+Arthritis, Juvenile Rheumatoid	clonidine	2	0.744419172696184
+Arthritis, Juvenile Rheumatoid	clopidogrel	2	0.307222875126978
+Arthritis, Juvenile Rheumatoid	clorazepic acid	2	0.333665944646688
+Arthritis, Juvenile Rheumatoid	clotiazepam	2	0.442320691701492
+Arthritis, Juvenile Rheumatoid	clotrimazole	2	0.809227943092208
+Arthritis, Juvenile Rheumatoid	clove oil	1.25	0.0541158831988261
+Arthritis, Juvenile Rheumatoid	clozapine	1.88888888888889	0.53779440066907
+Arthritis, Juvenile Rheumatoid	coagulation factor ix (recombinant)	1.85714285714286	0.792259354153916
+Arthritis, Juvenile Rheumatoid	coagulation factor ix human	1.85714285714286	0.796122488820163
+Arthritis, Juvenile Rheumatoid	coagulation factor vii human	2	0.741986367007745
+Arthritis, Juvenile Rheumatoid	coagulation factor viia recombinant human	2.16666666666667	0.965447750991831
+Arthritis, Juvenile Rheumatoid	cobimetinib	1	0.39615116870671
+Arthritis, Juvenile Rheumatoid	cocaine	2	0.751090069055905
+Arthritis, Juvenile Rheumatoid	coccidioides immitis spherule	0.714285714285714	1.13837983284116e-07
+Arthritis, Juvenile Rheumatoid	codeine	1.66666666666667	0.351449177208943
+Arthritis, Juvenile Rheumatoid	collagenase clostridium histolyticum	1.25	0.0314427629807527
+Arthritis, Juvenile Rheumatoid	conestat alfa	2.16666666666667	0.987476208520736
+Arthritis, Juvenile Rheumatoid	conivaptan	2	0.704060482904256
+Arthritis, Juvenile Rheumatoid	copanlisib	1	0.0870487810815088
+Arthritis, Juvenile Rheumatoid	copper	1.44117647058824	0.0004482769344222
+Arthritis, Juvenile Rheumatoid	corifollitropin alfa	2	0.701397079231245
+Arthritis, Juvenile Rheumatoid	corticorelin ovine triflutate	1	0.00882864817071785
+Arthritis, Juvenile Rheumatoid	corticotropin	1	0.000195917877522286
+Arthritis, Juvenile Rheumatoid	cortisone acetate	1	0.384606000868728
+Arthritis, Juvenile Rheumatoid	creatine	1.85714285714286	0.561112998157601
+Arthritis, Juvenile Rheumatoid	crisaborole	1.75	0.314613497817138
+Arthritis, Juvenile Rheumatoid	crizanlizumab	2	0.615393999131272
+Arthritis, Juvenile Rheumatoid	crizotinib	1	0.357439420592782
+Arthritis, Juvenile Rheumatoid	crofelemer	1.5	0.402255156091747
+Arthritis, Juvenile Rheumatoid	cromoglicic acid	2	0.783007913640838
+Arthritis, Juvenile Rheumatoid	crotalus adamanteus antivenin	3	0.990829555543141
+Arthritis, Juvenile Rheumatoid	cryptenamine	1.8	0.147195082182045
+Arthritis, Juvenile Rheumatoid	cupric chloride	1.5	0.260745531351103
+Arthritis, Juvenile Rheumatoid	curcumin	0.6	0.000195917877522286
+Arthritis, Juvenile Rheumatoid	cyanocobalamin	1.83333333333333	0.204576315388062
+Arthritis, Juvenile Rheumatoid	cyclandelate	2	0.533934122231999
+Arthritis, Juvenile Rheumatoid	cyclizine	1.5	0.0457870054774031
+Arthritis, Juvenile Rheumatoid	cyclobenzaprine	1.77777777777778	0.494049131495715
+Arthritis, Juvenile Rheumatoid	cyclopentolate	2	0.528115198294818
+Arthritis, Juvenile Rheumatoid	cyclophosphamide	2	0.759427900961721
+Arthritis, Juvenile Rheumatoid	cyclosporine	1.5	0.23585068615009
+Arthritis, Juvenile Rheumatoid	cyclothiazide	2	0.603471258066065
+Arthritis, Juvenile Rheumatoid	cycrimine	2	0.449519206289237
+Arthritis, Juvenile Rheumatoid	cyproheptadine	1.71428571428571	0.272192211840548
+Arthritis, Juvenile Rheumatoid	cyproterone acetate	1	4.10349678958117e-05
+Arthritis, Juvenile Rheumatoid	cysteamine	2.5	0.989090245868122
+Arthritis, Juvenile Rheumatoid	cysteine	1.61538461538462	0.0657614722284118
+Arthritis, Juvenile Rheumatoid	cystine	2.33333333333333	0.911917432340565
+Arthritis, Juvenile Rheumatoid	cytarabine	2	0.69669823449878
+Arthritis, Juvenile Rheumatoid	d-alpha-tocopherol acetate	1.33333333333333	0.134991985324922
+Arthritis, Juvenile Rheumatoid	d-methionine	2	0.701882466712354
+Arthritis, Juvenile Rheumatoid	d-serine	1.5	0.435754198845037
+Arthritis, Juvenile Rheumatoid	dabigatran etexilate	2	0.781997512536779
+Arthritis, Juvenile Rheumatoid	dabrafenib	1.6	0.653901904609624
+Arthritis, Juvenile Rheumatoid	dacarbazine	1.5	0.471598387234653
+Arthritis, Juvenile Rheumatoid	dactinomycin	1	0.147550020742668
+Arthritis, Juvenile Rheumatoid	dalfampridine	2.14285714285714	0.967029372492412
+Arthritis, Juvenile Rheumatoid	dalteparin	2	0.843516555450246
+Arthritis, Juvenile Rheumatoid	damoctocog alfa pegol	2	0.72474379341762
+Arthritis, Juvenile Rheumatoid	danaparoid	2	0.658641208782744
+Arthritis, Juvenile Rheumatoid	danazol	0.8	0.0013903155031255
+Arthritis, Juvenile Rheumatoid	dantrolene	2	0.679454089019012
+Arthritis, Juvenile Rheumatoid	dapiprazole	2	0.751152496115257
+Arthritis, Juvenile Rheumatoid	daratumumab	1	0.0103849333840912
+Arthritis, Juvenile Rheumatoid	darbepoetin alfa	1	0.111496930767197
+Arthritis, Juvenile Rheumatoid	darifenacin	1.8	0.0919432316045902
+Arthritis, Juvenile Rheumatoid	darolutamide	1	0.203428523821845
+Arthritis, Juvenile Rheumatoid	dasatinib	1.34782608695652	0.654899950804418
+Arthritis, Juvenile Rheumatoid	daunorubicin	1	0.16516645493813
+Arthritis, Juvenile Rheumatoid	debrisoquine	2	0.564207200948631
+Arthritis, Juvenile Rheumatoid	decamethonium	2.5	0.999637868148375
+Arthritis, Juvenile Rheumatoid	decitabine	2	0.898123230201775
+Arthritis, Juvenile Rheumatoid	defibrotide	1	0.00075231087118586
+Arthritis, Juvenile Rheumatoid	deflazacort	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	degarelix	2	0.39615116870671
+Arthritis, Juvenile Rheumatoid	demecarium	2.5	0.939497860790078
+Arthritis, Juvenile Rheumatoid	denileukin diftitox	0.666666666666667	2.6010909496987e-05
+Arthritis, Juvenile Rheumatoid	denosumab	2	0.767341938975237
+Arthritis, Juvenile Rheumatoid	deoxycholic acid	0.666666666666667	0.000155649189891437
+Arthritis, Juvenile Rheumatoid	dequalinium	2	0.898491590496253
+Arthritis, Juvenile Rheumatoid	deserpidine	2	0.572539989341634
+Arthritis, Juvenile Rheumatoid	desflurane	1.94444444444444	0.242820258627045
+Arthritis, Juvenile Rheumatoid	desipramine	1.71428571428571	0.058805945777168
+Arthritis, Juvenile Rheumatoid	deslanoside	1	0.218002487463221
+Arthritis, Juvenile Rheumatoid	desloratadine	1	0.00346697380304067
+Arthritis, Juvenile Rheumatoid	desmopressin	2	0.605534090329999
+Arthritis, Juvenile Rheumatoid	desogestrel	0.5	0.232658061024763
+Arthritis, Juvenile Rheumatoid	desonide	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	desoximetasone	1	0.400760483613276
+Arthritis, Juvenile Rheumatoid	desoxycorticosterone acetate	2	0.744707517984945
+Arthritis, Juvenile Rheumatoid	desvenlafaxine	2	0.70285172016595
+Arthritis, Juvenile Rheumatoid	deutetrabenazine	2	0.525138553271685
+Arthritis, Juvenile Rheumatoid	dexamethasone	1.4	0.628408886831008
+Arthritis, Juvenile Rheumatoid	dexbrompheniramine	1	0.00882864817071785
+Arthritis, Juvenile Rheumatoid	dexchlorpheniramine maleate	1	0.0327685946911693
+Arthritis, Juvenile Rheumatoid	dexfenfluramine	2	0.678262208476275
+Arthritis, Juvenile Rheumatoid	dexibuprofen	1.83333333333333	0.947085959837659
+Arthritis, Juvenile Rheumatoid	dexketoprofen	2	0.700208404531304
+Arthritis, Juvenile Rheumatoid	dexlansoprazole	2	0.826503090710507
+Arthritis, Juvenile Rheumatoid	dexmedetomidine	2	0.652868291737179
+Arthritis, Juvenile Rheumatoid	dexmethylphenidate	2	0.70527921593645
+Arthritis, Juvenile Rheumatoid	dexrazoxane	1	0.141338984865069
+Arthritis, Juvenile Rheumatoid	dextroamphetamine	2	0.74851202807635
+Arthritis, Juvenile Rheumatoid	dextromethorphan	1.9047619047619	0.915772914022166
+Arthritis, Juvenile Rheumatoid	dextropropoxyphene	1.75	0.414924116304498
+Arthritis, Juvenile Rheumatoid	dextrothyroxine	1.66666666666667	0.586351303388717
+Arthritis, Juvenile Rheumatoid	dezocine	2	0.828927854155275
+Arthritis, Juvenile Rheumatoid	diacerein	1.77777777777778	0.38025891723397
+Arthritis, Juvenile Rheumatoid	diamorphine	1.75	0.319117266850728
+Arthritis, Juvenile Rheumatoid	diazepam	2	0.344638690827534
+Arthritis, Juvenile Rheumatoid	diazoxide	1.83333333333333	0.67446594896601
+Arthritis, Juvenile Rheumatoid	dibotermin alfa	1.5	0.63819395737519
+Arthritis, Juvenile Rheumatoid	dichloroacetic acid	2	0.757811262395652
+Arthritis, Juvenile Rheumatoid	dichlorobenzyl alcohol	2.1	0.77461667605708
+Arthritis, Juvenile Rheumatoid	diclofenac	2	0.765238943901246
+Arthritis, Juvenile Rheumatoid	diclofenamide	2	0.479400930976839
+Arthritis, Juvenile Rheumatoid	dicoumarol	1.66666666666667	0.586751179468933
+Arthritis, Juvenile Rheumatoid	dicyclomine	2	0.648476303192096
+Arthritis, Juvenile Rheumatoid	didanosine	1	0.125987013754824
+Arthritis, Juvenile Rheumatoid	dienestrol	0.5	0.21313749767595
+Arthritis, Juvenile Rheumatoid	dienogest	1	0.257403132953896
+Arthritis, Juvenile Rheumatoid	diethylcarbamazine	1.5	0.0995442089414923
+Arthritis, Juvenile Rheumatoid	diethylpropion	2	0.669116495807116
+Arthritis, Juvenile Rheumatoid	diethylstilbestrol	1.22222222222222	0.402805094805588
+Arthritis, Juvenile Rheumatoid	diflorasone	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	diflunisal	2	0.729776118570181
+Arthritis, Juvenile Rheumatoid	difluocortolone	1.5	0.578867644981621
+Arthritis, Juvenile Rheumatoid	difluprednate	1	0.443484292150164
+Arthritis, Juvenile Rheumatoid	digitoxin	1	0.227761049963818
+Arthritis, Juvenile Rheumatoid	digoxin	1	0.252411540378021
+Arthritis, Juvenile Rheumatoid	dihydro-alpha-ergocryptine	2	0.778276468878338
+Arthritis, Juvenile Rheumatoid	dihydroergocornine	2	0.87368086739569
+Arthritis, Juvenile Rheumatoid	dihydroergocristine	2	0.943270136767344
+Arthritis, Juvenile Rheumatoid	dihydroergotamine	2.25	0.977768398178357
+Arthritis, Juvenile Rheumatoid	dihydrotachysterol	0	0.0112399051573542
+Arthritis, Juvenile Rheumatoid	diltiazem	2	0.618534642082593
+Arthritis, Juvenile Rheumatoid	dimenhydrinate	1	0.00811657541060841
+Arthritis, Juvenile Rheumatoid	dimethyl fumarate	1	0.282829544037019
+Arthritis, Juvenile Rheumatoid	dimetindene	1.5	0.0336052440482751
+Arthritis, Juvenile Rheumatoid	dinoprost	2	0.555403770535204
+Arthritis, Juvenile Rheumatoid	dinoprost tromethamine	2	0.677413356810351
+Arthritis, Juvenile Rheumatoid	dinoprostone	1.8	0.104092732671274
+Arthritis, Juvenile Rheumatoid	diosmin	1	0.101876769798225
+Arthritis, Juvenile Rheumatoid	dioxybenzone	1	0.179222586394104
+Arthritis, Juvenile Rheumatoid	diphemanil	1	0.00228105693436015
+Arthritis, Juvenile Rheumatoid	diphenhydramine	1.5	0.056468177006197
+Arthritis, Juvenile Rheumatoid	diphenidol	1.66666666666667	0.0799237527763812
+Arthritis, Juvenile Rheumatoid	diphenoxylate	1.5	0.231350870558994
+Arthritis, Juvenile Rheumatoid	diphenylpyraline	1.5	0.11484467641049
+Arthritis, Juvenile Rheumatoid	dipivefrin	1.8	0.722828367960255
+Arthritis, Juvenile Rheumatoid	dipyridamole	1.66666666666667	0.0405222600091209
+Arthritis, Juvenile Rheumatoid	dipyrithione	1.5	0.650311771857058
+Arthritis, Juvenile Rheumatoid	disopyramide	1.875	0.656206949576564
+Arthritis, Juvenile Rheumatoid	disulfiram	2	0.679454089019012
+Arthritis, Juvenile Rheumatoid	dl-methylephedrine	1.66666666666667	0.271284406703606
+Arthritis, Juvenile Rheumatoid	dobutamine	1.33333333333333	0.48751259629337
+Arthritis, Juvenile Rheumatoid	docetaxel	1.83333333333333	0.985211740651517
+Arthritis, Juvenile Rheumatoid	doconexent	1.16666666666667	0.185027728582272
+Arthritis, Juvenile Rheumatoid	dofetilide	2	0.787427686783553
+Arthritis, Juvenile Rheumatoid	dolasetron	2	0.560301693991225
+Arthritis, Juvenile Rheumatoid	domperidone	1.5	0.152265403787168
+Arthritis, Juvenile Rheumatoid	donepezil	1.73333333333333	0.712039798628784
+Arthritis, Juvenile Rheumatoid	dopamine	2	0.884227486047949
+Arthritis, Juvenile Rheumatoid	dorzolamide	2	0.447042352324864
+Arthritis, Juvenile Rheumatoid	dosulepin	1.875	0.371896924907754
+Arthritis, Juvenile Rheumatoid	dotatate gallium ga-68	2	0.62282512785252
+Arthritis, Juvenile Rheumatoid	doxacurium	2.5	0.95758907279707
+Arthritis, Juvenile Rheumatoid	doxapram	2	0.677413356810351
+Arthritis, Juvenile Rheumatoid	doxazosin	2	0.728667454306721
+Arthritis, Juvenile Rheumatoid	doxepin	1.89473684210526	0.373642939450816
+Arthritis, Juvenile Rheumatoid	doxercalciferol	0	0.00226046995227422
+Arthritis, Juvenile Rheumatoid	doxorubicin	1.5	0.586395325236633
+Arthritis, Juvenile Rheumatoid	doxylamine	1.66666666666667	0.104533106080326
+Arthritis, Juvenile Rheumatoid	dronabinol	1.5	0.0255088473804704
+Arthritis, Juvenile Rheumatoid	dronedarone	1.92	0.817601327462888
+Arthritis, Juvenile Rheumatoid	droperidol	1.5	0.251850654017079
+Arthritis, Juvenile Rheumatoid	drospirenone	1.25	0.521237806667082
+Arthritis, Juvenile Rheumatoid	drotaverine	2	0.727448766363799
+Arthritis, Juvenile Rheumatoid	drotrecogin alfa	1.91666666666667	0.800347100839881
+Arthritis, Juvenile Rheumatoid	droxidopa	1.7	0.23128553712817
+Arthritis, Juvenile Rheumatoid	dulaglutide	2	0.81593987465324
+Arthritis, Juvenile Rheumatoid	duloxetine	2	0.696887157949039
+Arthritis, Juvenile Rheumatoid	dupilumab	0	0.000171945841304031
+Arthritis, Juvenile Rheumatoid	durvalumab	0.5	1.23971750689302e-11
+Arthritis, Juvenile Rheumatoid	duvelisib	1.5	0.28759926643069
+Arthritis, Juvenile Rheumatoid	dyclonine	2	0.365492599484296
+Arthritis, Juvenile Rheumatoid	dydrogesterone	1	0.262421470906054
+Arthritis, Juvenile Rheumatoid	dyphylline	1.5	0.00470568673128066
+Arthritis, Juvenile Rheumatoid	ecallantide	3	0.999351179304742
+Arthritis, Juvenile Rheumatoid	echothiophate	3	0.927507584524561
+Arthritis, Juvenile Rheumatoid	econazole	2	0.793337788197683
+Arthritis, Juvenile Rheumatoid	eculizumab	0	0.000116537548341265
+Arthritis, Juvenile Rheumatoid	edotreotide gallium ga-68	2.25	0.985465369670392
+Arthritis, Juvenile Rheumatoid	edoxaban	2	0.698996012813495
+Arthritis, Juvenile Rheumatoid	edrophonium	2.5	0.934696752996811
+Arthritis, Juvenile Rheumatoid	efalizumab	1.6	0.0225382557284686
+Arthritis, Juvenile Rheumatoid	eflornithine	2	0.707491192330872
+Arthritis, Juvenile Rheumatoid	efmoroctocog alfa	2	0.717884749579625
+Arthritis, Juvenile Rheumatoid	elagolix	2	0.421016794762922
+Arthritis, Juvenile Rheumatoid	eletriptan	2.14285714285714	0.935047371982622
+Arthritis, Juvenile Rheumatoid	elexacaftor	1	0.443484292150164
+Arthritis, Juvenile Rheumatoid	eliglustat	2	0.532482826449721
+Arthritis, Juvenile Rheumatoid	elotuzumab	2	0.430547049879759
+Arthritis, Juvenile Rheumatoid	eltrombopag	2	0.631904738252066
+Arthritis, Juvenile Rheumatoid	eluxadoline	1.66666666666667	0.375081559519509
+Arthritis, Juvenile Rheumatoid	emapalumab	0	1.47526940851918e-09
+Arthritis, Juvenile Rheumatoid	emedastine	1	0.00475262930189152
+Arthritis, Juvenile Rheumatoid	emicizumab	2	0.743013813150004
+Arthritis, Juvenile Rheumatoid	enalapril	0	5.99037140106353e-09
+Arthritis, Juvenile Rheumatoid	enalaprilat	1	2.44415497011971e-08
+Arthritis, Juvenile Rheumatoid	enasidenib	1	0.00854758329853815
+Arthritis, Juvenile Rheumatoid	encainide	2	0.732530303108559
+Arthritis, Juvenile Rheumatoid	encorafenib	1.5	0.681064910051027
+Arthritis, Juvenile Rheumatoid	enflurane	1.94736842105263	0.246013200070459
+Arthritis, Juvenile Rheumatoid	enfortumab vedotin	2	0.556515707849836
+Arthritis, Juvenile Rheumatoid	enoxacin	1	0.247443801451088
+Arthritis, Juvenile Rheumatoid	enoxaparin	2	0.763935698993676
+Arthritis, Juvenile Rheumatoid	enoximone	2	0.68291420666201
+Arthritis, Juvenile Rheumatoid	enprofylline	1.5	0.00363560050563083
+Arthritis, Juvenile Rheumatoid	entacapone	1	0.0506888537237301
+Arthritis, Juvenile Rheumatoid	entrectinib	1.5	0.464706211845442
+Arthritis, Juvenile Rheumatoid	enzacamene	0.75	0.257403132953896
+Arthritis, Juvenile Rheumatoid	ephedrine	2	0.740434516489172
+Arthritis, Juvenile Rheumatoid	epicriptine	2	0.808474035228501
+Arthritis, Juvenile Rheumatoid	epinastine	1.83333333333333	0.507320803090506
+Arthritis, Juvenile Rheumatoid	epinephrine	1.5	0.164801012436275
+Arthritis, Juvenile Rheumatoid	epirubicin	1.5	0.454897382493598
+Arthritis, Juvenile Rheumatoid	eplerenone	2	0.729776118570181
+Arthritis, Juvenile Rheumatoid	epoprostenol	2	0.477409095288845
+Arthritis, Juvenile Rheumatoid	eprosartan	2	0.711965092443481
+Arthritis, Juvenile Rheumatoid	eptifibatide	2	0.85465068632033
+Arthritis, Juvenile Rheumatoid	erdafitinib	1.55555555555556	0.894302160998267
+Arthritis, Juvenile Rheumatoid	erenumab	2	0.57177963700085
+Arthritis, Juvenile Rheumatoid	ergocalciferol	2	0.758971861192242
+Arthritis, Juvenile Rheumatoid	ergoloid mesylate	2	0.896268581869207
+Arthritis, Juvenile Rheumatoid	ergometrine	2	0.617911422188953
+Arthritis, Juvenile Rheumatoid	ergotamine	2.0625	0.952859275458516
+Arthritis, Juvenile Rheumatoid	eribulin	1.5	0.735015577584287
+Arthritis, Juvenile Rheumatoid	erlotinib	1.5	0.769165652694591
+Arthritis, Juvenile Rheumatoid	erythrityl tetranitrate	1.5	0.171433802878072
+Arthritis, Juvenile Rheumatoid	erythromycin	2	0.767844823162947
+Arthritis, Juvenile Rheumatoid	erythropoietin	1	0.101876769798225
+Arthritis, Juvenile Rheumatoid	escitalopram	1.86666666666667	0.516936005300029
+Arthritis, Juvenile Rheumatoid	esketamine	1.8	0.882427525113313
+Arthritis, Juvenile Rheumatoid	eslicarbazepine	2	0.54259825590953
+Arthritis, Juvenile Rheumatoid	eslicarbazepine acetate	2	0.553579204630712
+Arthritis, Juvenile Rheumatoid	esmolol	2	0.686025400737808
+Arthritis, Juvenile Rheumatoid	esomeprazole	2	0.847608862454569
+Arthritis, Juvenile Rheumatoid	estazolam	2	0.316591223341284
+Arthritis, Juvenile Rheumatoid	estradiol	1.28571428571429	0.795366644181306
+Arthritis, Juvenile Rheumatoid	estradiol acetate	1.28571428571429	0.714201857595137
+Arthritis, Juvenile Rheumatoid	estradiol benzoate	1.28571428571429	0.623858525135035
+Arthritis, Juvenile Rheumatoid	estradiol cypionate	1.28571428571429	0.64496404109109
+Arthritis, Juvenile Rheumatoid	estradiol dienanthate	1.28571428571429	0.731760145043971
+Arthritis, Juvenile Rheumatoid	estradiol valerate	1.28571428571429	0.717170455962981
+Arthritis, Juvenile Rheumatoid	estramustine	1.25	0.873133452799118
+Arthritis, Juvenile Rheumatoid	estriol	0.666666666666667	0.18406012534676
+Arthritis, Juvenile Rheumatoid	estrone	0.6	2.97984460317065e-06
+Arthritis, Juvenile Rheumatoid	eszopiclone	2	0.260893331348471
+Arthritis, Juvenile Rheumatoid	etacrynic acid	1.25	0.127914248145744
+Arthritis, Juvenile Rheumatoid	etafedrine	0	0.0597526250645845
+Arthritis, Juvenile Rheumatoid	etanercept	1.30769230769231	0.000126917854710089
+Arthritis, Juvenile Rheumatoid	etelcalcetide	2	0.673753328496286
+Arthritis, Juvenile Rheumatoid	ethanol	1.97727272727273	0.631061813909074
+Arthritis, Juvenile Rheumatoid	ethanolamine oleate	2	0.72474379341762
+Arthritis, Juvenile Rheumatoid	ethchlorvynol	2	0.348093361764822
+Arthritis, Juvenile Rheumatoid	ethinamate	2	0.627687253317609
+Arthritis, Juvenile Rheumatoid	ethinylestradiol	1	0.563071457420431
+Arthritis, Juvenile Rheumatoid	ethosuximide	2	0.398626189818971
+Arthritis, Juvenile Rheumatoid	ethotoin	2	0.822424129869147
+Arthritis, Juvenile Rheumatoid	ethynodiol diacetate	0.5	0.21313749767595
+Arthritis, Juvenile Rheumatoid	etidronic acid	1.5	0.523437716152627
+Arthritis, Juvenile Rheumatoid	etodolac	1.66666666666667	0.686539497918963
+Arthritis, Juvenile Rheumatoid	etomidate	2	0.279536637768323
+Arthritis, Juvenile Rheumatoid	etonogestrel	0.5	0.218002487463221
+Arthritis, Juvenile Rheumatoid	etoposide	1	0.139518406269035
+Arthritis, Juvenile Rheumatoid	etoricoxib	2	0.758036347776927
+Arthritis, Juvenile Rheumatoid	eugenol	1	0.345509460985262
+Arthritis, Juvenile Rheumatoid	everolimus	2	0.999856459421196
+Arthritis, Juvenile Rheumatoid	exemestane	0	6.34936467542849e-06
+Arthritis, Juvenile Rheumatoid	exenatide	2	0.791720028361604
+Arthritis, Juvenile Rheumatoid	ezetimibe	2	0.426554828973794
+Arthritis, Juvenile Rheumatoid	ezogabine	2	0.669894312914843
+Arthritis, Juvenile Rheumatoid	famotidine	2	0.30518185583452
+Arthritis, Juvenile Rheumatoid	febuxostat	2	0.551533360387653
+Arthritis, Juvenile Rheumatoid	fedratinib	1.33333333333333	0.474206565207466
+Arthritis, Juvenile Rheumatoid	felbamate	1.66666666666667	0.436928542579569
+Arthritis, Juvenile Rheumatoid	felodipine	1.92307692307692	0.753202105973378
+Arthritis, Juvenile Rheumatoid	fenfluramine	2	0.74851202807635
+Arthritis, Juvenile Rheumatoid	fenofibrate	2	0.900428398781174
+Arthritis, Juvenile Rheumatoid	fenofibric acid	1.8	0.912252967517259
+Arthritis, Juvenile Rheumatoid	fenoldopam	2.125	0.962431578540098
+Arthritis, Juvenile Rheumatoid	fenoprofen	1.75	0.796571476178155
+Arthritis, Juvenile Rheumatoid	fenoterol	1	0.0255990515576369
+Arthritis, Juvenile Rheumatoid	fentanyl	1.25	0.016092997939844
+Arthritis, Juvenile Rheumatoid	ferric cation	1	0.288034907556519
+Arthritis, Juvenile Rheumatoid	ferric pyrophosphate citrate	2	0.907764578742209
+Arthritis, Juvenile Rheumatoid	ferrous ascorbate	1.78571428571429	0.802883011567861
+Arthritis, Juvenile Rheumatoid	ferrous fumarate	1.78571428571429	0.727969234553225
+Arthritis, Juvenile Rheumatoid	ferrous gluconate	1.78571428571429	0.792368264438175
+Arthritis, Juvenile Rheumatoid	ferrous glycine sulfate	1.78571428571429	0.78686250232405
+Arthritis, Juvenile Rheumatoid	ferrous succinate	1.78571428571429	0.740135249733185
+Arthritis, Juvenile Rheumatoid	fesoterodine	1.8	0.0760720669503547
+Arthritis, Juvenile Rheumatoid	fexofenadine	1	0.012215751891442
+Arthritis, Juvenile Rheumatoid	filgrastim	1.5	0.202735880983665
+Arthritis, Juvenile Rheumatoid	finafloxacin	1	0.257403132953896
+Arthritis, Juvenile Rheumatoid	fingolimod	1.5	0.539827837277029
+Arthritis, Juvenile Rheumatoid	fish oil	1.88461538461538	0.917805365440371
+Arthritis, Juvenile Rheumatoid	flavin adenine dinucleotide	1.65384615384615	0.0241008318140855
+Arthritis, Juvenile Rheumatoid	flavin mononucleotide	1.4	0.00376813717501717
+Arthritis, Juvenile Rheumatoid	flavone	1.66666666666667	0.221194662738251
+Arthritis, Juvenile Rheumatoid	flavoxate	2	0.531203109463364
+Arthritis, Juvenile Rheumatoid	flecainide	2	0.82805927045618
+Arthritis, Juvenile Rheumatoid	flibanserin	2	0.774587528964022
+Arthritis, Juvenile Rheumatoid	floxuridine	0	0.00285864370970446
+Arthritis, Juvenile Rheumatoid	fluciclovine (18f)	1.84615384615385	0.766246655697949
+Arthritis, Juvenile Rheumatoid	flucytosine	2	0.9076877421883
+Arthritis, Juvenile Rheumatoid	fludarabine	1.33333333333333	0.127280479501778
+Arthritis, Juvenile Rheumatoid	fludrocortisone	1.5	0.704237510086487
+Arthritis, Juvenile Rheumatoid	flufenamic acid	1.66666666666667	0.862877614941651
+Arthritis, Juvenile Rheumatoid	flumazenil	2	0.323224450133913
+Arthritis, Juvenile Rheumatoid	flumethasone	1	0.443484292150164
+Arthritis, Juvenile Rheumatoid	flunarizine	1.6	0.0332845219889663
+Arthritis, Juvenile Rheumatoid	flunisolide	1	0.400760483613276
+Arthritis, Juvenile Rheumatoid	flunitrazepam	2	0.318531521502076
+Arthritis, Juvenile Rheumatoid	fluocinolone acetonide	1.66666666666667	0.932515333999622
+Arthritis, Juvenile Rheumatoid	fluocinonide	1.5	0.585944167728623
+Arthritis, Juvenile Rheumatoid	fluorometholone	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	fluorouracil	0	0.00289726841528557
+Arthritis, Juvenile Rheumatoid	fluoxetine	2.14285714285714	0.950197810595597
+Arthritis, Juvenile Rheumatoid	fluoxymesterone	1	0.130367055659233
+Arthritis, Juvenile Rheumatoid	flupentixol	1.8	0.397001340096381
+Arthritis, Juvenile Rheumatoid	fluphenazine	1.5	0.460172162722971
+Arthritis, Juvenile Rheumatoid	flurandrenolide	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	flurazepam	2	0.353657408982299
+Arthritis, Juvenile Rheumatoid	flurbiprofen	2	0.771094022995954
+Arthritis, Juvenile Rheumatoid	fluspirilene	1.66666666666667	0.193183763996348
+Arthritis, Juvenile Rheumatoid	flutamide	1.33333333333333	0.375081559519509
+Arthritis, Juvenile Rheumatoid	fluticasone	1.5	0.585944167728623
+Arthritis, Juvenile Rheumatoid	fluticasone furoate	1.33333333333333	0.421945575872959
+Arthritis, Juvenile Rheumatoid	fluticasone propionate	1.5	0.633799377184078
+Arthritis, Juvenile Rheumatoid	fluvastatin	1.5	0.685059521266246
+Arthritis, Juvenile Rheumatoid	fluvoxamine	2	0.783790838530602
+Arthritis, Juvenile Rheumatoid	folic acid	2.5	0.954342708884116
+Arthritis, Juvenile Rheumatoid	follitropin	2	0.701397079231245
+Arthritis, Juvenile Rheumatoid	fondaparinux	2	0.773485148271616
+Arthritis, Juvenile Rheumatoid	foreskin fibroblast (neonatal)	1	9.00540235687246e-05
+Arthritis, Juvenile Rheumatoid	foreskin keratinocyte (neonatal)	1.09090909090909	0.000188729052476783
+Arthritis, Juvenile Rheumatoid	formoterol	1	0.016946622474652
+Arthritis, Juvenile Rheumatoid	fosinopril	0	6.5252078966616e-08
+Arthritis, Juvenile Rheumatoid	fosnetupitant	2	0.545204052591652
+Arthritis, Juvenile Rheumatoid	fosphenytoin	2	0.722330181576224
+Arthritis, Juvenile Rheumatoid	fospropofol	2	0.678211240116835
+Arthritis, Juvenile Rheumatoid	fostamatinib	1.57094594594595	0.953140656823169
+Arthritis, Juvenile Rheumatoid	framycetin	1	0.188898651935021
+Arthritis, Juvenile Rheumatoid	fremanezumab	2	0.62282512785252
+Arthritis, Juvenile Rheumatoid	frovatriptan	2.5	0.998693947074739
+Arthritis, Juvenile Rheumatoid	fructose	2	0.601210971777241
+Arthritis, Juvenile Rheumatoid	furosemide	2	0.62282512785252
+Arthritis, Juvenile Rheumatoid	gabapentin	1.83333333333333	0.169150948834701
+Arthritis, Juvenile Rheumatoid	gabapentin enacarbil	2	0.427048922498323
+Arthritis, Juvenile Rheumatoid	gadopentetic acid	1	0.159871187246137
+Arthritis, Juvenile Rheumatoid	galantamine	2.4	0.999975322917221
+Arthritis, Juvenile Rheumatoid	galcanezumab	2	0.62282512785252
+Arthritis, Juvenile Rheumatoid	gallamine triethiodide	2.2	0.820161757835747
+Arthritis, Juvenile Rheumatoid	gallium nitrate	1.25	0.0326318662221502
+Arthritis, Juvenile Rheumatoid	galsulfase	2	0.809429490163818
+Arthritis, Juvenile Rheumatoid	gamma-aminobutyric acid	2	0.624849497941158
+Arthritis, Juvenile Rheumatoid	gamma-hydroxybutyric acid	2.5	0.933303655530232
+Arthritis, Juvenile Rheumatoid	ganirelix	2	0.406048458615097
+Arthritis, Juvenile Rheumatoid	gemcitabine	1	0.0148717015383713
+Arthritis, Juvenile Rheumatoid	gemeprost	2	0.704060482904256
+Arthritis, Juvenile Rheumatoid	gemfibrozil	2	0.685386502182862
+Arthritis, Juvenile Rheumatoid	gemtuzumab ozogamicin	1.63636363636364	0.0585963130404857
+Arthritis, Juvenile Rheumatoid	gentamicin	0.5	0.00023506409257994
+Arthritis, Juvenile Rheumatoid	gestrinone	1	0.160710463891385
+Arthritis, Juvenile Rheumatoid	gilteritinib	2.11111111111111	0.958525034115226
+Arthritis, Juvenile Rheumatoid	gimeracil	2	0.5
+Arthritis, Juvenile Rheumatoid	ginkgo biloba	2	0.696887157949039
+Arthritis, Juvenile Rheumatoid	ginseng	1	0.001030820007234
+Arthritis, Juvenile Rheumatoid	glasdegib	2	0.638534927211517
+Arthritis, Juvenile Rheumatoid	glatiramer	0	6.13660148955409e-06
+Arthritis, Juvenile Rheumatoid	gliclazide	2.5	0.992541658107334
+Arthritis, Juvenile Rheumatoid	glimepiride	2.33333333333333	0.975395110792509
+Arthritis, Juvenile Rheumatoid	glipizide	2	0.936749947023784
+Arthritis, Juvenile Rheumatoid	gliquidone	3	0.999982177713846
+Arthritis, Juvenile Rheumatoid	glucagon	2	0.71196509244348
+Arthritis, Juvenile Rheumatoid	gluconolactone	2	0.449519206289237
+Arthritis, Juvenile Rheumatoid	glucosamine	0.5	2.03428435948605e-06
+Arthritis, Juvenile Rheumatoid	glutamic acid	1.8955223880597	0.617950723215926
+Arthritis, Juvenile Rheumatoid	glutathione	1.65789473684211	8.71592935972532e-05
+Arthritis, Juvenile Rheumatoid	glutathione disulfide	1	0.000844667502545841
+Arthritis, Juvenile Rheumatoid	glutethimide	2	0.291837664643248
+Arthritis, Juvenile Rheumatoid	glyburide	2	0.977821240510344
+Arthritis, Juvenile Rheumatoid	glycerin	1.58333333333333	0.326886452010134
+Arthritis, Juvenile Rheumatoid	glycine	1.88	0.620601068248097
+Arthritis, Juvenile Rheumatoid	glycine betaine	2	0.983151379636746
+Arthritis, Juvenile Rheumatoid	glycol salicylate	2	0.734777861233772
+Arthritis, Juvenile Rheumatoid	glycolic acid	1	0.126524494399401
+Arthritis, Juvenile Rheumatoid	glycopyrronium	1.66666666666667	0.0842715304641088
+Arthritis, Juvenile Rheumatoid	glycyrrhizic acid	1.16666666666667	0.0741841343925441
+Arthritis, Juvenile Rheumatoid	glymidine	2.5	0.991126485742721
+Arthritis, Juvenile Rheumatoid	golimumab	0	0.0122767410414651
+Arthritis, Juvenile Rheumatoid	golodirsen	2	0.822210667973999
+Arthritis, Juvenile Rheumatoid	gonadorelin	2	0.435697353664104
+Arthritis, Juvenile Rheumatoid	goserelin	2	0.536962044221812
+Arthritis, Juvenile Rheumatoid	granisetron	2	0.580471939347127
+Arthritis, Juvenile Rheumatoid	griseofulvin	2	0.5
+Arthritis, Juvenile Rheumatoid	guaiacol	1	0.370072067902287
+Arthritis, Juvenile Rheumatoid	guaifenesin	2	0.958049816926496
+Arthritis, Juvenile Rheumatoid	guanabenz	2	0.673414786105556
+Arthritis, Juvenile Rheumatoid	guanadrel	2	0.607564331445103
+Arthritis, Juvenile Rheumatoid	guanethidine	2	0.57592734943351
+Arthritis, Juvenile Rheumatoid	guanfacine	2	0.663476055203867
+Arthritis, Juvenile Rheumatoid	guanidine	2	0.933950759288101
+Arthritis, Juvenile Rheumatoid	guselkumab	1	0.00215660816817762
+Arthritis, Juvenile Rheumatoid	halazepam	2	0.448622389959787
+Arthritis, Juvenile Rheumatoid	halcinonide	2	0.691491858232891
+Arthritis, Juvenile Rheumatoid	halofantrine	2	0.74470167768115
+Arthritis, Juvenile Rheumatoid	haloperidol	1.83333333333333	0.476077817345893
+Arthritis, Juvenile Rheumatoid	halothane	1.88888888888889	0.188494766773354
+Arthritis, Juvenile Rheumatoid	heparin	1.91666666666667	0.954459348114712
+Arthritis, Juvenile Rheumatoid	hesperidin	2	0.976703148314434
+Arthritis, Juvenile Rheumatoid	hexachlorophene	1.33333333333333	0.512883060686793
+Arthritis, Juvenile Rheumatoid	hexafluronium	3	0.952480382312228
+Arthritis, Juvenile Rheumatoid	hexocyclium	1.75	0.195137701035469
+Arthritis, Juvenile Rheumatoid	hexylcaine	2	0.597744843908253
+Arthritis, Juvenile Rheumatoid	hexylresorcinol	1.33333333333333	0.2692211882864
+Arthritis, Juvenile Rheumatoid	histamine	2	0.414499652726327
+Arthritis, Juvenile Rheumatoid	histrelin	2	0.449519206289237
+Arthritis, Juvenile Rheumatoid	homatropine	1.8	0.177653145416003
+Arthritis, Juvenile Rheumatoid	homatropine methylbromide	1.8	0.14777521328481
+Arthritis, Juvenile Rheumatoid	homosalate	0.666666666666667	0.262421470906054
+Arthritis, Juvenile Rheumatoid	human c1-esterase inhibitor	2.16666666666667	0.986159227444379
+Arthritis, Juvenile Rheumatoid	human calcitonin	1	0.409719815650881
+Arthritis, Juvenile Rheumatoid	human immunoglobulin g	1.4	7.5961663091878e-05
+Arthritis, Juvenile Rheumatoid	human thrombin	1.75	0.300970848647763
+Arthritis, Juvenile Rheumatoid	huperzine a	2	0.62282512785252
+Arthritis, Juvenile Rheumatoid	hyaluronic acid	1.5	0.0552598456696624
+Arthritis, Juvenile Rheumatoid	hydralazine	1.33333333333333	0.150340442812966
+Arthritis, Juvenile Rheumatoid	hydrochlorothiazide	2	0.709428529394927
+Arthritis, Juvenile Rheumatoid	hydrocodone	1.66666666666667	0.356188715402325
+Arthritis, Juvenile Rheumatoid	hydrocortamate	1	0.400760483613276
+Arthritis, Juvenile Rheumatoid	hydrocortisone	1.5	0.998581933672173
+Arthritis, Juvenile Rheumatoid	hydrocortisone acetate	1.66666666666667	0.94470305720965
+Arthritis, Juvenile Rheumatoid	hydrocortisone butyrate	1.66666666666667	0.981264672005092
+Arthritis, Juvenile Rheumatoid	hydrocortisone cypionate	1.66666666666667	0.912252967517259
+Arthritis, Juvenile Rheumatoid	hydrocortisone phosphate	1.66666666666667	0.965854129401203
+Arthritis, Juvenile Rheumatoid	hydrocortisone probutate	1.66666666666667	0.992434325242536
+Arthritis, Juvenile Rheumatoid	hydrocortisone valerate	1.66666666666667	0.962452824309636
+Arthritis, Juvenile Rheumatoid	hydroflumethiazide	1.75	0.39935284480276
+Arthritis, Juvenile Rheumatoid	hydromorphone	1.66666666666667	0.350648224160647
+Arthritis, Juvenile Rheumatoid	hydroquinone	2	0.539827837277029
+Arthritis, Juvenile Rheumatoid	hydroxocobalamin	2.11111111111111	0.881452875189447
+Arthritis, Juvenile Rheumatoid	hydroxychloroquine	1	0.000573280633059868
+Arthritis, Juvenile Rheumatoid	hydroxyprogesterone caproate	1	0.218002487463221
+Arthritis, Juvenile Rheumatoid	hydroxyurea	1	0.0781326590420571
+Arthritis, Juvenile Rheumatoid	hydroxyzine	1	0.00495439390502486
+Arthritis, Juvenile Rheumatoid	hyoscyamine	1.75	0.153202805017805
+Arthritis, Juvenile Rheumatoid	hypromellose	2	0.421945575872959
+Arthritis, Juvenile Rheumatoid	ibalizumab	0.666666666666667	0.00484494805322198
+Arthritis, Juvenile Rheumatoid	ibandronate	2	0.701397079231245
+Arthritis, Juvenile Rheumatoid	ibritumomab tiuxetan	1.63636363636364	0.0433252117029816
+Arthritis, Juvenile Rheumatoid	ibrutinib	1	0.344044106225632
+Arthritis, Juvenile Rheumatoid	ibuprofen	1.7	0.863472266010223
+Arthritis, Juvenile Rheumatoid	ibutilide	2	0.682555679878889
+Arthritis, Juvenile Rheumatoid	icatibant	1.5	0.0526579692529193
+Arthritis, Juvenile Rheumatoid	icosapent	1.81818181818182	0.759043819009847
+Arthritis, Juvenile Rheumatoid	idarubicin	1	0.242497250706788
+Arthritis, Juvenile Rheumatoid	idelalisib	1	0.0199688854130538
+Arthritis, Juvenile Rheumatoid	idursulfase	2	0.792161300409409
+Arthritis, Juvenile Rheumatoid	ifenprodil	1.5	0.57592734943351
+Arthritis, Juvenile Rheumatoid	ifosfamide	2	0.797002465253824
+Arthritis, Juvenile Rheumatoid	iloperidone	1.81818181818182	0.519517721038623
+Arthritis, Juvenile Rheumatoid	iloprost	1.75	0.241095830477469
+Arthritis, Juvenile Rheumatoid	imatinib	1.25	0.212664336478626
+Arthritis, Juvenile Rheumatoid	imipramine	1.92	0.85690242937411
+Arthritis, Juvenile Rheumatoid	imiquimod	1	1.6982674071476e-07
+Arthritis, Juvenile Rheumatoid	indacaterol	0	0.0734691879310566
+Arthritis, Juvenile Rheumatoid	indapamide	2	0.662962983825009
+Arthritis, Juvenile Rheumatoid	indecainide	2	0.752556198548912
+Arthritis, Juvenile Rheumatoid	indigotindisulfonic acid	1.85714285714286	0.531277764513314
+Arthritis, Juvenile Rheumatoid	indomethacin	1.77777777777778	0.547589186077481
+Arthritis, Juvenile Rheumatoid	infliximab	0	0.0100851384204738
+Arthritis, Juvenile Rheumatoid	inotuzumab ozogamicin	1	0.0304997277935272
+Arthritis, Juvenile Rheumatoid	insulin aspart	1	0.206662211802317
+Arthritis, Juvenile Rheumatoid	insulin degludec	1	0.206662211802317
+Arthritis, Juvenile Rheumatoid	insulin detemir	1	0.20019697445169
+Arthritis, Juvenile Rheumatoid	insulin glargine	1	0.220727396201168
+Arthritis, Juvenile Rheumatoid	insulin glulisine	1	0.230834347305409
+Arthritis, Juvenile Rheumatoid	insulin human	1	0.0292400888091999
+Arthritis, Juvenile Rheumatoid	insulin lispro	1	0.267859356095353
+Arthritis, Juvenile Rheumatoid	insulin pork	1	3.23475979946402e-13
+Arthritis, Juvenile Rheumatoid	interferon alfa-2a, recombinant	1.5	0.255845647000211
+Arthritis, Juvenile Rheumatoid	interferon alfa-2b	1.5	0.32766582679292
+Arthritis, Juvenile Rheumatoid	interferon alfa-n1	1.5	0.337981481399644
+Arthritis, Juvenile Rheumatoid	interferon alfa-n3	1.5	0.348070793503379
+Arthritis, Juvenile Rheumatoid	interferon alfacon-1	1.5	0.360821938236815
+Arthritis, Juvenile Rheumatoid	interferon beta-1a	1.5	0.315813876290258
+Arthritis, Juvenile Rheumatoid	interferon beta-1b	1.5	0.312477136512922
+Arthritis, Juvenile Rheumatoid	interferon gamma-1b	1	0.000484202165786966
+Arthritis, Juvenile Rheumatoid	iopodic acid	2	0.513236346083117
+Arthritis, Juvenile Rheumatoid	ipilimumab	0	0.000494791332597229
+Arthritis, Juvenile Rheumatoid	ipratropium	1.66666666666667	0.157750505078098
+Arthritis, Juvenile Rheumatoid	irbesartan	1.5	0.696022825051387
+Arthritis, Juvenile Rheumatoid	irinotecan	1.5	0.208488684862975
+Arthritis, Juvenile Rheumatoid	iron	1.78571428571429	0.736438851431067
+Arthritis, Juvenile Rheumatoid	iron dextran	2	0.87091233588466
+Arthritis, Juvenile Rheumatoid	iron sucrose	2	0.595193977981334
+Arthritis, Juvenile Rheumatoid	isavuconazole	1.77777777777778	0.413106384976952
+Arthritis, Juvenile Rheumatoid	isocarboxazid	2	0.518725995733852
+Arthritis, Juvenile Rheumatoid	isoetharine	1	0.314355562292547
+Arthritis, Juvenile Rheumatoid	isoflurane	1.95	0.595971113630813
+Arthritis, Juvenile Rheumatoid	isoflurophate	2	0.698875977082408
+Arthritis, Juvenile Rheumatoid	isometheptene	2	0.641033558892628
+Arthritis, Juvenile Rheumatoid	isoniazid	2	0.484592032728678
+Arthritis, Juvenile Rheumatoid	isoprenaline	1	0.0332122385630847
+Arthritis, Juvenile Rheumatoid	isopropamide	1.5	0.0478137356987207
+Arthritis, Juvenile Rheumatoid	isopropyl alcohol	1.64285714285714	0.208269921410158
+Arthritis, Juvenile Rheumatoid	isosorbide	1.33333333333333	0.5
+Arthritis, Juvenile Rheumatoid	isosorbide dinitrate	2	0.622164048403935
+Arthritis, Juvenile Rheumatoid	isosorbide mononitrate	2	0.638534927211517
+Arthritis, Juvenile Rheumatoid	isotretinoin	1	0.142955655492965
+Arthritis, Juvenile Rheumatoid	isradipine	2	0.716141111031243
+Arthritis, Juvenile Rheumatoid	istradefylline	0.5	3.59064056179025e-05
+Arthritis, Juvenile Rheumatoid	itraconazole	2	0.560301693991225
+Arthritis, Juvenile Rheumatoid	ivabradine	2	0.625042838716089
+Arthritis, Juvenile Rheumatoid	ivacaftor	1	0.443484292150164
+Arthritis, Juvenile Rheumatoid	ivermectin	2	0.607564331445103
+Arthritis, Juvenile Rheumatoid	ivosidenib	1	0.0734691879310566
+Arthritis, Juvenile Rheumatoid	ixabepilone	1	0.344044106225632
+Arthritis, Juvenile Rheumatoid	ixekizumab	2	0.515010203114794
+Arthritis, Juvenile Rheumatoid	kaletra	1.57142857142857	0.139483436185132
+Arthritis, Juvenile Rheumatoid	kappadione	2	0.867774943468507
+Arthritis, Juvenile Rheumatoid	ketamine	1.91304347826087	0.486670538714883
+Arthritis, Juvenile Rheumatoid	ketazolam	2	0.515860025926193
+Arthritis, Juvenile Rheumatoid	ketoconazole	1.8	0.92207820243666
+Arthritis, Juvenile Rheumatoid	ketoprofen	1.66666666666667	0.300628754875377
+Arthritis, Juvenile Rheumatoid	ketorolac	2	0.707019801651382
+Arthritis, Juvenile Rheumatoid	ketotifen	1	0.00398121435892531
+Arthritis, Juvenile Rheumatoid	keyhole limpet hemocyanin	0	2.53376200692418e-10
+Arthritis, Juvenile Rheumatoid	l-glutamine	1.33333333333333	0.133345086017195
+Arthritis, Juvenile Rheumatoid	l-lysine	2	0.833176759143985
+Arthritis, Juvenile Rheumatoid	labetalol	1.6	0.562247490998509
+Arthritis, Juvenile Rheumatoid	lacidipine	2	0.881714132876677
+Arthritis, Juvenile Rheumatoid	lacosamide	2	0.489697555692534
+Arthritis, Juvenile Rheumatoid	lactose	1.5	0.297405232524206
+Arthritis, Juvenile Rheumatoid	lamotrigine	1.84375	0.0403356063460419
+Arthritis, Juvenile Rheumatoid	lanadelumab	3	0.99999993562801
+Arthritis, Juvenile Rheumatoid	lanreotide	2	0.701397079231245
+Arthritis, Juvenile Rheumatoid	lansoprazole	2	0.986184945378586
+Arthritis, Juvenile Rheumatoid	larotrectinib	1.66666666666667	0.653087035780971
+Arthritis, Juvenile Rheumatoid	lasmiditan	2	0.353016104590871
+Arthritis, Juvenile Rheumatoid	lasofoxifene	1	0.389661762637627
+Arthritis, Juvenile Rheumatoid	latanoprost	2	0.5
+Arthritis, Juvenile Rheumatoid	latanoprostene bunod	2	0.5
+Arthritis, Juvenile Rheumatoid	lauric acid	1.58333333333333	0.0180576279428776
+Arthritis, Juvenile Rheumatoid	leflunomide	1.33333333333333	0.265185940004789
+Arthritis, Juvenile Rheumatoid	lemborexant	2	0.462275684016868
+Arthritis, Juvenile Rheumatoid	lenalidomide	2	0.916532748258646
+Arthritis, Juvenile Rheumatoid	lenograstim	2	0.737578529093946
+Arthritis, Juvenile Rheumatoid	lenvatinib	1.6	0.933196033382471
+Arthritis, Juvenile Rheumatoid	lepirudin	2	0.878848306220981
+Arthritis, Juvenile Rheumatoid	lercanidipine	2	0.358766085670112
+Arthritis, Juvenile Rheumatoid	lesinurad	2	0.371145714811151
+Arthritis, Juvenile Rheumatoid	letrozole	0	6.58916070940113e-12
+Arthritis, Juvenile Rheumatoid	leuprolide	2	0.431949773586689
+Arthritis, Juvenile Rheumatoid	levacetylmethadol	2	0.770090682717735
+Arthritis, Juvenile Rheumatoid	levallorphan	2	0.753106814929306
+Arthritis, Juvenile Rheumatoid	levamisole	2	0.409719815650881
+Arthritis, Juvenile Rheumatoid	levamlodipine	1.75	0.790388094013849
+Arthritis, Juvenile Rheumatoid	levetiracetam	1.5	0.0668072012688581
+Arthritis, Juvenile Rheumatoid	levobetaxolol	2	0.696887157949039
+Arthritis, Juvenile Rheumatoid	levobunolol	1	0.246735913622741
+Arthritis, Juvenile Rheumatoid	levobupivacaine	2	0.466065877768001
+Arthritis, Juvenile Rheumatoid	levocabastine	2	0.396641315681443
+Arthritis, Juvenile Rheumatoid	levocarnitine	1.81818181818182	0.0506602312583221
+Arthritis, Juvenile Rheumatoid	levocetirizine	1	0.0108761210269565
+Arthritis, Juvenile Rheumatoid	levodopa	2	0.862122456651812
+Arthritis, Juvenile Rheumatoid	levofloxacin	1	0.242497250706788
+Arthritis, Juvenile Rheumatoid	levomenthol	2	0.852842063275434
+Arthritis, Juvenile Rheumatoid	levomilnacipran	2	0.64656753542287
+Arthritis, Juvenile Rheumatoid	levonordefrin	2	0.669630876939806
+Arthritis, Juvenile Rheumatoid	levonorgestrel	0.8	0.138132420288451
+Arthritis, Juvenile Rheumatoid	levorphanol	1.66666666666667	0.384606000868728
+Arthritis, Juvenile Rheumatoid	levosalbutamol	0	0.0732112498080598
+Arthritis, Juvenile Rheumatoid	levosimendan	2.25	0.977894275980223
+Arthritis, Juvenile Rheumatoid	levothyroxine	1.25	0.243017017244267
+Arthritis, Juvenile Rheumatoid	lidocaine	1.66666666666667	0.274615765358952
+Arthritis, Juvenile Rheumatoid	lifitegrast	1	0.0266397701088151
+Arthritis, Juvenile Rheumatoid	linaclotide	2	0.539827837277029
+Arthritis, Juvenile Rheumatoid	linagliptin	1	0.0642720250089849
+Arthritis, Juvenile Rheumatoid	lindane	1.625	0.688340369254956
+Arthritis, Juvenile Rheumatoid	liothyronine	1	0.15860873004672
+Arthritis, Juvenile Rheumatoid	liotrix	1	0.181979383375065
+Arthritis, Juvenile Rheumatoid	lipegfilgrastim	2	0.733163079974869
+Arthritis, Juvenile Rheumatoid	lipoic acid	2	0.476154676822914
+Arthritis, Juvenile Rheumatoid	liraglutide	2	0.844968589428058
+Arthritis, Juvenile Rheumatoid	lisinopril	1	4.33603205100575e-05
+Arthritis, Juvenile Rheumatoid	lisuride	2.06666666666667	0.983403960018877
+Arthritis, Juvenile Rheumatoid	lithium carbonate	1.5	0.0727757135817752
+Arthritis, Juvenile Rheumatoid	lithium citrate	1.5	0.0934910821150324
+Arthritis, Juvenile Rheumatoid	lixisenatide	2	0.849809281466247
+Arthritis, Juvenile Rheumatoid	lofexidine	2.16666666666667	0.988374866907291
+Arthritis, Juvenile Rheumatoid	lomefloxacin	1	0.227761049963818
+Arthritis, Juvenile Rheumatoid	lomitapide	2	0.398626189818971
+Arthritis, Juvenile Rheumatoid	lomustine	2	0.467517173550279
+Arthritis, Juvenile Rheumatoid	lonoctocog alfa	1.54545454545455	0.569747679954923
+Arthritis, Juvenile Rheumatoid	loperamide	1.57142857142857	0.445686569405093
+Arthritis, Juvenile Rheumatoid	lopinavir	1.5	0.0336749885067135
+Arthritis, Juvenile Rheumatoid	loratadine	1.5	0.243038381988664
+Arthritis, Juvenile Rheumatoid	lorazepam	2	0.339376928545475
+Arthritis, Juvenile Rheumatoid	lorcaserin	2	0.649739785701631
+Arthritis, Juvenile Rheumatoid	lorlatinib	1	0.218002487463221
+Arthritis, Juvenile Rheumatoid	lormetazepam	2	0.31451335630678
+Arthritis, Juvenile Rheumatoid	lornoxicam	2	0.74470167768115
+Arthritis, Juvenile Rheumatoid	lorpiprazole	1.9	0.580865539096158
+Arthritis, Juvenile Rheumatoid	losartan	2	0.690579534301245
+Arthritis, Juvenile Rheumatoid	loteprednol etabonate	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	lovastatin	1.33333333333333	0.0968004845856103
+Arthritis, Juvenile Rheumatoid	loxapine	1.96774193548387	0.902067249508595
+Arthritis, Juvenile Rheumatoid	loxoprofen	2	0.773485148271616
+Arthritis, Juvenile Rheumatoid	lubiprostone	2	0.717170455962981
+Arthritis, Juvenile Rheumatoid	lumacaftor	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	lumateperone	1.6	0.264144965987343
+Arthritis, Juvenile Rheumatoid	lumiracoxib	2	0.771094022995954
+Arthritis, Juvenile Rheumatoid	lurasidone	1.83333333333333	0.653236703374194
+Arthritis, Juvenile Rheumatoid	lusutrombopag	2	0.662018518600356
+Arthritis, Juvenile Rheumatoid	lutetium lu 177 dotatate	2.4	0.998238229568577
+Arthritis, Juvenile Rheumatoid	lutropin alfa	2	0.655955893774368
+Arthritis, Juvenile Rheumatoid	lyme disease vaccine (recombinant ospa)	0	0.00109940025634799
+Arthritis, Juvenile Rheumatoid	lypressin	2	0.64021075171531
+Arthritis, Juvenile Rheumatoid	macimorelin	3	0.996474635444789
+Arthritis, Juvenile Rheumatoid	macitentan	2	0.739863101889446
+Arthritis, Juvenile Rheumatoid	mafenide	2	0.543483645519244
+Arthritis, Juvenile Rheumatoid	magnesium acetate	1	0.237569428041602
+Arthritis, Juvenile Rheumatoid	magnesium acetate tetrahydrate	2	0.936170474630809
+Arthritis, Juvenile Rheumatoid	magnesium carbonate	2	0.941999365967338
+Arthritis, Juvenile Rheumatoid	magnesium cation	1	0.208279971638396
+Arthritis, Juvenile Rheumatoid	magnesium sulfate	2	0.66575943699914
+Arthritis, Juvenile Rheumatoid	malathion	3	0.946662338431002
+Arthritis, Juvenile Rheumatoid	manganese	1	0.00168896927599217
+Arthritis, Juvenile Rheumatoid	manidipine	2	0.839537350862644
+Arthritis, Juvenile Rheumatoid	maprotiline	1.82352941176471	0.253123099714367
+Arthritis, Juvenile Rheumatoid	maraviroc	0	0.00279020845849313
+Arthritis, Juvenile Rheumatoid	masoprocol	1	0.020326764528094
+Arthritis, Juvenile Rheumatoid	mazindol	2	0.719619939996117
+Arthritis, Juvenile Rheumatoid	mebendazole	1	0.392435668554897
+Arthritis, Juvenile Rheumatoid	mecamylamine	2.5	0.998406195367998
+Arthritis, Juvenile Rheumatoid	mecasermin	1.25	0.289504930851454
+Arthritis, Juvenile Rheumatoid	mecasermin rinfabate	1	0.0941072070349207
+Arthritis, Juvenile Rheumatoid	meclizine	1.5	0.136081020975617
+Arthritis, Juvenile Rheumatoid	meclofenamic acid	1.8	0.430905848244431
+Arthritis, Juvenile Rheumatoid	medrogestone	1	0.242497250706788
+Arthritis, Juvenile Rheumatoid	medroxyprogesterone acetate	1.6875	0.0334402609647705
+Arthritis, Juvenile Rheumatoid	medrysone	1	0.430547049879759
+Arthritis, Juvenile Rheumatoid	mefenamic acid	2	0.756604838918054
+Arthritis, Juvenile Rheumatoid	mefloquine	1.33333333333333	0.00212408526567534
+Arthritis, Juvenile Rheumatoid	megestrol acetate	1	0.228905977004046
+Arthritis, Juvenile Rheumatoid	meloxicam	2	0.735015577584287
+Arthritis, Juvenile Rheumatoid	memantine	1.95833333333333	0.603782275451065
+Arthritis, Juvenile Rheumatoid	menadione	1.92307692307692	0.826271906597801
+Arthritis, Juvenile Rheumatoid	menotropins	2	0.730114899667302
+Arthritis, Juvenile Rheumatoid	menthyl salicylate	2	0.771435864825666
+Arthritis, Juvenile Rheumatoid	mepenzolate	1.5	0.070633828799144
+Arthritis, Juvenile Rheumatoid	meperidine	1.875	0.662685097531089
+Arthritis, Juvenile Rheumatoid	mephentermine	1.66666666666667	0.191291330945627
+Arthritis, Juvenile Rheumatoid	mephenytoin	2	0.821938351139499
+Arthritis, Juvenile Rheumatoid	mepivacaine	2	0.360717305524133
+Arthritis, Juvenile Rheumatoid	mepolizumab	3	0.987784248108558
+Arthritis, Juvenile Rheumatoid	meprobamate	2	0.281736384618152
+Arthritis, Juvenile Rheumatoid	mepyramine	1	3.86539784067624e-05
+Arthritis, Juvenile Rheumatoid	mercaptopurine	1.25	0.0457870054774031
+Arthritis, Juvenile Rheumatoid	mesalazine	1.42857142857143	0.294720784063551
+Arthritis, Juvenile Rheumatoid	mesoridazine	1.5	0.211384817696613
+Arthritis, Juvenile Rheumatoid	metamfetamine	2	0.737779814673325
+Arthritis, Juvenile Rheumatoid	metamizole	2	0.601373810181029
+Arthritis, Juvenile Rheumatoid	metaraminol	2	0.669894312914843
+Arthritis, Juvenile Rheumatoid	metergoline	2	0.622059417467362
+Arthritis, Juvenile Rheumatoid	metformin	1.66666666666667	0.400760483613276
+Arthritis, Juvenile Rheumatoid	methacholine	1	0.00495439390502486
+Arthritis, Juvenile Rheumatoid	methadone	2	0.94704516325794
+Arthritis, Juvenile Rheumatoid	methantheline	2	0.404768181235158
+Arthritis, Juvenile Rheumatoid	methazolamide	2	0.514209092849931
+Arthritis, Juvenile Rheumatoid	methdilazine	1	0.00811657541060841
+Arthritis, Juvenile Rheumatoid	methimazole	3	0.984287236847063
+Arthritis, Juvenile Rheumatoid	methionine	2.2	0.93986286863029
+Arthritis, Juvenile Rheumatoid	methocarbamol	2	0.533104457107097
+Arthritis, Juvenile Rheumatoid	methohexital	2	0.556515707849836
+Arthritis, Juvenile Rheumatoid	methotrexate	0	4.01845021255728e-08
+Arthritis, Juvenile Rheumatoid	methotrimeprazine	1.89473684210526	0.515974387277577
+Arthritis, Juvenile Rheumatoid	methoxamine	2	0.721918974374881
+Arthritis, Juvenile Rheumatoid	methoxy polyethylene glycol-epoetin beta	1	0.140507572935521
+Arthritis, Juvenile Rheumatoid	methoxyflurane	1.94444444444444	0.297566520373864
+Arthritis, Juvenile Rheumatoid	methscopolamine bromide	1.66666666666667	0.141633562614397
+Arthritis, Juvenile Rheumatoid	methsuximide	2	0.365169824016816
+Arthritis, Juvenile Rheumatoid	methyclothiazide	2	0.662370768231321
+Arthritis, Juvenile Rheumatoid	methyl aminolevulinate	1	0.00352536455521138
+Arthritis, Juvenile Rheumatoid	methyldopa	2	0.615393999131272
+Arthritis, Juvenile Rheumatoid	methylene blue	1.5	0.203575460555435
+Arthritis, Juvenile Rheumatoid	methylergometrine	2	0.67412420918787
+Arthritis, Juvenile Rheumatoid	methylnaltrexone	2	0.785668340064762
+Arthritis, Juvenile Rheumatoid	methylphenidate	2	0.725836560008391
+Arthritis, Juvenile Rheumatoid	methylphenobarbital	2	0.611246592571476
+Arthritis, Juvenile Rheumatoid	methylprednisolone	1.5	0.996474635444789
+Arthritis, Juvenile Rheumatoid	methyprylon	2	0.27552350868276
+Arthritis, Juvenile Rheumatoid	methysergide	2	0.828026265406046
+Arthritis, Juvenile Rheumatoid	metipranolol	1	0.28614333199841
+Arthritis, Juvenile Rheumatoid	metixene	1.8	0.164726349975673
+Arthritis, Juvenile Rheumatoid	metoclopramide	1.5	0.0404907750490015
+Arthritis, Juvenile Rheumatoid	metocurine	2.5	0.94891640495477
+Arthritis, Juvenile Rheumatoid	metocurine iodide	3	0.980182760666826
+Arthritis, Juvenile Rheumatoid	metolazone	2	0.666155239894443
+Arthritis, Juvenile Rheumatoid	metoprolol	1	0.287288307474291
+Arthritis, Juvenile Rheumatoid	metreleptin	1	0.118666683240724
+Arthritis, Juvenile Rheumatoid	metyrapone	4	0.99993714665283
+Arthritis, Juvenile Rheumatoid	metyrosine	1	0.0304997277935272
+Arthritis, Juvenile Rheumatoid	mexiletine	1.5	0.365492599484296
+Arthritis, Juvenile Rheumatoid	mianserin	1.95652173913043	0.837888375426949
+Arthritis, Juvenile Rheumatoid	miconazole	1.91666666666667	0.844435723061686
+Arthritis, Juvenile Rheumatoid	midazolam	2	0.31594219088793
+Arthritis, Juvenile Rheumatoid	midodrine	2	0.740047211010652
+Arthritis, Juvenile Rheumatoid	midostaurin	1.33333333333333	0.421899341347785
+Arthritis, Juvenile Rheumatoid	mifamurtide	0	0.00030258613126902
+Arthritis, Juvenile Rheumatoid	mifepristone	1.25	0.158493539052752
+Arthritis, Juvenile Rheumatoid	migalastat	2	0.643348413060771
+Arthritis, Juvenile Rheumatoid	miglitol	1.5	0.0531152759376797
+Arthritis, Juvenile Rheumatoid	miglustat	2	0.569452950120241
+Arthritis, Juvenile Rheumatoid	milnacipran	2	0.94981190662501
+Arthritis, Juvenile Rheumatoid	milrinone	2	0.717170455962981
+Arthritis, Juvenile Rheumatoid	miltefosine	0	2.60356460411185e-05
+Arthritis, Juvenile Rheumatoid	minaprine	1.88888888888889	0.523845323177086
+Arthritis, Juvenile Rheumatoid	minocycline	1	0.00184185045602904
+Arthritis, Juvenile Rheumatoid	minoxidil	2	0.717845951362233
+Arthritis, Juvenile Rheumatoid	mirabegron	1	0.0002220431925507
+Arthritis, Juvenile Rheumatoid	mirtazapine	1.875	0.627445131495905
+Arthritis, Juvenile Rheumatoid	misoprostol	1.75	0.195137701035469
+Arthritis, Juvenile Rheumatoid	mitotane	1.6	0.977118345578235
+Arthritis, Juvenile Rheumatoid	mitoxantrone	1	0.267469696891441
+Arthritis, Juvenile Rheumatoid	mivacurium	2.25	0.876914652783729
+Arthritis, Juvenile Rheumatoid	moclobemide	2	0.533934122231999
+Arthritis, Juvenile Rheumatoid	modafinil	2	0.699062487322004
+Arthritis, Juvenile Rheumatoid	moexipril	1	3.84476579685535e-05
+Arthritis, Juvenile Rheumatoid	mogamulizumab	1	0.21313749767595
+Arthritis, Juvenile Rheumatoid	molindone	1.75	0.351161976763582
+Arthritis, Juvenile Rheumatoid	molsidomine	2	0.644964041091089
+Arthritis, Juvenile Rheumatoid	mometasone	1	0.218002487463221
+Arthritis, Juvenile Rheumatoid	mometasone furoate	1	0.206662211802317
+Arthritis, Juvenile Rheumatoid	monobenzone	2	0.566780568211948
+Arthritis, Juvenile Rheumatoid	montelukast	2.5	0.92347905792059
+Arthritis, Juvenile Rheumatoid	moricizine	2	0.690579534301245
+Arthritis, Juvenile Rheumatoid	moroctocog alfa	1.54545454545455	0.469139734499063
+Arthritis, Juvenile Rheumatoid	morphine	1.5	0.0327992056919233
+Arthritis, Juvenile Rheumatoid	moxetumomab pasudotox	1	0.0441359327202884
+Arthritis, Juvenile Rheumatoid	moxifloxacin	1	0.232658061024763
+Arthritis, Juvenile Rheumatoid	moxisylyte	2	0.778276468878338
+Arthritis, Juvenile Rheumatoid	moxonidine	2	0.725206377980299
+Arthritis, Juvenile Rheumatoid	muromonab	1.5	0.0102054402159808
+Arthritis, Juvenile Rheumatoid	mycophenolate mofetil	1.33333333333333	0.122926914878281
+Arthritis, Juvenile Rheumatoid	mycophenolic acid	1	0.091893522048448
+Arthritis, Juvenile Rheumatoid	myrrh	1.66666666666667	0.559009606306123
+Arthritis, Juvenile Rheumatoid	n-acetylglucosamine	2.14285714285714	0.925773094039974
+Arthritis, Juvenile Rheumatoid	nabilone	1.5	0.0157760190226322
+Arthritis, Juvenile Rheumatoid	nabumetone	2	0.793285612424399
+Arthritis, Juvenile Rheumatoid	nadh	1.62686567164179	5.12375323149631e-05
+Arthritis, Juvenile Rheumatoid	nadolol	1	0.237645110464841
+Arthritis, Juvenile Rheumatoid	nadroparin	1.5	0.646236752535964
+Arthritis, Juvenile Rheumatoid	nafarelin	2	0.377940582532638
+Arthritis, Juvenile Rheumatoid	naftifine	2	0.532482826449721
+Arthritis, Juvenile Rheumatoid	nalbuphine	1.66666666666667	0.312477136512922
+Arthritis, Juvenile Rheumatoid	naldemedine	1.66666666666667	0.401245417114234
+Arthritis, Juvenile Rheumatoid	nalmefene	1.66666666666667	0.402621067205672
+Arthritis, Juvenile Rheumatoid	naloxegol	2	0.742596867046104
+Arthritis, Juvenile Rheumatoid	naloxone	1.14285714285714	0.0576083394664997
+Arthritis, Juvenile Rheumatoid	naltrexone	1.66666666666667	0.330369123060194
+Arthritis, Juvenile Rheumatoid	naphazoline	2	0.683200997081493
+Arthritis, Juvenile Rheumatoid	naproxen	2	0.740741503477439
+Arthritis, Juvenile Rheumatoid	naratriptan	2.25	0.883556318583049
+Arthritis, Juvenile Rheumatoid	natalizumab	1.54545454545455	0.0546183352090212
+Arthritis, Juvenile Rheumatoid	nateglinide	2	0.917276824010226
+Arthritis, Juvenile Rheumatoid	nebivolol	1	0.0242006765594802
+Arthritis, Juvenile Rheumatoid	nedocromil	2.4	0.999951865564757
+Arthritis, Juvenile Rheumatoid	nefazodone	2	0.893262053318111
+Arthritis, Juvenile Rheumatoid	nelarabine	2	0.757502749293212
+Arthritis, Juvenile Rheumatoid	neomycin	2	0.601210971777241
+Arthritis, Juvenile Rheumatoid	neostigmine	2	0.63675533794423
+Arthritis, Juvenile Rheumatoid	nepafenac	2	0.746438772320087
+Arthritis, Juvenile Rheumatoid	nesiritide	1.66666666666667	0.273586663928587
+Arthritis, Juvenile Rheumatoid	netarsudil	2	0.914019788825591
+Arthritis, Juvenile Rheumatoid	netupitant	2	0.615393999131272
+Arthritis, Juvenile Rheumatoid	niacin	2	0.636008977465021
+Arthritis, Juvenile Rheumatoid	nialamide	1.66666666666667	0.102874704327819
+Arthritis, Juvenile Rheumatoid	nicardipine	1.86666666666667	0.391689744745192
+Arthritis, Juvenile Rheumatoid	nicergoline	2	0.651217293242611
+Arthritis, Juvenile Rheumatoid	nicorandil	2	0.539827837277029
+Arthritis, Juvenile Rheumatoid	nicotinamide	1.5	0.625190721919318
+Arthritis, Juvenile Rheumatoid	nicotine	2	0.571829960589648
+Arthritis, Juvenile Rheumatoid	nifedipine	1.88888888888889	0.853226688509441
+Arthritis, Juvenile Rheumatoid	nilotinib	1	0.320545910980988
+Arthritis, Juvenile Rheumatoid	nilvadipine	2.16666666666667	0.926347274724544
+Arthritis, Juvenile Rheumatoid	nimesulide	1.5	0.283169429746344
+Arthritis, Juvenile Rheumatoid	nimodipine	1.9	0.682175668066701
+Arthritis, Juvenile Rheumatoid	nintedanib	1.5	0.881630788222822
+Arthritis, Juvenile Rheumatoid	niraparib	1	0.208279971638396
+Arthritis, Juvenile Rheumatoid	nisoldipine	2	0.737370968161821
+Arthritis, Juvenile Rheumatoid	nitisinone	2	0.560301693991225
+Arthritis, Juvenile Rheumatoid	nitrazepam	2	0.324702534561711
+Arthritis, Juvenile Rheumatoid	nitrendipine	2	0.5
+Arthritis, Juvenile Rheumatoid	nitric oxide	2	0.6118349230983
+Arthritis, Juvenile Rheumatoid	nitroglycerin	2	0.649739785701631
+Arthritis, Juvenile Rheumatoid	nitroprusside	2	0.622164048403935
+Arthritis, Juvenile Rheumatoid	nitrous acid	2	0.648191683096561
+Arthritis, Juvenile Rheumatoid	nivolumab	2	0.555403770535204
+Arthritis, Juvenile Rheumatoid	nizatidine	2	0.3386856644913
+Arthritis, Juvenile Rheumatoid	nomifensine	2	0.618782641796381
+Arthritis, Juvenile Rheumatoid	nonacog beta pegol	2	0.755164925948479
+Arthritis, Juvenile Rheumatoid	norelgestromin	1	0.230834347305409
+Arthritis, Juvenile Rheumatoid	norepinephrine	1.72727272727273	0.285426222675178
+Arthritis, Juvenile Rheumatoid	norethisterone	1	0.225983494382793
+Arthritis, Juvenile Rheumatoid	norethynodrel	0.666666666666667	0.169547988137682
+Arthritis, Juvenile Rheumatoid	norfloxacin	1	0.247443801451088
+Arthritis, Juvenile Rheumatoid	norgestimate	0.666666666666667	0.232658061024763
+Arthritis, Juvenile Rheumatoid	norgestrel	1	0.227761049963819
+Arthritis, Juvenile Rheumatoid	nortriptyline	1.70833333333333	0.0350118897161459
+Arthritis, Juvenile Rheumatoid	noscapine	2	0.625042838716089
+Arthritis, Juvenile Rheumatoid	nylidrin	2	0.721457019907544
+Arthritis, Juvenile Rheumatoid	obeticholic acid	1	0.0828311253611192
+Arthritis, Juvenile Rheumatoid	obinutuzumab	1	0.00141806632782734
+Arthritis, Juvenile Rheumatoid	ocrelizumab	1	0.00683051274587574
+Arthritis, Juvenile Rheumatoid	ocriplasmin	1.33333333333333	0.514039918782939
+Arthritis, Juvenile Rheumatoid	octreotide	2.33333333333333	0.964620542195614
+Arthritis, Juvenile Rheumatoid	ofatumumab	1	0.023296851685566
+Arthritis, Juvenile Rheumatoid	ofloxacin	1	0.218002487463221
+Arthritis, Juvenile Rheumatoid	olanzapine	1.87878787878788	0.235976391935655
+Arthritis, Juvenile Rheumatoid	olaparib	1.33333333333333	0.256986186849995
+Arthritis, Juvenile Rheumatoid	olaratumab	2	0.830528799753193
+Arthritis, Juvenile Rheumatoid	oleic acid	1.83333333333333	0.920259500163125
+Arthritis, Juvenile Rheumatoid	olmesartan	2	0.696022825051387
+Arthritis, Juvenile Rheumatoid	olodaterol	0	0.0597526250645845
+Arthritis, Juvenile Rheumatoid	olopatadine	1.875	0.280538484346891
+Arthritis, Juvenile Rheumatoid	olsalazine	1	3.27942388182417e-06
+Arthritis, Juvenile Rheumatoid	omacetaxine mepesuccinate	1	0.370072067902287
+Arthritis, Juvenile Rheumatoid	omalizumab	2	0.642321565484967
+Arthritis, Juvenile Rheumatoid	omega-3-acid ethyl esters	1	0.331903790714222
+Arthritis, Juvenile Rheumatoid	omega-3-carboxylic acids	1.66666666666667	0.228235913793352
+Arthritis, Juvenile Rheumatoid	omega-3 fatty acids	1.33333333333333	0.555381756370677
+Arthritis, Juvenile Rheumatoid	omeprazole	1.5	0.477056880824563
+Arthritis, Juvenile Rheumatoid	ondansetron	1.8	0.257650911469675
+Arthritis, Juvenile Rheumatoid	opicapone	1	0.0642720250089849
+Arthritis, Juvenile Rheumatoid	opium	1.66666666666667	0.357678434515033
+Arthritis, Juvenile Rheumatoid	oprelvekin	0	1.27795012647939e-11
+Arthritis, Juvenile Rheumatoid	orciprenaline	0	0.0732112498080598
+Arthritis, Juvenile Rheumatoid	orlistat	2	0.781023487988995
+Arthritis, Juvenile Rheumatoid	ornithine	1.81818181818182	0.165415386820674
+Arthritis, Juvenile Rheumatoid	orphenadrine	2	0.812984286210929
+Arthritis, Juvenile Rheumatoid	oseltamivir	1.5	0.0363589097567036
+Arthritis, Juvenile Rheumatoid	ouabain	1.66666666666667	0.37717487214748
+Arthritis, Juvenile Rheumatoid	oxacillin	3	0.98954615211501
+Arthritis, Juvenile Rheumatoid	oxaprozin	2	0.739327262166495
+Arthritis, Juvenile Rheumatoid	oxazepam	2	0.320992789136174
+Arthritis, Juvenile Rheumatoid	oxcarbazepine	2.1	0.795731977092037
+Arthritis, Juvenile Rheumatoid	oxetacaine	2	0.560301693991225
+Arthritis, Juvenile Rheumatoid	oxiconazole	2	0.778857640210511
+Arthritis, Juvenile Rheumatoid	oxprenolol	1	0.018180833432145
+Arthritis, Juvenile Rheumatoid	oxtriphylline	1.2	0.00433596349484401
+Arthritis, Juvenile Rheumatoid	oxybenzone	0.75	0.242497250706788
+Arthritis, Juvenile Rheumatoid	oxybuprocaine	2	0.441604439654887
+Arthritis, Juvenile Rheumatoid	oxybutynin	1.66666666666667	0.117394052943533
+Arthritis, Juvenile Rheumatoid	oxycodone	1.66666666666667	0.34089706624188
+Arthritis, Juvenile Rheumatoid	oxygen	2.2	0.919654380673181
+Arthritis, Juvenile Rheumatoid	oxymetazoline	2	0.779813835869647
+Arthritis, Juvenile Rheumatoid	oxymetholone	1.5	0.646321616653685
+Arthritis, Juvenile Rheumatoid	oxymorphone	1.5	0.328170027293152
+Arthritis, Juvenile Rheumatoid	oxyphencyclimine	1.66666666666667	0.211167411868758
+Arthritis, Juvenile Rheumatoid	oxyphenonium	2	0.509629168764904
+Arthritis, Juvenile Rheumatoid	oxytocin	2	0.61665803552731
+Arthritis, Juvenile Rheumatoid	paclitaxel	1.83333333333333	0.983684970080641
+Arthritis, Juvenile Rheumatoid	palbociclib	0.5	0.0822420921568203
+Arthritis, Juvenile Rheumatoid	palifermin	1.83333333333333	0.986489030422378
+Arthritis, Juvenile Rheumatoid	paliperidone	1.93333333333333	0.86756111643179
+Arthritis, Juvenile Rheumatoid	palivizumab	1.66666666666667	0.125900119336237
+Arthritis, Juvenile Rheumatoid	palmitic acid	2	0.859401927274065
+Arthritis, Juvenile Rheumatoid	palonosetron	2	0.572539989341634
+Arthritis, Juvenile Rheumatoid	pamidronic acid	2	0.706709131192249
+Arthritis, Juvenile Rheumatoid	pancuronium	2	0.583128938127362
+Arthritis, Juvenile Rheumatoid	panobinostat	1.27272727272727	0.885884257312638
+Arthritis, Juvenile Rheumatoid	pantoprazole	2	0.861671176789748
+Arthritis, Juvenile Rheumatoid	papain	0	0.0039812143589253
+Arthritis, Juvenile Rheumatoid	papaverine	2	0.572236726003009
+Arthritis, Juvenile Rheumatoid	parachlorophenol	2	0.629518196223263
+Arthritis, Juvenile Rheumatoid	paramethadione	2	0.53600358359888
+Arthritis, Juvenile Rheumatoid	parathyroid hormone	2	0.632101226858225
+Arthritis, Juvenile Rheumatoid	parecoxib	1.5	0.246122754601408
+Arthritis, Juvenile Rheumatoid	pargyline	2	0.488028085202184
+Arthritis, Juvenile Rheumatoid	paricalcitol	0	0.0112399051573542
+Arthritis, Juvenile Rheumatoid	paroxetine	1.94285714285714	0.748323950418409
+Arthritis, Juvenile Rheumatoid	pasireotide	2.25	0.966308508265802
+Arthritis, Juvenile Rheumatoid	patent blue	1	0.409719815650881
+Arthritis, Juvenile Rheumatoid	pazopanib	1.4	0.218095679833971
+Arthritis, Juvenile Rheumatoid	pefloxacin	1	0.247443801451088
+Arthritis, Juvenile Rheumatoid	pegaptanib	2	0.777123544639358
+Arthritis, Juvenile Rheumatoid	pegfilgrastim	2	0.752556198548912
+Arthritis, Juvenile Rheumatoid	peginesatide	1	0.140507572935521
+Arthritis, Juvenile Rheumatoid	peginterferon alfa-2a	1.5	0.308052766445975
+Arthritis, Juvenile Rheumatoid	peginterferon alfa-2b	1.5	0.317651866703814
+Arthritis, Juvenile Rheumatoid	pegvisomant	1	0.198581893526159
+Arthritis, Juvenile Rheumatoid	pembrolizumab	2	0.568050226413311
+Arthritis, Juvenile Rheumatoid	pemetrexed	0.5	2.76735125453203e-06
+Arthritis, Juvenile Rheumatoid	penbutolol	1.5	0.295607644734905
+Arthritis, Juvenile Rheumatoid	pentaerythritol tetranitrate	2	0.709023195766682
+Arthritis, Juvenile Rheumatoid	pentagastrin	2	0.594351872130646
+Arthritis, Juvenile Rheumatoid	pentamidine	2	0.690579534301245
+Arthritis, Juvenile Rheumatoid	pentazocine	2	0.74466542673994
+Arthritis, Juvenile Rheumatoid	pentobarbital	2	0.8787042626231
+Arthritis, Juvenile Rheumatoid	pentolinium	2	0.538314792755411
+Arthritis, Juvenile Rheumatoid	pentosan polysulfate	2	0.76702553143412
+Arthritis, Juvenile Rheumatoid	pentostatin	1	0.00232598688366816
+Arthritis, Juvenile Rheumatoid	pentoxifylline	1.5	0.00652022928240183
+Arthritis, Juvenile Rheumatoid	pentoxyverine	2	0.805736696085007
+Arthritis, Juvenile Rheumatoid	perampanel	2	0.751749008540493
+Arthritis, Juvenile Rheumatoid	pergolide	2.05882352941176	0.976057774450048
+Arthritis, Juvenile Rheumatoid	perhexiline	1.66666666666667	0.323363905779628
+Arthritis, Juvenile Rheumatoid	periciazine	1.75	0.748174084061876
+Arthritis, Juvenile Rheumatoid	perindopril	1	0.000566458631652767
+Arthritis, Juvenile Rheumatoid	permethrin	1.33333333333333	0.782538481486449
+Arthritis, Juvenile Rheumatoid	perphenazine	1.33333333333333	0.148213312119851
+Arthritis, Juvenile Rheumatoid	pexidartinib	1.5	0.536374926160925
+Arthritis, Juvenile Rheumatoid	phenacemide	2	0.486763653916884
+Arthritis, Juvenile Rheumatoid	phenazopyridine	2	0.46399641640112
+Arthritis, Juvenile Rheumatoid	phendimetrazine	2	0.732220182265914
+Arthritis, Juvenile Rheumatoid	phenelzine	2	0.552117403736337
+Arthritis, Juvenile Rheumatoid	phenformin	2.5	0.99999999998722
+Arthritis, Juvenile Rheumatoid	phenindamine	1	0.0205147307882771
+Arthritis, Juvenile Rheumatoid	phenindione	1	0.272551233636201
+Arthritis, Juvenile Rheumatoid	pheniramine	1.66666666666667	0.141633562614397
+Arthritis, Juvenile Rheumatoid	phenmetrazine	2	0.68291420666201
+Arthritis, Juvenile Rheumatoid	phenobarbital	2	0.982452266084815
+Arthritis, Juvenile Rheumatoid	phenol	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	phenolphthalein	1.25	0.568526832367307
+Arthritis, Juvenile Rheumatoid	phenoxybenzamine	1.625	0.539827837277029
+Arthritis, Juvenile Rheumatoid	phenoxymethylpenicillin	3	0.903465291735655
+Arthritis, Juvenile Rheumatoid	phenprocoumon	1	0.232658061024763
+Arthritis, Juvenile Rheumatoid	phentermine	2	0.771808538466833
+Arthritis, Juvenile Rheumatoid	phentolamine	2	0.784139121565053
+Arthritis, Juvenile Rheumatoid	phenyl salicylate	2	0.728581061596639
+Arthritis, Juvenile Rheumatoid	phenylalanine	1.85714285714286	0.511107437644555
+Arthritis, Juvenile Rheumatoid	phenylbutazone	2	0.727448766363799
+Arthritis, Juvenile Rheumatoid	phenylephrine	2	0.741986367007745
+Arthritis, Juvenile Rheumatoid	phenylpropanolamine	1.66666666666667	0.555889797373454
+Arthritis, Juvenile Rheumatoid	phenytoin	2	0.769536677340015
+Arthritis, Juvenile Rheumatoid	pholcodine	1.66666666666667	0.302706699708662
+Arthritis, Juvenile Rheumatoid	phosphatidyl serine	2	0.924990635650182
+Arthritis, Juvenile Rheumatoid	phylloquinone	1.5	0.0745333387456837
+Arthritis, Juvenile Rheumatoid	physostigmine	2.33333333333333	0.977322805788486
+Arthritis, Juvenile Rheumatoid	pidolic acid	1.77777777777778	0.115336379033614
+Arthritis, Juvenile Rheumatoid	pilocarpine	1.75	0.190919092364416
+Arthritis, Juvenile Rheumatoid	pimavanserin	1.5	0.269208003988597
+Arthritis, Juvenile Rheumatoid	pimecrolimus	1.5	0.730431844384244
+Arthritis, Juvenile Rheumatoid	pimozide	1.5	0.363894554121422
+Arthritis, Juvenile Rheumatoid	pinaverium	2	0.636008977465021
+Arthritis, Juvenile Rheumatoid	pindolol	1.4	0.0605328022086525
+Arthritis, Juvenile Rheumatoid	pioglitazone	1.75	0.773485148271616
+Arthritis, Juvenile Rheumatoid	pipecuronium	2	0.542535818263789
+Arthritis, Juvenile Rheumatoid	piperazine	2	0.610462983720318
+Arthritis, Juvenile Rheumatoid	pipotiazine	1.75	0.479830875450035
+Arthritis, Juvenile Rheumatoid	pipradrol	2.5	0.996886168551691
+Arthritis, Juvenile Rheumatoid	pirbuterol	1	0.218592761741633
+Arthritis, Juvenile Rheumatoid	pirenzepine	2	0.443484292150164
+Arthritis, Juvenile Rheumatoid	piretanide	2	0.397363447230139
+Arthritis, Juvenile Rheumatoid	pirfenidone	2	0.745413408339042
+Arthritis, Juvenile Rheumatoid	piroxicam	2	0.758473562566727
+Arthritis, Juvenile Rheumatoid	pitavastatin	1.5	0.0422008022958238
+Arthritis, Juvenile Rheumatoid	pitolisant	2.5	0.945585741494888
+Arthritis, Juvenile Rheumatoid	pizotifen	1.9375	0.719773523586509
+Arthritis, Juvenile Rheumatoid	plecanatide	2	0.666155239894443
+Arthritis, Juvenile Rheumatoid	plerixafor	1	0.159871187246137
+Arthritis, Juvenile Rheumatoid	podofilox	1	0.23128553712817
+Arthritis, Juvenile Rheumatoid	polatuzumab vedotin	1	0.0383141933541994
+Arthritis, Juvenile Rheumatoid	polyethylene glycol 400	2	0.390372167016617
+Arthritis, Juvenile Rheumatoid	polythiazide	2	0.651830136041873
+Arthritis, Juvenile Rheumatoid	pomalidomide	1.33333333333333	0.219501139798503
+Arthritis, Juvenile Rheumatoid	ponatinib	1.4	0.87957630846964
+Arthritis, Juvenile Rheumatoid	porfimer sodium	1.5	0.128263650510331
+Arthritis, Juvenile Rheumatoid	potassium	1	0.227761049963818
+Arthritis, Juvenile Rheumatoid	potassium acetate	1	0.232658061024763
+Arthritis, Juvenile Rheumatoid	potassium cation	1	0.218002487463221
+Arthritis, Juvenile Rheumatoid	potassium chloride	2	0.58130342476523
+Arthritis, Juvenile Rheumatoid	potassium nitrate	2	0.730114899667302
+Arthritis, Juvenile Rheumatoid	potassium sulfate	1	0.232658061024763
+Arthritis, Juvenile Rheumatoid	practolol	2	0.685059521266246
+Arthritis, Juvenile Rheumatoid	pralatrexate	0	1.30169272084845e-05
+Arthritis, Juvenile Rheumatoid	pralidoxime	2.5	0.938145717840241
+Arthritis, Juvenile Rheumatoid	pramipexole	1.8	0.453959046709007
+Arthritis, Juvenile Rheumatoid	pramlintide	1	1.6982674071476e-07
+Arthritis, Juvenile Rheumatoid	pramocaine	2	0.708833630597314
+Arthritis, Juvenile Rheumatoid	prasterone	1.89655172413793	0.953824303885285
+Arthritis, Juvenile Rheumatoid	prasugrel	2	0.375859795863067
+Arthritis, Juvenile Rheumatoid	pravastatin	1.5	0.651217293242611
+Arthritis, Juvenile Rheumatoid	prazepam	2	0.357892608013749
+Arthritis, Juvenile Rheumatoid	prazosin	2	0.807636670158557
+Arthritis, Juvenile Rheumatoid	prednicarbate	1	0.409719815650881
+Arthritis, Juvenile Rheumatoid	prednisolone	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	prednisolone acetate	1	0.430547049879759
+Arthritis, Juvenile Rheumatoid	prednisone	1	0.400760483613276
+Arthritis, Juvenile Rheumatoid	pregabalin	2	0.539827837277029
+Arthritis, Juvenile Rheumatoid	pregnenolone	2.5	0.990732808320037
+Arthritis, Juvenile Rheumatoid	prenylamine	1	0.023296851685566
+Arthritis, Juvenile Rheumatoid	prilocaine	2	0.717170455962981
+Arthritis, Juvenile Rheumatoid	primaquine	2	0.715307362796718
+Arthritis, Juvenile Rheumatoid	primidone	2	0.542540990043327
+Arthritis, Juvenile Rheumatoid	probenecid	2	0.468150714246403
+Arthritis, Juvenile Rheumatoid	probucol	2	0.882605947056467
+Arthritis, Juvenile Rheumatoid	procainamide	2	0.918931263152849
+Arthritis, Juvenile Rheumatoid	procaine	2.06666666666667	0.88898185824916
+Arthritis, Juvenile Rheumatoid	procarbazine	2	0.546926126626285
+Arthritis, Juvenile Rheumatoid	procaterol	0	0.087559238440391
+Arthritis, Juvenile Rheumatoid	prochlorperazine	1.75	0.229761669078014
+Arthritis, Juvenile Rheumatoid	procyclidine	1.75	0.160615682387646
+Arthritis, Juvenile Rheumatoid	profenamine	2	0.71031103035992
+Arthritis, Juvenile Rheumatoid	proflavine	2	0.820777413605896
+Arthritis, Juvenile Rheumatoid	progesterone	1.2	0.175588146315893
+Arthritis, Juvenile Rheumatoid	proguanil	0	7.84990095663714e-06
+Arthritis, Juvenile Rheumatoid	promazine	1.78571428571429	0.0851152855165635
+Arthritis, Juvenile Rheumatoid	promethazine	1.63636363636364	0.0184181928909155
+Arthritis, Juvenile Rheumatoid	propafenone	1.5	0.491437982496967
+Arthritis, Juvenile Rheumatoid	propanoic acid	2	0.714573777324822
+Arthritis, Juvenile Rheumatoid	propantheline	2	0.488028085202184
+Arthritis, Juvenile Rheumatoid	proparacaine	2	0.364590221524425
+Arthritis, Juvenile Rheumatoid	propiomazine	1.78571428571429	0.185169710215077
+Arthritis, Juvenile Rheumatoid	propiverine	1.85714285714286	0.352794369308844
+Arthritis, Juvenile Rheumatoid	propofol	2	0.33959739580289
+Arthritis, Juvenile Rheumatoid	propoxycaine	2	0.625226303759741
+Arthritis, Juvenile Rheumatoid	propranolol	1.4	0.0738294596096294
+Arthritis, Juvenile Rheumatoid	propyl alcohol	1	0.134436594086408
+Arthritis, Juvenile Rheumatoid	propylene glycol	1	0.0597526250645845
+Arthritis, Juvenile Rheumatoid	propylhexedrine	2	0.593348289699399
+Arthritis, Juvenile Rheumatoid	propylthiouracil	3	0.981264672005092
+Arthritis, Juvenile Rheumatoid	protamine sulfate	2	0.726648400995288
+Arthritis, Juvenile Rheumatoid	protein s human	2	0.792259354153916
+Arthritis, Juvenile Rheumatoid	prothrombin	1.5	0.0626045551096628
+Arthritis, Juvenile Rheumatoid	protirelin	2	0.431949773586689
+Arthritis, Juvenile Rheumatoid	protokylol	0	0.0778689448754476
+Arthritis, Juvenile Rheumatoid	protriptyline	2	0.717884749579625
+Arthritis, Juvenile Rheumatoid	prucalopride	1	0.000414063595722488
+Arthritis, Juvenile Rheumatoid	pseudoephedrine	1.33333333333333	0.0596965951055252
+Arthritis, Juvenile Rheumatoid	pyrantel	2	0.54259825590953
+Arthritis, Juvenile Rheumatoid	pyrethrum extract	2	0.806761884614384
+Arthritis, Juvenile Rheumatoid	pyridostigmine	2	0.945665416047098
+Arthritis, Juvenile Rheumatoid	pyridoxal phosphate	1.81632653061224	0.177104321727534
+Arthritis, Juvenile Rheumatoid	pyridoxine	2	0.657315717039737
+Arthritis, Juvenile Rheumatoid	pyrimethamine	1	0.00824911011469896
+Arthritis, Juvenile Rheumatoid	pyruvic acid	1.85714285714286	0.327185084414163
+Arthritis, Juvenile Rheumatoid	quazepam	2	0.348803766314638
+Arthritis, Juvenile Rheumatoid	quetiapine	1.96153846153846	0.786656724053584
+Arthritis, Juvenile Rheumatoid	quinagolide	2	0.763107375611068
+Arthritis, Juvenile Rheumatoid	quinapril	0	2.3084757371916e-11
+Arthritis, Juvenile Rheumatoid	quinethazone	2	0.74769439472951
+Arthritis, Juvenile Rheumatoid	quinidine	2	0.879684757209017
+Arthritis, Juvenile Rheumatoid	quinidine barbiturate	2	0.590746252579366
+Arthritis, Juvenile Rheumatoid	quinine	2	0.667945862951248
+Arthritis, Juvenile Rheumatoid	rabeprazole	2	0.878848306220981
+Arthritis, Juvenile Rheumatoid	racepinephrine	1.66666666666667	0.280489453063998
+Arthritis, Juvenile Rheumatoid	raloxifene	0.75	0.0458217612448083
+Arthritis, Juvenile Rheumatoid	raltitrexed	0	8.87633475353135e-10
+Arthritis, Juvenile Rheumatoid	ramelteon	2	0.830498084578729
+Arthritis, Juvenile Rheumatoid	ramipril	1	0.000294340535915867
+Arthritis, Juvenile Rheumatoid	ramucirumab	1	0.21313749767595
+Arthritis, Juvenile Rheumatoid	ranibizumab	2	0.777123544639358
+Arthritis, Juvenile Rheumatoid	ranitidine	2	0.405648127869354
+Arthritis, Juvenile Rheumatoid	ranolazine	2.04	0.970396517681746
+Arthritis, Juvenile Rheumatoid	rapacuronium	2	0.643348413060771
+Arthritis, Juvenile Rheumatoid	rasagiline	2	0.960482304433387
+Arthritis, Juvenile Rheumatoid	ravulizumab	0	1.57774939929906e-08
+Arthritis, Juvenile Rheumatoid	reboxetine	2	0.556515707849836
+Arthritis, Juvenile Rheumatoid	regadenoson	0	2.20903899865339e-06
+Arthritis, Juvenile Rheumatoid	regorafenib	1.5	0.811504614466339
+Arthritis, Juvenile Rheumatoid	remdesivir	2	0.738188339266113
+Arthritis, Juvenile Rheumatoid	remifentanil	1.66666666666667	0.412170047436201
+Arthritis, Juvenile Rheumatoid	remoxipride	1.8	0.5
+Arthritis, Juvenile Rheumatoid	repaglinide	2	0.968592184289334
+Arthritis, Juvenile Rheumatoid	rescinnamine	0	2.05229962402625e-07
+Arthritis, Juvenile Rheumatoid	reserpine	2	0.754537219266652
+Arthritis, Juvenile Rheumatoid	reslizumab	3	0.988804402020846
+Arthritis, Juvenile Rheumatoid	resorcinol	3	0.977322805788486
+Arthritis, Juvenile Rheumatoid	resveratrol	1.52173913043478	0.808716830371322
+Arthritis, Juvenile Rheumatoid	reteplase	2	0.930988121657441
+Arthritis, Juvenile Rheumatoid	revefenacin	1.8	0.178134207060104
+Arthritis, Juvenile Rheumatoid	ribavirin	1.5	0.156084707953258
+Arthritis, Juvenile Rheumatoid	ribociclib	0.5	0.0826627825407814
+Arthritis, Juvenile Rheumatoid	riboflavin	1.5	0.04929616197477
+Arthritis, Juvenile Rheumatoid	ribostamycin	1	0.242497250706788
+Arthritis, Juvenile Rheumatoid	rifabutin	1	0.320545910980988
+Arthritis, Juvenile Rheumatoid	rifampicin	2	0.778249187411347
+Arthritis, Juvenile Rheumatoid	rifaximin	2	0.804647084165173
+Arthritis, Juvenile Rheumatoid	rilmenidine	2	0.668123536546787
+Arthritis, Juvenile Rheumatoid	rilonacept	0	5.0899139102148e-26
+Arthritis, Juvenile Rheumatoid	rilpivirine	2	0.74470167768115
+Arthritis, Juvenile Rheumatoid	riluzole	2	0.691491858232891
+Arthritis, Juvenile Rheumatoid	rimexolone	1	0.419528060652873
+Arthritis, Juvenile Rheumatoid	rimonabant	1	0.0103849333840912
+Arthritis, Juvenile Rheumatoid	riociguat	2	0.601210971777241
+Arthritis, Juvenile Rheumatoid	risankizumab	1	5.81516343422661e-05
+Arthritis, Juvenile Rheumatoid	risedronic acid	2	0.654490539014738
+Arthritis, Juvenile Rheumatoid	risperidone	1.93333333333333	0.847634892317473
+Arthritis, Juvenile Rheumatoid	ritodrine	0	0.0970859962880845
+Arthritis, Juvenile Rheumatoid	ritonavir	2	0.773485148271616
+Arthritis, Juvenile Rheumatoid	rituximab	1	0.00892913149888449
+Arthritis, Juvenile Rheumatoid	rivaroxaban	2	0.73541885623519
+Arthritis, Juvenile Rheumatoid	rivastigmine	2.5	0.93499552526622
+Arthritis, Juvenile Rheumatoid	rizatriptan	2.33333333333333	0.831032041320066
+Arthritis, Juvenile Rheumatoid	rocuronium	2.33333333333333	0.953057334630863
+Arthritis, Juvenile Rheumatoid	rofecoxib	2	0.844502063235604
+Arthritis, Juvenile Rheumatoid	roflumilast	1.75	0.341298093191657
+Arthritis, Juvenile Rheumatoid	rolapitant	2	0.588058934300602
+Arthritis, Juvenile Rheumatoid	romidepsin	0.8	0.0038712121803888
+Arthritis, Juvenile Rheumatoid	romiplostim	2	0.638534927211517
+Arthritis, Juvenile Rheumatoid	romosozumab	3	0.999961346021593
+Arthritis, Juvenile Rheumatoid	ropinirole	1.88888888888889	0.616818829064088
+Arthritis, Juvenile Rheumatoid	ropivacaine	2	0.406048458615097
+Arthritis, Juvenile Rheumatoid	rosiglitazone	1.42857142857143	0.634540171225299
+Arthritis, Juvenile Rheumatoid	rosuvastatin	1.5	0.0979447235178599
+Arthritis, Juvenile Rheumatoid	rotigotine	2	0.75656504354346
+Arthritis, Juvenile Rheumatoid	roxithromycin	0	0.000138734434716623
+Arthritis, Juvenile Rheumatoid	rucaparib	1.33333333333333	0.357178253229281
+Arthritis, Juvenile Rheumatoid	rufinamide	1	0.0550643711526228
+Arthritis, Juvenile Rheumatoid	rupatadine	1.5	0.0773709541069438
+Arthritis, Juvenile Rheumatoid	rutin	1.5	0.222089657561552
+Arthritis, Juvenile Rheumatoid	ruxolitinib	1	0.227272062436361
+Arthritis, Juvenile Rheumatoid	sacubitril	1	0.288034907556519
+Arthritis, Juvenile Rheumatoid	safinamide	2	0.490370831235096
+Arthritis, Juvenile Rheumatoid	salbutamol	1	0.0262922963214591
+Arthritis, Juvenile Rheumatoid	salicylic acid	2	0.674003318364977
+Arthritis, Juvenile Rheumatoid	salmeterol	1	0.0412840095090817
+Arthritis, Juvenile Rheumatoid	salmon calcitonin	0	2.45004081652079e-05
+Arthritis, Juvenile Rheumatoid	salsalate	2	0.746876900285633
+Arthritis, Juvenile Rheumatoid	sapropterin	1.75	0.418593373903696
+Arthritis, Juvenile Rheumatoid	sargramostim	1.8	0.578035421405426
+Arthritis, Juvenile Rheumatoid	sarilumab	1.42857142857143	0.00171759204290425
+Arthritis, Juvenile Rheumatoid	saxagliptin	1	0.0597526250645845
+Arthritis, Juvenile Rheumatoid	scopolamine	2	0.469612177824273
+Arthritis, Juvenile Rheumatoid	secobarbital	2	0.861805185619815
+Arthritis, Juvenile Rheumatoid	secretin human	2	0.565406593191326
+Arthritis, Juvenile Rheumatoid	secukinumab	2	0.474861446728315
+Arthritis, Juvenile Rheumatoid	segesterone acetate	1	0.207838699590591
+Arthritis, Juvenile Rheumatoid	selegiline	2	0.431949773586689
+Arthritis, Juvenile Rheumatoid	selexipag	2	0.669116495807116
+Arthritis, Juvenile Rheumatoid	semaglutide	2	0.830452011862318
+Arthritis, Juvenile Rheumatoid	sennosides	2	0.444059885688382
+Arthritis, Juvenile Rheumatoid	seractide acetate	2	0.528933159412876
+Arthritis, Juvenile Rheumatoid	sermorelin	3	0.999999673655995
+Arthritis, Juvenile Rheumatoid	sertindole	1.875	0.645987778123335
+Arthritis, Juvenile Rheumatoid	sertraline	1.8	0.486924217758669
+Arthritis, Juvenile Rheumatoid	sevoflurane	1.94444444444444	0.298276486825453
+Arthritis, Juvenile Rheumatoid	sibutramine	2	0.734909872385584
+Arthritis, Juvenile Rheumatoid	sildenafil	2	0.547188558600297
+Arthritis, Juvenile Rheumatoid	silicon dioxide	2	0.363244662055771
+Arthritis, Juvenile Rheumatoid	silodosin	2	0.761446394020469
+Arthritis, Juvenile Rheumatoid	siltuximab	0	2.53376200692418e-10
+Arthritis, Juvenile Rheumatoid	silver	1.84615384615385	0.393766619411193
+Arthritis, Juvenile Rheumatoid	simoctocog alfa	2	0.711965092443481
+Arthritis, Juvenile Rheumatoid	simvastatin	1.33333333333333	0.0853453167767504
+Arthritis, Juvenile Rheumatoid	siponimod	2	0.652522749559522
+Arthritis, Juvenile Rheumatoid	sipuleucel-t	2	0.435792799051369
+Arthritis, Juvenile Rheumatoid	sirolimus	1.66666666666667	0.822814138570493
+Arthritis, Juvenile Rheumatoid	sitagliptin	1	0.0781326590420571
+Arthritis, Juvenile Rheumatoid	sitaxentan	2	0.698334113854067
+Arthritis, Juvenile Rheumatoid	sodium carbonate	1.75	0.266219527252052
+Arthritis, Juvenile Rheumatoid	sodium ferric gluconate complex	2	0.809375337023012
+Arthritis, Juvenile Rheumatoid	sodium stibogluconate	1	0.298602920768755
+Arthritis, Juvenile Rheumatoid	sodium sulfate	2	0.624675297722403
+Arthritis, Juvenile Rheumatoid	sodium tetradecyl sulfate	2	0.766896074653274
+Arthritis, Juvenile Rheumatoid	solifenacin	1.8	0.0833596206416588
+Arthritis, Juvenile Rheumatoid	solriamfetol	2	0.658641208782744
+Arthritis, Juvenile Rheumatoid	somatostatin	2.4	0.997790477313401
+Arthritis, Juvenile Rheumatoid	somatotropin	1	0.0474677993578668
+Arthritis, Juvenile Rheumatoid	somatrem	1	0.109087927024109
+Arthritis, Juvenile Rheumatoid	sonidegib	2	0.615393999131272
+Arthritis, Juvenile Rheumatoid	sorafenib	1.5	0.758036347776927
+Arthritis, Juvenile Rheumatoid	sotalol	1.33333333333333	0.503989557805822
+Arthritis, Juvenile Rheumatoid	soybean oil	2	0.779272603798832
+Arthritis, Juvenile Rheumatoid	sparfloxacin	1	0.242497250706788
+Arthritis, Juvenile Rheumatoid	spirapril	0	2.16610738409332e-08
+Arthritis, Juvenile Rheumatoid	spironolactone	2	0.97549107162976
+Arthritis, Juvenile Rheumatoid	stearic acid	1.5	0.1649918540896
+Arthritis, Juvenile Rheumatoid	stiripentol	1.93333333333333	0.408299528538652
+Arthritis, Juvenile Rheumatoid	streptokinase	2	0.924466277739493
+Arthritis, Juvenile Rheumatoid	streptomycin	2	0.63675533794423
+Arthritis, Juvenile Rheumatoid	streptozocin	2	0.736974384813325
+Arthritis, Juvenile Rheumatoid	succinic acid	1.7	0.209160848102618
+Arthritis, Juvenile Rheumatoid	succinylcholine	1.66666666666667	0.0932171893672553
+Arthritis, Juvenile Rheumatoid	sucralfate	1.6	0.283858888968757
+Arthritis, Juvenile Rheumatoid	sufentanil	1.66666666666667	0.374957161283911
+Arthritis, Juvenile Rheumatoid	sulfamethoxazole	0	0.00342341891371522
+Arthritis, Juvenile Rheumatoid	sulfasalazine	1.5	0.151444234948866
+Arthritis, Juvenile Rheumatoid	sulfinpyrazone	1.5	0.203304196188907
+Arthritis, Juvenile Rheumatoid	sulindac	1.71428571428571	0.593348289699399
+Arthritis, Juvenile Rheumatoid	sulodexide	2	0.590280184349119
+Arthritis, Juvenile Rheumatoid	sulpiride	1.75	0.302272923321496
+Arthritis, Juvenile Rheumatoid	sumatriptan	2.25	0.94106176684227
+Arthritis, Juvenile Rheumatoid	sunitinib	1.625	0.765321465904107
+Arthritis, Juvenile Rheumatoid	suprofen	2	0.73481405999521
+Arthritis, Juvenile Rheumatoid	susoctocog alfa	2	0.712711692525709
+Arthritis, Juvenile Rheumatoid	suvorexant	2	0.441604439654887
+Arthritis, Juvenile Rheumatoid	tacrine	2.33333333333333	0.869089018559933
+Arthritis, Juvenile Rheumatoid	tacrolimus	1	0.255845647000211
+Arthritis, Juvenile Rheumatoid	tadalafil	2	0.359764154987437
+Arthritis, Juvenile Rheumatoid	tafamidis	1	0.150190718533753
+Arthritis, Juvenile Rheumatoid	tafluprost	2	0.409719815650881
+Arthritis, Juvenile Rheumatoid	tagraxofusp	2	0.746876900285633
+Arthritis, Juvenile Rheumatoid	talazoparib	1	0.256814556696562
+Arthritis, Juvenile Rheumatoid	talbutal	2	0.435560436713137
+Arthritis, Juvenile Rheumatoid	tamoxifen	1.23529411764706	0.648260531730646
+Arthritis, Juvenile Rheumatoid	tamsulosin	2	0.760551101290475
+Arthritis, Juvenile Rheumatoid	tapentadol	1.83333333333333	0.457523864310158
+Arthritis, Juvenile Rheumatoid	tasimelteon	2	0.817754029727793
+Arthritis, Juvenile Rheumatoid	tasonermin	0	0.0132280007394227
+Arthritis, Juvenile Rheumatoid	taurine	1.9375	0.242532106245782
+Arthritis, Juvenile Rheumatoid	taurocholic acid	1.5	0.147550020742668
+Arthritis, Juvenile Rheumatoid	tazarotene	1	0.0335314995792635
+Arthritis, Juvenile Rheumatoid	technetium tc-99m nofetumomab merpentan	1.5	0.0961190346692808
+Arthritis, Juvenile Rheumatoid	technetium tc-99m tilmanocept	2	0.443484292150164
+Arthritis, Juvenile Rheumatoid	teduglutide	2	0.400760483613276
+Arthritis, Juvenile Rheumatoid	tegafur	0	0.00216444513986063
+Arthritis, Juvenile Rheumatoid	tegafur-uracil	1	0.0109686337081286
+Arthritis, Juvenile Rheumatoid	tegaserod	1.75	0.201925232992818
+Arthritis, Juvenile Rheumatoid	telaprevir	2	0.357917654782115
+Arthritis, Juvenile Rheumatoid	telmisartan	1.5	0.618386174150751
+Arthritis, Juvenile Rheumatoid	telotristat ethyl	2	0.454795947408348
+Arthritis, Juvenile Rheumatoid	temazepam	2	0.399870538464084
+Arthritis, Juvenile Rheumatoid	temsirolimus	2	0.998581933672173
+Arthritis, Juvenile Rheumatoid	tenapanor	2	0.625042838716089
+Arthritis, Juvenile Rheumatoid	tenecteplase	1.63636363636364	0.867708629658804
+Arthritis, Juvenile Rheumatoid	teniposide	1	0.208279971638396
+Arthritis, Juvenile Rheumatoid	tenoxicam	2	0.71763431176631
+Arthritis, Juvenile Rheumatoid	terazosin	2	0.742254454066615
+Arthritis, Juvenile Rheumatoid	terbinafine	2	0.555403770535204
+Arthritis, Juvenile Rheumatoid	terbutaline	1	0.0277367244736365
+Arthritis, Juvenile Rheumatoid	terfenadine	1.71428571428571	0.0536697112602124
+Arthritis, Juvenile Rheumatoid	teriflunomide	2	0.617911422188953
+Arthritis, Juvenile Rheumatoid	teriparatide	2	0.629927932097713
+Arthritis, Juvenile Rheumatoid	terlipressin	2	0.675518213539965
+Arthritis, Juvenile Rheumatoid	tesamorelin	3	0.996699029850943
+Arthritis, Juvenile Rheumatoid	testolactone	0	3.7386740387272e-08
+Arthritis, Juvenile Rheumatoid	testosterone	1	0.759374001082761
+Arthritis, Juvenile Rheumatoid	testosterone cypionate	1	0.696022825051387
+Arthritis, Juvenile Rheumatoid	testosterone enanthate	1	0.734999658307346
+Arthritis, Juvenile Rheumatoid	testosterone undecanoate	1	0.759147321819919
+Arthritis, Juvenile Rheumatoid	tetrabenazine	1.5	0.104310428822764
+Arthritis, Juvenile Rheumatoid	tetracaine	2	0.726125441659018
+Arthritis, Juvenile Rheumatoid	tetrachlorodecaoxide	2	0.674003318364977
+Arthritis, Juvenile Rheumatoid	tetracosactide	2	0.615393999131272
+Arthritis, Juvenile Rheumatoid	tetracycline	2	0.950312071341931
+Arthritis, Juvenile Rheumatoid	tetradecyl hydrogen sulfate (ester)	2	0.642321565484967
+Arthritis, Juvenile Rheumatoid	tetraferric tricitrate decahydrate	1	0.277669818423777
+Arthritis, Juvenile Rheumatoid	tetryzoline	2	0.62282512785252
+Arthritis, Juvenile Rheumatoid	thalidomide	1.42857142857143	0.178835605536245
+Arthritis, Juvenile Rheumatoid	theophylline	1.71428571428571	0.348452193935948
+Arthritis, Juvenile Rheumatoid	thiamine	2	0.338568611038392
+Arthritis, Juvenile Rheumatoid	thiamylal	2.33333333333333	0.982714063001065
+Arthritis, Juvenile Rheumatoid	thiethylperazine	1.66666666666667	0.303644531888378
+Arthritis, Juvenile Rheumatoid	thimerosal	2	0.550130804500326
+Arthritis, Juvenile Rheumatoid	thiopental	1.91666666666667	0.224949524936656
+Arthritis, Juvenile Rheumatoid	thioridazine	1.83333333333333	0.63090442658657
+Arthritis, Juvenile Rheumatoid	thiothixene	1.66666666666667	0.260410731087503
+Arthritis, Juvenile Rheumatoid	thonzonium	1	0.130825545294118
+Arthritis, Juvenile Rheumatoid	thonzylamine	1.66666666666667	0.0158377942035344
+Arthritis, Juvenile Rheumatoid	threonine	1.66666666666667	0.348070793503379
+Arthritis, Juvenile Rheumatoid	thrombin	1.9	0.658398271676732
+Arthritis, Juvenile Rheumatoid	thrombin alfa	1.75	0.323426671858811
+Arthritis, Juvenile Rheumatoid	thrombomodulin alfa	2	0.826035246278758
+Arthritis, Juvenile Rheumatoid	thyrotropin alfa	1	0.0304997277935272
+Arthritis, Juvenile Rheumatoid	tiagabine	2	0.391289447022351
+Arthritis, Juvenile Rheumatoid	tiaprofenic acid	2	0.776236277462655
+Arthritis, Juvenile Rheumatoid	ticagrelor	2	0.295396116495351
+Arthritis, Juvenile Rheumatoid	ticlopidine	2	0.421132355018379
+Arthritis, Juvenile Rheumatoid	tildrakizumab	1	0.000141918221376463
+Arthritis, Juvenile Rheumatoid	tiludronic acid	1	0.249924860841266
+Arthritis, Juvenile Rheumatoid	timolol	1	0.189670152439976
+Arthritis, Juvenile Rheumatoid	tinzaparin	1.66666666666667	0.699062487322004
+Arthritis, Juvenile Rheumatoid	tioconazole	2	0.545204052591652
+Arthritis, Juvenile Rheumatoid	tiotropium	1.8	0.0739736365772109
+Arthritis, Juvenile Rheumatoid	tipiracil	2	0.628408886831008
+Arthritis, Juvenile Rheumatoid	tirofiban	1.5	0.337520940757699
+Arthritis, Juvenile Rheumatoid	tisagenlecleucel	2	0.737578529093946
+Arthritis, Juvenile Rheumatoid	titanium dioxide	2	0.405648127869354
+Arthritis, Juvenile Rheumatoid	tixocortol	1	0.409719815650881
+Arthritis, Juvenile Rheumatoid	tizanidine	2	0.800938423846373
+Arthritis, Juvenile Rheumatoid	tocainide	2	0.685059521266246
+Arthritis, Juvenile Rheumatoid	tocilizumab	1	0.00352536455521138
+Arthritis, Juvenile Rheumatoid	tocofersolan	0	0.000249074304764545
+Arthritis, Juvenile Rheumatoid	tofacitinib	1	0.156030173245014
+Arthritis, Juvenile Rheumatoid	tolazamide	2.5	0.996557818627644
+Arthritis, Juvenile Rheumatoid	tolazoline	1.83333333333333	0.272192211840549
+Arthritis, Juvenile Rheumatoid	tolbutamide	2.5	0.974543969713685
+Arthritis, Juvenile Rheumatoid	tolcapone	1	0.0960086135467055
+Arthritis, Juvenile Rheumatoid	tolfenamic acid	2	0.720271470431409
+Arthritis, Juvenile Rheumatoid	tolmetin	2	0.779272603798832
+Arthritis, Juvenile Rheumatoid	tolterodine	1.8	0.143898191801333
+Arthritis, Juvenile Rheumatoid	tolvaptan	2	0.657337588859146
+Arthritis, Juvenile Rheumatoid	topiramate	2.07692307692308	0.961337237077534
+Arthritis, Juvenile Rheumatoid	topotecan	1.5	0.250273804526416
+Arthritis, Juvenile Rheumatoid	torasemide	2	0.673130856796986
+Arthritis, Juvenile Rheumatoid	toremifene	0.5	0.17438538255815
+Arthritis, Juvenile Rheumatoid	tositumomab	1.6	0.0124669866571143
+Arthritis, Juvenile Rheumatoid	tramadol	1.86363636363636	0.643621166469197
+Arthritis, Juvenile Rheumatoid	trametinib	1.5	0.61590091449025
+Arthritis, Juvenile Rheumatoid	trandolapril	0	8.22166432190802e-07
+Arthritis, Juvenile Rheumatoid	tranexamic acid	2	0.918000314204181
+Arthritis, Juvenile Rheumatoid	tranylcypromine	2	0.516936005300029
+Arthritis, Juvenile Rheumatoid	trastuzumab	1.58333333333333	0.182318534297999
+Arthritis, Juvenile Rheumatoid	trastuzumab deruxtecan	1	0.0243923074028195
+Arthritis, Juvenile Rheumatoid	travoprost	2	0.576237902215284
+Arthritis, Juvenile Rheumatoid	trazodone	1.85714285714286	0.503494975103661
+Arthritis, Juvenile Rheumatoid	treprostinil	2	0.702842313402126
+Arthritis, Juvenile Rheumatoid	triamcinolone	1	0.392435668554897
+Arthritis, Juvenile Rheumatoid	triamterene	2	0.827297144886256
+Arthritis, Juvenile Rheumatoid	triazolam	2	0.402508151431886
+Arthritis, Juvenile Rheumatoid	trichlormethiazide	1.8	0.427460010658366
+Arthritis, Juvenile Rheumatoid	triclosan	1.8	0.939569623720445
+Arthritis, Juvenile Rheumatoid	trifarotene	1	0.0204846359021245
+Arthritis, Juvenile Rheumatoid	trifluoperazine	1.66666666666667	0.486530139360265
+Arthritis, Juvenile Rheumatoid	triflupromazine	1.8	0.407290348321773
+Arthritis, Juvenile Rheumatoid	trifluridine	0	0.0023411929410037
+Arthritis, Juvenile Rheumatoid	triflusal	1.5	0.451388588279616
+Arthritis, Juvenile Rheumatoid	trihexyphenidyl	1.8	0.0860414790266466
+Arthritis, Juvenile Rheumatoid	trilostane	1.33333333333333	0.93909696333708
+Arthritis, Juvenile Rheumatoid	trimebutine	1.95833333333333	0.760281907756449
+Arthritis, Juvenile Rheumatoid	trimetazidine	2	0.674847043642924
+Arthritis, Juvenile Rheumatoid	trimethadione	2	0.35952592458468
+Arthritis, Juvenile Rheumatoid	trimethoprim	0	9.22288643194276e-06
+Arthritis, Juvenile Rheumatoid	trimetrexate	0	1.58716866629236e-06
+Arthritis, Juvenile Rheumatoid	trimipramine	1.83333333333333	0.390286870862953
+Arthritis, Juvenile Rheumatoid	tripelennamine	1	0.0129229290870135
+Arthritis, Juvenile Rheumatoid	triprolidine	1	0.0232622618325314
+Arthritis, Juvenile Rheumatoid	triptorelin	2	0.37717487214748
+Arthritis, Juvenile Rheumatoid	troglitazone	1.55555555555556	0.549452943879121
+Arthritis, Juvenile Rheumatoid	trolamine salicylate	2	0.746438772320087
+Arthritis, Juvenile Rheumatoid	troleandomycin	2	0.798154521220958
+Arthritis, Juvenile Rheumatoid	tromethamine	1.8	0.309171440534096
+Arthritis, Juvenile Rheumatoid	tropicamide	1.75	0.0822164926603175
+Arthritis, Juvenile Rheumatoid	tropisetron	2	0.586197071489264
+Arthritis, Juvenile Rheumatoid	trospium	2	0.576237902215284
+Arthritis, Juvenile Rheumatoid	trovafloxacin	1	0.262421470906054
+Arthritis, Juvenile Rheumatoid	tryptophan	2	0.757811262395652
+Arthritis, Juvenile Rheumatoid	tuberculin purified protein derivative	0	0.00118769289379656
+Arthritis, Juvenile Rheumatoid	tubocurarine	2.25	0.953985179054086
+Arthritis, Juvenile Rheumatoid	turoctocog alfa	2	0.82020235071017
+Arthritis, Juvenile Rheumatoid	turoctocog alfa pegol	2	0.843398826711342
+Arthritis, Juvenile Rheumatoid	tyloxapol	2	0.74815735647211
+Arthritis, Juvenile Rheumatoid	tyrosine	1.75	0.369152393688842
+Arthritis, Juvenile Rheumatoid	tyrothricin	2	0.667945862951247
+Arthritis, Juvenile Rheumatoid	ubidecarenone	1	0.0630991432995044
+Arthritis, Juvenile Rheumatoid	ubrogepant	2	0.515010203114794
+Arthritis, Juvenile Rheumatoid	udenafil	2	0.488028085202184
+Arthritis, Juvenile Rheumatoid	ulipristal	1	0.287885505487778
+Arthritis, Juvenile Rheumatoid	umeclidinium	1.8	0.117622385363802
+Arthritis, Juvenile Rheumatoid	upadacitinib	1	0.293290868807751
+Arthritis, Juvenile Rheumatoid	urea	1.33333333333333	0.136081020975617
+Arthritis, Juvenile Rheumatoid	urofollitropin	2	0.679454089019012
+Arthritis, Juvenile Rheumatoid	urokinase	1.8	0.809698014064093
+Arthritis, Juvenile Rheumatoid	ursodeoxycholic acid	1.5	0.131332802235567
+Arthritis, Juvenile Rheumatoid	ustekinumab	1	1.94500523834455e-06
+Arthritis, Juvenile Rheumatoid	valdecoxib	2	0.598201253376165
+Arthritis, Juvenile Rheumatoid	valine	1.66666666666667	0.413604674763367
+Arthritis, Juvenile Rheumatoid	valproic acid	1.88888888888889	0.882598442637634
+Arthritis, Juvenile Rheumatoid	valrubicin	1	0.267469696891441
+Arthritis, Juvenile Rheumatoid	valsartan	2	0.732530303108559
+Arthritis, Juvenile Rheumatoid	vandetanib	1.2	0.189577865231107
+Arthritis, Juvenile Rheumatoid	vardenafil	2	0.608456687813154
+Arthritis, Juvenile Rheumatoid	varenicline	2.25	0.967678739845178
+Arthritis, Juvenile Rheumatoid	vasopressin	2	0.638459529545353
+Arthritis, Juvenile Rheumatoid	vecuronium	3	0.996695361101135
+Arthritis, Juvenile Rheumatoid	vedolizumab	1.5	0.71031103035992
+Arthritis, Juvenile Rheumatoid	velaglucerase alfa	2	0.792161300409409
+Arthritis, Juvenile Rheumatoid	vemurafenib	2	0.864333939053617
+Arthritis, Juvenile Rheumatoid	venetoclax	2	0.95758907279707
+Arthritis, Juvenile Rheumatoid	venlafaxine	2	0.715307362796718
+Arthritis, Juvenile Rheumatoid	verapamil	2	0.949111628040949
+Arthritis, Juvenile Rheumatoid	vernakalant	2	0.871797528867812
+Arthritis, Juvenile Rheumatoid	vigabatrin	2	0.726125441659018
+Arthritis, Juvenile Rheumatoid	vilanterol	0	0.10638534070906
+Arthritis, Juvenile Rheumatoid	vilazodone	2	0.729776118570181
+Arthritis, Juvenile Rheumatoid	vildagliptin	1	0.0424109272029303
+Arthritis, Juvenile Rheumatoid	viloxazine	2	0.546040953290993
+Arthritis, Juvenile Rheumatoid	vinblastine	1.5	0.836885105501367
+Arthritis, Juvenile Rheumatoid	vincristine	1	0.350260214298369
+Arthritis, Juvenile Rheumatoid	vindesine	1	0.172978180240074
+Arthritis, Juvenile Rheumatoid	vismodegib	2	0.652061235061403
+Arthritis, Juvenile Rheumatoid	vitamin a	2	0.497558606506688
+Arthritis, Juvenile Rheumatoid	vitamin d	1	0.0745630200042418
+Arthritis, Juvenile Rheumatoid	vitamin e	1.33333333333333	0.106035262856083
+Arthritis, Juvenile Rheumatoid	von willebrand factor human	1.5	0.372312746682391
+Arthritis, Juvenile Rheumatoid	vonicog alfa	1.5	0.416871061872638
+Arthritis, Juvenile Rheumatoid	vorapaxar	2	0.732530303108559
+Arthritis, Juvenile Rheumatoid	voretigene neparvovec	3	0.989123878973044
+Arthritis, Juvenile Rheumatoid	vorinostat	1.2	0.955434537241457
+Arthritis, Juvenile Rheumatoid	vortioxetine	2	0.864662150963106
+Arthritis, Juvenile Rheumatoid	voxelotor	2	0.572236726003009
+Arthritis, Juvenile Rheumatoid	warfarin	1.5	0.581196830413782
+Arthritis, Juvenile Rheumatoid	xamoterol	2	0.669116495807116
+Arthritis, Juvenile Rheumatoid	xanthinol	1.33333333333333	0.170232956812902
+Arthritis, Juvenile Rheumatoid	ximelagatran	2	0.840128812753863
+Arthritis, Juvenile Rheumatoid	xylometazoline	2	0.753804172565813
+Arthritis, Juvenile Rheumatoid	yohimbine	2.11764705882353	0.993662411748501
+Arthritis, Juvenile Rheumatoid	zafirlukast	4	0.999508456001567
+Arthritis, Juvenile Rheumatoid	zaleplon	2	0.572539989341634
+Arthritis, Juvenile Rheumatoid	zanamivir	2	0.315313648384116
+Arthritis, Juvenile Rheumatoid	zanubrutinib	1.13333333333333	0.0719416508690089
+Arthritis, Juvenile Rheumatoid	zidovudine	2	0.906135587999489
+Arthritis, Juvenile Rheumatoid	zileuton	1	0.0139557179990722
+Arthritis, Juvenile Rheumatoid	zimelidine	2	0.578006350364423
+Arthritis, Juvenile Rheumatoid	zinc	1.50434782608696	0.000787030496769449
+Arthritis, Juvenile Rheumatoid	zinc acetate	1.50434782608696	0.000524112974572629
+Arthritis, Juvenile Rheumatoid	zinc chloride	1.50434782608696	8.6155103661721e-05
+Arthritis, Juvenile Rheumatoid	ziprasidone	1.96	0.867588672400045
+Arthritis, Juvenile Rheumatoid	zofenopril	0	3.43605928894683e-06
+Arthritis, Juvenile Rheumatoid	zoledronic acid	2	0.525793434792533
+Arthritis, Juvenile Rheumatoid	zolmitriptan	2.25	0.87625939579902
+Arthritis, Juvenile Rheumatoid	zolpidem	2	0.464792015859783
+Arthritis, Juvenile Rheumatoid	zonisamide	2.08	0.821422227155842
+Arthritis, Juvenile Rheumatoid	zopiclone	2	0.355402768286916
+Arthritis, Juvenile Rheumatoid	zotepine	2	0.93957630997257
+Arthritis, Juvenile Rheumatoid	zucapsaicin	2	0.66037920115759
+Arthritis, Juvenile Rheumatoid	zuclopenthixol	1.85714285714286	0.536337273966861

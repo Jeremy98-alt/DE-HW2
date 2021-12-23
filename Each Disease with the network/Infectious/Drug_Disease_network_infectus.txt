@@ -1,0 +1,1838 @@
+disease	drug	proximity	pval
+Arthritis, Infectious	2-mercaptobenzothiazole	3	0.908745898470643
+Arthritis, Infectious	5-o-phosphono-alpha-d-ribofuranosyl diphosphate	1.66666666666667	0.134464637684112
+Arthritis, Infectious	5cocktail	1.75	0.0777554247531867
+Arthritis, Infectious	abacavir	0	0.159871187246137
+Arthritis, Infectious	abaloparatide	2	0.5
+Arthritis, Infectious	abarelix	3	0.935973752414423
+Arthritis, Infectious	abatacept	2.5	0.978943907343493
+Arthritis, Infectious	abciximab	1.92307692307692	0.599721564869051
+Arthritis, Infectious	abemaciclib	1.5	0.448466639612347
+Arthritis, Infectious	abiraterone	2	0.667945862951247
+Arthritis, Infectious	acalabrutinib	1	0.155031410571942
+Arthritis, Infectious	acamprosate	2.19047619047619	0.912205027567122
+Arthritis, Infectious	acarbose	2.25	0.686462759920829
+Arthritis, Infectious	acebutolol	1.5	0.514500770874588
+Arthritis, Infectious	aceclofenac	2	0.666155239894443
+Arthritis, Infectious	acemetacin	2	0.691462461274013
+Arthritis, Infectious	acenocoumarol	2	0.82561461744185
+Arthritis, Infectious	acetaminophen	1.75	0.495221141142332
+Arthritis, Infectious	acetazolamide	2.14285714285714	0.660013509650861
+Arthritis, Infectious	acetohexamide	2	0.532482826449721
+Arthritis, Infectious	acetohydroxamic acid	2	0.398789028222759
+Arthritis, Infectious	acetophenazine	1.66666666666667	0.537771279449455
+Arthritis, Infectious	acetylcholine	2.16666666666667	0.831297761188296
+Arthritis, Infectious	acetylcysteine	1.8	0.667266458423245
+Arthritis, Infectious	acetyldigitoxin	1	0.0642720250089849
+Arthritis, Infectious	acetylsalicylic acid	1.64285714285714	0.936266256208881
+Arthritis, Infectious	acitretin	1.42857142857143	0.110649550542568
+Arthritis, Infectious	aclidinium	2.4	0.981119155871765
+Arthritis, Infectious	acrivastine	1	8.19150375277269e-07
+Arthritis, Infectious	adalimumab	0	0.00267644239054901
+Arthritis, Infectious	adapalene	1.42857142857143	0.107927152750883
+Arthritis, Infectious	ademetionine	2	0.471229873665545
+Arthritis, Infectious	adenine	1.83333333333333	0.526903014458408
+Arthritis, Infectious	adenosine	2	0.441043549731138
+Arthritis, Infectious	adenosine phosphate	1.8	0.544865074396169
+Arthritis, Infectious	afamelanotide	2	0.649739785701631
+Arthritis, Infectious	afatinib	1.33333333333333	0.610462983720318
+Arthritis, Infectious	aflibercept	2	0.553243436979144
+Arthritis, Infectious	agkistrodon piscivorus antivenin	3	0.896751771167229
+Arthritis, Infectious	agomelatine	2	0.688189441557923
+Arthritis, Infectious	ajmaline	2	0.607564331445103
+Arthritis, Infectious	albendazole	1	0.320545910980988
+Arthritis, Infectious	albiglutide	2	0.806261057812155
+Arthritis, Infectious	albutrepenonacog alfa	2	0.667945862951247
+Arthritis, Infectious	alcaftadine	1	0.000109654864703868
+Arthritis, Infectious	alclofenac	2	0.706709131192249
+Arthritis, Infectious	alclometasone	1	0.337981481399644
+Arthritis, Infectious	aldesleukin	1.33333333333333	0.0149716060850236
+Arthritis, Infectious	alectinib	2	0.869174454705882
+Arthritis, Infectious	alefacept	1.9	0.324607522565082
+Arthritis, Infectious	alemtuzumab	1.9	0.175885619097403
+Arthritis, Infectious	alendronic acid	1.8	0.473660257709202
+Arthritis, Infectious	alfacalcidol	0.5	0.0078474022322124
+Arthritis, Infectious	alfentanil	2	0.679454089019012
+Arthritis, Infectious	alfuzosin	1.75	0.17847839402161
+Arthritis, Infectious	alglucosidase alfa	2	0.655955893774368
+Arthritis, Infectious	alimemazine	1	3.41823552009094e-06
+Arthritis, Infectious	alirocumab	2	0.601210971777241
+Arthritis, Infectious	aliskiren	3	0.999983887166237
+Arthritis, Infectious	alitretinoin	1.55555555555556	0.0753878607609154
+Arthritis, Infectious	allopurinol	2	0.397363447230139
+Arthritis, Infectious	almitrine	1	0.087559238440391
+Arthritis, Infectious	almotriptan	2.5	0.937719388019814
+Arthritis, Infectious	alogliptin	2	0.706709131192249
+Arthritis, Infectious	alosetron	2	0.382088577811047
+Arthritis, Infectious	alpelisib	1	0.169547988137682
+Arthritis, Infectious	alpha-1-proteinase inhibitor	2	0.701397079231245
+Arthritis, Infectious	alpha-linolenic acid	1.8	0.394925172523004
+Arthritis, Infectious	alpha-tocopherol succinate	1.66666666666667	0.41311803867351
+Arthritis, Infectious	alprazolam	2.14285714285714	0.359283916620115
+Arthritis, Infectious	alprostadil	2.33333333333333	0.847861775759318
+Arthritis, Infectious	alteplase	2	0.866969793782828
+Arthritis, Infectious	aluminium	1.75	0.685059521266246
+Arthritis, Infectious	aluminium phosphate	1.75	0.754537219266652
+Arthritis, Infectious	aluminum acetate	1.75	0.765454761620491
+Arthritis, Infectious	aluminum chloride	1	0.0424109272029303
+Arthritis, Infectious	alverine	2	0.545204052591652
+Arthritis, Infectious	alvimopan	2	0.763935698993676
+Arthritis, Infectious	amantadine	2.2	0.895067180798716
+Arthritis, Infectious	ambenonium	2	0.586197071489264
+Arthritis, Infectious	ambrisentan	2	0.655955893774368
+Arthritis, Infectious	amcinonide	1.5	0.777910342438448
+Arthritis, Infectious	amifampridine	2	0.5
+Arthritis, Infectious	amifostine	2.5	0.812374781684308
+Arthritis, Infectious	amiloride	2.125	0.903537705294299
+Arthritis, Infectious	aminocaproic acid	2	0.825024713642958
+Arthritis, Infectious	aminoglutethimide	2	0.347131708262821
+Arthritis, Infectious	aminolevulinic acid	2	0.649739785701631
+Arthritis, Infectious	aminophylline	1.75	0.54253581826379
+Arthritis, Infectious	aminosalicylic acid	1.66666666666667	0.336243941172055
+Arthritis, Infectious	amiodarone	1.85714285714286	0.637377717725005
+Arthritis, Infectious	amisulpride	2	0.864889475284904
+Arthritis, Infectious	amitriptyline	2.09375	0.946787226834485
+Arthritis, Infectious	amlexanox	2	0.4163447864862
+Arthritis, Infectious	amlodipine	2.28571428571429	0.962850737723484
+Arthritis, Infectious	amobarbital	2.2	0.731670660964556
+Arthritis, Infectious	amodiaquine	2	0.398626189818971
+Arthritis, Infectious	amoxapine	2.04878048780488	0.431539972770511
+Arthritis, Infectious	amphetamine	1.94117647058824	0.441366025521301
+Arthritis, Infectious	ampicillin	3	0.999195564085079
+Arthritis, Infectious	amrinone	1.5	0.0259147384025539
+Arthritis, Infectious	amsacrine	1.5	0.244143902589468
+Arthritis, Infectious	amyl nitrite	2	0.5
+Arthritis, Infectious	amylmetacresol	3	0.991883424589392
+Arthritis, Infectious	amylocaine	2.42857142857143	0.985367868545405
+Arthritis, Infectious	anagrelide	2	0.62282512785252
+Arthritis, Infectious	anakinra	1	0.0303162237353102
+Arthritis, Infectious	anastrozole	2	0.370481803776737
+Arthritis, Infectious	ancestim	1	0.0970859962880845
+Arthritis, Infectious	ancrod	2	0.685059521266246
+Arthritis, Infectious	andexanet alfa	2	0.649739785701631
+Arthritis, Infectious	angiotensin ii	2	0.673753328496286
+Arthritis, Infectious	anileridine	2	0.690579534301245
+Arthritis, Infectious	anisindione	2	0.602636552769861
+Arthritis, Infectious	anisotropine methylbromide	2	0.484422602147132
+Arthritis, Infectious	anistreplase	2	0.87844967266626
+Arthritis, Infectious	antazoline	1	0.000485529458235564
+Arthritis, Infectious	anthralin	2	0.723263768416141
+Arthritis, Infectious	anti-inhibitor coagulant complex	2	0.890373272307002
+Arthritis, Infectious	antihemophilic factor (recombinant), pegylated	2	0.667945862951247
+Arthritis, Infectious	antihemophilic factor human	2.5	0.990064132552967
+Arthritis, Infectious	antihemophilic factor, human recombinant	1.81818181818182	0.923397699040403
+Arthritis, Infectious	antipyrine	2	0.704237510086487
+Arthritis, Infectious	antithrombin alfa	2	0.743013813150004
+Arthritis, Infectious	antithrombin iii human	2	0.601210971777241
+Arthritis, Infectious	antithymocyte immunoglobulin (rabbit)	2	0.879807219976879
+Arthritis, Infectious	antrafenine	2	0.688340369254956
+Arthritis, Infectious	apalutamide	2.07142857142857	0.378671372857902
+Arthritis, Infectious	apixaban	2	0.662018518600356
+Arthritis, Infectious	apomorphine	2.2	0.976959781935522
+Arthritis, Infectious	apraclonidine	2	0.522943119175437
+Arthritis, Infectious	aprepitant	2	0.411941065699398
+Arthritis, Infectious	aprotinin	2.5	0.991379095937654
+Arthritis, Infectious	arbutamine	1.66666666666667	0.421945575872959
+Arthritis, Infectious	arbutin	2	0.404653594320306
+Arthritis, Infectious	ardeparin	2	0.565406593191326
+Arthritis, Infectious	arformoterol	1	0.36324466205577
+Arthritis, Infectious	argatroban	2	0.757502749293212
+Arthritis, Infectious	aripiprazole	2.11627906976744	0.998710565296966
+Arthritis, Infectious	aripiprazole lauroxil	2.08	0.823575554174692
+Arthritis, Infectious	armodafinil	2	0.617911422188953
+Arthritis, Infectious	arsenic trioxide	1.1	0.191998857402156
+Arthritis, Infectious	arzoxifene	1.5	0.980031114586946
+Arthritis, Infectious	ascorbic acid	2	0.676057668426987
+Arthritis, Infectious	asenapine	1.94736842105263	0.619646741712962
+Arthritis, Infectious	asfotase alfa	2	0.601210971777241
+Arthritis, Infectious	asparagine	1.5	0.0104331600722546
+Arthritis, Infectious	aspartic acid	1.55	0.000168304912643537
+Arthritis, Infectious	astemizole	1.75	0.432947769672063
+Arthritis, Infectious	atenolol	1.5	0.5
+Arthritis, Infectious	atezolizumab	2	0.339620798842409
+Arthritis, Infectious	atomoxetine	2.18181818181818	0.998465373493582
+Arthritis, Infectious	atorvastatin	1.8	0.821938351139499
+Arthritis, Infectious	atosiban	2	0.405572756669194
+Arthritis, Infectious	atovaquone	2	0.585500004359447
+Arthritis, Infectious	atracurium besylate	4	0.999946103924839
+Arthritis, Infectious	atropine	2.42857142857143	0.996671695220446
+Arthritis, Infectious	auranofin	1.5	0.505790415003589
+Arthritis, Infectious	aurothioglucose	2	0.324607522565082
+Arthritis, Infectious	avanafil	2	0.37717487214748
+Arthritis, Infectious	avatrombopag	2	0.411225003425013
+Arthritis, Infectious	avelumab	2	0.397363447230139
+Arthritis, Infectious	axicabtagene ciloleucel	2	0.662018518600356
+Arthritis, Infectious	axitinib	1.33333333333333	0.0300236343476822
+Arthritis, Infectious	azacitidine	1	0.203428523821845
+Arthritis, Infectious	azatadine	1	2.43250370925518e-05
+Arthritis, Infectious	azathioprine	1	0.0968004845856104
+Arthritis, Infectious	azelaic acid	2	0.414946199446585
+Arthritis, Infectious	azelastine	2	0.260959120537802
+Arthritis, Infectious	azilsartan medoxomil	2	0.685059521266246
+Arthritis, Infectious	azithromycin	2	0.553579204630712
+Arthritis, Infectious	bacitracin	1	0.00471624983805502
+Arthritis, Infectious	baclofen	2	0.663277068561605
+Arthritis, Infectious	balsalazide	1.75	0.467517173550279
+Arthritis, Infectious	baricitinib	1	0.0862293408028701
+Arthritis, Infectious	basiliximab	1.91666666666667	0.382088577811048
+Arthritis, Infectious	bazedoxifene	1.5	0.991070868501115
+Arthritis, Infectious	becaplermin	1	0.00542454052245143
+Arthritis, Infectious	beclomethasone dipropionate	1	0.298602920768755
+Arthritis, Infectious	belatacept	2.5	0.968318735387389
+Arthritis, Infectious	belimumab	2	0.391491006441466
+Arthritis, Infectious	belinostat	1.54545454545455	0.977611281378717
+Arthritis, Infectious	bemiparin	2	0.647205630691156
+Arthritis, Infectious	benazepril	2	0.513236346083117
+Arthritis, Infectious	bendazac	2	0.70527921593645
+Arthritis, Infectious	bendroflumethiazide	1.8	0.0469426653691375
+Arthritis, Infectious	benralizumab	1.5	0.0103849333840912
+Arthritis, Infectious	benserazide	2	0.344044106225632
+Arthritis, Infectious	benzatropine	1.8	0.135015157942958
+Arthritis, Infectious	benzocaine	2	0.262421470906054
+Arthritis, Infectious	benzoic acid	2.4	0.984666776688774
+Arthritis, Infectious	benzonatate	2	0.615393999131272
+Arthritis, Infectious	benzphetamine	2	0.601210971777241
+Arthritis, Infectious	benzthiazide	1.83333333333333	0.16937824628127
+Arthritis, Infectious	benzylpenicillin	3.5	0.998656326096976
+Arthritis, Infectious	benzylpenicilloyl polylysine	2	0.585053800553415
+Arthritis, Infectious	bepotastine	1	0.000401652335492208
+Arthritis, Infectious	bepridil	1.7	0.123660748561876
+Arthritis, Infectious	berberine	2	0.717884749579625
+Arthritis, Infectious	betahistine	2	0.301665886145933
+Arthritis, Infectious	betamethasone	1	0.332054137048753
+Arthritis, Infectious	betaxolol	1.5	0.466895542892903
+Arthritis, Infectious	betazole	3	0.826541535098991
+Arthritis, Infectious	bethanechol	2.25	0.931964247269689
+Arthritis, Infectious	bethanidine	1.85714285714286	0.399006486911367
+Arthritis, Infectious	betrixaban	2	0.667945862951247
+Arthritis, Infectious	bevacizumab	1.9	0.367674475107182
+Arthritis, Infectious	bexarotene	1	0.0152964490681791
+Arthritis, Infectious	bezafibrate	1.42857142857143	0.0933382307361929
+Arthritis, Infectious	bicalutamide	1	0.344044106225632
+Arthritis, Infectious	bilastine	1	1.87276694258552e-06
+Arthritis, Infectious	bimatoprost	2.33333333333333	0.903935894181788
+Arthritis, Infectious	binimetinib	0.8	3.63350106229275e-09
+Arthritis, Infectious	bioallethrin	2.25	0.991823547502841
+Arthritis, Infectious	biotin	1.88888888888889	0.725746882249926
+Arthritis, Infectious	biperiden	3	0.998382544041543
+Arthritis, Infectious	bisoprolol	1.5	0.543483645519244
+Arthritis, Infectious	bivalirudin	2	0.696022825051387
+Arthritis, Infectious	bleomycin	1.5	0.197370852606504
+Arthritis, Infectious	blinatumomab	2	0.691462461274013
+Arthritis, Infectious	bortezomib	1	0.05518361331297
+Arthritis, Infectious	bosentan	2	0.585053800553415
+Arthritis, Infectious	bosutinib	1.5	0.886973714477477
+Arthritis, Infectious	botulinum toxin type a	2	0.815939874653241
+Arthritis, Infectious	botulinum toxin type b	2	0.760551101290475
+Arthritis, Infectious	bremelanotide	2.4	0.999373105582057
+Arthritis, Infectious	brentuximab vedotin	2	0.5
+Arthritis, Infectious	bretylium	1	0.130825545294118
+Arthritis, Infectious	brexanolone	2.15384615384615	0.279802810150461
+Arthritis, Infectious	brexpiprazole	1.8	0.123263728028696
+Arthritis, Infectious	brigatinib	1.66666666666667	0.94931114627627
+Arthritis, Infectious	brimonidine	2	0.452811441399703
+Arthritis, Infectious	brinzolamide	2	0.14868505901095
+Arthritis, Infectious	brivaracetam	2.63636363636364	0.999993436132623
+Arthritis, Infectious	brolucizumab	2	0.690579534301245
+Arthritis, Infectious	bromazepam	2.13333333333333	0.413899444384192
+Arthritis, Infectious	bromfenac	2	0.663255419276281
+Arthritis, Infectious	bromocriptine	2.05555555555556	0.918329079677404
+Arthritis, Infectious	bromodiphenhydramine	1	2.43250370925518e-05
+Arthritis, Infectious	brompheniramine	2.16666666666667	0.749419764363037
+Arthritis, Infectious	buclizine	1.5	0.000832076874799695
+Arthritis, Infectious	budesonide	1.5	0.644995597372331
+Arthritis, Infectious	bufexamac	2	0.88155885154572
+Arthritis, Infectious	bumetanide	2.4	0.994006816661033
+Arthritis, Infectious	bupivacaine	2	0.264984422415712
+Arthritis, Infectious	buprenorphine	2	0.739334194567447
+Arthritis, Infectious	bupropion	2.25	0.873728442457056
+Arthritis, Infectious	buserelin	2.5	0.963351538062379
+Arthritis, Infectious	buspirone	1.85714285714286	0.191028112076338
+Arthritis, Infectious	butabarbital	2.11764705882353	0.514236563179022
+Arthritis, Infectious	butalbital	2.11764705882353	0.409194071621179
+Arthritis, Infectious	butamben	2.20689655172414	0.961864717220161
+Arthritis, Infectious	butenafine	2	0.344044106225632
+Arthritis, Infectious	butobarbital	2.2	0.599112916969286
+Arthritis, Infectious	butorphanol	2	0.704060482904257
+Arthritis, Infectious	butriptyline	1.66666666666667	0.0421460811514515
+Arthritis, Infectious	butylscopolamine	2	0.593951541384903
+Arthritis, Infectious	cabazitaxel	1	0.0749077576863228
+Arthritis, Infectious	cabergoline	2	0.944132807118559
+Arthritis, Infectious	cabozantinib	1.66666666666667	0.586751179468933
+Arthritis, Infectious	caffeine	1.96875	0.370786634736402
+Arthritis, Infectious	calcifediol	0	0.0232775024484468
+Arthritis, Infectious	calcipotriol	0	0.0135983801625275
+Arthritis, Infectious	calcitriol	1	0.0437765564509893
+Arthritis, Infectious	calcium	2.10526315789474	0.99711619973845
+Arthritis, Infectious	calcium carbimide	2	0.212527379928983
+Arthritis, Infectious	calcium chloride	2	0.57592734943351
+Arthritis, Infectious	calcium citrate	1.93548387096774	0.878187077300603
+Arthritis, Infectious	calcium levulinate	1.5	0.390833696462425
+Arthritis, Infectious	calcium phosphate	1.93548387096774	0.878831197374594
+Arthritis, Infectious	calcium phosphate dihydrate	1.93548387096774	0.9203186989547
+Arthritis, Infectious	camphor	2	0.210408577424509
+Arthritis, Infectious	canakinumab	0	4.53880591287298e-19
+Arthritis, Infectious	candesartan cilexetil	2	0.655955893774368
+Arthritis, Infectious	cangrelor	2	0.212833698648089
+Arthritis, Infectious	cannabidiol	1.89473684210526	0.0472371763486548
+Arthritis, Infectious	cantharidin	2	0.742596867046104
+Arthritis, Infectious	capecitabine	0	9.53879185217089e-06
+Arthritis, Infectious	caplacizumab	2	0.615393999131272
+Arthritis, Infectious	capromab pendetide	2	0.336722931438395
+Arthritis, Infectious	capsaicin	1.5	0.408255467996162
+Arthritis, Infectious	capsicum oleoresin	2	0.629927932097713
+Arthritis, Infectious	captopril	1.6	0.050662725497999
+Arthritis, Infectious	carbamazepine	2.33333333333333	0.987795753361265
+Arthritis, Infectious	carbamoylcholine	2.5	0.999389920034318
+Arthritis, Infectious	carbetocin	2	0.427460010658366
+Arthritis, Infectious	carbidopa	2	0.337981481399644
+Arthritis, Infectious	carbimazole	3	0.95758907279707
+Arthritis, Infectious	carbinoxamine	1	5.17727971880815e-06
+Arthritis, Infectious	carbocisteine	1	0.150190718533753
+Arthritis, Infectious	carbon monoxide	2	0.342684282960263
+Arthritis, Infectious	carboprost tromethamine	2	0.398789028222759
+Arthritis, Infectious	carboxin	1	0.145349313679669
+Arthritis, Infectious	carboxymethylcellulose	2	0.662018518600356
+Arthritis, Infectious	carfilzomib	0.666666666666667	2.08858562530349e-07
+Arthritis, Infectious	carglumic acid	2	0.706709131192249
+Arthritis, Infectious	cariprazine	1.83333333333333	0.163593438895153
+Arthritis, Infectious	carisoprodol	2	0.270464313214174
+Arthritis, Infectious	carmustine	1	0.0509143357888951
+Arthritis, Infectious	carprofen	2	0.725206377980299
+Arthritis, Infectious	carteolol	1.5	0.541535561020864
+Arthritis, Infectious	carvedilol	1.77777777777778	0.428070205183387
+Arthritis, Infectious	castor oil	2	0.536962044221812
+Arthritis, Infectious	catridecacog	3	0.94470305720965
+Arthritis, Infectious	catumaxomab	1.71428571428571	0.030022055453073
+Arthritis, Infectious	cefazolin	2	0.3636514070032
+Arthritis, Infectious	cefdinir	2	0.371469100933172
+Arthritis, Infectious	cefotaxime	2.66666666666667	0.991149963786891
+Arthritis, Infectious	ceftriaxone	2.66666666666667	0.927713235593332
+Arthritis, Infectious	celecoxib	2	0.701356394039614
+Arthritis, Infectious	celiprolol	1.83333333333333	0.467517173550279
+Arthritis, Infectious	cemiplimab	2	0.46399641640112
+Arthritis, Infectious	cenegermin	2	0.85465068632033
+Arthritis, Infectious	ceritinib	2	0.820777413605896
+Arthritis, Infectious	cerivastatin	2	0.539827837277029
+Arthritis, Infectious	cerliponase alfa	2	0.667945862951247
+Arthritis, Infectious	certolizumab pegol	0	0.000343408767695891
+Arthritis, Infectious	ceruletide	3	0.998581933672173
+Arthritis, Infectious	cetirizine	1	2.08137521949324e-23
+Arthritis, Infectious	cetrorelix	2.5	0.946973314945716
+Arthritis, Infectious	cetuximab	1.90909090909091	0.671496127730751
+Arthritis, Infectious	cevimeline	2	0.438887001842399
+Arthritis, Infectious	chenodeoxycholic acid	2.33333333333333	0.879075366037198
+Arthritis, Infectious	chloramphenicol	1	0.023296851685566
+Arthritis, Infectious	chlorcyclizine	1	7.20502530022554e-05
+Arthritis, Infectious	chlordiazepoxide	2.15384615384615	0.404083648449112
+Arthritis, Infectious	chlorhexidine	2	0.433219431788052
+Arthritis, Infectious	chlormerodrin	2	0.40282965411418
+Arthritis, Infectious	chlormezanone	2	0.409719815650881
+Arthritis, Infectious	chlorobutanol	2	0.717170455962981
+Arthritis, Infectious	chloroprocaine	2	0.330369123060194
+Arthritis, Infectious	chloroquine	1.33333333333333	0.0149786800653227
+Arthritis, Infectious	chlorothiazide	1.66666666666667	0.0588500976471647
+Arthritis, Infectious	chlorpheniramine	1.75	0.0916195282748349
+Arthritis, Infectious	chlorpromazine	1.88461538461538	0.20071287813409
+Arthritis, Infectious	chlorpropamide	3	0.999243084217227
+Arthritis, Infectious	chlorprothixene	2.08333333333333	0.788817729240348
+Arthritis, Infectious	chlorthalidone	2.5	0.89731295404768
+Arthritis, Infectious	chlorzoxazone	2	0.62282512785252
+Arthritis, Infectious	cholecalciferol	0	0.0138258183538257
+Arthritis, Infectious	cholecystokinin	2	0.913734494129741
+Arthritis, Infectious	cholesterol	1.33333333333333	0.137877543348188
+Arthritis, Infectious	choline	2.14285714285714	0.844778411880177
+Arthritis, Infectious	choline magnesium trisalicylate	2	0.657702878356116
+Arthritis, Infectious	choline salicylate	2.14285714285714	0.837598126142086
+Arthritis, Infectious	chondroitin sulfate	1.75	0.173895536150938
+Arthritis, Infectious	choriogonadotropin alfa	2	0.701882466712354
+Arthritis, Infectious	chorionic gonadotropin (human)	2	0.576237902215284
+Arthritis, Infectious	chromic chloride	2	0.883678925603411
+Arthritis, Infectious	chromic nitrate	1	0.00502677156175694
+Arthritis, Infectious	chromium	1	0.00502677156175694
+Arthritis, Infectious	chromium gluconate	1	0.00228105693436015
+Arthritis, Infectious	chromium nicotinate	1	0.0139557179990722
+Arthritis, Infectious	chromous sulfate	1	0.00141806632782734
+Arthritis, Infectious	chymopapain	2	0.515010203114794
+Arthritis, Infectious	ciclesonide	1	0.314940478733754
+Arthritis, Infectious	ciclopirox	1	0.0970859962880845
+Arthritis, Infectious	cilastatin	3	0.973360229891185
+Arthritis, Infectious	cilazapril	2	0.569452950120241
+Arthritis, Infectious	cilostazol	2	0.62282512785252
+Arthritis, Infectious	cimetidine	3	0.799266544191801
+Arthritis, Infectious	cinacalcet	2	0.599239516386724
+Arthritis, Infectious	cinchocaine	1.66666666666667	0.5
+Arthritis, Infectious	cinnarizine	2.25	0.980109147767164
+Arthritis, Infectious	ciprofibrate	2	0.733410548249854
+Arthritis, Infectious	ciprofloxacin	1.5	0.224096540317824
+Arthritis, Infectious	cisapride	2	0.483633411645007
+Arthritis, Infectious	cisatracurium	4	0.99890856298853
+Arthritis, Infectious	cisplatin	1.5	0.130664222808481
+Arthritis, Infectious	citalopram	1.5	0.00361430256779762
+Arthritis, Infectious	citric acid	1.95454545454545	0.462170013142488
+Arthritis, Infectious	citrulline	2.08333333333333	0.774875714882839
+Arthritis, Infectious	cladribine	1.77777777777778	0.392949938222023
+Arthritis, Infectious	clarithromycin	2	0.706709131192249
+Arthritis, Infectious	clemastine	1	0.00166977083450618
+Arthritis, Infectious	clenbuterol	1.4	0.0220485643988272
+Arthritis, Infectious	clevidipine	2.25	0.869213801856396
+Arthritis, Infectious	clidinium	2	0.361465072788483
+Arthritis, Infectious	clobazam	2.15384615384615	0.370723780884344
+Arthritis, Infectious	clobetasol propionate	1	0.288034907556519
+Arthritis, Infectious	clobetasone	1	0.314940478733754
+Arthritis, Infectious	clocortolone	1	0.277669818423777
+Arthritis, Infectious	clodronic acid	1	0.0590316016105001
+Arthritis, Infectious	clofarabine	1.5	0.296244389702026
+Arthritis, Infectious	clofazimine	2	0.397363447230139
+Arthritis, Infectious	clofedanol	1	0.000109654864703868
+Arthritis, Infectious	clofibrate	2	0.702218205881302
+Arthritis, Infectious	clomifene	1.5	0.830452011862318
+Arthritis, Infectious	clomipramine	1.83333333333333	0.371469100933172
+Arthritis, Infectious	clonazepam	2.13333333333333	0.387247611847759
+Arthritis, Infectious	clonidine	1.83333333333333	0.0879989362134783
+Arthritis, Infectious	clopidogrel	2	0.240852678180081
+Arthritis, Infectious	clorazepic acid	2.14285714285714	0.37691801242116
+Arthritis, Infectious	clotiazepam	2.07692307692308	0.29761103453823
+Arthritis, Infectious	clotrimazole	2	0.62282512785252
+Arthritis, Infectious	clove oil	2	0.891251408759888
+Arthritis, Infectious	clozapine	2.03703703703704	0.702783011501061
+Arthritis, Infectious	coagulation factor ix (recombinant)	2	0.912777858147744
+Arthritis, Infectious	coagulation factor ix human	2	0.876589071859191
+Arthritis, Infectious	coagulation factor vii human	2.33333333333333	0.960367631404759
+Arthritis, Infectious	coagulation factor viia recombinant human	2.16666666666667	0.959128585112703
+Arthritis, Infectious	cobimetinib	1	0.336523944796133
+Arthritis, Infectious	cocaine	2	0.443484292150164
+Arthritis, Infectious	coccidioides immitis spherule	1.14285714285714	0.000193307008263806
+Arthritis, Infectious	codeine	2	0.734786493394106
+Arthritis, Infectious	collagenase clostridium histolyticum	2	0.862122456651812
+Arthritis, Infectious	conestat alfa	2.33333333333333	0.999432387183783
+Arthritis, Infectious	conivaptan	2	0.467517173550279
+Arthritis, Infectious	conjugated estrogens	1.5	0.998581933672173
+Arthritis, Infectious	copanlisib	1.5	0.297211430732516
+Arthritis, Infectious	copper	1.68382352941176	0.458594129204494
+Arthritis, Infectious	corifollitropin alfa	2	0.649739785701631
+Arthritis, Infectious	corticorelin ovine triflutate	2	0.5
+Arthritis, Infectious	corticotropin	2.5	0.938213720495259
+Arthritis, Infectious	cortisone acetate	1	0.293290868807751
+Arthritis, Infectious	creatine	1.71428571428571	0.0341458705987967
+Arthritis, Infectious	crisaborole	2	0.643029118558719
+Arthritis, Infectious	crizanlizumab	2	0.590280184349119
+Arthritis, Infectious	crizotinib	2	0.894957133231309
+Arthritis, Infectious	crofelemer	2	0.707306853791616
+Arthritis, Infectious	cromoglicic acid	2	0.698996012813495
+Arthritis, Infectious	crotalus adamanteus antivenin	3	0.931405242692413
+Arthritis, Infectious	cryptenamine	2.4	0.941666397077868
+Arthritis, Infectious	cupric chloride	1.5	0.0900580007870711
+Arthritis, Infectious	curcumin	1	0.0023411929410037
+Arthritis, Infectious	cyanocobalamin	2	0.232509466000008
+Arthritis, Infectious	cyclandelate	2	0.326585213894444
+Arthritis, Infectious	cyclizine	1.5	0.0178856255279414
+Arthritis, Infectious	cyclobenzaprine	1.77777777777778	0.151473668195237
+Arthritis, Infectious	cyclopentolate	2	0.431949773586689
+Arthritis, Infectious	cyclophosphamide	2	0.679454089019012
+Arthritis, Infectious	cyclosporine	1.5	0.0590316016105001
+Arthritis, Infectious	cyclothiazide	1.8	0.0765316353964052
+Arthritis, Infectious	cycrimine	2	0.356651586939229
+Arthritis, Infectious	cyproheptadine	1.85714285714286	0.388230226214651
+Arthritis, Infectious	cyproterone acetate	1.5	0.42407265056649
+Arthritis, Infectious	cysteamine	3	0.999961552342031
+Arthritis, Infectious	cysteine	1.84615384615385	0.239142404972516
+Arthritis, Infectious	cystine	2.33333333333333	0.769219283866651
+Arthritis, Infectious	cytarabine	2	0.690579534301245
+Arthritis, Infectious	d-alpha-tocopherol acetate	1.66666666666667	0.532267464182949
+Arthritis, Infectious	d-methionine	2	0.586197071489264
+Arthritis, Infectious	d-serine	2	0.858661015134931
+Arthritis, Infectious	dabigatran etexilate	2	0.732530303108559
+Arthritis, Infectious	dabrafenib	2	0.918576134980211
+Arthritis, Infectious	dacarbazine	1.5	0.233213306570276
+Arthritis, Infectious	dactinomycin	1	0.0311665976427689
+Arthritis, Infectious	dalfampridine	2.35714285714286	0.998119732580107
+Arthritis, Infectious	dalteparin	2	0.765771960645653
+Arthritis, Infectious	damoctocog alfa pegol	2	0.663277068561605
+Arthritis, Infectious	danaparoid	2	0.629927932097713
+Arthritis, Infectious	danazol	1.6	0.685324242776993
+Arthritis, Infectious	dantrolene	2	0.655955893774368
+Arthritis, Infectious	dapiprazole	1.66666666666667	0.027200440813097
+Arthritis, Infectious	daratumumab	2	0.550480793710763
+Arthritis, Infectious	darbepoetin alfa	2	0.762430571958398
+Arthritis, Infectious	darifenacin	2.4	0.945283675443867
+Arthritis, Infectious	darolutamide	1.5	0.783007913640838
+Arthritis, Infectious	dasatinib	1.43478260869565	0.233308782108809
+Arthritis, Infectious	daunorubicin	1	0.0360691147993019
+Arthritis, Infectious	debrisoquine	2	0.5
+Arthritis, Infectious	decamethonium	2.75	0.999976190095993
+Arthritis, Infectious	decitabine	1	0.193738942187845
+Arthritis, Infectious	deferoxamine	1	0.460172162722971
+Arthritis, Infectious	defibrotide	2	0.557607311763173
+Arthritis, Infectious	deflazacort	1	0.337981481399644
+Arthritis, Infectious	degarelix	3	0.969500272206473
+Arthritis, Infectious	demecarium	2.5	0.842303085740335
+Arthritis, Infectious	denileukin diftitox	1.33333333333333	0.0141706508746295
+Arthritis, Infectious	denosumab	2	0.655955893774368
+Arthritis, Infectious	deoxycholic acid	1.66666666666667	0.399742854143926
+Arthritis, Infectious	dequalinium	2.33333333333333	0.987103964895167
+Arthritis, Infectious	deserpidine	2	0.411941065699398
+Arthritis, Infectious	desflurane	2.11111111111111	0.485369872610651
+Arthritis, Infectious	desipramine	1.95238095238095	0.428160064435069
+Arthritis, Infectious	deslanoside	1	0.087559238440391
+Arthritis, Infectious	desloratadine	1	0.0002740191903157
+Arthritis, Infectious	desmopressin	2	0.389507755504811
+Arthritis, Infectious	desogestrel	1.5	0.864333939053617
+Arthritis, Infectious	desonide	1	0.282829544037019
+Arthritis, Infectious	desoximetasone	1	0.314940478733754
+Arthritis, Infectious	desoxycorticosterone acetate	2	0.722330181576224
+Arthritis, Infectious	desvenlafaxine	2	0.57458316230152
+Arthritis, Infectious	deutetrabenazine	2	0.477056880824563
+Arthritis, Infectious	dexamethasone	1.8	0.895172984282572
+Arthritis, Infectious	dexbrompheniramine	1	1.6982674071476e-07
+Arthritis, Infectious	dexchlorpheniramine maleate	1	0.000509397745594122
+Arthritis, Infectious	dexfenfluramine	2	0.578983205237078
+Arthritis, Infectious	dexibuprofen	2.16666666666667	0.997415808049318
+Arthritis, Infectious	dexketoprofen	2	0.683344304961733
+Arthritis, Infectious	dexlansoprazole	2	0.693376640246649
+Arthritis, Infectious	dexmedetomidine	2	0.57592734943351
+Arthritis, Infectious	dexmethylphenidate	2	0.541572735924973
+Arthritis, Infectious	dexrazoxane	1	0.0401102641115044
+Arthritis, Infectious	dextroamphetamine	1.8	0.130825545294118
+Arthritis, Infectious	dextromethorphan	2.14285714285714	0.999877834210676
+Arthritis, Infectious	dextropropoxyphene	2	0.698220264938091
+Arthritis, Infectious	dextrothyroxine	2.33333333333333	0.976507480474242
+Arthritis, Infectious	dezocine	2	0.688340369254956
+Arthritis, Infectious	diacerein	1.88888888888889	0.294984343517432
+Arthritis, Infectious	diamorphine	2	0.661283761501905
+Arthritis, Infectious	diazepam	2.125	0.382088661159234
+Arthritis, Infectious	diazoxide	1.66666666666667	0.0601371313697103
+Arthritis, Infectious	dibotermin alfa	2	0.903542256778589
+Arthritis, Infectious	dichloroacetic acid	2	0.696887157949039
+Arthritis, Infectious	dichlorobenzyl alcohol	2.7	0.999996994667348
+Arthritis, Infectious	diclofenac	2	0.651830136041873
+Arthritis, Infectious	diclofenamide	2	0.338167807318884
+Arthritis, Infectious	dicoumarol	2	0.902914003711916
+Arthritis, Infectious	dicyclomine	2	0.440005199618116
+Arthritis, Infectious	didanosine	1	0.0688467277161217
+Arthritis, Infectious	dienestrol	1.5	0.830452011862318
+Arthritis, Infectious	dienogest	1.5	0.797264119016335
+Arthritis, Infectious	diethylcarbamazine	2	0.605615912892691
+Arthritis, Infectious	diethylpropion	2	0.578867644981621
+Arthritis, Infectious	diethylstilbestrol	1.66666666666667	0.937553225892098
+Arthritis, Infectious	diflorasone	1	0.288034907556519
+Arthritis, Infectious	diflunisal	2	0.733163079974869
+Arthritis, Infectious	difluocortolone	1.5	0.33674458072372
+Arthritis, Infectious	difluprednate	1	0.332054137048753
+Arthritis, Infectious	digitoxin	1	0.106681351614555
+Arthritis, Infectious	digoxin	1	0.0781326590420571
+Arthritis, Infectious	dihydro-alpha-ergocryptine	2.25	0.977251204420535
+Arthritis, Infectious	dihydroergocornine	2.08333333333333	0.746339360023231
+Arthritis, Infectious	dihydroergocristine	2.10344827586207	0.884573495509341
+Arthritis, Infectious	dihydroergotamine	2.25	0.861644279162877
+Arthritis, Infectious	dihydrotachysterol	0	0.0101262354045522
+Arthritis, Infectious	diltiazem	2	0.289731748416496
+Arthritis, Infectious	dimenhydrinate	1	0.000340748072985231
+Arthritis, Infectious	dimercaprol	1	0.460172162722971
+Arthritis, Infectious	dimethyl fumarate	1.5	0.781997512536779
+Arthritis, Infectious	dimetindene	1.5	0.0090155747912396
+Arthritis, Infectious	dinoprost	3	0.995247370698109
+Arthritis, Infectious	dinoprost tromethamine	2.5	0.955330685526462
+Arthritis, Infectious	dinoprostone	2.2	0.85238120877765
+Arthritis, Infectious	diosmin	2	0.762430571958398
+Arthritis, Infectious	dioxybenzone	2	0.840128812753863
+Arthritis, Infectious	diphemanil	2	0.553579204630712
+Arthritis, Infectious	diphenhydramine	1.5	0.00756567475746394
+Arthritis, Infectious	diphenidol	2	0.420533829390369
+Arthritis, Infectious	diphenoxylate	2	0.732140643904647
+Arthritis, Infectious	diphenylpyraline	1.5	0.0106997260008674
+Arthritis, Infectious	dipivefrin	2	0.838800457948114
+Arthritis, Infectious	dipyridamole	1.83333333333333	0.122161724348992
+Arthritis, Infectious	dipyrithione	2	0.85524113400934
+Arthritis, Infectious	disopyramide	2	0.662213315777513
+Arthritis, Infectious	disulfiram	2	0.538314792755411
+Arthritis, Infectious	dl-methylephedrine	1.77777777777778	0.176553779446486
+Arthritis, Infectious	dobutamine	1.5	0.116405771923055
+Arthritis, Infectious	docetaxel	1.66666666666667	0.648278468676208
+Arthritis, Infectious	doconexent	1.33333333333333	0.11220398950723
+Arthritis, Infectious	dofetilide	2	0.748174084061876
+Arthritis, Infectious	dolasetron	2	0.423762097784716
+Arthritis, Infectious	domperidone	2	0.688340369254956
+Arthritis, Infectious	donepezil	2.06666666666667	0.98649841984375
+Arthritis, Infectious	dopamine	2.13333333333333	0.95566187345987
+Arthritis, Infectious	dorzolamide	2	0.292164328393555
+Arthritis, Infectious	dosulepin	2	0.410279508032891
+Arthritis, Infectious	dotatate gallium ga-68	2	0.62282512785252
+Arthritis, Infectious	doxacurium	3	0.99994225642162
+Arthritis, Infectious	doxapram	2	0.546040953290993
+Arthritis, Infectious	doxazosin	2	0.5
+Arthritis, Infectious	doxepin	2.05263157894737	0.644514069395955
+Arthritis, Infectious	doxercalciferol	0	0.022231601821643
+Arthritis, Infectious	doxorubicin	1	0.0671939568388018
+Arthritis, Infectious	doxylamine	1.66666666666667	0.0638295253691906
+Arthritis, Infectious	dronabinol	2	0.347477250440478
+Arthritis, Infectious	dronedarone	2.04	0.876451798327503
+Arthritis, Infectious	droperidol	2	0.654490539014738
+Arthritis, Infectious	drospirenone	1.5	0.744419172696184
+Arthritis, Infectious	drotaverine	2	0.559994800381885
+Arthritis, Infectious	drotrecogin alfa	2.08333333333333	0.963673424242345
+Arthritis, Infectious	droxidopa	1.8	0.132296902059882
+Arthritis, Infectious	dulaglutide	2	0.747588459621979
+Arthritis, Infectious	duloxetine	2	0.653266367303182
+Arthritis, Infectious	dupilumab	2	0.706709131192249
+Arthritis, Infectious	durvalumab	2.5	0.97557548226949
+Arthritis, Infectious	duvelisib	2	0.787166301351911
+Arthritis, Infectious	dyclonine	2	0.3152776769596
+Arthritis, Infectious	dydrogesterone	2	0.844968589428058
+Arthritis, Infectious	dyphylline	2.125	0.685451935535503
+Arthritis, Infectious	ecallantide	3	0.999890345135296
+Arthritis, Infectious	echothiophate	3	0.852532503977938
+Arthritis, Infectious	econazole	2	0.690579534301245
+Arthritis, Infectious	eculizumab	2	0.545204052591652
+Arthritis, Infectious	edotreotide gallium ga-68	2	0.597662761636247
+Arthritis, Infectious	edoxaban	2	0.63675533794423
+Arthritis, Infectious	edrophonium	2.5	0.844502063235604
+Arthritis, Infectious	efalizumab	1.9	0.362472647832107
+Arthritis, Infectious	eflornithine	2	0.649739785701631
+Arthritis, Infectious	efmoroctocog alfa	2	0.62282512785252
+Arthritis, Infectious	elagolix	3	0.969500272206473
+Arthritis, Infectious	eletriptan	2.14285714285714	0.756302086363082
+Arthritis, Infectious	elexacaftor	2	0.949085664211105
+Arthritis, Infectious	eliglustat	2	0.348782706757389
+Arthritis, Infectious	elotuzumab	3	0.998030144344871
+Arthritis, Infectious	eltrombopag	2	0.585500004359447
+Arthritis, Infectious	eluxadoline	2	0.778249187411347
+Arthritis, Infectious	emapalumab	0	2.68328339800179e-12
+Arthritis, Infectious	emedastine	1	3.24681988655479e-05
+Arthritis, Infectious	emicizumab	2.5	0.992082930712968
+Arthritis, Infectious	enalapril	2	0.539827837277029
+Arthritis, Infectious	enalaprilat	2	0.353016104590871
+Arthritis, Infectious	enasidenib	1	0.000485529458235564
+Arthritis, Infectious	encainide	2	0.62282512785252
+Arthritis, Infectious	encorafenib	2	0.933877796281019
+Arthritis, Infectious	enflurane	2.10526315789474	0.467447843994339
+Arthritis, Infectious	enfortumab vedotin	2	0.439698306008775
+Arthritis, Infectious	enoxacin	1	0.111496930767197
+Arthritis, Infectious	enoxaparin	2	0.602636552769861
+Arthritis, Infectious	enoximone	2	0.625042838716089
+Arthritis, Infectious	enprofylline	2	0.407570011314189
+Arthritis, Infectious	entacapone	2	0.643348413060771
+Arthritis, Infectious	entrectinib	1.66666666666667	0.639817213214035
+Arthritis, Infectious	enzacamene	1.5	0.959432051488943
+Arthritis, Infectious	enzalutamide	1	0.350260214298369
+Arthritis, Infectious	ephedrine	2	0.528115198294818
+Arthritis, Infectious	epicriptine	2.2	0.969190510592693
+Arthritis, Infectious	epinastine	2	0.64656753542287
+Arthritis, Infectious	epinephrine	1.5	0.00742460223230227
+Arthritis, Infectious	epirubicin	1.5	0.296764475803512
+Arthritis, Infectious	eplerenone	2	0.711965092443481
+Arthritis, Infectious	epoprostenol	2	0.276136774337498
+Arthritis, Infectious	eprosartan	2	0.667945862951247
+Arthritis, Infectious	eptifibatide	2	0.762430571958398
+Arthritis, Infectious	erdafitinib	1.33333333333333	0.018982809435751
+Arthritis, Infectious	erenumab	3	0.99964248971207
+Arthritis, Infectious	ergocalciferol	2.09090909090909	0.588482677741043
+Arthritis, Infectious	ergoloid mesylate	2.10344827586207	0.887908086831411
+Arthritis, Infectious	ergometrine	2	0.556515707849836
+Arthritis, Infectious	ergotamine	2.0625	0.664066786944418
+Arthritis, Infectious	eribulin	1.5	0.406651710300601
+Arthritis, Infectious	erlotinib	1.5	0.673753328496286
+Arthritis, Infectious	erythrityl tetranitrate	2	0.71031103035992
+Arthritis, Infectious	erythromycin	2.5	0.987641335738721
+Arthritis, Infectious	erythropoietin	2	0.717170455962981
+Arthritis, Infectious	escitalopram	1.86666666666667	0.0900670373769652
+Arthritis, Infectious	esculin	1	0.350260214298369
+Arthritis, Infectious	esketamine	2.1	0.992942982599646
+Arthritis, Infectious	eslicarbazepine	2	0.466895542892903
+Arthritis, Infectious	eslicarbazepine acetate	2	0.454795947408348
+Arthritis, Infectious	esmolol	2	0.663277068561605
+Arthritis, Infectious	esomeprazole	2	0.683344304961733
+Arthritis, Infectious	estazolam	2.13333333333333	0.366097162556618
+Arthritis, Infectious	estradiol	1.71428571428571	0.885427654364117
+Arthritis, Infectious	estradiol acetate	1.71428571428571	0.924135509298636
+Arthritis, Infectious	estradiol benzoate	1.71428571428571	0.913734494129741
+Arthritis, Infectious	estradiol cypionate	1.71428571428571	0.923705605325038
+Arthritis, Infectious	estradiol dienanthate	1.71428571428571	0.913968897291024
+Arthritis, Infectious	estradiol valerate	1.71428571428571	0.881828602560834
+Arthritis, Infectious	estramustine	1.5	0.726056628249268
+Arthritis, Infectious	estriol	1.66666666666667	0.991341102250217
+Arthritis, Infectious	estrone	1.6	0.829249020330844
+Arthritis, Infectious	estrone sulfate	1.5	0.996474635444789
+Arthritis, Infectious	eszopiclone	2.15384615384615	0.342964566612096
+Arthritis, Infectious	etacrynic acid	1.75	0.576867288316884
+Arthritis, Infectious	etafedrine	1	0.356651586939229
+Arthritis, Infectious	etanercept	1.61538461538462	0.00584986885213364
+Arthritis, Infectious	etelcalcetide	2	0.607564331445103
+Arthritis, Infectious	ethanol	2.22727272727273	0.988819986560319
+Arthritis, Infectious	ethanolamine oleate	2	0.629927932097713
+Arthritis, Infectious	ethchlorvynol	2.15384615384615	0.398500268980881
+Arthritis, Infectious	ethinamate	1.5	0.0441359327202884
+Arthritis, Infectious	ethinylestradiol	1.66666666666667	0.847608862454569
+Arthritis, Infectious	ethosuximide	2	0.261811660733887
+Arthritis, Infectious	ethotoin	2	0.771514295514083
+Arthritis, Infectious	ethynodiol diacetate	1.5	0.888503069232803
+Arthritis, Infectious	etidronic acid	1.5	0.302072864878376
+Arthritis, Infectious	etodolac	1.66666666666667	0.421945575872959
+Arthritis, Infectious	etomidate	2.14285714285714	0.366067471166355
+Arthritis, Infectious	etonogestrel	1.5	0.869174454705882
+Arthritis, Infectious	etoposide	1	0.0552701514859229
+Arthritis, Infectious	etoricoxib	2	0.696022825051387
+Arthritis, Infectious	eugenol	1.5	0.595331172261256
+Arthritis, Infectious	everolimus	1	0.262421470906054
+Arthritis, Infectious	exemestane	2	0.320545910980988
+Arthritis, Infectious	exenatide	2	0.806261057812155
+Arthritis, Infectious	ezetimibe	2.33333333333333	0.755185678529105
+Arthritis, Infectious	ezogabine	2	0.353293589720152
+Arthritis, Infectious	famotidine	3	0.851100265402966
+Arthritis, Infectious	febuxostat	2	0.423762097784716
+Arthritis, Infectious	fedratinib	1.33333333333333	0.247189638547726
+Arthritis, Infectious	felbamate	2	0.793337788197683
+Arthritis, Infectious	felodipine	2.07692307692308	0.881417174683172
+Arthritis, Infectious	fenfluramine	2	0.58297231363166
+Arthritis, Infectious	fenofibrate	2	0.716239657653677
+Arthritis, Infectious	fenofibric acid	1.8	0.626282389406306
+Arthritis, Infectious	fenoldopam	2	0.541968960199975
+Arthritis, Infectious	fenoprofen	1.75	0.480136231299757
+Arthritis, Infectious	fenoterol	1.66666666666667	0.388235763178615
+Arthritis, Infectious	fentanyl	1.75	0.196749050427697
+Arthritis, Infectious	ferric cation	1	0.150190718533753
+Arthritis, Infectious	ferric pyrophosphate citrate	2.2	0.973260244427236
+Arthritis, Infectious	ferrous ascorbate	1.85714285714286	0.553579204630712
+Arthritis, Infectious	ferrous fumarate	1.85714285714286	0.606129212202768
+Arthritis, Infectious	ferrous gluconate	1.85714285714286	0.559840016324249
+Arthritis, Infectious	ferrous glycine sulfate	1.85714285714286	0.559534008492094
+Arthritis, Infectious	ferrous succinate	1.85714285714286	0.61190290821978
+Arthritis, Infectious	fesoterodine	2.4	0.962394687647405
+Arthritis, Infectious	fexofenadine	1	0.000826393859318223
+Arthritis, Infectious	filgrastim	2	0.774598466562241
+Arthritis, Infectious	finafloxacin	1	0.135666060946383
+Arthritis, Infectious	fingolimod	1.5	0.344044106225632
+Arthritis, Infectious	fish oil	2.30769230769231	0.999999419945187
+Arthritis, Infectious	flavin adenine dinucleotide	1.84615384615385	0.121131213986999
+Arthritis, Infectious	flavin mononucleotide	1.9	0.42269153801246
+Arthritis, Infectious	flavone	2	0.579926346968395
+Arthritis, Infectious	flavoxate	2	0.509108092805775
+Arthritis, Infectious	flecainide	2	0.800602624043744
+Arthritis, Infectious	flibanserin	2	0.717170455962981
+Arthritis, Infectious	florbetaben (18f)	1	0.460172162722971
+Arthritis, Infectious	florbetapir (18f)	1	0.400760483613276
+Arthritis, Infectious	floxuridine	0	6.60548586909357e-05
+Arthritis, Infectious	fluciclovine (18f)	2.07692307692308	0.985484835254822
+Arthritis, Infectious	flucytosine	1	0.21313749767595
+Arthritis, Infectious	fludarabine	1.33333333333333	0.0523325939784771
+Arthritis, Infectious	fludrocortisone	1.5	0.611764236821385
+Arthritis, Infectious	flufenamic acid	1.66666666666667	0.421252094975871
+Arthritis, Infectious	flumazenil	2.15384615384615	0.24262368629814
+Arthritis, Infectious	flumethasone	1	0.293290868807751
+Arthritis, Infectious	flunarizine	1.8	0.339811530148503
+Arthritis, Infectious	flunisolide	1	0.326246671503714
+Arthritis, Infectious	flunitrazepam	2.22222222222222	0.676834661533365
+Arthritis, Infectious	fluocinolone acetonide	1.66666666666667	0.720860360929834
+Arthritis, Infectious	fluocinonide	1.5	0.417763436561838
+Arthritis, Infectious	fluorometholone	1	0.344044106225632
+Arthritis, Infectious	fluorouracil	0	7.84990095663714e-06
+Arthritis, Infectious	fluoxetine	2.57142857142857	0.999907290280562
+Arthritis, Infectious	fluoxymesterone	1.4	0.297417314967886
+Arthritis, Infectious	flupentixol	2	0.664036443138935
+Arthritis, Infectious	fluphenazine	1.66666666666667	0.632501251497987
+Arthritis, Infectious	flurandrenolide	1	0.298602920768755
+Arthritis, Infectious	flurazepam	2.13333333333333	0.414529690675385
+Arthritis, Infectious	flurbiprofen	2	0.6847223230404
+Arthritis, Infectious	fluspirilene	2	0.397391126733046
+Arthritis, Infectious	flutamide	1.66666666666667	0.664036443138935
+Arthritis, Infectious	fluticasone	1.75	0.833957718323342
+Arthritis, Infectious	fluticasone furoate	1.66666666666667	0.839697592490031
+Arthritis, Infectious	fluticasone propionate	1.75	0.768576026188245
+Arthritis, Infectious	fluvastatin	1.5	0.607564331445103
+Arthritis, Infectious	fluvoxamine	2	0.730114899667302
+Arthritis, Infectious	folic acid	2.5	0.796508365570403
+Arthritis, Infectious	follitropin	2	0.679454089019012
+Arthritis, Infectious	fondaparinux	2	0.629518196223263
+Arthritis, Infectious	foreskin fibroblast (neonatal)	1.1	1.69020840224428e-06
+Arthritis, Infectious	foreskin keratinocyte (neonatal)	1.09090909090909	9.7760135725287e-08
+Arthritis, Infectious	formoterol	1.66666666666667	0.392043163797981
+Arthritis, Infectious	fosinopril	2	0.5
+Arthritis, Infectious	fosnetupitant	2	0.405648127869354
+Arthritis, Infectious	fosphenytoin	2	0.673753328496286
+Arthritis, Infectious	fospropofol	2	0.453959046709007
+Arthritis, Infectious	fostamatinib	1.7972972972973	0.999782664366836
+Arthritis, Infectious	framycetin	1	0.0642720250089849
+Arthritis, Infectious	fremanezumab	2	0.556515707849836
+Arthritis, Infectious	frovatriptan	2.5	0.962452824309636
+Arthritis, Infectious	fructose	2	0.539827837277029
+Arthritis, Infectious	furosemide	2	0.515010203114794
+Arthritis, Infectious	gabapentin	2	0.317280203570113
+Arthritis, Infectious	gabapentin enacarbil	2	0.242920473369202
+Arthritis, Infectious	gadopentetic acid	1	0.0642720250089849
+Arthritis, Infectious	galantamine	2.73333333333333	0.99999999999419
+Arthritis, Infectious	galcanezumab	2	0.565406593191326
+Arthritis, Infectious	gallamine triethiodide	2.6	0.986401465468601
+Arthritis, Infectious	gallium nitrate	1.25	0.00723169211684597
+Arthritis, Infectious	galsulfase	2	0.781997512536779
+Arthritis, Infectious	gamma-aminobutyric acid	2	0.414499995640553
+Arthritis, Infectious	gamma-hydroxybutyric acid	2.5	0.82285050839624
+Arthritis, Infectious	ganirelix	3	0.949462973930891
+Arthritis, Infectious	gemcitabine	1	0.000189056937383127
+Arthritis, Infectious	gemeprost	2	0.58217828666418
+Arthritis, Infectious	gemfibrozil	2	0.421945575872959
+Arthritis, Infectious	gemtuzumab ozogamicin	1.90909090909091	0.37717487214748
+Arthritis, Infectious	gentamicin	2	0.755856097410532
+Arthritis, Infectious	gestrinone	1.66666666666667	0.924220831160271
+Arthritis, Infectious	gilteritinib	2.22222222222222	0.956382400509515
+Arthritis, Infectious	gimeracil	2	0.423762097784716
+Arthritis, Infectious	ginkgo biloba	2	0.55769739731073
+Arthritis, Infectious	ginseng	1.33333333333333	0.0205332909513532
+Arthritis, Infectious	glasdegib	2	0.515010203114794
+Arthritis, Infectious	glatiramer	0	2.16610738409332e-08
+Arthritis, Infectious	gliclazide	2.5	0.979880779937034
+Arthritis, Infectious	glimepiride	2.33333333333333	0.9606328048709
+Arthritis, Infectious	glipizide	2	0.765238943901246
+Arthritis, Infectious	gliquidone	3	0.999085405431503
+Arthritis, Infectious	glucagon	2	0.60819485124613
+Arthritis, Infectious	gluconolactone	2	0.370072067902287
+Arthritis, Infectious	glucosamine	1	0.000205384863621047
+Arthritis, Infectious	glutamic acid	2.02985074626866	0.752745548149454
+Arthritis, Infectious	glutathione	1.86842105263158	0.00327422702215265
+Arthritis, Infectious	glutathione disulfide	1.5	0.0609294744340776
+Arthritis, Infectious	glutethimide	2.15384615384615	0.330565057418096
+Arthritis, Infectious	glyburide	2.22222222222222	0.996475895415692
+Arthritis, Infectious	glycerin	1.91666666666667	0.791064795473839
+Arthritis, Infectious	glycine	2	0.529899166431162
+Arthritis, Infectious	glycine betaine	2	0.869174454705882
+Arthritis, Infectious	glycol salicylate	2	0.702218205881302
+Arthritis, Infectious	glycolic acid	2	0.685059521266246
+Arthritis, Infectious	glycopyrronium	2	0.522943119175437
+Arthritis, Infectious	glycyrrhizic acid	1.5	0.384556225771231
+Arthritis, Infectious	glymidine	2.5	0.995941886062594
+Arthritis, Infectious	golimumab	0	0.00269781423364597
+Arthritis, Infectious	golodirsen	2	0.679454089019012
+Arthritis, Infectious	gonadorelin	3	0.927507584524561
+Arthritis, Infectious	goserelin	2.5	0.921321639650794
+Arthritis, Infectious	granisetron	2	0.398789028222759
+Arthritis, Infectious	griseofulvin	2	0.344044106225632
+Arthritis, Infectious	guaiacol	2	0.983151379636746
+Arthritis, Infectious	guaifenesin	2.28571428571429	0.997136886087249
+Arthritis, Infectious	guanabenz	2	0.575754322566095
+Arthritis, Infectious	guanadrel	2	0.489748697606804
+Arthritis, Infectious	guanethidine	2	0.414499995640553
+Arthritis, Infectious	guanfacine	2	0.546926126626285
+Arthritis, Infectious	guanidine	1.75	0.207518591871623
+Arthritis, Infectious	guselkumab	2	0.449519206289237
+Arthritis, Infectious	halazepam	2.13333333333333	0.399184622559244
+Arthritis, Infectious	halcinonide	2	0.610462983720318
+Arthritis, Infectious	halofantrine	2	0.667945862951247
+Arthritis, Infectious	haloperidol	2	0.822932383579483
+Arthritis, Infectious	halothane	2.11111111111111	0.588373497182286
+Arthritis, Infectious	heparin	1.91666666666667	0.639282694475867
+Arthritis, Infectious	hexachlorophene	1.33333333333333	0.0585864318521824
+Arthritis, Infectious	hexafluronium	3	0.858513239964046
+Arthritis, Infectious	hexocyclium	2.25	0.930592949004069
+Arthritis, Infectious	hexylcaine	2	0.402255156091747
+Arthritis, Infectious	hexylresorcinol	1.66666666666667	0.494329004320675
+Arthritis, Infectious	histamine	2.2	0.574832595198379
+Arthritis, Infectious	histrelin	3	0.983151379636745
+Arthritis, Infectious	homatropine	2.4	0.964816032888787
+Arthritis, Infectious	homatropine methylbromide	2.4	0.930868581166218
+Arthritis, Infectious	homosalate	1.33333333333333	0.748712193519985
+Arthritis, Infectious	human c1-esterase inhibitor	2.33333333333333	0.999605198074808
+Arthritis, Infectious	human calcitonin	1	0.320545910980988
+Arthritis, Infectious	human immunoglobulin g	1.8	0.100748174254783
+Arthritis, Infectious	human thrombin	2.125	0.952779795323419
+Arthritis, Infectious	huperzine a	2	0.553579204630712
+Arthritis, Infectious	hyaluronic acid	1.91666666666667	0.80315637214819
+Arthritis, Infectious	hydralazine	1.66666666666667	0.570654903247996
+Arthritis, Infectious	hydrochlorothiazide	2	0.660379201157591
+Arthritis, Infectious	hydrocodone	2	0.764013890622623
+Arthritis, Infectious	hydrocortamate	1	0.326246671503714
+Arthritis, Infectious	hydrocortisone	1.5	0.6729449639444
+Arthritis, Infectious	hydrocortisone acetate	1.66666666666667	0.730311442247224
+Arthritis, Infectious	hydrocortisone butyrate	1.66666666666667	0.656339099413003
+Arthritis, Infectious	hydrocortisone cypionate	1.66666666666667	0.639178061763185
+Arthritis, Infectious	hydrocortisone phosphate	1.66666666666667	0.639178061763185
+Arthritis, Infectious	hydrocortisone probutate	1.66666666666667	0.683080758532628
+Arthritis, Infectious	hydrocortisone valerate	1.66666666666667	0.715371339951263
+Arthritis, Infectious	hydroflumethiazide	1.875	0.350936197724186
+Arthritis, Infectious	hydromorphone	2	0.766786693429724
+Arthritis, Infectious	hydroquinone	2	0.356651586939229
+Arthritis, Infectious	hydroxocobalamin	2.44444444444444	0.995271324827832
+Arthritis, Infectious	hydroxychloroquine	1	4.03900615989915e-05
+Arthritis, Infectious	hydroxyprogesterone caproate	2	0.898123230201775
+Arthritis, Infectious	hydroxyurea	1	0.0304997277935272
+Arthritis, Infectious	hydroxyzine	1	0.000401652335492208
+Arthritis, Infectious	hyoscyamine	2.25	0.895907267328726
+Arthritis, Infectious	hypromellose	2	0.344044106225632
+Arthritis, Infectious	ibalizumab	0.666666666666667	0.000473573187544985
+Arthritis, Infectious	ibandronate	2	0.625042838716089
+Arthritis, Infectious	ibritumomab tiuxetan	1.90909090909091	0.358601384933855
+Arthritis, Infectious	ibrutinib	1	0.135666060946383
+Arthritis, Infectious	ibuprofen	2	0.976703148314434
+Arthritis, Infectious	ibutilide	2.125	0.639282694475867
+Arthritis, Infectious	icatibant	2.5	0.930056753063669
+Arthritis, Infectious	icosapent	1.81818181818182	0.312843360572096
+Arthritis, Infectious	idarubicin	1	0.0923122578116998
+Arthritis, Infectious	idelalisib	2	0.643348413060771
+Arthritis, Infectious	idursulfase	2	0.737578529093946
+Arthritis, Infectious	ifenprodil	2	0.88804196435266
+Arthritis, Infectious	ifosfamide	2	0.701397079231245
+Arthritis, Infectious	iloperidone	1.90909090909091	0.507309134910966
+Arthritis, Infectious	iloprost	2.125	0.893395004403509
+Arthritis, Infectious	imatinib	1.5	0.400617795192796
+Arthritis, Infectious	imipramine	2.04	0.853540443290149
+Arthritis, Infectious	imiquimod	1	1.18171021664779e-07
+Arthritis, Infectious	indacaterol	1	0.356651586939229
+Arthritis, Infectious	indapamide	2	0.585053800553415
+Arthritis, Infectious	indecainide	2	0.685059521266246
+Arthritis, Infectious	indigotindisulfonic acid	1.85714285714286	0.216977585737425
+Arthritis, Infectious	indomethacin	2.11111111111111	0.912213405051657
+Arthritis, Infectious	infliximab	0	0.00291996759719845
+Arthritis, Infectious	ingenol mebutate	1	0.183665196813397
+Arthritis, Infectious	inotuzumab ozogamicin	2	0.643348413060771
+Arthritis, Infectious	insulin aspart	2	0.963589591225906
+Arthritis, Infectious	insulin degludec	2	0.924847212447635
+Arthritis, Infectious	insulin detemir	2	0.94891640495477
+Arthritis, Infectious	insulin glargine	2	0.94481638668703
+Arthritis, Infectious	insulin glulisine	2	0.953104152758971
+Arthritis, Infectious	insulin human	1.75	0.921180614645594
+Arthritis, Infectious	insulin lispro	2	0.937098011080197
+Arthritis, Infectious	insulin pork	1.93333333333333	0.963508726502207
+Arthritis, Infectious	interferon alfa-2a, recombinant	1	0.0078474022322124
+Arthritis, Infectious	interferon alfa-2b	1	0.0247747351769907
+Arthritis, Infectious	interferon alfa-n1	1	0.00205741599818532
+Arthritis, Infectious	interferon alfa-n3	1	0.00307442475688443
+Arthritis, Infectious	interferon alfacon-1	1	0.00199295222384204
+Arthritis, Infectious	interferon beta-1a	1	0.00739264715501116
+Arthritis, Infectious	interferon beta-1b	1	0.00244456361980624
+Arthritis, Infectious	interferon gamma-1b	1	1.21733973289094e-06
+Arthritis, Infectious	iopodic acid	2	0.384243740072142
+Arthritis, Infectious	ipilimumab	2	0.667945862951247
+Arthritis, Infectious	ipratropium	2	0.529040504222746
+Arthritis, Infectious	irbesartan	1	0.696022825051387
+Arthritis, Infectious	irinotecan	1.5	0.193061000578372
+Arthritis, Infectious	iron	1.85714285714286	0.544945733349472
+Arthritis, Infectious	iron dextran	2.2	0.98254169362067
+Arthritis, Infectious	iron sucrose	2.5	0.960482304433387
+Arthritis, Infectious	isavuconazole	2	0.821543493894781
+Arthritis, Infectious	isocarboxazid	2	0.328170027293151
+Arthritis, Infectious	isoetharine	1.5	0.521237806667082
+Arthritis, Infectious	isoflurane	2.1	0.716359505143372
+Arthritis, Infectious	isoflurophate	2.33333333333333	0.882425832128619
+Arthritis, Infectious	isometheptene	2	0.454265659166377
+Arthritis, Infectious	isoniazid	2	0.236274089307104
+Arthritis, Infectious	isoprenaline	1.375	0.276110291600451
+Arthritis, Infectious	isopropamide	2.5	0.984001985619378
+Arthritis, Infectious	isopropyl alcohol	1.57142857142857	0.000658795369451189
+Arthritis, Infectious	isosorbide	2	0.908106477951552
+Arthritis, Infectious	isosorbide dinitrate	2	0.5
+Arthritis, Infectious	isosorbide mononitrate	2	0.522943119175437
+Arthritis, Infectious	isotretinoin	1.5	0.379756953685802
+Arthritis, Infectious	isradipine	2.14285714285714	0.726617696258883
+Arthritis, Infectious	istradefylline	2	0.680480040814263
+Arthritis, Infectious	itraconazole	2	0.5
+Arthritis, Infectious	ivabradine	2	0.482236284666628
+Arthritis, Infectious	ivacaftor	2	0.921867340957943
+Arthritis, Infectious	ivermectin	2	0.522943119175437
+Arthritis, Infectious	ivosidenib	2	0.701397079231245
+Arthritis, Infectious	ixabepilone	1	0.1647100087752
+Arthritis, Infectious	ixekizumab	2	0.389661762637627
+Arthritis, Infectious	kaletra	2	0.655955893774368
+Arthritis, Infectious	kappadione	2.14285714285714	0.954790311868819
+Arthritis, Infectious	ketamine	2.17391304347826	0.964505028860805
+Arthritis, Infectious	ketazolam	2	0.202029838339837
+Arthritis, Infectious	ketoconazole	1.8	0.792481408128377
+Arthritis, Infectious	ketoprofen	2	0.678424989759823
+Arthritis, Infectious	ketorolac	2	0.669894312914843
+Arthritis, Infectious	ketotifen	1	0.00153522772716539
+Arthritis, Infectious	keyhole limpet hemocyanin	2	0.532482826449721
+Arthritis, Infectious	l-glutamine	1.33333333333333	0.00987829753703748
+Arthritis, Infectious	l-lysine	1.66666666666667	0.178127361945089
+Arthritis, Infectious	labetalol	1.6	0.135060923937352
+Arthritis, Infectious	lacidipine	2.11111111111111	0.860836158439826
+Arthritis, Infectious	lacosamide	2.5	0.82152160597839
+Arthritis, Infectious	lactose	2	0.647205630691156
+Arthritis, Infectious	lamotrigine	2.15625	0.823570794310232
+Arthritis, Infectious	lanadelumab	3	0.999839152273222
+Arthritis, Infectious	lanreotide	2	0.539827837277029
+Arthritis, Infectious	lansoprazole	2	0.853500205987967
+Arthritis, Infectious	lapatinib	1	0.282829544037019
+Arthritis, Infectious	larotrectinib	1.66666666666667	0.465537101066219
+Arthritis, Infectious	lasmiditan	2	0.256789638628935
+Arthritis, Infectious	lasofoxifene	1.66666666666667	0.844835980073226
+Arthritis, Infectious	latanoprost	3	0.971089391202356
+Arthritis, Infectious	latanoprostene bunod	3	0.984253479199951
+Arthritis, Infectious	lauric acid	1.75	0.0464365225413412
+Arthritis, Infectious	leflunomide	1.66666666666667	0.620833600246426
+Arthritis, Infectious	lemborexant	3	0.998382544041543
+Arthritis, Infectious	lenalidomide	2	0.814056004028766
+Arthritis, Infectious	lenograstim	2	0.662018518600356
+Arthritis, Infectious	lenvatinib	1.4	0.0352900633859192
+Arthritis, Infectious	lepirudin	2	0.727448766363799
+Arthritis, Infectious	lercanidipine	2	0.254586591660958
+Arthritis, Infectious	lesinurad	2.5	0.833176759143986
+Arthritis, Infectious	letrozole	2	0.320545910980988
+Arthritis, Infectious	leuprolide	3	0.918187445343561
+Arthritis, Infectious	levacetylmethadol	2.66666666666667	0.999447175295897
+Arthritis, Infectious	levallorphan	2	0.722330181576224
+Arthritis, Infectious	levamisole	2.5	0.8352899912248
+Arthritis, Infectious	levamlodipine	2.25	0.990537981720399
+Arthritis, Infectious	levetiracetam	2	0.578054424127041
+Arthritis, Infectious	levobetaxolol	2	0.669116495807116
+Arthritis, Infectious	levobunolol	1.5	0.516936005300029
+Arthritis, Infectious	levobupivacaine	2	0.3152776769596
+Arthritis, Infectious	levocabastine	2	0.219172141904709
+Arthritis, Infectious	levocarnitine	2.09090909090909	0.453006677893282
+Arthritis, Infectious	levocetirizine	1	3.26344004919557e-07
+Arthritis, Infectious	levodopa	2.2	0.973485118804695
+Arthritis, Infectious	levofloxacin	1	0.130825545294118
+Arthritis, Infectious	levomenthol	2.07692307692308	0.689677976031618
+Arthritis, Infectious	levomilnacipran	2	0.609166303537575
+Arthritis, Infectious	levonordefrin	2	0.451388588279616
+Arthritis, Infectious	levonorgestrel	1.4	0.710772828179537
+Arthritis, Infectious	levorphanol	2	0.749629235561118
+Arthritis, Infectious	levosalbutamol	1	0.36324466205577
+Arthritis, Infectious	levosimendan	2.25	0.983297931725529
+Arthritis, Infectious	levothyroxine	2	0.92497014780874
+Arthritis, Infectious	lidocaine	1.66666666666667	0.0616063378894319
+Arthritis, Infectious	lifitegrast	2	0.610462983720318
+Arthritis, Infectious	linaclotide	2	0.38409908550975
+Arthritis, Infectious	linagliptin	2	0.711965092443481
+Arthritis, Infectious	lindane	1.875	0.761446394020469
+Arthritis, Infectious	liothyronine	1.66666666666667	0.74769439472951
+Arthritis, Infectious	liotrix	2	0.891504090706948
+Arthritis, Infectious	lipegfilgrastim	2	0.662018518600356
+Arthritis, Infectious	lipoic acid	2	0.301003987186505
+Arthritis, Infectious	liraglutide	2	0.796571476178155
+Arthritis, Infectious	lisinopril	2.5	0.999598347664508
+Arthritis, Infectious	lisuride	2.13333333333333	0.978195162084527
+Arthritis, Infectious	lithium carbonate	1.75	0.508663378829515
+Arthritis, Infectious	lithium citrate	1.75	0.588058934300602
+Arthritis, Infectious	lixisenatide	2	0.757502749293212
+Arthritis, Infectious	lofexidine	2.16666666666667	0.977894275980223
+Arthritis, Infectious	lomefloxacin	1	0.0923122578116998
+Arthritis, Infectious	lomitapide	2	0.314940478733754
+Arthritis, Infectious	lomustine	2	0.37717487214748
+Arthritis, Infectious	lonoctocog alfa	1.81818181818182	0.883594228076945
+Arthritis, Infectious	loperamide	1.71428571428571	0.485861470815104
+Arthritis, Infectious	lopinavir	2	0.532828135548107
+Arthritis, Infectious	loratadine	1.5	0.0724924154754388
+Arthritis, Infectious	lorazepam	2.14285714285714	0.361863857910549
+Arthritis, Infectious	lorcaserin	2	0.477056880824563
+Arthritis, Infectious	lorlatinib	2	0.78686250232405
+Arthritis, Infectious	lormetazepam	2.2	0.488028085202184
+Arthritis, Infectious	lornoxicam	2	0.628408886831008
+Arthritis, Infectious	lorpiprazole	1.8	0.0137431680557552
+Arthritis, Infectious	losartan	2	0.655955893774368
+Arthritis, Infectious	loteprednol etabonate	1	0.314940478733754
+Arthritis, Infectious	lovastatin	1.66666666666667	0.634830175983184
+Arthritis, Infectious	loxapine	2.09677419354839	0.903100750683241
+Arthritis, Infectious	loxoprofen	2	0.689934261405811
+Arthritis, Infectious	lubiprostone	2	0.679454089019012
+Arthritis, Infectious	lumacaftor	2	0.926530812068943
+Arthritis, Infectious	lumateperone	2	0.83062175371873
+Arthritis, Infectious	lumiracoxib	2	0.72474379341762
+Arthritis, Infectious	lurasidone	2	0.82727990568907
+Arthritis, Infectious	lusutrombopag	2	0.643348413060771
+Arthritis, Infectious	lutetium lu 177 dotatate	2.4	0.992145727856959
+Arthritis, Infectious	lutropin alfa	2	0.602636552769861
+Arthritis, Infectious	lyme disease vaccine (recombinant ospa)	0	8.85566187272672e-05
+Arthritis, Infectious	lypressin	2	0.405583694457162
+Arthritis, Infectious	macimorelin	4	0.999417691394618
+Arthritis, Infectious	macitentan	2	0.617911422188953
+Arthritis, Infectious	mafenide	3	0.993255993158552
+Arthritis, Infectious	magnesium acetate	1	0.116321074396589
+Arthritis, Infectious	magnesium acetate tetrahydrate	2.28571428571429	0.998388731441812
+Arthritis, Infectious	magnesium carbonate	2.28571428571429	0.993450458382285
+Arthritis, Infectious	magnesium cation	1	0.0923122578116998
+Arthritis, Infectious	magnesium sulfate	2	0.331793586612455
+Arthritis, Infectious	malathion	3	0.832769601651538
+Arthritis, Infectious	manganese	1.8	0.637907790621542
+Arthritis, Infectious	manidipine	2.16666666666667	0.942061021872426
+Arthritis, Infectious	maprotiline	2	0.592233635569775
+Arthritis, Infectious	maraviroc	0	0.00170096515051176
+Arthritis, Infectious	masoprocol	2	0.832022704961524
+Arthritis, Infectious	mazindol	2	0.584631950984923
+Arthritis, Infectious	mebendazole	1	0.309420465698755
+Arthritis, Infectious	mecamylamine	2.75	0.999964751917196
+Arthritis, Infectious	mecasermin	2	0.935418734729119
+Arthritis, Infectious	mecasermin rinfabate	2	0.929177654852432
+Arthritis, Infectious	meclizine	1.5	0.0272953743239373
+Arthritis, Infectious	meclofenamic acid	2	0.615532422503782
+Arthritis, Infectious	medrogestone	2	0.893318648385445
+Arthritis, Infectious	medroxyprogesterone acetate	2	0.275040905597164
+Arthritis, Infectious	medrysone	1	0.277669818423777
+Arthritis, Infectious	mefenamic acid	2	0.634830175983184
+Arthritis, Infectious	mefloquine	2.33333333333333	0.974432856684014
+Arthritis, Infectious	megestrol acetate	1.5	0.629447455443115
+Arthritis, Infectious	meloxicam	2	0.597744843908253
+Arthritis, Infectious	memantine	2.16666666666667	0.939226740963093
+Arthritis, Infectious	menadione	2.15384615384615	0.991568116875421
+Arthritis, Infectious	menotropins	2	0.640975832526575
+Arthritis, Infectious	menthyl salicylate	2	0.585944167728623
+Arthritis, Infectious	mepenzolate	2	0.516214166737177
+Arthritis, Infectious	meperidine	2.1875	0.996392644210731
+Arthritis, Infectious	mephentermine	1.77777777777778	0.161027868692577
+Arthritis, Infectious	mephenytoin	2	0.798154521220958
+Arthritis, Infectious	mepivacaine	2	0.286025952902772
+Arthritis, Infectious	mepolizumab	2	0.313974599262192
+Arthritis, Infectious	meprobamate	2.15384615384615	0.378378826685413
+Arthritis, Infectious	mepyramine	1	0.00016084772677813
+Arthritis, Infectious	mercaptopurine	1.5	0.088507991437402
+Arthritis, Infectious	mesalazine	1.57142857142857	0.118397722550421
+Arthritis, Infectious	mesoridazine	2	0.663255419276281
+Arthritis, Infectious	metamfetamine	2	0.426706865425165
+Arthritis, Infectious	metamizole	2	0.433219431788052
+Arthritis, Infectious	metaraminol	2	0.539827837277029
+Arthritis, Infectious	metergoline	3	0.978943907343493
+Arthritis, Infectious	metformin	2	0.740284218552503
+Arthritis, Infectious	methacholine	2	0.545204052591652
+Arthritis, Infectious	methadone	2.28571428571429	0.999861435519773
+Arthritis, Infectious	methantheline	2.5	0.689798195110254
+Arthritis, Infectious	methazolamide	2	0.251674140677811
+Arthritis, Infectious	methdilazine	1	1.61128337632284e-05
+Arthritis, Infectious	methimazole	3	0.943531822993803
+Arthritis, Infectious	methionine	2.2	0.787424533785205
+Arthritis, Infectious	methocarbamol	2	0.336722931438395
+Arthritis, Infectious	methohexital	2	0.423762097784716
+Arthritis, Infectious	methotrexate	1	0.00032289106134233
+Arthritis, Infectious	methotrimeprazine	2.05263157894737	0.76138973918704
+Arthritis, Infectious	methoxamine	1.66666666666667	0.101485127843719
+Arthritis, Infectious	methoxy polyethylene glycol-epoetin beta	2	0.747588459621979
+Arthritis, Infectious	methoxyflurane	2.11111111111111	0.400449558717155
+Arthritis, Infectious	methscopolamine bromide	2	0.526502316964317
+Arthritis, Infectious	methsuximide	2	0.32587579081213
+Arthritis, Infectious	methyclothiazide	2	0.46372471184
+Arthritis, Infectious	methyl aminolevulinate	1	0.0157127631529373
+Arthritis, Infectious	methyldopa	2	0.471066840587123
+Arthritis, Infectious	methylene blue	2	0.69669823449878
+Arthritis, Infectious	methylergometrine	2	0.56837135610939
+Arthritis, Infectious	methylnaltrexone	2	0.759147321819919
+Arthritis, Infectious	methylphenidate	2	0.647205630691156
+Arthritis, Infectious	methylphenobarbital	2.18181818181818	0.711522128392453
+Arthritis, Infectious	methylprednisolone	1.5	0.73541885623519
+Arthritis, Infectious	methyltestosterone	1	0.303977174948613
+Arthritis, Infectious	methyprylon	2.15384615384615	0.313175599533049
+Arthritis, Infectious	methysergide	2	0.51407151875994
+Arthritis, Infectious	metipranolol	1.5	0.573293134574835
+Arthritis, Infectious	metixene	2.4	0.955631839653737
+Arthritis, Infectious	metoclopramide	2	0.247443801451088
+Arthritis, Infectious	metocurine	3	0.999518574799368
+Arthritis, Infectious	metocurine iodide	4	0.998900098207949
+Arthritis, Infectious	metolazone	2	0.594351872130646
+Arthritis, Infectious	metoprolol	1.5	0.484422602147132
+Arthritis, Infectious	metreleptin	2	0.62282512785252
+Arthritis, Infectious	metyrapone	4	0.994339899688152
+Arthritis, Infectious	metyrosine	2	0.607564331445103
+Arthritis, Infectious	mexiletine	2	0.783944498078726
+Arthritis, Infectious	mianserin	1.95652173913043	0.393040673793753
+Arthritis, Infectious	miconazole	2.08333333333333	0.888955635716386
+Arthritis, Infectious	midazolam	2.33333333333333	0.576959862795377
+Arthritis, Infectious	midodrine	1.66666666666667	0.0999081866970709
+Arthritis, Infectious	midostaurin	1.16666666666667	0.00282126915320016
+Arthritis, Infectious	mifamurtide	1	0.0205332909513532
+Arthritis, Infectious	mifepristone	1.75	0.763107375611068
+Arthritis, Infectious	migalastat	2	0.585500004359447
+Arthritis, Infectious	miglitol	1.75	0.12211843333219
+Arthritis, Infectious	miglustat	2	0.454795947408348
+Arthritis, Infectious	milnacipran	2.22222222222222	0.998172774489424
+Arthritis, Infectious	milrinone	2	0.673753328496286
+Arthritis, Infectious	miltefosine	1	0.00352536455521138
+Arthritis, Infectious	minaprine	2	0.591541969024706
+Arthritis, Infectious	minocycline	1.28571428571429	0.00894007193772365
+Arthritis, Infectious	minoxidil	2.33333333333333	0.987582265821837
+Arthritis, Infectious	mirabegron	2	0.389537016279682
+Arthritis, Infectious	mirtazapine	1.75	0.0300935350392157
+Arthritis, Infectious	misoprostol	2	0.450748475266599
+Arthritis, Infectious	mitotane	2	0.990402185752891
+Arthritis, Infectious	mitoxantrone	1	0.0923122578116998
+Arthritis, Infectious	mivacurium	2.75	0.999585602396584
+Arthritis, Infectious	moclobemide	2	0.324607522565082
+Arthritis, Infectious	modafinil	1.5	0.021056092656507
+Arthritis, Infectious	moexipril	2	0.454265659166377
+Arthritis, Infectious	mogamulizumab	1	0.0466151774612966
+Arthritis, Infectious	molindone	2	0.644995597372331
+Arthritis, Infectious	molsidomine	2	0.590280184349119
+Arthritis, Infectious	mometasone	1.5	0.675518213539965
+Arthritis, Infectious	mometasone furoate	1.5	0.750075139158734
+Arthritis, Infectious	monobenzone	2	0.424072650566491
+Arthritis, Infectious	montelukast	3	0.996696034719595
+Arthritis, Infectious	moricizine	2	0.696022825051387
+Arthritis, Infectious	moroctocog alfa	1.81818181818182	0.875512060267804
+Arthritis, Infectious	morphine	1.75	0.0913369313327833
+Arthritis, Infectious	moxetumomab pasudotox	1.5	0.259258496522561
+Arthritis, Infectious	moxifloxacin	1	0.140507572935521
+Arthritis, Infectious	moxisylyte	1.83333333333333	0.1734109733611
+Arthritis, Infectious	moxonidine	2	0.648476303192096
+Arthritis, Infectious	muromonab	2	0.829777332877531
+Arthritis, Infectious	mycophenolate mofetil	1.66666666666667	0.278542980092456
+Arthritis, Infectious	mycophenolic acid	1.5	0.157061111661211
+Arthritis, Infectious	myrrh	2	0.8350081459104
+Arthritis, Infectious	n-acetylglucosamine	2.28571428571429	0.890522514993211
+Arthritis, Infectious	nabilone	2	0.311618801804696
+Arthritis, Infectious	nabumetone	2	0.578054424127041
+Arthritis, Infectious	nadh	1.8134328358209	0.00144058362876107
+Arthritis, Infectious	nadolol	1.5	0.458464438979136
+Arthritis, Infectious	nadroparin	1.5	0.411333366742289
+Arthritis, Infectious	nafarelin	3	0.940912997551217
+Arthritis, Infectious	naftifine	2	0.389537016279682
+Arthritis, Infectious	nalbuphine	2	0.771514295514083
+Arthritis, Infectious	naldemedine	2	0.754537219266652
+Arthritis, Infectious	nalmefene	2	0.795079292224762
+Arthritis, Infectious	naloxegol	2	0.711965092443481
+Arthritis, Infectious	naloxone	1.42857142857143	0.0157127631529373
+Arthritis, Infectious	naltrexone	2	0.730114899667302
+Arthritis, Infectious	nandrolone decanoate	1	0.337981481399644
+Arthritis, Infectious	nandrolone phenpropionate	1	0.350260214298369
+Arthritis, Infectious	naphazoline	2	0.566780568211948
+Arthritis, Infectious	naproxen	2	0.608456687813155
+Arthritis, Infectious	naratriptan	2.25	0.615322041904651
+Arthritis, Infectious	natalizumab	1.81818181818182	0.490242385012423
+Arthritis, Infectious	nateglinide	2	0.717845951362233
+Arthritis, Infectious	nebivolol	1.66666666666667	0.356651586939229
+Arthritis, Infectious	nedocromil	2.4	0.999058877304369
+Arthritis, Infectious	nefazodone	1.9	0.422452435172657
+Arthritis, Infectious	nelarabine	2	0.767341938975237
+Arthritis, Infectious	neomycin	2	0.585053800553415
+Arthritis, Infectious	neostigmine	2	0.599239516386724
+Arthritis, Infectious	nepafenac	2	0.677413356810351
+Arthritis, Infectious	nesiritide	2	0.556515707849836
+Arthritis, Infectious	netarsudil	2	0.741404563863921
+Arthritis, Infectious	netupitant	2	0.440005199618115
+Arthritis, Infectious	niacin	2	0.5
+Arthritis, Infectious	nialamide	2	0.511971914797816
+Arthritis, Infectious	nicardipine	2.06666666666667	0.752023721691319
+Arthritis, Infectious	nicergoline	2	0.517763715333372
+Arthritis, Infectious	nicorandil	2	0.344044106225632
+Arthritis, Infectious	nicotinamide	1.25	0.0276495600914172
+Arthritis, Infectious	nicotine	2.5	0.999403847604942
+Arthritis, Infectious	nifedipine	2	0.88489069276484
+Arthritis, Infectious	nilotinib	1	0.0970859962880845
+Arthritis, Infectious	nilutamide	1	0.356651586939229
+Arthritis, Infectious	nilvadipine	2.33333333333333	0.952431770372169
+Arthritis, Infectious	nimesulide	1.5	0.128937039663287
+Arthritis, Infectious	nimodipine	2.2	0.969315939693748
+Arthritis, Infectious	nintedanib	1.33333333333333	0.0238579382138142
+Arthritis, Infectious	niraparib	1.5	0.533763199289059
+Arthritis, Infectious	nisoldipine	2.2	0.856418292612843
+Arthritis, Infectious	nitisinone	2	0.443484292150164
+Arthritis, Infectious	nitrazepam	2.1875	0.636232791078846
+Arthritis, Infectious	nitrendipine	2.125	0.46578563483979
+Arthritis, Infectious	nitric oxide	2	0.407311237130003
+Arthritis, Infectious	nitroglycerin	2	0.585500004359447
+Arthritis, Infectious	nitroprusside	2	0.599239516386724
+Arthritis, Infectious	nitrous acid	2.25	0.912583346039001
+Arthritis, Infectious	nivolumab	2	0.484989796885206
+Arthritis, Infectious	nizatidine	3	0.846281234460506
+Arthritis, Infectious	nomifensine	2	0.40656009387992
+Arthritis, Infectious	nonacog beta pegol	2	0.744154352999789
+Arthritis, Infectious	norelgestromin	1.66666666666667	0.946219799714865
+Arthritis, Infectious	norepinephrine	1.81818181818182	0.11510930723516
+Arthritis, Infectious	norethisterone	1.33333333333333	0.644964041091089
+Arthritis, Infectious	norethynodrel	1.33333333333333	0.702788569267484
+Arthritis, Infectious	norfloxacin	1	0.106681351614555
+Arthritis, Infectious	norgestimate	1.33333333333333	0.716604900846324
+Arthritis, Infectious	norgestrel	1.5	0.76871446287183
+Arthritis, Infectious	nortriptyline	1.91666666666667	0.330290348180632
+Arthritis, Infectious	noscapine	2	0.513236346083117
+Arthritis, Infectious	nylidrin	2	0.528115198294818
+Arthritis, Infectious	obeticholic acid	2	0.706709131192249
+Arthritis, Infectious	obinutuzumab	1	0.000120538516227595
+Arthritis, Infectious	ocrelizumab	1	0.000143540578803737
+Arthritis, Infectious	ocriplasmin	1.66666666666667	0.603748256217089
+Arthritis, Infectious	octocrylene	1.5	0.996474635444789
+Arthritis, Infectious	octreotide	2	0.478591274753688
+Arthritis, Infectious	ofatumumab	1	0.000143540578803737
+Arthritis, Infectious	ofloxacin	1	0.145349313679669
+Arthritis, Infectious	olanzapine	2.06060606060606	0.512303280222979
+Arthritis, Infectious	olaparib	1.66666666666667	0.549879390900004
+Arthritis, Infectious	olaratumab	1	0.0424109272029303
+Arthritis, Infectious	oleic acid	1.83333333333333	0.572666906509302
+Arthritis, Infectious	olmesartan	2	0.685059521266246
+Arthritis, Infectious	olodaterol	1	0.392435668554897
+Arthritis, Infectious	olopatadine	2.125	0.726528322323715
+Arthritis, Infectious	olsalazine	1	8.90671211856702e-06
+Arthritis, Infectious	omacetaxine mepesuccinate	1	0.188898651935021
+Arthritis, Infectious	omalizumab	2	0.608508993558534
+Arthritis, Infectious	omega-3-acid ethyl esters	2	0.78686250232405
+Arthritis, Infectious	omega-3-carboxylic acids	1.5	0.00555760438200432
+Arthritis, Infectious	omega-3 fatty acids	1.66666666666667	0.582003235434249
+Arthritis, Infectious	omeprazole	2	0.845170267490906
+Arthritis, Infectious	ondansetron	2	0.445729751714283
+Arthritis, Infectious	opicapone	2	0.643348413060771
+Arthritis, Infectious	opium	2	0.740047211010652
+Arthritis, Infectious	oprelvekin	1	0.00102870231408966
+Arthritis, Infectious	orciprenaline	1	0.320545910980988
+Arthritis, Infectious	orlistat	2	0.70285172016595
+Arthritis, Infectious	ornithine	1.90909090909091	0.0695274331349159
+Arthritis, Infectious	orphenadrine	2	0.604482504611355
+Arthritis, Infectious	oseltamivir	2	0.31980033497038
+Arthritis, Infectious	ouabain	1.66666666666667	0.105566169873148
+Arthritis, Infectious	oxacillin	3.5	0.998054195308666
+Arthritis, Infectious	oxandrolone	1	0.370072067902287
+Arthritis, Infectious	oxaprozin	2	0.691491858232891
+Arthritis, Infectious	oxazepam	2.13333333333333	0.410326657360494
+Arthritis, Infectious	oxcarbazepine	2.7	0.999999659606179
+Arthritis, Infectious	oxetacaine	3	0.995045606094975
+Arthritis, Infectious	oxiconazole	2	0.727448766363799
+Arthritis, Infectious	oxprenolol	1.66666666666667	0.443484292150164
+Arthritis, Infectious	oxtriphylline	1.8	0.662766494689938
+Arthritis, Infectious	oxybenzone	1.5	0.941533642832742
+Arthritis, Infectious	oxybuprocaine	2	0.298602920768755
+Arthritis, Infectious	oxybutynin	2	0.53753599493273
+Arthritis, Infectious	oxycodone	2	0.769920976127739
+Arthritis, Infectious	oxygen	2.4	0.963475730954338
+Arthritis, Infectious	oxymetazoline	1.83333333333333	0.101574209417424
+Arthritis, Infectious	oxymetholone	1.5	0.45113869904285
+Arthritis, Infectious	oxymorphone	2	0.758036347776927
+Arthritis, Infectious	oxyphencyclimine	2	0.548611411720383
+Arthritis, Infectious	oxyphenonium	2	0.391491006441466
+Arthritis, Infectious	oxytocin	2	0.38059808665817
+Arthritis, Infectious	paclitaxel	1.66666666666667	0.622016770369829
+Arthritis, Infectious	palbociclib	1.5	0.337981481399644
+Arthritis, Infectious	palifermin	1.66666666666667	0.554007985369291
+Arthritis, Infectious	paliperidone	1.93333333333333	0.472310278903803
+Arthritis, Infectious	palivizumab	1.88888888888889	0.328796077307675
+Arthritis, Infectious	palmitic acid	2.1	0.918568007306027
+Arthritis, Infectious	palonosetron	2	0.370072067902287
+Arthritis, Infectious	pamidronic acid	2	0.585500004359447
+Arthritis, Infectious	pancuronium	2.66666666666667	0.999452838899147
+Arthritis, Infectious	panobinostat	1.54545454545455	0.897653102629338
+Arthritis, Infectious	pantoprazole	2	0.725206377980299
+Arthritis, Infectious	papain	0	2.06288806391051e-05
+Arthritis, Infectious	papaverine	2	0.438887001842399
+Arthritis, Infectious	parachlorophenol	2	0.545204052591652
+Arthritis, Infectious	paramethadione	3	0.991452416701462
+Arthritis, Infectious	parathyroid hormone	2	0.438887001842399
+Arthritis, Infectious	parecoxib	1.5	0.137866675743407
+Arthritis, Infectious	pargyline	2	0.333844760105556
+Arthritis, Infectious	paricalcitol	0	0.0146637086171286
+Arthritis, Infectious	paroxetine	2.11428571428571	0.911422145530163
+Arthritis, Infectious	pasireotide	2	0.544681518854903
+Arthritis, Infectious	patent blue	2	0.994973228438243
+Arthritis, Infectious	pazopanib	1.4	0.00589872263486944
+Arthritis, Infectious	pefloxacin	1	0.111496930767197
+Arthritis, Infectious	pegademase	2	0.996474635444789
+Arthritis, Infectious	pegaptanib	2	0.649739785701631
+Arthritis, Infectious	pegfilgrastim	2	0.679454089019012
+Arthritis, Infectious	peginesatide	2	0.742596867046104
+Arthritis, Infectious	peginterferon alfa-2a	1	0.00523361463310245
+Arthritis, Infectious	peginterferon alfa-2b	1	0.00486468252675204
+Arthritis, Infectious	pegvisomant	2	0.706709131192249
+Arthritis, Infectious	pembrolizumab	2	0.5
+Arthritis, Infectious	pemetrexed	1	0.00015771028389123
+Arthritis, Infectious	penbutolol	1.75	0.488291391458403
+Arthritis, Infectious	pentaerythritol tetranitrate	2.33333333333333	0.964290919980941
+Arthritis, Infectious	pentagastrin	2	0.517763715333372
+Arthritis, Infectious	pentamidine	2	0.655955893774368
+Arthritis, Infectious	pentazocine	2	0.688946835240493
+Arthritis, Infectious	pentobarbital	2.16	0.937028918259934
+Arthritis, Infectious	pentolinium	3	0.999863291269387
+Arthritis, Infectious	pentosan polysulfate	2	0.631698881805555
+Arthritis, Infectious	pentostatin	2	0.590280184349119
+Arthritis, Infectious	pentoxifylline	2	0.592368184275287
+Arthritis, Infectious	pentoxyverine	2.27272727272727	0.998087372842308
+Arthritis, Infectious	perampanel	2	0.762430571958398
+Arthritis, Infectious	pergolide	2.05882352941176	0.862763786699901
+Arthritis, Infectious	perhexiline	2	0.484914874531757
+Arthritis, Infectious	periciazine	1.5	0.0361521763018268
+Arthritis, Infectious	perindopril	2	0.60384883129329
+Arthritis, Infectious	permethrin	2	0.967048779696827
+Arthritis, Infectious	perphenazine	1.66666666666667	0.671829972706848
+Arthritis, Infectious	pertuzumab	1	0.262421470906054
+Arthritis, Infectious	pexidartinib	1.5	0.0962033054939714
+Arthritis, Infectious	phenacemide	3	0.99307615502564
+Arthritis, Infectious	phenazopyridine	3	0.995045606094975
+Arthritis, Infectious	phendimetrazine	1.66666666666667	0.0289762652654444
+Arthritis, Infectious	phenelzine	2.16666666666667	0.639271677857636
+Arthritis, Infectious	phenformin	2.5	0.995784629239093
+Arthritis, Infectious	phenindamine	1	0.00166977083450618
+Arthritis, Infectious	phenindione	2	0.869174454705882
+Arthritis, Infectious	pheniramine	1.66666666666667	0.0424109272029304
+Arthritis, Infectious	phenmetrazine	2	0.49262811014644
+Arthritis, Infectious	phenobarbital	2.15384615384615	0.990341785079735
+Arthritis, Infectious	phenol	2	0.991070868501115
+Arthritis, Infectious	phenolphthalein	1.75	0.876736271971304
+Arthritis, Infectious	phenoxybenzamine	1.625	0.0860169001138316
+Arthritis, Infectious	phenoxymethylpenicillin	4	0.994913960782159
+Arthritis, Infectious	phenprocoumon	2	0.888503069232803
+Arthritis, Infectious	phentermine	2	0.52503833149936
+Arthritis, Infectious	phentolamine	1.75	0.078678360349206
+Arthritis, Infectious	phenyl salicylate	2	0.646321616653685
+Arthritis, Infectious	phenylalanine	1.71428571428571	0.0546388185355807
+Arthritis, Infectious	phenylbutazone	2	0.633552798967032
+Arthritis, Infectious	phenylephrine	1.66666666666667	0.0815465717709584
+Arthritis, Infectious	phenylpropanolamine	1.83333333333333	0.485445173789845
+Arthritis, Infectious	phenytoin	2.23333333333333	0.967048924765627
+Arthritis, Infectious	pholcodine	2	0.728581061596639
+Arthritis, Infectious	phosphatidyl serine	2	0.605295937609267
+Arthritis, Infectious	phylloquinone	2	0.53753599493273
+Arthritis, Infectious	physostigmine	2.33333333333333	0.989447233047777
+Arthritis, Infectious	pidolic acid	2.11111111111111	0.606853656216489
+Arthritis, Infectious	pilocarpine	2.25	0.892489088256735
+Arthritis, Infectious	pimavanserin	2	0.707019801651382
+Arthritis, Infectious	pimecrolimus	1.5	0.493289803895758
+Arthritis, Infectious	pimozide	1.75	0.757811262395652
+Arthritis, Infectious	pinaverium	2	0.556515707849836
+Arthritis, Infectious	pindolol	1.8	0.44867977238428
+Arthritis, Infectious	pioglitazone	1.75	0.492429680191527
+Arthritis, Infectious	pipecuronium	2.66666666666667	0.99950065681041
+Arthritis, Infectious	piperazine	2	0.477056880824563
+Arthritis, Infectious	pipotiazine	2	0.68019966502962
+Arthritis, Infectious	pipradrol	2.5	0.992672049695297
+Arthritis, Infectious	pirbuterol	1.5	0.477056880824563
+Arthritis, Infectious	pirenzepine	2	0.370481803776737
+Arthritis, Infectious	piretanide	3	0.996474635444789
+Arthritis, Infectious	pirfenidone	2	0.685059521266246
+Arthritis, Infectious	piroxicam	2	0.688946835240492
+Arthritis, Infectious	pitavastatin	2	0.666155239894443
+Arthritis, Infectious	pitolisant	2.5	0.896225335175098
+Arthritis, Infectious	pizotifen	1.9375	0.192258492463192
+Arthritis, Infectious	plecanatide	2	0.522943119175437
+Arthritis, Infectious	plerixafor	1	0.101876769798225
+Arthritis, Infectious	podofilox	1	0.0590446316083294
+Arthritis, Infectious	polatuzumab vedotin	2	0.663277068561605
+Arthritis, Infectious	polyethylene glycol 400	2.5	0.885040321466418
+Arthritis, Infectious	polythiazide	2	0.610462983720318
+Arthritis, Infectious	pomalidomide	1.33333333333333	0.0516725769827749
+Arthritis, Infectious	ponatinib	1.4	0.264464260119344
+Arthritis, Infectious	porfimer sodium	1.5	0.0341458705987967
+Arthritis, Infectious	potassium	1	0.125987013754824
+Arthritis, Infectious	potassium acetate	1	0.087559238440391
+Arthritis, Infectious	potassium cation	1	0.111496930767197
+Arthritis, Infectious	potassium chloride	2.33333333333333	0.947549792192356
+Arthritis, Infectious	potassium nitrate	2	0.701397079231245
+Arthritis, Infectious	potassium sulfate	1	0.087559238440391
+Arthritis, Infectious	practolol	2	0.655955893774368
+Arthritis, Infectious	pralatrexate	1	7.84987776650211e-05
+Arthritis, Infectious	pralidoxime	2.5	0.833590074899891
+Arthritis, Infectious	pramipexole	2	0.721334869422763
+Arthritis, Infectious	pramlintide	2	0.493089415456295
+Arthritis, Infectious	pramocaine	2.42857142857143	0.994315551831788
+Arthritis, Infectious	prasterone	2.10344827586207	0.990221989312892
+Arthritis, Infectious	prasugrel	2	0.250457849371809
+Arthritis, Infectious	pravastatin	1.5	0.585053800553415
+Arthritis, Infectious	prazepam	2.13333333333333	0.405289781199295
+Arthritis, Infectious	prazosin	1.83333333333333	0.186665316487305
+Arthritis, Infectious	prednicarbate	1	0.252411540378021
+Arthritis, Infectious	prednisolone	1	0.272551233636201
+Arthritis, Infectious	prednisolone acetate	1	0.326246671503714
+Arthritis, Infectious	prednisone	1	0.326246671503714
+Arthritis, Infectious	pregabalin	2	0.46399641640112
+Arthritis, Infectious	pregnenolone	2.5	0.985237921757071
+Arthritis, Infectious	prenylamine	1.5	0.607564331445103
+Arthritis, Infectious	prilocaine	2	0.643348413060771
+Arthritis, Infectious	primaquine	2	0.64047407541532
+Arthritis, Infectious	primidone	2.11764705882353	0.438665128955844
+Arthritis, Infectious	probenecid	2	0.263942163391565
+Arthritis, Infectious	probucol	2	0.766275541636992
+Arthritis, Infectious	procainamide	1.66666666666667	0.402337238363754
+Arthritis, Infectious	procaine	2.13333333333333	0.756738314205827
+Arthritis, Infectious	procarbazine	2	0.311659630745044
+Arthritis, Infectious	procaterol	1	0.356651586939229
+Arthritis, Infectious	prochlorperazine	1.75	0.0175230586240108
+Arthritis, Infectious	procyclidine	2.25	0.887522508604612
+Arthritis, Infectious	profenamine	2	0.517763715333372
+Arthritis, Infectious	proflavine	2	0.717170455962981
+Arthritis, Infectious	progesterone	1.6	0.793573802679604
+Arthritis, Infectious	proguanil	2	0.62282512785252
+Arthritis, Infectious	promazine	2	0.456979365314986
+Arthritis, Infectious	promethazine	2.09090909090909	0.856194577284278
+Arthritis, Infectious	propafenone	1.75	0.698301645874178
+Arthritis, Infectious	propanoic acid	2	0.643348413060771
+Arthritis, Infectious	propantheline	2	0.368095261747934
+Arthritis, Infectious	proparacaine	2	0.331903790714222
+Arthritis, Infectious	propiomazine	2	0.415180422017282
+Arthritis, Infectious	propiverine	2.28571428571429	0.941283651085179
+Arthritis, Infectious	propofol	2.2	0.589821792375814
+Arthritis, Infectious	propoxycaine	2.42857142857143	0.991119215131463
+Arthritis, Infectious	propranolol	1.8	0.416871061872638
+Arthritis, Infectious	propyl alcohol	1	0.045787005477403
+Arthritis, Infectious	propylene glycol	2	0.62282512785252
+Arthritis, Infectious	propylhexedrine	2	0.454795947408348
+Arthritis, Infectious	propylthiouracil	3	0.92678875019194
+Arthritis, Infectious	protamine sulfate	2	0.677413356810351
+Arthritis, Infectious	protein s human	2	0.689934261405812
+Arthritis, Infectious	prothrombin	2	0.739327262166495
+Arthritis, Infectious	protirelin	2	0.34713170826282
+Arthritis, Infectious	protokylol	1	0.320545910980988
+Arthritis, Infectious	protriptyline	2	0.564302646335896
+Arthritis, Infectious	prucalopride	2	0.376141474864965
+Arthritis, Infectious	pseudoephedrine	1.38095238095238	0.00396340489634918
+Arthritis, Infectious	pyrantel	2	0.384606000868728
+Arthritis, Infectious	pyrethrum extract	2	0.662018518600356
+Arthritis, Infectious	pyridostigmine	2.33333333333333	0.977214452875995
+Arthritis, Infectious	pyridoxal phosphate	1.93877551020408	0.172093912985004
+Arthritis, Infectious	pyridoxine	2	0.62282512785252
+Arthritis, Infectious	pyrimethamine	2	0.706709131192249
+Arthritis, Infectious	pyruvic acid	2.07142857142857	0.782052531348531
+Arthritis, Infectious	quazepam	2.13333333333333	0.453865132119379
+Arthritis, Infectious	quetiapine	2.07692307692308	0.886206790255481
+Arthritis, Infectious	quinagolide	2.33333333333333	0.96401629370899
+Arthritis, Infectious	quinapril	2	0.5
+Arthritis, Infectious	quinethazone	2	0.470358446034536
+Arthritis, Infectious	quinidine	1.83333333333333	0.247443801451088
+Arthritis, Infectious	quinidine barbiturate	2.2	0.770817987850952
+Arthritis, Infectious	quinine	2	0.448466639612347
+Arthritis, Infectious	rabeprazole	2	0.717170455962981
+Arthritis, Infectious	racepinephrine	1.77777777777778	0.128384165265217
+Arthritis, Infectious	raloxifene	1.5	0.694025822062701
+Arthritis, Infectious	raltitrexed	1	0.00101581712365138
+Arthritis, Infectious	ramelteon	2	0.69669823449878
+Arthritis, Infectious	ramipril	2	0.38334196447269
+Arthritis, Infectious	ramucirumab	1	0.0781326590420571
+Arthritis, Infectious	ranibizumab	2	0.679454089019012
+Arthritis, Infectious	ranitidine	2.5	0.885040321466418
+Arthritis, Infectious	ranolazine	2.32	0.999937135964844
+Arthritis, Infectious	rapacuronium	2	0.565406593191326
+Arthritis, Infectious	rasagiline	2	0.740047211010652
+Arthritis, Infectious	ravulizumab	2	0.566780568211948
+Arthritis, Infectious	reboxetine	2	0.478762193332918
+Arthritis, Infectious	regadenoson	2	0.599239516386724
+Arthritis, Infectious	regorafenib	1.61111111111111	0.418487497373752
+Arthritis, Infectious	remdesivir	2	0.667945862951247
+Arthritis, Infectious	remifentanil	2	0.744707517984945
+Arthritis, Infectious	remoxipride	2	0.739533477713943
+Arthritis, Infectious	repaglinide	2	0.716604900846324
+Arthritis, Infectious	rescinnamine	2	0.590280184349119
+Arthritis, Infectious	reserpine	2	0.668096209285778
+Arthritis, Infectious	reslizumab	2	0.303112842050961
+Arthritis, Infectious	resorcinol	3	0.950917309563736
+Arthritis, Infectious	resveratrol	1.65217391304348	0.533169914911599
+Arthritis, Infectious	reteplase	2	0.841511507422441
+Arthritis, Infectious	revefenacin	2.4	0.95758907279707
+Arthritis, Infectious	ribavirin	2	0.662281782047574
+Arthritis, Infectious	ribociclib	1.5	0.365991535584319
+Arthritis, Infectious	riboflavin	2	0.311551318688065
+Arthritis, Infectious	ribostamycin	1	0.155031410571942
+Arthritis, Infectious	rifabutin	1	0.298602920768755
+Arthritis, Infectious	rifampicin	2	0.717170455962981
+Arthritis, Infectious	rifaximin	2	0.690579534301245
+Arthritis, Infectious	rilmenidine	2	0.629927932097713
+Arthritis, Infectious	rilonacept	1.33333333333333	0.000611773532486205
+Arthritis, Infectious	rilpivirine	2	0.690579534301245
+Arthritis, Infectious	riluzole	2	0.602371789396353
+Arthritis, Infectious	rimexolone	1	0.288034907556519
+Arthritis, Infectious	rimonabant	2	0.566780568211948
+Arthritis, Infectious	riociguat	2	0.511012043694639
+Arthritis, Infectious	risankizumab	2	0.439523595215279
+Arthritis, Infectious	risedronic acid	2	0.643348413060771
+Arthritis, Infectious	risperidone	1.93333333333333	0.444516105078133
+Arthritis, Infectious	ritodrine	1	0.332054137048753
+Arthritis, Infectious	ritonavir	2	0.62282512785252
+Arthritis, Infectious	rituximab	1	0.000357510287929954
+Arthritis, Infectious	rivaroxaban	2	0.662018518600356
+Arthritis, Infectious	rivastigmine	2.5	0.916153874863952
+Arthritis, Infectious	rizatriptan	2.33333333333333	0.779832507813483
+Arthritis, Infectious	rocuronium	2.66666666666667	0.996810831646673
+Arthritis, Infectious	rofecoxib	2	0.762052120768725
+Arthritis, Infectious	roflumilast	2	0.68019966502962
+Arthritis, Infectious	rolapitant	2	0.413802928510736
+Arthritis, Infectious	romidepsin	1.4	0.758254806629584
+Arthritis, Infectious	romiplostim	2	0.477056880824563
+Arthritis, Infectious	romosozumab	2	0.330883504192884
+Arthritis, Infectious	ropinirole	1.88888888888889	0.286989952940116
+Arthritis, Infectious	ropivacaine	2	0.304905205943925
+Arthritis, Infectious	rosiglitazone	1.42857142857143	0.113492216230623
+Arthritis, Infectious	rosuvastatin	2	0.658641208782744
+Arthritis, Infectious	rotigotine	2.14285714285714	0.933388982646549
+Arthritis, Infectious	roxithromycin	1	0.0167088726204978
+Arthritis, Infectious	rucaparib	1.66666666666667	0.510806089771053
+Arthritis, Infectious	rufinamide	2	0.655955893774368
+Arthritis, Infectious	rupatadine	1.5	0.00621870073442517
+Arthritis, Infectious	rutin	1.5	0.0866565882050787
+Arthritis, Infectious	ruxolitinib	1	0.166645290323902
+Arthritis, Infectious	sacubitril	2	0.935727974991015
+Arthritis, Infectious	safinamide	2	0.414946199446585
+Arthritis, Infectious	salbutamol	1.66666666666667	0.399942923285803
+Arthritis, Infectious	salicylic acid	2	0.5
+Arthritis, Infectious	salmeterol	1.66666666666667	0.3636514070032
+Arthritis, Infectious	salmon calcitonin	2	0.617911422188953
+Arthritis, Infectious	salsalate	2	0.62282512785252
+Arthritis, Infectious	sapropterin	2	0.693831071452495
+Arthritis, Infectious	sargramostim	1.8	0.389776213340406
+Arthritis, Infectious	sarilumab	1.57142857142857	0.0120445631757857
+Arthritis, Infectious	saxagliptin	2	0.696022825051387
+Arthritis, Infectious	scopolamine	2.375	0.972518669093413
+Arthritis, Infectious	secobarbital	2.23529411764706	0.985415074548874
+Arthritis, Infectious	secretin human	2	0.539827837277029
+Arthritis, Infectious	secukinumab	2	0.460172162722971
+Arthritis, Infectious	segesterone acetate	1.33333333333333	0.603068068133738
+Arthritis, Infectious	selegiline	2	0.347980765933984
+Arthritis, Infectious	selexipag	2	0.62282512785252
+Arthritis, Infectious	selinexor	1	0.252411540378021
+Arthritis, Infectious	semaglutide	2	0.777123544639358
+Arthritis, Infectious	sennosides	2	0.356651586939229
+Arthritis, Infectious	seractide acetate	2	0.522943119175437
+Arthritis, Infectious	sermorelin	4	0.999990599610383
+Arthritis, Infectious	sertindole	1.875	0.408338010106884
+Arthritis, Infectious	sertraline	1.8	0.225487713104401
+Arthritis, Infectious	sevoflurane	2.11111111111111	0.419076860746248
+Arthritis, Infectious	sibutramine	2	0.607914228925403
+Arthritis, Infectious	sildenafil	2	0.440833702205345
+Arthritis, Infectious	silicon dioxide	3	0.919341390438651
+Arthritis, Infectious	silodosin	1.66666666666667	0.0366484619376211
+Arthritis, Infectious	siltuximab	0	4.11749118614084e-10
+Arthritis, Infectious	silver	2	0.418867282788486
+Arthritis, Infectious	simoctocog alfa	2	0.63675533794423
+Arthritis, Infectious	simvastatin	1.66666666666667	0.622059417467363
+Arthritis, Infectious	siponimod	2	0.539827837277029
+Arthritis, Infectious	sipuleucel-t	2	0.419528060652873
+Arthritis, Infectious	sirolimus	1.66666666666667	0.652992563168907
+Arthritis, Infectious	sitagliptin	2	0.701397079231245
+Arthritis, Infectious	sitaxentan	2	0.593348289699399
+Arthritis, Infectious	sodium carbonate	1.75	0.109678601581891
+Arthritis, Infectious	sodium ferric gluconate complex	2.25	0.967270470875319
+Arthritis, Infectious	sodium stibogluconate	1	0.314940478733754
+Arthritis, Infectious	sodium sulfate	1.5	0.0130966045908634
+Arthritis, Infectious	sodium tetradecyl sulfate	2	0.691491858232891
+Arthritis, Infectious	solifenacin	2.4	0.960562568355838
+Arthritis, Infectious	solriamfetol	2	0.575384501557404
+Arthritis, Infectious	somatostatin	2.4	0.974519825050874
+Arthritis, Infectious	somatotropin	2	0.832387115867761
+Arthritis, Infectious	somatrem	2	0.850427299587816
+Arthritis, Infectious	sonidegib	2	0.576237902215284
+Arthritis, Infectious	sorafenib	1.6	0.272245717356966
+Arthritis, Infectious	sotalol	1.66666666666667	0.64021075171531
+Arthritis, Infectious	soybean oil	2	0.749629235561118
+Arthritis, Infectious	sparfloxacin	1	0.135666060946383
+Arthritis, Infectious	spirapril	2	0.471884801705182
+Arthritis, Infectious	spironolactone	2.13333333333333	0.988035076086414
+Arthritis, Infectious	stanozolol	1	0.344044106225632
+Arthritis, Infectious	stearic acid	2	0.440685617192206
+Arthritis, Infectious	stiripentol	2	0.136763324962511
+Arthritis, Infectious	streptokinase	2	0.762354889535159
+Arthritis, Infectious	streptomycin	2	0.553579204630712
+Arthritis, Infectious	streptozocin	2	0.513620386170495
+Arthritis, Infectious	succinic acid	1.85	0.272710242694314
+Arthritis, Infectious	succinylcholine	2	0.515010203114794
+Arthritis, Infectious	sucralfate	2	0.847675991424734
+Arthritis, Infectious	sufentanil	2	0.757355373994425
+Arthritis, Infectious	sulfamethoxazole	1	0.121151693779019
+Arthritis, Infectious	sulfasalazine	1.6	0.0280743663502305
+Arthritis, Infectious	sulfinpyrazone	2.25	0.971992973981088
+Arthritis, Infectious	sulindac	1.85714285714286	0.57965767926438
+Arthritis, Infectious	sulodexide	2	0.423762097784717
+Arthritis, Infectious	sulpiride	2	0.438054980259804
+Arthritis, Infectious	sumatriptan	2.25	0.616366846702154
+Arthritis, Infectious	sunitinib	1.375	0.00157843334247803
+Arthritis, Infectious	suprofen	2	0.712114494512222
+Arthritis, Infectious	susoctocog alfa	2	0.62282512785252
+Arthritis, Infectious	suvorexant	3	0.997323557609451
+Arthritis, Infectious	tacrine	2.33333333333333	0.709650808029843
+Arthritis, Infectious	tacrolimus	2	0.737578529093946
+Arthritis, Infectious	tadalafil	2	0.233103925346725
+Arthritis, Infectious	tafamidis	2	0.82561461744185
+Arthritis, Infectious	tafluprost	3	0.992434325242536
+Arthritis, Infectious	tagraxofusp	2	0.64496404109109
+Arthritis, Infectious	talazoparib	1.5	0.643348413060771
+Arthritis, Infectious	talbutal	2.11764705882353	0.386964918223039
+Arthritis, Infectious	tamoxifen	1.58823529411765	0.850212708657091
+Arthritis, Infectious	tamsulosin	1.66666666666667	0.0801676466677237
+Arthritis, Infectious	tapentadol	2	0.706960641221064
+Arthritis, Infectious	tasimelteon	2	0.74815735647211
+Arthritis, Infectious	tasonermin	1	0.130146307957076
+Arthritis, Infectious	taurine	2.125	0.48840034698786
+Arthritis, Infectious	taurocholic acid	2	0.487116939313208
+Arthritis, Infectious	tazarotene	1.5	0.285798142404863
+Arthritis, Infectious	technetium tc-99m nofetumomab merpentan	1.5	0.0241998162024198
+Arthritis, Infectious	technetium tc-99m tilmanocept	2	0.337981481399644
+Arthritis, Infectious	teduglutide	2	0.382088577811047
+Arthritis, Infectious	tegafur	0	0.00109143701147005
+Arthritis, Infectious	tegafur-uracil	1	7.81148164914204e-05
+Arthritis, Infectious	tegaserod	2	0.435032892067236
+Arthritis, Infectious	telaprevir	2	0.235696608354481
+Arthritis, Infectious	telmisartan	1.5	0.2686392718912
+Arthritis, Infectious	telotristat ethyl	2	0.29472078406355
+Arthritis, Infectious	temazepam	2.125	0.393182774878766
+Arthritis, Infectious	temsirolimus	1	0.303977174948613
+Arthritis, Infectious	tenapanor	3	0.999782439597868
+Arthritis, Infectious	tenecteplase	1.72727272727273	0.71967755253324
+Arthritis, Infectious	teniposide	1	0.0781326590420571
+Arthritis, Infectious	tenoxicam	2	0.622164048403936
+Arthritis, Infectious	terazosin	2	0.454054337316641
+Arthritis, Infectious	terbinafine	2	0.414946199446585
+Arthritis, Infectious	terbutaline	1.66666666666667	0.436706215097101
+Arthritis, Infectious	terfenadine	2.14285714285714	0.771330098035321
+Arthritis, Infectious	teriflunomide	2	0.608710552977649
+Arthritis, Infectious	teriparatide	2	0.594351872130646
+Arthritis, Infectious	terlipressin	2	0.415348005653185
+Arthritis, Infectious	tesamorelin	4	0.999998782660267
+Arthritis, Infectious	testolactone	2	0.368095261747934
+Arthritis, Infectious	testosterone	1.33333333333333	0.556515707849836
+Arthritis, Infectious	testosterone cypionate	1.33333333333333	0.578867644981621
+Arthritis, Infectious	testosterone enanthate	1.33333333333333	0.560476404784721
+Arthritis, Infectious	testosterone propionate	1	0.400760483613276
+Arthritis, Infectious	testosterone undecanoate	1.33333333333333	0.607564331445103
+Arthritis, Infectious	tetrabenazine	2	0.615563165505488
+Arthritis, Infectious	tetracaine	2.33333333333333	0.996502058788825
+Arthritis, Infectious	tetrachlorodecaoxide	2	0.516936005300029
+Arthritis, Infectious	tetracosactide	2	0.474861446728315
+Arthritis, Infectious	tetracycline	2	0.806761884614384
+Arthritis, Infectious	tetradecyl hydrogen sulfate (ester)	2	0.545204052591652
+Arthritis, Infectious	tetraferric tricitrate decahydrate	1	0.155031410571942
+Arthritis, Infectious	tetryzoline	2	0.5
+Arthritis, Infectious	tezacaftor	2	0.94470305720965
+Arthritis, Infectious	thalidomide	1.57142857142857	0.106681351614555
+Arthritis, Infectious	theophylline	1.85714285714286	0.453800217007655
+Arthritis, Infectious	thiamine	2.5	0.7768232786284
+Arthritis, Infectious	thiamylal	2.33333333333333	0.908534350988796
+Arthritis, Infectious	thiethylperazine	2	0.67412420918787
+Arthritis, Infectious	thimerosal	2	0.340873610977859
+Arthritis, Infectious	thiopental	2.25	0.853500423303493
+Arthritis, Infectious	thioridazine	1.83333333333333	0.363991022534979
+Arthritis, Infectious	thiothixene	2	0.699062487322004
+Arthritis, Infectious	thonzonium	1	0.106681351614555
+Arthritis, Infectious	thonzylamine	2.16666666666667	0.737740859893462
+Arthritis, Infectious	threonine	1.33333333333333	0.00628917678071622
+Arthritis, Infectious	thrombin	2.2	0.978208678880933
+Arthritis, Infectious	thrombin alfa	2.125	0.92877980750058
+Arthritis, Infectious	thrombomodulin alfa	2	0.737075105632517
+Arthritis, Infectious	thyrotropin alfa	2	0.690579534301245
+Arthritis, Infectious	tiagabine	3	0.979402748409759
+Arthritis, Infectious	tiaprofenic acid	2	0.691491858232891
+Arthritis, Infectious	ticagrelor	2	0.217461518513551
+Arthritis, Infectious	ticlopidine	2	0.234002645600339
+Arthritis, Infectious	tildrakizumab	2	0.468796890536636
+Arthritis, Infectious	tiludronic acid	1	0.142026556301281
+Arthritis, Infectious	timolol	1.5	0.475136919190631
+Arthritis, Infectious	tinzaparin	1.66666666666667	0.392435668554897
+Arthritis, Infectious	tioconazole	2	0.439698306008775
+Arthritis, Infectious	tiotropium	2.4	0.944081881573359
+Arthritis, Infectious	tipiracil	2	0.484989796885206
+Arthritis, Infectious	tirofiban	2	0.745413408339042
+Arthritis, Infectious	tisagenlecleucel	2	0.696022825051387
+Arthritis, Infectious	titanium dioxide	3	0.931405242692413
+Arthritis, Infectious	tixocortol	1	0.326246671503714
+Arthritis, Infectious	tizanidine	1.85714285714286	0.18869868363243
+Arthritis, Infectious	tocainide	2	0.679454089019012
+Arthritis, Infectious	tocilizumab	1	0.00141806632782734
+Arthritis, Infectious	tocofersolan	1	0.000370197764702744
+Arthritis, Infectious	tofacitinib	1	0.0658210175273325
+Arthritis, Infectious	tolazamide	2.5	0.994879162904545
+Arthritis, Infectious	tolazoline	2	0.407098268497578
+Arthritis, Infectious	tolbutamide	2.5	0.98195423907699
+Arthritis, Infectious	tolcapone	2	0.643348413060771
+Arthritis, Infectious	tolfenamic acid	2	0.678645779194454
+Arthritis, Infectious	tolmetin	2	0.729776118570181
+Arthritis, Infectious	tolterodine	2.4	0.912777858147744
+Arthritis, Infectious	tolvaptan	2	0.491721969753225
+Arthritis, Infectious	topiramate	2.26923076923077	0.998330229165494
+Arthritis, Infectious	topotecan	1.5	0.180195292279018
+Arthritis, Infectious	torasemide	2.5	0.972704625676063
+Arthritis, Infectious	toremifene	1.5	0.878848306220981
+Arthritis, Infectious	tositumomab	1.8	0.0953412394648146
+Arthritis, Infectious	tramadol	2.13636363636364	0.996854734539545
+Arthritis, Infectious	trametinib	1.5	0.420358681897288
+Arthritis, Infectious	trandolapril	2	0.5
+Arthritis, Infectious	tranexamic acid	2	0.752556198548912
+Arthritis, Infectious	tranylcypromine	2	0.320545910980988
+Arthritis, Infectious	trastuzumab	1.83333333333333	0.586197071489264
+Arthritis, Infectious	trastuzumab deruxtecan	1	0.0144788826613505
+Arthritis, Infectious	trastuzumab emtansine	1	0.272551233636201
+Arthritis, Infectious	travoprost	3	0.986527949143274
+Arthritis, Infectious	trazodone	1.85714285714286	0.237755071124028
+Arthritis, Infectious	treprostinil	2	0.470483144556869
+Arthritis, Infectious	triamcinolone	1	0.282829544037019
+Arthritis, Infectious	triamterene	2	0.785991751585594
+Arthritis, Infectious	triazolam	2.125	0.32134607344994
+Arthritis, Infectious	trichlormethiazide	1.6	0.0231339538507228
+Arthritis, Infectious	triclosan	1.8	0.770078275656859
+Arthritis, Infectious	trifarotene	1.66666666666667	0.504923720237681
+Arthritis, Infectious	trifluoperazine	2	0.893841419613517
+Arthritis, Infectious	triflupromazine	2	0.528401612765348
+Arthritis, Infectious	trifluridine	0	0.000358548922052641
+Arthritis, Infectious	triflusal	2	0.956770087992266
+Arthritis, Infectious	trihexyphenidyl	2.4	0.965736333925161
+Arthritis, Infectious	trilostane	2	0.977676176917622
+Arthritis, Infectious	trimebutine	2.125	0.928038024492895
+Arthritis, Infectious	trimetazidine	2	0.62282512785252
+Arthritis, Infectious	trimethadione	2	0.301003987186505
+Arthritis, Infectious	trimethoprim	1	0.000357138230833906
+Arthritis, Infectious	trimetrexate	2	0.560301693991225
+Arthritis, Infectious	trimipramine	2.04166666666667	0.815516592880625
+Arthritis, Infectious	tripelennamine	1	0.00016084772677813
+Arthritis, Infectious	triprolidine	1	0.00148246390637179
+Arthritis, Infectious	triptorelin	3	0.955156989114818
+Arthritis, Infectious	troglitazone	1.77777777777778	0.620601068248097
+Arthritis, Infectious	trolamine salicylate	2	0.625149391500964
+Arthritis, Infectious	troleandomycin	2	0.685059521266246
+Arthritis, Infectious	tromethamine	1.8	0.0763912613554547
+Arthritis, Infectious	tropicamide	2.25	0.877790925702592
+Arthritis, Infectious	tropisetron	2	0.449519206289237
+Arthritis, Infectious	trospium	2	0.421945575872959
+Arthritis, Infectious	trovafloxacin	1	0.145349313679669
+Arthritis, Infectious	tryptophan	1.5	0.0624571777245922
+Arthritis, Infectious	tuberculin purified protein derivative	0	0.00106891069551937
+Arthritis, Infectious	tubocurarine	2.5	0.992741411880295
+Arthritis, Infectious	turoctocog alfa	2.33333333333333	0.981256866089729
+Arthritis, Infectious	turoctocog alfa pegol	2.33333333333333	0.97166186693971
+Arthritis, Infectious	tyloxapol	2	0.638534927211517
+Arthritis, Infectious	tyrosine	1.5	0.0182985370439542
+Arthritis, Infectious	tyrothricin	2	0.602636552769861
+Arthritis, Infectious	ubidecarenone	1.5	0.233213306570276
+Arthritis, Infectious	ubrogepant	3	0.998998150797063
+Arthritis, Infectious	udenafil	2	0.477056880824563
+Arthritis, Infectious	ulipristal	1.33333333333333	0.669630876939806
+Arthritis, Infectious	ulobetasol	1	0.314940478733754
+Arthritis, Infectious	umeclidinium	2.4	0.947045974789878
+Arthritis, Infectious	upadacitinib	1	0.159871187246137
+Arthritis, Infectious	urea	1.33333333333333	0.0682199327667637
+Arthritis, Infectious	urofollitropin	2	0.615393999131272
+Arthritis, Infectious	urokinase	2	0.9294535944309
+Arthritis, Infectious	ursodeoxycholic acid	2.5	0.882222667202233
+Arthritis, Infectious	ustekinumab	2	0.347938764938596
+Arthritis, Infectious	valdecoxib	2	0.474836473447088
+Arthritis, Infectious	valine	1.66666666666667	0.241526437433273
+Arthritis, Infectious	valproic acid	2.22222222222222	0.9984450491962
+Arthritis, Infectious	valrubicin	1	0.130825545294118
+Arthritis, Infectious	valsartan	2	0.63675533794423
+Arthritis, Infectious	vandetanib	1.8	0.917428322974214
+Arthritis, Infectious	vardenafil	2	0.434593406808674
+Arthritis, Infectious	varenicline	2.5	0.998485228869575
+Arthritis, Infectious	vasopressin	2	0.326514325552358
+Arthritis, Infectious	vecuronium	4	0.999992150099043
+Arthritis, Infectious	vedolizumab	1.5	0.394384087107309
+Arthritis, Infectious	velaglucerase alfa	2	0.749629235561118
+Arthritis, Infectious	vemurafenib	2	0.81593987465324
+Arthritis, Infectious	venetoclax	2	0.849809281466247
+Arthritis, Infectious	venlafaxine	2	0.607564331445103
+Arthritis, Infectious	verapamil	1.81818181818182	0.125296025342842
+Arthritis, Infectious	vernakalant	2	0.846716518517022
+Arthritis, Infectious	vigabatrin	2	0.476154676822914
+Arthritis, Infectious	vilanterol	1	0.356651586939229
+Arthritis, Infectious	vilazodone	2	0.572539989341634
+Arthritis, Infectious	vildagliptin	2	0.706709131192249
+Arthritis, Infectious	viloxazine	2	0.460172162722971
+Arthritis, Infectious	vinblastine	1.33333333333333	0.823382066967322
+Arthritis, Infectious	vincristine	1	0.227761049963819
+Arthritis, Infectious	vindesine	1	0.178653497530606
+Arthritis, Infectious	vismodegib	2	0.569452950120241
+Arthritis, Infectious	vitamin a	2.11764705882353	0.361645159564831
+Arthritis, Infectious	vitamin d	1	0.042718827817277
+Arthritis, Infectious	vitamin e	1.66666666666667	0.485074921987889
+Arthritis, Infectious	von willebrand factor human	2	0.779832507813483
+Arthritis, Infectious	vonicog alfa	2	0.813943183619319
+Arthritis, Infectious	vorapaxar	2	0.662018518600356
+Arthritis, Infectious	voretigene neparvovec	3	0.970198183862429
+Arthritis, Infectious	vorinostat	1.4	0.931296991777563
+Arthritis, Infectious	vortioxetine	2	0.761446394020469
+Arthritis, Infectious	voxelotor	2.5	0.930592949004069
+Arthritis, Infectious	warfarin	2	0.864034484052619
+Arthritis, Infectious	xamoterol	2	0.662018518600356
+Arthritis, Infectious	xanthinol	1.5	0.159262261949202
+Arthritis, Infectious	ximelagatran	2	0.742596867046104
+Arthritis, Infectious	xylometazoline	1.83333333333333	0.0838650611302683
+Arthritis, Infectious	yohimbine	2.17647058823529	0.98171962026892
+Arthritis, Infectious	zafirlukast	4	0.998508272591121
+Arthritis, Infectious	zaleplon	2	0.348782706757389
+Arthritis, Infectious	zanamivir	3	0.840589912387115
+Arthritis, Infectious	zanubrutinib	1.4	0.184422217304426
+Arthritis, Infectious	zidovudine	2	0.869174454705882
+Arthritis, Infectious	zileuton	2	0.685059521266246
+Arthritis, Infectious	zimelidine	2	0.348391343881873
+Arthritis, Infectious	zinc	1.98260869565217	0.999999739699485
+Arthritis, Infectious	zinc acetate	1.98260869565217	0.99999957966588
+Arthritis, Infectious	zinc chloride	1.98260869565217	0.999999545923653
+Arthritis, Infectious	ziprasidone	2.08	0.889734377251224
+Arthritis, Infectious	zofenopril	2	0.539827837277029
+Arthritis, Infectious	zoledronic acid	2	0.393909056044245
+Arthritis, Infectious	zolmitriptan	2.25	0.652045218248554
+Arthritis, Infectious	zolpidem	2.25	0.752039147474147
+Arthritis, Infectious	zonisamide	2.44	0.999929028522995
+Arthritis, Infectious	zopiclone	2.2	0.503777155779831
+Arthritis, Infectious	zotepine	2.125	0.986119128677985
+Arthritis, Infectious	zucapsaicin	2	0.638534927211517
+Arthritis, Infectious	zuclopenthixol	2	0.683685654535758

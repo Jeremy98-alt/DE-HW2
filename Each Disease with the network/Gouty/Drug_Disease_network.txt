@@ -1,0 +1,1853 @@
+disease	drug	proximity	pval
+Arthritis, Gouty	2-mercaptobenzothiazole	3	0.729969330069761
+Arthritis, Gouty	5-o-phosphono-alpha-d-ribofuranosyl diphosphate	2	0.152138224240682
+Arthritis, Gouty	5cocktail	2.33333333333333	0.808780545703117
+Arthritis, Gouty	abacavir	2	0.599239516386724
+Arthritis, Gouty	abaloparatide	2	0.31708579333799
+Arthritis, Gouty	abarelix	3	0.754537219266652
+Arthritis, Gouty	abatacept	2.5	0.668364489897296
+Arthritis, Gouty	abciximab	1.61538461538462	4.51773466662512e-08
+Arthritis, Gouty	abemaciclib	2	0.646983895409129
+Arthritis, Gouty	abiraterone	3	0.980182760666826
+Arthritis, Gouty	acalabrutinib	1	2.08137521949324e-23
+Arthritis, Gouty	acamprosate	2.47619047619048	0.767312167140752
+Arthritis, Gouty	acarbose	2.5	0.51580805555207
+Arthritis, Gouty	acebutolol	2.5	0.995045606094975
+Arthritis, Gouty	aceclofenac	2.5	0.879160118403911
+Arthritis, Gouty	acemetacin	2.5	0.810329847560024
+Arthritis, Gouty	acenocoumarol	3	0.999629802235297
+Arthritis, Gouty	acetaminophen	2.25	0.618255356377613
+Arthritis, Gouty	acetazolamide	2.71428571428571	0.963689184427441
+Arthritis, Gouty	acetohexamide	2	0.277669818423777
+Arthritis, Gouty	acetohydroxamic acid	3	0.869174454705882
+Arthritis, Gouty	acetophenazine	2.66666666666667	0.996213885928121
+Arthritis, Gouty	acetylcholine	2.83333333333333	0.996517858049672
+Arthritis, Gouty	acetylcysteine	2	0.15776056636257
+Arthritis, Gouty	acetyldigitoxin	2	0.590280184349119
+Arthritis, Gouty	acetylsalicylic acid	1.92857142857143	0.0399449517253008
+Arthritis, Gouty	acitretin	2	0.396931931866263
+Arthritis, Gouty	aclidinium	3	0.995940480841461
+Arthritis, Gouty	acrivastine	2	0.262421470906054
+Arthritis, Gouty	adalimumab	2	0.5
+Arthritis, Gouty	adapalene	2	0.425326542842873
+Arthritis, Gouty	ademetionine	2.125	0.18297920234124
+Arthritis, Gouty	adenine	2.16666666666667	0.581311689099653
+Arthritis, Gouty	adenosine	2.75	0.956932672394496
+Arthritis, Gouty	adenosine phosphate	2.13333333333333	0.232426626683764
+Arthritis, Gouty	afamelanotide	2	0.361465072788483
+Arthritis, Gouty	afatinib	1.66666666666667	0.0932171893672553
+Arthritis, Gouty	aflibercept	2.66666666666667	0.859492427064479
+Arthritis, Gouty	agkistrodon piscivorus antivenin	3	0.772727937563639
+Arthritis, Gouty	agomelatine	2.66666666666667	0.98000443499584
+Arthritis, Gouty	ajmaline	2	0.330883504192884
+Arthritis, Gouty	albendazole	2	0.607564331445103
+Arthritis, Gouty	albiglutide	2	0.5
+Arthritis, Gouty	albutrepenonacog alfa	2	0.368095261747934
+Arthritis, Gouty	alcaftadine	2	0.21313749767595
+Arthritis, Gouty	alclofenac	2	0.414946199446585
+Arthritis, Gouty	alclometasone	2	0.62282512785252
+Arthritis, Gouty	aldesleukin	2	0.295762489913512
+Arthritis, Gouty	alectinib	2	0.517763715333372
+Arthritis, Gouty	alefacept	1.5	2.64148751490599e-07
+Arthritis, Gouty	alemtuzumab	1.6	9.33343967724657e-08
+Arthritis, Gouty	alendronic acid	2.2	0.693380043662971
+Arthritis, Gouty	alfacalcidol	2	0.576237902215284
+Arthritis, Gouty	alfentanil	2	0.384606000868728
+Arthritis, Gouty	alfuzosin	2.75	0.990781572703327
+Arthritis, Gouty	alglucosidase alfa	2	0.38409908550975
+Arthritis, Gouty	alimemazine	2	0.266836920025131
+Arthritis, Gouty	alirocumab	2	0.330883504192884
+Arthritis, Gouty	aliskiren	3	0.961685806645801
+Arthritis, Gouty	alitretinoin	2.11111111111111	0.38076354460209
+Arthritis, Gouty	allopurinol	2	0.188898651935021
+Arthritis, Gouty	almitrine	2	0.471884801705182
+Arthritis, Gouty	almotriptan	3	0.932683835078403
+Arthritis, Gouty	alogliptin	2	0.384606000868728
+Arthritis, Gouty	alosetron	3	0.859492427064479
+Arthritis, Gouty	alpelisib	2	0.522943119175437
+Arthritis, Gouty	alpha-1-proteinase inhibitor	2	0.363244662055771
+Arthritis, Gouty	alpha-linolenic acid	2	0.0712106121559405
+Arthritis, Gouty	alpha-tocopherol succinate	2	0.113715960815187
+Arthritis, Gouty	alprazolam	2.57142857142857	0.60000210396851
+Arthritis, Gouty	alprostadil	3	0.985465872802534
+Arthritis, Gouty	alteplase	2.25	0.892043194600087
+Arthritis, Gouty	aluminium	2.25	0.908005298262356
+Arthritis, Gouty	aluminium phosphate	2.25	0.889124009729562
+Arthritis, Gouty	aluminum acetate	2.25	0.854166523076137
+Arthritis, Gouty	aluminum chloride	1	9.26193158851044e-06
+Arthritis, Gouty	alverine	2	0.320545910980988
+Arthritis, Gouty	alvimopan	2	0.201845478779042
+Arthritis, Gouty	amantadine	2.6	0.915376610636143
+Arthritis, Gouty	ambenonium	3	0.976703148314434
+Arthritis, Gouty	ambrisentan	2	0.282154048637767
+Arthritis, Gouty	amcinonide	2	0.53600358359888
+Arthritis, Gouty	amifampridine	3	0.976703148314434
+Arthritis, Gouty	amifostine	2.5	0.374291640041254
+Arthritis, Gouty	amiloride	2.25	0.561373324045494
+Arthritis, Gouty	aminocaproic acid	2	0.325308967844783
+Arthritis, Gouty	aminoglutethimide	2	0.101574209417424
+Arthritis, Gouty	aminolevulinic acid	2	0.356651586939229
+Arthritis, Gouty	aminophylline	2.25	0.544497231683765
+Arthritis, Gouty	aminosalicylic acid	2	0.384243740072141
+Arthritis, Gouty	amiodarone	2.28571428571429	0.739626848955216
+Arthritis, Gouty	amisulpride	2.75	0.999883415214009
+Arthritis, Gouty	amitriptyline	2.65625	0.999956077084852
+Arthritis, Gouty	amlexanox	2.5	0.658918567527335
+Arthritis, Gouty	amlodipine	2.57142857142857	0.868840135211535
+Arthritis, Gouty	amobarbital	2.7	0.924260827169974
+Arthritis, Gouty	amodiaquine	3	0.874012986245176
+Arthritis, Gouty	amoxapine	2.73170731707317	0.999936645044592
+Arthritis, Gouty	amphetamine	2.58823529411765	0.99575341929072
+Arthritis, Gouty	ampicillin	3.33333333333333	0.999124615874177
+Arthritis, Gouty	amrinone	2	0.130825545294118
+Arthritis, Gouty	amsacrine	2	0.267779817734087
+Arthritis, Gouty	amyl nitrite	2	0.267469696891442
+Arthritis, Gouty	amylmetacresol	3	0.860741898551877
+Arthritis, Gouty	amylocaine	2.85714285714286	0.988627356907842
+Arthritis, Gouty	anagrelide	2	0.320545910980988
+Arthritis, Gouty	anakinra	2	0.389537016279682
+Arthritis, Gouty	anastrozole	2	0.1647100087752
+Arthritis, Gouty	ancestim	2	0.590280184349119
+Arthritis, Gouty	ancrod	2	0.392435668554897
+Arthritis, Gouty	andexanet alfa	3	0.98617149959517
+Arthritis, Gouty	angiotensin ii	2	0.350260214298369
+Arthritis, Gouty	anileridine	2	0.382088577811047
+Arthritis, Gouty	anisindione	2	0.325152956357076
+Arthritis, Gouty	anisotropine methylbromide	3	0.991433538871073
+Arthritis, Gouty	anistreplase	2.25	0.89257021480982
+Arthritis, Gouty	antazoline	2	0.309420465698755
+Arthritis, Gouty	anthralin	2	0.201303450509193
+Arthritis, Gouty	anti-inhibitor coagulant complex	2.25	0.811216568258282
+Arthritis, Gouty	antihemophilic factor (recombinant), pegylated	2	0.363244662055771
+Arthritis, Gouty	antihemophilic factor human	2.5	0.790577677149732
+Arthritis, Gouty	antihemophilic factor, human recombinant	2.09090909090909	0.439140889411146
+Arthritis, Gouty	antipyrine	2.5	0.886125903010447
+Arthritis, Gouty	antithrombin alfa	2	0.357678434515033
+Arthritis, Gouty	antithrombin iii human	3	0.935727974991015
+Arthritis, Gouty	antithymocyte immunoglobulin (rabbit)	2.22222222222222	0.528566618007187
+Arthritis, Gouty	antrafenine	2.5	0.82101531190107
+Arthritis, Gouty	apalutamide	2.57142857142857	0.677002910078427
+Arthritis, Gouty	apixaban	2	0.342684282960263
+Arthritis, Gouty	apomorphine	2.93333333333333	0.99999004711783
+Arthritis, Gouty	apraclonidine	3	0.991570536250259
+Arthritis, Gouty	aprepitant	3	0.878848306220981
+Arthritis, Gouty	aprotinin	2.5	0.8265890266389
+Arthritis, Gouty	arbutamine	2.33333333333333	0.773280907426124
+Arthritis, Gouty	arbutin	2	0.247443801451088
+Arthritis, Gouty	ardeparin	3	0.981985765693249
+Arthritis, Gouty	arformoterol	2	0.590280184349119
+Arthritis, Gouty	argatroban	2	0.5
+Arthritis, Gouty	aripiprazole	2.67441860465116	0.999999923261202
+Arthritis, Gouty	aripiprazole lauroxil	2.84	0.999999874025224
+Arthritis, Gouty	armodafinil	2	0.342684282960263
+Arthritis, Gouty	arsenic trioxide	1.8	0.193631354814543
+Arthritis, Gouty	arzoxifene	2	0.668726809904748
+Arthritis, Gouty	ascorbic acid	2.21739130434783	0.258829878134133
+Arthritis, Gouty	asenapine	2.73684210526316	0.999982782145942
+Arthritis, Gouty	asfotase alfa	2	0.326246671503714
+Arthritis, Gouty	asparagine	2.33333333333333	0.618526158326701
+Arthritis, Gouty	aspartic acid	2.25	0.71686631322205
+Arthritis, Gouty	astemizole	2.25	0.676702654447565
+Arthritis, Gouty	atenolol	2.5	0.978028888565161
+Arthritis, Gouty	atezolizumab	3	0.878848306220981
+Arthritis, Gouty	atomoxetine	2.36363636363636	0.875987874804832
+Arthritis, Gouty	atorvastatin	2	0.287943164561679
+Arthritis, Gouty	atosiban	2.5	0.757502749293212
+Arthritis, Gouty	atovaquone	2	0.313974599262192
+Arthritis, Gouty	atracurium besylate	4	0.99614761968261
+Arthritis, Gouty	atropine	3	0.999449562624924
+Arthritis, Gouty	auranofin	2	0.599239516386724
+Arthritis, Gouty	aurothioglucose	2.33333333333333	0.397363447230139
+Arthritis, Gouty	avanafil	2	0.193738942187845
+Arthritis, Gouty	avatrombopag	2.5	0.569037342493607
+Arthritis, Gouty	avelumab	3	0.864333939053617
+Arthritis, Gouty	axicabtagene ciloleucel	2	0.368095261747934
+Arthritis, Gouty	axitinib	2	0.341358791217256
+Arthritis, Gouty	azacitidine	2	0.539827837277029
+Arthritis, Gouty	azatadine	2	0.184060125346759
+Arthritis, Gouty	azathioprine	2	0.513236346083116
+Arthritis, Gouty	azelaic acid	2	0.198581893526159
+Arthritis, Gouty	azelastine	2.5	0.619714535180342
+Arthritis, Gouty	azilsartan medoxomil	2	0.363244662055771
+Arthritis, Gouty	azithromycin	3	0.953384822538703
+Arthritis, Gouty	bacitracin	2	0.38409908550975
+Arthritis, Gouty	baclofen	2.5	0.835289991224799
+Arthritis, Gouty	balsalazide	2.25	0.84129272133613
+Arthritis, Gouty	baricitinib	2	0.617911422188952
+Arthritis, Gouty	basiliximab	1.58333333333333	2.37657948917185e-07
+Arthritis, Gouty	bazedoxifene	2	0.64656753542287
+Arthritis, Gouty	becaplermin	2	0.551533360387653
+Arthritis, Gouty	beclomethasone dipropionate	2	0.607564331445103
+Arthritis, Gouty	belatacept	2.5	0.677499620353201
+Arthritis, Gouty	belimumab	3	0.912440761559609
+Arthritis, Gouty	belinostat	2	0.609637312980512
+Arthritis, Gouty	bemiparin	2.66666666666667	0.956090499637346
+Arthritis, Gouty	benazepril	2	0.293290868807751
+Arthritis, Gouty	bendazac	2.5	0.880291785581017
+Arthritis, Gouty	bendroflumethiazide	2.6	0.963202136162871
+Arthritis, Gouty	benralizumab	2.5	0.725828019777306
+Arthritis, Gouty	benserazide	2	0.174005991918305
+Arthritis, Gouty	benzatropine	2.4	0.626239237741881
+Arthritis, Gouty	benzocaine	3	0.776236277462655
+Arthritis, Gouty	benzoic acid	2.6	0.90539696484348
+Arthritis, Gouty	benzonatate	2	0.443484292150164
+Arthritis, Gouty	benzphetamine	2.5	0.825808106499374
+Arthritis, Gouty	benzthiazide	2.5	0.919341390438651
+Arthritis, Gouty	benzylpenicillin	4	0.998241707742189
+Arthritis, Gouty	benzylpenicilloyl polylysine	2	0.1647100087752
+Arthritis, Gouty	bepotastine	2	0.218002487463221
+Arthritis, Gouty	bepridil	2.2	0.41669440397219
+Arthritis, Gouty	berberine	2	0.400760483613276
+Arthritis, Gouty	betahistine	3	0.894480529526249
+Arthritis, Gouty	betamethasone	2	0.62282512785252
+Arthritis, Gouty	betaxolol	2.5	0.978051510838333
+Arthritis, Gouty	betazole	3	0.592429988685811
+Arthritis, Gouty	bethanechol	3	0.995581607927189
+Arthritis, Gouty	bethanidine	2.57142857142857	0.975625168234906
+Arthritis, Gouty	betrixaban	2	0.345509460985262
+Arthritis, Gouty	bevacizumab	1.5	4.29223871691771e-08
+Arthritis, Gouty	bexarotene	2	0.488028085202183
+Arthritis, Gouty	bezafibrate	2	0.462228720550546
+Arthritis, Gouty	bicalutamide	2	0.615393999131272
+Arthritis, Gouty	bilastine	2	0.28032244746676
+Arthritis, Gouty	bimatoprost	3	0.995105519194478
+Arthritis, Gouty	binimetinib	2.2	0.642654434663213
+Arthritis, Gouty	bioallethrin	2.71428571428571	0.996667620726759
+Arthritis, Gouty	biotin	2	0.0874839827108824
+Arthritis, Gouty	biperiden	3.5	0.993698504571203
+Arthritis, Gouty	bisoprolol	2.5	0.983291127379502
+Arthritis, Gouty	bivalirudin	2	0.522943119175437
+Arthritis, Gouty	bleomycin	2	0.423762097784717
+Arthritis, Gouty	blinatumomab	2	0.277808710239353
+Arthritis, Gouty	bortezomib	2	0.57592734943351
+Arthritis, Gouty	bosentan	2	0.209619315180907
+Arthritis, Gouty	bosutinib	1.9	0.276226241901778
+Arthritis, Gouty	botulinum toxin type a	2	0.405648127869354
+Arthritis, Gouty	botulinum toxin type b	2	0.247371967175435
+Arthritis, Gouty	bremelanotide	3	0.999773591086287
+Arthritis, Gouty	brentuximab vedotin	2	0.237569428041602
+Arthritis, Gouty	bretylium	2	0.486763653916884
+Arthritis, Gouty	brexanolone	2.61538461538462	0.669399518091809
+Arthritis, Gouty	brexpiprazole	2.8	0.998125484442477
+Arthritis, Gouty	brigatinib	1.88888888888889	0.299366712029422
+Arthritis, Gouty	brimonidine	3	0.990277721200664
+Arthritis, Gouty	brinzolamide	2.6	0.610320154773226
+Arthritis, Gouty	brivaracetam	2.90909090909091	0.998411517268827
+Arthritis, Gouty	brolucizumab	2	0.43054704987976
+Arthritis, Gouty	bromazepam	2.6	0.737508809366033
+Arthritis, Gouty	bromfenac	2.5	0.849592516692718
+Arthritis, Gouty	bromocriptine	2.83333333333333	0.999996761324742
+Arthritis, Gouty	bromodiphenhydramine	2	0.262421470906054
+Arthritis, Gouty	brompheniramine	2.83333333333333	0.977837227613707
+Arthritis, Gouty	buclizine	2.5	0.568021900030728
+Arthritis, Gouty	budesonide	2	0.539827837277029
+Arthritis, Gouty	bufexamac	2.25	0.804862298964531
+Arthritis, Gouty	bumetanide	2.4	0.579466170609632
+Arthritis, Gouty	bupivacaine	3	0.931740085891555
+Arthritis, Gouty	buprenorphine	2.25	0.621387750603233
+Arthritis, Gouty	bupropion	2.75	0.930885763418327
+Arthritis, Gouty	buserelin	3	0.976078725546546
+Arthritis, Gouty	buspirone	2.71428571428571	0.997143135018161
+Arthritis, Gouty	butabarbital	2.58823529411765	0.882204586328386
+Arthritis, Gouty	butalbital	2.58823529411765	0.820371677212012
+Arthritis, Gouty	butamben	2.6551724137931	0.986295886481196
+Arthritis, Gouty	butenafine	2	0.227761049963819
+Arthritis, Gouty	butobarbital	2.7	0.929698705266724
+Arthritis, Gouty	butorphanol	2	0.242690864839527
+Arthritis, Gouty	butriptyline	2.33333333333333	0.665100245816536
+Arthritis, Gouty	butylscopolamine	3	0.993330098283376
+Arthritis, Gouty	cabazitaxel	2	0.389537016279682
+Arthritis, Gouty	cabergoline	2.8	0.999999990225096
+Arthritis, Gouty	cabozantinib	2	0.488987956305361
+Arthritis, Gouty	caffeine	2.3125	0.377627391978289
+Arthritis, Gouty	calcifediol	2	0.539827837277029
+Arthritis, Gouty	calcipotriol	2	0.477056880824563
+Arthritis, Gouty	calcitriol	2.5	0.990245542761719
+Arthritis, Gouty	calcium	2.21052631578947	0.497778324842859
+Arthritis, Gouty	calcium carbimide	2	0.115599436420819
+Arthritis, Gouty	calcium chloride	2	0.363244662055771
+Arthritis, Gouty	calcium citrate	2.25806451612903	0.840326651618181
+Arthritis, Gouty	calcium levulinate	2	0.30132900635574
+Arthritis, Gouty	calcium phosphate	2.25806451612903	0.857718757339965
+Arthritis, Gouty	calcium phosphate dihydrate	2.25806451612903	0.828567679019729
+Arthritis, Gouty	camphor	2.25	0.151645715899742
+Arthritis, Gouty	canakinumab	2	0.314940478733754
+Arthritis, Gouty	candesartan cilexetil	2	0.391289447022351
+Arthritis, Gouty	cangrelor	3	0.624806496014295
+Arthritis, Gouty	cannabidiol	2.44736842105263	0.951309991503191
+Arthritis, Gouty	cantharidin	2	0.460172162722971
+Arthritis, Gouty	capecitabine	2	0.400760483613276
+Arthritis, Gouty	caplacizumab	2	0.370481803776737
+Arthritis, Gouty	capromab pendetide	3	0.840128812753863
+Arthritis, Gouty	capsaicin	2	0.345509460985262
+Arthritis, Gouty	capsicum oleoresin	2	0.320545910980988
+Arthritis, Gouty	captopril	2.2	0.508562017503033
+Arthritis, Gouty	carbamazepine	2.77777777777778	0.993240118850835
+Arthritis, Gouty	carbamoylcholine	3.16666666666667	0.999960556482629
+Arthritis, Gouty	carbetocin	2	0.252411540378021
+Arthritis, Gouty	carbidopa	2	0.184060125346759
+Arthritis, Gouty	carbimazole	3	0.754537219266652
+Arthritis, Gouty	carbinoxamine	2	0.203428523821845
+Arthritis, Gouty	carbocisteine	2	0.446420795369289
+Arthritis, Gouty	carbon monoxide	2	0.159512718462915
+Arthritis, Gouty	carboprost tromethamine	3	0.844968589428058
+Arthritis, Gouty	carboxin	2	0.532482826449721
+Arthritis, Gouty	carboxymethylcellulose	2	0.363244662055771
+Arthritis, Gouty	carfilzomib	2	0.375324702277597
+Arthritis, Gouty	carglumic acid	2	0.406651710300601
+Arthritis, Gouty	cariprazine	2.66666666666667	0.99673849886025
+Arthritis, Gouty	carisoprodol	2.6	0.762680499523352
+Arthritis, Gouty	carmustine	2	0.446420795369289
+Arthritis, Gouty	carprofen	2.5	0.871736349489669
+Arthritis, Gouty	carteolol	2.5	0.989544406978962
+Arthritis, Gouty	carvedilol	2.55555555555556	0.999991093287881
+Arthritis, Gouty	castor oil	2.5	0.740741503477439
+Arthritis, Gouty	catridecacog	3	0.802968200025648
+Arthritis, Gouty	catumaxomab	1.57142857142857	3.77613355206924e-07
+Arthritis, Gouty	cefazolin	2.66666666666667	0.87583453203233
+Arthritis, Gouty	cefdinir	3	0.898123230201775
+Arthritis, Gouty	cefotaxime	3.33333333333333	0.999942378735839
+Arthritis, Gouty	ceftriaxone	3.33333333333333	0.984539405473102
+Arthritis, Gouty	celecoxib	2.25	0.539827837277029
+Arthritis, Gouty	celiprolol	2.66666666666667	0.973378714233968
+Arthritis, Gouty	cemiplimab	3	0.893318648385445
+Arthritis, Gouty	cenegermin	2	0.539827837277029
+Arthritis, Gouty	ceritinib	2	0.477056880824563
+Arthritis, Gouty	cerivastatin	2	0.359024167473425
+Arthritis, Gouty	cerliponase alfa	2	0.433219431788052
+Arthritis, Gouty	certolizumab pegol	2	0.569452950120241
+Arthritis, Gouty	ceruletide	3	0.840487281537085
+Arthritis, Gouty	cetirizine	2	0.242497250706788
+Arthritis, Gouty	cetrorelix	3	0.949373394281289
+Arthritis, Gouty	cetuximab	1.45454545454545	1.64342919176051e-08
+Arthritis, Gouty	cevimeline	3	0.991110861015696
+Arthritis, Gouty	chenodeoxycholic acid	2.33333333333333	0.545431465742453
+Arthritis, Gouty	chloramphenicol	2	0.406651710300601
+Arthritis, Gouty	chlorcyclizine	2	0.218002487463221
+Arthritis, Gouty	chlordiazepoxide	2.61538461538462	0.759578190079335
+Arthritis, Gouty	chlorhexidine	3	0.874330169576492
+Arthritis, Gouty	chlormerodrin	3	0.957929443693667
+Arthritis, Gouty	chlormezanone	2	0.21313749767595
+Arthritis, Gouty	chlorobutanol	2	0.400760483613276
+Arthritis, Gouty	chloroprocaine	2.5	0.661713655202107
+Arthritis, Gouty	chloroquine	2.33333333333333	0.679454089019012
+Arthritis, Gouty	chlorothiazide	2.33333333333333	0.567833901767587
+Arthritis, Gouty	chlorpheniramine	2.25	0.458598536973062
+Arthritis, Gouty	chlorpromazine	2.73076923076923	0.99999976529881
+Arthritis, Gouty	chlorpropamide	3	0.864333939053617
+Arthritis, Gouty	chlorprothixene	2.91666666666667	0.999985022218005
+Arthritis, Gouty	chlorthalidone	3	0.909101586639981
+Arthritis, Gouty	chlorzoxazone	3	0.969500272206473
+Arthritis, Gouty	cholecalciferol	2	0.477056880824563
+Arthritis, Gouty	cholecystokinin	2.16666666666667	0.659362914784175
+Arthritis, Gouty	cholesterol	2	0.34713170826282
+Arthritis, Gouty	choline	2.28571428571429	0.365211409132272
+Arthritis, Gouty	choline magnesium trisalicylate	2.5	0.857332255929805
+Arthritis, Gouty	choline salicylate	2.28571428571429	0.404236869412642
+Arthritis, Gouty	chondroitin sulfate	2.5	0.94688472406232
+Arthritis, Gouty	choriogonadotropin alfa	2.5	0.804351533115202
+Arthritis, Gouty	chorionic gonadotropin (human)	3	0.914654683223249
+Arthritis, Gouty	chromic chloride	2	0.486763653916884
+Arthritis, Gouty	chromic nitrate	2	0.374957161283911
+Arthritis, Gouty	chromium	2	0.348782706757389
+Arthritis, Gouty	chromium gluconate	2	0.337981481399644
+Arthritis, Gouty	chromium nicotinate	2	0.370072067902287
+Arthritis, Gouty	chromous sulfate	2	0.370072067902287
+Arthritis, Gouty	chymopapain	2	0.242497250706788
+Arthritis, Gouty	ciclesonide	2	0.599239516386724
+Arthritis, Gouty	ciclopirox	2	0.5
+Arthritis, Gouty	cilastatin	3	0.804647084165173
+Arthritis, Gouty	cilazapril	2	0.222876455360642
+Arthritis, Gouty	cilostazol	2	0.361465072788483
+Arthritis, Gouty	cimetidine	3	0.623012702429204
+Arthritis, Gouty	cinacalcet	2	0.293290868807751
+Arthritis, Gouty	cinchocaine	2.33333333333333	0.644567130969936
+Arthritis, Gouty	cinnarizine	2.8125	0.999889411823707
+Arthritis, Gouty	ciprofibrate	2	0.556515707849836
+Arthritis, Gouty	ciprofloxacin	2	0.454795947408348
+Arthritis, Gouty	cisapride	2.5	0.807594028612759
+Arthritis, Gouty	cisatracurium	4	0.991551587101479
+Arthritis, Gouty	cisplatin	2	0.302058790150911
+Arthritis, Gouty	citalopram	2	0.208205291332311
+Arthritis, Gouty	citric acid	2.31818181818182	0.484567634195951
+Arthritis, Gouty	citrulline	2.33333333333333	0.518989287659689
+Arthritis, Gouty	cladribine	2	0.174894562825234
+Arthritis, Gouty	clarithromycin	2	0.37717487214748
+Arthritis, Gouty	clemastine	2	0.217538793096214
+Arthritis, Gouty	clenbuterol	2.4	0.815458485255824
+Arthritis, Gouty	clevidipine	2.5	0.716974885392917
+Arthritis, Gouty	clidinium	3	0.8888043172891
+Arthritis, Gouty	clobazam	2.61538461538462	0.751042920609292
+Arthritis, Gouty	clobetasol propionate	2	0.569452950120241
+Arthritis, Gouty	clobetasone	2	0.569452950120241
+Arthritis, Gouty	clocortolone	2	0.590280184349119
+Arthritis, Gouty	clodronic acid	2	0.564207200948631
+Arthritis, Gouty	clofarabine	2	0.391289447022351
+Arthritis, Gouty	clofazimine	2	0.21268534215561
+Arthritis, Gouty	clofedanol	2	0.222876455360642
+Arthritis, Gouty	clofibrate	2	0.516936005300029
+Arthritis, Gouty	clomifene	2	0.657315717039737
+Arthritis, Gouty	clomipramine	2.66666666666667	0.99204420750754
+Arthritis, Gouty	clonazepam	2.53333333333333	0.640239757965007
+Arthritis, Gouty	clonidine	3	0.999851280530243
+Arthritis, Gouty	clopidogrel	3	0.634966977915073
+Arthritis, Gouty	clorazepic acid	2.57142857142857	0.539166542365661
+Arthritis, Gouty	clotiazepam	2.53846153846154	0.649868374702524
+Arthritis, Gouty	clotrimazole	2	0.221142359789489
+Arthritis, Gouty	clove oil	2.5	0.985960148500056
+Arthritis, Gouty	clozapine	2.85185185185185	0.999999999323517
+Arthritis, Gouty	coagulation factor ix (recombinant)	2.28571428571429	0.807536563253081
+Arthritis, Gouty	coagulation factor ix human	2.28571428571429	0.836556609854816
+Arthritis, Gouty	coagulation factor vii human	2.33333333333333	0.484745472983471
+Arthritis, Gouty	coagulation factor viia recombinant human	2.5	0.877350465737885
+Arthritis, Gouty	cobimetinib	2	0.522943119175437
+Arthritis, Gouty	cocaine	2.55555555555556	0.919264515459348
+Arthritis, Gouty	coccidioides immitis spherule	2	0.187325235276073
+Arthritis, Gouty	codeine	2	0.25533457326006
+Arthritis, Gouty	colchicine	2	0.580471939347127
+Arthritis, Gouty	collagenase clostridium histolyticum	2.25	0.927224286418225
+Arthritis, Gouty	conestat alfa	2.33333333333333	0.836014110588681
+Arthritis, Gouty	conivaptan	2.5	0.754728197170023
+Arthritis, Gouty	conjugated estrogens	2	0.704060482904256
+Arthritis, Gouty	copanlisib	2	0.344044106225632
+Arthritis, Gouty	copper	2.15441176470588	0.827470237649841
+Arthritis, Gouty	corifollitropin alfa	2	0.35503595890891
+Arthritis, Gouty	corticorelin ovine triflutate	3	0.940486698585862
+Arthritis, Gouty	corticotropin	2.5	0.55132022761572
+Arthritis, Gouty	cortisone acetate	2	0.607564331445103
+Arthritis, Gouty	creatine	2.28571428571429	0.532022828089795
+Arthritis, Gouty	crisaborole	2	0.100580477582172
+Arthritis, Gouty	crizanlizumab	3	0.976866046149277
+Arthritis, Gouty	crizotinib	2	0.5
+Arthritis, Gouty	crofelemer	2	0.234228039354347
+Arthritis, Gouty	cromoglicic acid	2.5	0.94931114627627
+Arthritis, Gouty	crotalus adamanteus antivenin	3	0.754537219266652
+Arthritis, Gouty	cryptenamine	3	0.998608383572861
+Arthritis, Gouty	cupric chloride	2.5	0.868697291073363
+Arthritis, Gouty	curcumin	2	0.338716238498094
+Arthritis, Gouty	cyanocobalamin	2.66666666666667	0.868717500324448
+Arthritis, Gouty	cyclandelate	3	0.923893578146534
+Arthritis, Gouty	cyclizine	2.5	0.725836560008391
+Arthritis, Gouty	cyclobenzaprine	2.44444444444444	0.934190037016779
+Arthritis, Gouty	cyclopentolate	3	0.845320610363501
+Arthritis, Gouty	cyclophosphamide	2	0.424072650566491
+Arthritis, Gouty	cyclosporine	2	0.298370715151563
+Arthritis, Gouty	cyclothiazide	2.8	0.977203947618528
+Arthritis, Gouty	cycrimine	3	0.878848306220981
+Arthritis, Gouty	cyproheptadine	2.71428571428571	0.99868262728877
+Arthritis, Gouty	cyproterone acetate	2	0.392435668554897
+Arthritis, Gouty	cysteamine	3	0.940794340449213
+Arthritis, Gouty	cysteine	2.23076923076923	0.469882784893514
+Arthritis, Gouty	cystine	2.66666666666667	0.688098195819048
+Arthritis, Gouty	cytarabine	2	0.326246671503714
+Arthritis, Gouty	d-alpha-tocopherol acetate	2	0.137122385058348
+Arthritis, Gouty	d-methionine	2	0.398789028222759
+Arthritis, Gouty	d-serine	2	0.377940582532638
+Arthritis, Gouty	dabigatran etexilate	2	0.454795947408348
+Arthritis, Gouty	dabrafenib	2	0.343533297520021
+Arthritis, Gouty	dacarbazine	2	0.469190991530425
+Arthritis, Gouty	dacomitinib	1	0.0552969427903502
+Arthritis, Gouty	dactinomycin	2	0.477056880824563
+Arthritis, Gouty	dalfampridine	2.64285714285714	0.990638931881311
+Arthritis, Gouty	dalteparin	2.75	0.996557818627644
+Arthritis, Gouty	damoctocog alfa pegol	2	0.314940478733754
+Arthritis, Gouty	danaparoid	3	0.969500272206473
+Arthritis, Gouty	danazol	2.2	0.772238950036182
+Arthritis, Gouty	dantrolene	2	0.332054137048752
+Arthritis, Gouty	dapiprazole	3	0.99689248402774
+Arthritis, Gouty	daratumumab	3	0.961685806645801
+Arthritis, Gouty	darbepoetin alfa	2	0.467517173550279
+Arthritis, Gouty	darifenacin	3	0.983570654663688
+Arthritis, Gouty	darolutamide	2	0.61590091449025
+Arthritis, Gouty	dasatinib	1.95652173913043	0.219980219033022
+Arthritis, Gouty	daunorubicin	2	0.515010203114794
+Arthritis, Gouty	debrisoquine	3	0.912440761559609
+Arthritis, Gouty	decamethonium	3.25	0.999956077619962
+Arthritis, Gouty	decitabine	2	0.556515707849836
+Arthritis, Gouty	deferoxamine	2	0.811101348064979
+Arthritis, Gouty	defibrotide	3	0.998420072791548
+Arthritis, Gouty	deflazacort	2	0.607564331445103
+Arthritis, Gouty	degarelix	3	0.807779822009563
+Arthritis, Gouty	demecarium	3	0.930510455027226
+Arthritis, Gouty	denileukin diftitox	2	0.244143902589468
+Arthritis, Gouty	denosumab	2	0.384606000868728
+Arthritis, Gouty	deoxycholic acid	2	0.324607522565082
+Arthritis, Gouty	dequalinium	3	0.999335742477115
+Arthritis, Gouty	deserpidine	2	0.232658061024763
+Arthritis, Gouty	desflurane	2.55555555555556	0.794911687319701
+Arthritis, Gouty	desipramine	2.80952380952381	0.999999089599762
+Arthritis, Gouty	deslanoside	2	0.539827837277029
+Arthritis, Gouty	desloratadine	2	0.247443801451088
+Arthritis, Gouty	desmopressin	2.66666666666667	0.818623550225184
+Arthritis, Gouty	desogestrel	2	0.679454089019012
+Arthritis, Gouty	desonide	2	0.63675533794423
+Arthritis, Gouty	desoximetasone	2	0.607564331445103
+Arthritis, Gouty	desoxycorticosterone acetate	2	0.414499995640553
+Arthritis, Gouty	desvenlafaxine	2.33333333333333	0.584301443750533
+Arthritis, Gouty	deutetrabenazine	2	0.193738942187845
+Arthritis, Gouty	dexamethasone	2	0.437203185097574
+Arthritis, Gouty	dexbrompheniramine	2	0.232155176837053
+Arthritis, Gouty	dexchlorpheniramine maleate	2	0.227761049963819
+Arthritis, Gouty	dexfenfluramine	2.5	0.832834804835793
+Arthritis, Gouty	dexibuprofen	2.41666666666667	0.995375893444676
+Arthritis, Gouty	dexketoprofen	2.5	0.889784089383552
+Arthritis, Gouty	dexlansoprazole	2.33333333333333	0.584301443750533
+Arthritis, Gouty	dexmedetomidine	3	0.965661217299385
+Arthritis, Gouty	dexmethylphenidate	2.33333333333333	0.609401048024932
+Arthritis, Gouty	dexrazoxane	2	0.522943119175437
+Arthritis, Gouty	dextroamphetamine	2.6	0.905019027989717
+Arthritis, Gouty	dextromethorphan	2.33333333333333	0.92364712428729
+Arthritis, Gouty	dextropropoxyphene	2.25	0.574722036429533
+Arthritis, Gouty	dextrothyroxine	2.33333333333333	0.754347689258409
+Arthritis, Gouty	dezocine	2	0.342297121643884
+Arthritis, Gouty	diacerein	2.33333333333333	0.65004318615523
+Arthritis, Gouty	diamorphine	2.25	0.588521969014078
+Arthritis, Gouty	diazepam	2.5625	0.728529717557488
+Arthritis, Gouty	diazoxide	2.5	0.969960933987026
+Arthritis, Gouty	dibotermin alfa	2	0.57592734943351
+Arthritis, Gouty	dichloroacetic acid	2	0.262421470906054
+Arthritis, Gouty	dichlorobenzyl alcohol	3	0.997761581309084
+Arthritis, Gouty	diclofenac	2.5	0.816661940822621
+Arthritis, Gouty	diclofenamide	2.75	0.877903374792109
+Arthritis, Gouty	dicoumarol	2.33333333333333	0.801126255732609
+Arthritis, Gouty	dicyclomine	3	0.965485751358162
+Arthritis, Gouty	didanosine	2	0.467517173550279
+Arthritis, Gouty	dienestrol	2	0.640975832526575
+Arthritis, Gouty	dienogest	2	0.655955893774368
+Arthritis, Gouty	diethylcarbamazine	2.5	0.838145576734718
+Arthritis, Gouty	diethylpropion	2.5	0.676702654447565
+Arthritis, Gouty	diethylstilbestrol	2	0.491979452577234
+Arthritis, Gouty	diflorasone	2	0.556515707849836
+Arthritis, Gouty	diflunisal	2.5	0.865563405913591
+Arthritis, Gouty	difluocortolone	2	0.3881650769017
+Arthritis, Gouty	difluprednate	2	0.599239516386724
+Arthritis, Gouty	digitoxin	2	0.517763715333372
+Arthritis, Gouty	digoxin	2	0.532482826449721
+Arthritis, Gouty	dihydro-alpha-ergocryptine	3	0.99995163754265
+Arthritis, Gouty	dihydroergocornine	2.91666666666667	0.999999969149072
+Arthritis, Gouty	dihydroergocristine	2.89655172413793	0.999999955678594
+Arthritis, Gouty	dihydroergotamine	3	0.993745081916599
+Arthritis, Gouty	dihydrotachysterol	2	0.5
+Arthritis, Gouty	diltiazem	2.5	0.532170743088102
+Arthritis, Gouty	dimenhydrinate	2	0.247443801451088
+Arthritis, Gouty	dimercaprol	2	0.811101348064979
+Arthritis, Gouty	dimethyl fumarate	1.5	0.00405811393740547
+Arthritis, Gouty	dimetindene	2.5	0.783007913640838
+Arthritis, Gouty	dinoprost	3	0.883678925603411
+Arthritis, Gouty	dinoprost tromethamine	2.5	0.717170455962981
+Arthritis, Gouty	dinoprostone	2.8	0.969742893384559
+Arthritis, Gouty	diosmin	2	0.484989796885206
+Arthritis, Gouty	dioxybenzone	2	0.460172162722971
+Arthritis, Gouty	diphemanil	3	0.969500272206473
+Arthritis, Gouty	diphenhydramine	2.5	0.814972271417728
+Arthritis, Gouty	diphenidol	3	0.998234468099887
+Arthritis, Gouty	diphenoxylate	2	0.32587579081213
+Arthritis, Gouty	diphenylpyraline	2	0.204834191305639
+Arthritis, Gouty	dipivefrin	2.8	0.992951819947653
+Arthritis, Gouty	dipyridamole	2	0.0723196094205426
+Arthritis, Gouty	dipyrithione	2	0.449519206289237
+Arthritis, Gouty	disopyramide	2.625	0.998730826696876
+Arthritis, Gouty	disulfiram	2.5	0.763065175347626
+Arthritis, Gouty	dl-methylephedrine	2.77777777777778	0.999903538176584
+Arthritis, Gouty	dobutamine	2.66666666666667	0.99952904980049
+Arthritis, Gouty	docetaxel	2	0.397363447230138
+Arthritis, Gouty	doconexent	2	0.545883750509933
+Arthritis, Gouty	dofetilide	2	0.365169824016815
+Arthritis, Gouty	dolasetron	3	0.902914003711916
+Arthritis, Gouty	domperidone	3	0.99986918876941
+Arthritis, Gouty	donepezil	2.33333333333333	0.892438925187442
+Arthritis, Gouty	dopamine	2.6	0.989966524281574
+Arthritis, Gouty	dorzolamide	2.75	0.918410872770889
+Arthritis, Gouty	dosulepin	2.8125	0.999981961816322
+Arthritis, Gouty	dotatate gallium ga-68	3	0.961685806645801
+Arthritis, Gouty	doxacurium	3.5	0.998581933672173
+Arthritis, Gouty	doxapram	2	0.226719092573876
+Arthritis, Gouty	doxazosin	2.8	0.986281202403607
+Arthritis, Gouty	doxepin	2.78947368421053	0.99995781126111
+Arthritis, Gouty	doxercalciferol	2	0.460172162722972
+Arthritis, Gouty	doxorubicin	2	0.517763715333372
+Arthritis, Gouty	doxylamine	2.33333333333333	0.538285684802261
+Arthritis, Gouty	dronabinol	3	0.935607628203741
+Arthritis, Gouty	dronedarone	2.52	0.99931990240348
+Arthritis, Gouty	droperidol	3	0.997736130957887
+Arthritis, Gouty	drospirenone	2	0.62282512785252
+Arthritis, Gouty	drotaverine	2	0.226514851728384
+Arthritis, Gouty	drotrecogin alfa	2.33333333333333	0.864721228608268
+Arthritis, Gouty	droxidopa	2.8	0.999335355016234
+Arthritis, Gouty	dulaglutide	2	0.556515707849836
+Arthritis, Gouty	duloxetine	2.33333333333333	0.615393999131272
+Arthritis, Gouty	dupilumab	2	0.370072067902287
+Arthritis, Gouty	durvalumab	3	0.934707567948523
+Arthritis, Gouty	duvelisib	2	0.37717487214748
+Arthritis, Gouty	dyclonine	3	0.878848306220981
+Arthritis, Gouty	dydrogesterone	2	0.556515707849836
+Arthritis, Gouty	dyphylline	2.5	0.789335604125531
+Arthritis, Gouty	ecallantide	3	0.976703148314434
+Arthritis, Gouty	echothiophate	3	0.693062784956808
+Arthritis, Gouty	econazole	2	0.434593406808674
+Arthritis, Gouty	eculizumab	2	0.272551233636201
+Arthritis, Gouty	edotreotide gallium ga-68	2.5	0.798921885957142
+Arthritis, Gouty	edoxaban	2	0.350260214298369
+Arthritis, Gouty	edrophonium	3	0.911062439602701
+Arthritis, Gouty	efalizumab	1.5	1.12810992369623e-08
+Arthritis, Gouty	eflornithine	2	0.370072067902287
+Arthritis, Gouty	efmoroctocog alfa	2	0.356651586939229
+Arthritis, Gouty	elagolix	3	0.802968200025648
+Arthritis, Gouty	eletriptan	2.71428571428571	0.926621317552989
+Arthritis, Gouty	elexacaftor	2	0.580471939347127
+Arthritis, Gouty	eliglustat	2	0.227272062436361
+Arthritis, Gouty	elotuzumab	3	0.9076877421883
+Arthritis, Gouty	eltrombopag	3	0.983151379636745
+Arthritis, Gouty	eluxadoline	2	0.265000341692654
+Arthritis, Gouty	emapalumab	3	0.874012986245176
+Arthritis, Gouty	emedastine	2	0.227761049963819
+Arthritis, Gouty	emicizumab	2.5	0.746438772320088
+Arthritis, Gouty	enalapril	2	0.218002487463221
+Arthritis, Gouty	enalaprilat	2.5	0.651337761087737
+Arthritis, Gouty	enasidenib	2	0.292508807669128
+Arthritis, Gouty	encainide	2	0.439698306008775
+Arthritis, Gouty	encorafenib	2	0.5
+Arthritis, Gouty	enflurane	2.47368421052632	0.523991961139346
+Arthritis, Gouty	enfortumab vedotin	3	0.883678925603411
+Arthritis, Gouty	enoxaparin	2.5	0.863918979024383
+Arthritis, Gouty	enoximone	2	0.350260214298369
+Arthritis, Gouty	enprofylline	2.5	0.793299054992077
+Arthritis, Gouty	entacapone	2	0.348782706757389
+Arthritis, Gouty	entrectinib	2	0.278771863802142
+Arthritis, Gouty	enzacamene	2	0.735165001705247
+Arthritis, Gouty	enzalutamide	2	0.569452950120241
+Arthritis, Gouty	ephedrine	2.75	0.965419734482141
+Arthritis, Gouty	epicriptine	2.8	0.997110995807411
+Arthritis, Gouty	epinastine	2.66666666666667	0.977719208787763
+Arthritis, Gouty	epinephrine	2.75	0.999971161534054
+Arthritis, Gouty	epirubicin	2	0.424072650566491
+Arthritis, Gouty	eplerenone	2	0.430547049879759
+Arthritis, Gouty	epoprostenol	2.66666666666667	0.669116495807116
+Arthritis, Gouty	eprosartan	2	0.37717487214748
+Arthritis, Gouty	eptifibatide	2	0.460172162722971
+Arthritis, Gouty	erdafitinib	2	0.479132264527759
+Arthritis, Gouty	erenumab	3	0.883678925603411
+Arthritis, Gouty	ergocalciferol	2.63636363636364	0.981893641369058
+Arthritis, Gouty	ergoloid mesylate	2.89655172413793	0.999999996645038
+Arthritis, Gouty	ergometrine	3	0.8888043172891
+Arthritis, Gouty	ergotamine	2.9375	0.999999912419383
+Arthritis, Gouty	eribulin	2	0.454795947408348
+Arthritis, Gouty	erlotinib	1.5	0.0548600807178878
+Arthritis, Gouty	erythrityl tetranitrate	2	0.267859356095353
+Arthritis, Gouty	erythromycin	2.5	0.902914003711916
+Arthritis, Gouty	erythropoietin	2	0.414499995640553
+Arthritis, Gouty	escitalopram	2.73333333333333	0.999941559643218
+Arthritis, Gouty	esculin	2	0.62282512785252
+Arthritis, Gouty	esketamine	2.3	0.915145880968801
+Arthritis, Gouty	eslicarbazepine	3	0.893318648385445
+Arthritis, Gouty	eslicarbazepine acetate	3	0.912440761559609
+Arthritis, Gouty	esmolol	3	0.980031114586946
+Arthritis, Gouty	esomeprazole	2.5	0.809429490163818
+Arthritis, Gouty	estazolam	2.6	0.720346600986487
+Arthritis, Gouty	estradiol	2.14285714285714	0.797264119016335
+Arthritis, Gouty	estradiol acetate	2.14285714285714	0.843994060582873
+Arthritis, Gouty	estradiol benzoate	2.14285714285714	0.820869845516991
+Arthritis, Gouty	estradiol cypionate	2.14285714285714	0.83601411058868
+Arthritis, Gouty	estradiol dienanthate	2.14285714285714	0.812371169264268
+Arthritis, Gouty	estradiol valerate	2.14285714285714	0.819574765090271
+Arthritis, Gouty	estramustine	2	0.638459529545353
+Arthritis, Gouty	estriol	2	0.630795479416382
+Arthritis, Gouty	estrone	2	0.491336621170485
+Arthritis, Gouty	estrone sulfate	2	0.71240073356931
+Arthritis, Gouty	eszopiclone	2.61538461538462	0.712239001376194
+Arthritis, Gouty	etacrynic acid	2.25	0.768649129441006
+Arthritis, Gouty	etafedrine	2	0.607564331445103
+Arthritis, Gouty	etanercept	1.69230769230769	3.18893629052236e-06
+Arthritis, Gouty	etelcalcetide	2	0.309420465698755
+Arthritis, Gouty	ethanol	2.70454545454545	0.999157128888938
+Arthritis, Gouty	ethanolamine oleate	2	0.332054137048752
+Arthritis, Gouty	ethchlorvynol	2.61538461538462	0.686905030905563
+Arthritis, Gouty	ethinamate	2.5	0.7307788117136
+Arthritis, Gouty	ethinylestradiol	2	0.657702878356116
+Arthritis, Gouty	ethosuximide	3	0.739863101889446
+Arthritis, Gouty	ethotoin	2	0.357678434515033
+Arthritis, Gouty	ethynodiol diacetate	2	0.662018518600356
+Arthritis, Gouty	etidronic acid	2	0.384606000868728
+Arthritis, Gouty	etodolac	2.33333333333333	0.804514777072108
+Arthritis, Gouty	etomidate	2.64285714285714	0.775283542423756
+Arthritis, Gouty	etonogestrel	2	0.657315717039737
+Arthritis, Gouty	etoposide	2	0.460172162722972
+Arthritis, Gouty	etoricoxib	2	0.414499995640553
+Arthritis, Gouty	eugenol	2	0.340037878935497
+Arthritis, Gouty	everolimus	2	0.569452950120241
+Arthritis, Gouty	exemestane	2	0.188495385533661
+Arthritis, Gouty	exenatide	2	0.434593406808674
+Arthritis, Gouty	ezetimibe	2.66666666666667	0.737764906264469
+Arthritis, Gouty	ezogabine	2.5	0.61775889597918
+Arthritis, Gouty	famotidine	3	0.586640726495779
+Arthritis, Gouty	febuxostat	2	0.198581893526159
+Arthritis, Gouty	fedratinib	2	0.371145714811152
+Arthritis, Gouty	felbamate	2	0.188488550612064
+Arthritis, Gouty	felodipine	2.46153846153846	0.824974402937545
+Arthritis, Gouty	fenfluramine	2.75	0.97974034954449
+Arthritis, Gouty	fenofibrate	2.33333333333333	0.861283186212234
+Arthritis, Gouty	fenofibric acid	2.2	0.832022704961525
+Arthritis, Gouty	fenoldopam	3	0.999965682363153
+Arthritis, Gouty	fenoprofen	2.25	0.827297144886256
+Arthritis, Gouty	fenoterol	2.33333333333333	0.721334869422762
+Arthritis, Gouty	fentanyl	2	0.175864996313266
+Arthritis, Gouty	ferric cation	2	0.565406593191326
+Arthritis, Gouty	ferric pyrophosphate citrate	2.4	0.843153560328483
+Arthritis, Gouty	ferrous ascorbate	2.28571428571429	0.848694010786626
+Arthritis, Gouty	ferrous fumarate	2.28571428571429	0.794763503963274
+Arthritis, Gouty	ferrous gluconate	2.28571428571429	0.8253458831682
+Arthritis, Gouty	ferrous glycine sulfate	2.28571428571429	0.811151757021202
+Arthritis, Gouty	ferrous succinate	2.28571428571429	0.795761222346513
+Arthritis, Gouty	fesoterodine	3	0.996313032591558
+Arthritis, Gouty	fexofenadine	2	0.237569428041602
+Arthritis, Gouty	filgrastim	2	0.336722931438395
+Arthritis, Gouty	finafloxacin	2	0.556515707849836
+Arthritis, Gouty	fingolimod	2.5	0.896933522320268
+Arthritis, Gouty	fish oil	2.57692307692308	0.999056286228911
+Arthritis, Gouty	flavin adenine dinucleotide	2.15384615384615	0.106642465861108
+Arthritis, Gouty	flavin mononucleotide	2.1	0.11785353419596
+Arthritis, Gouty	flavone	2	0.110335680959923
+Arthritis, Gouty	flavoxate	3	0.978116217653413
+Arthritis, Gouty	flecainide	2.25	0.764013890622623
+Arthritis, Gouty	flibanserin	2.33333333333333	0.753264086377259
+Arthritis, Gouty	florbetaben (18f)	2	0.791720028361604
+Arthritis, Gouty	florbetapir (18f)	2	0.801418106473841
+Arthritis, Gouty	floxuridine	2	0.460172162722971
+Arthritis, Gouty	fluciclovine (18f)	2.46153846153846	0.993118196539557
+Arthritis, Gouty	flucytosine	2	0.539827837277029
+Arthritis, Gouty	fludarabine	2	0.311053164759508
+Arthritis, Gouty	fludrocortisone	2	0.5
+Arthritis, Gouty	flufenamic acid	2.16666666666667	0.740517204101802
+Arthritis, Gouty	flumazenil	2.61538461538462	0.727941500235399
+Arthritis, Gouty	flumethasone	2	0.580471939347127
+Arthritis, Gouty	flunarizine	2.6	0.946443890279661
+Arthritis, Gouty	flunisolide	2	0.590280184349119
+Arthritis, Gouty	flunitrazepam	2.66666666666667	0.772588238169605
+Arthritis, Gouty	fluocinolone acetonide	2	0.315146506946003
+Arthritis, Gouty	fluocinonide	2.5	0.925466661254316
+Arthritis, Gouty	fluorometholone	2	0.599239516386724
+Arthritis, Gouty	fluorouracil	2	0.434593406808674
+Arthritis, Gouty	fluoxetine	2.71428571428571	0.992607146001048
+Arthritis, Gouty	fluoxymesterone	2.2	0.788187961762339
+Arthritis, Gouty	flupentixol	3	0.999995385858384
+Arthritis, Gouty	fluphenazine	2.66666666666667	0.999961525116943
+Arthritis, Gouty	flurandrenolide	2	0.607564331445103
+Arthritis, Gouty	flurazepam	2.6	0.674298553478637
+Arthritis, Gouty	flurbiprofen	2.5	0.862133324256592
+Arthritis, Gouty	fluspirilene	3	0.99003466746366
+Arthritis, Gouty	flutamide	2	0.57177963700085
+Arthritis, Gouty	flutemetamol (18f)	2	0.801418106473841
+Arthritis, Gouty	fluticasone	2	0.448466639612346
+Arthritis, Gouty	fluticasone furoate	2	0.489748697606803
+Arthritis, Gouty	fluticasone propionate	2	0.473976628658379
+Arthritis, Gouty	fluvastatin	2	0.39615116870671
+Arthritis, Gouty	fluvoxamine	2	0.325152956357075
+Arthritis, Gouty	folic acid	2.5	0.494689217950888
+Arthritis, Gouty	follitropin	2	0.361465072788483
+Arthritis, Gouty	fondaparinux	2.5	0.89731295404768
+Arthritis, Gouty	foreskin fibroblast (neonatal)	2.3	0.944988484989798
+Arthritis, Gouty	foreskin keratinocyte (neonatal)	2.18181818181818	0.762069483058201
+Arthritis, Gouty	formoterol	2.33333333333333	0.726413336071413
+Arthritis, Gouty	fosinopril	2	0.288034907556519
+Arthritis, Gouty	fosnetupitant	3	0.874330169576492
+Arthritis, Gouty	fosphenytoin	2	0.414499995640553
+Arthritis, Gouty	fospropofol	2	0.17316333980652
+Arthritis, Gouty	fostamatinib	2.06081081081081	0.127702414064507
+Arthritis, Gouty	framycetin	2	0.477056880824563
+Arthritis, Gouty	fremanezumab	3	0.969500272206473
+Arthritis, Gouty	frovatriptan	3	0.916670945509517
+Arthritis, Gouty	fructose	2	0.293290868807751
+Arthritis, Gouty	fulvestrant	2	0.643348413060771
+Arthritis, Gouty	furosemide	2.5	0.753877245398592
+Arthritis, Gouty	gabapentin	2.5	0.713511755267189
+Arthritis, Gouty	gabapentin enacarbil	2.5	0.447402634632325
+Arthritis, Gouty	gadopentetic acid	2	0.419528060652873
+Arthritis, Gouty	galantamine	2.86666666666667	0.997527053396788
+Arthritis, Gouty	galcanezumab	3	0.969500272206473
+Arthritis, Gouty	gallamine triethiodide	3.2	0.999670243651301
+Arthritis, Gouty	gallium nitrate	2	0.247189638547726
+Arthritis, Gouty	galsulfase	2	0.424072650566491
+Arthritis, Gouty	gamma-aminobutyric acid	2.33333333333333	0.509774034806106
+Arthritis, Gouty	gamma-hydroxybutyric acid	2.5	0.538653618642574
+Arthritis, Gouty	ganirelix	3	0.718855150211579
+Arthritis, Gouty	gefitinib	1	0.0383141933541994
+Arthritis, Gouty	gemcitabine	2	0.282829544037019
+Arthritis, Gouty	gemeprost	3	0.984833570513135
+Arthritis, Gouty	gemfibrozil	2.5	0.653542194160777
+Arthritis, Gouty	gemtuzumab ozogamicin	1.54545454545455	3.78339498435714e-07
+Arthritis, Gouty	gentamicin	2	0.30630113334922
+Arthritis, Gouty	gestrinone	2.16666666666667	0.787031576657442
+Arthritis, Gouty	gilteritinib	2.83333333333333	0.999895814810458
+Arthritis, Gouty	gimeracil	2	0.188495385533661
+Arthritis, Gouty	ginkgo biloba	2.6	0.889218850659266
+Arthritis, Gouty	ginseng	2.33333333333333	0.777910342438448
+Arthritis, Gouty	glasdegib	3	0.993169487254124
+Arthritis, Gouty	glatiramer	2	0.350260214298369
+Arthritis, Gouty	gliclazide	2.5	0.82101531190107
+Arthritis, Gouty	glimepiride	2.66666666666667	0.900917274540937
+Arthritis, Gouty	glipizide	2.5	0.880291785581017
+Arthritis, Gouty	gliquidone	3.5	0.998190250828821
+Arthritis, Gouty	glucagon	2.33333333333333	0.586351303388717
+Arthritis, Gouty	gluconolactone	2	0.190570509836182
+Arthritis, Gouty	glucosamine	2.25	0.849592516692718
+Arthritis, Gouty	glutamic acid	2.43283582089552	0.95659110397087
+Arthritis, Gouty	glutathione	2.31578947368421	0.361674443084947
+Arthritis, Gouty	glutathione disulfide	2	0.159871187246137
+Arthritis, Gouty	glutethimide	2.61538461538462	0.702500416465789
+Arthritis, Gouty	glyburide	2.55555555555556	0.963889917014966
+Arthritis, Gouty	glycerin	2.25	0.799756873986619
+Arthritis, Gouty	glycine	2.44	0.851501194767739
+Arthritis, Gouty	glycine betaine	2	0.539827837277029
+Arthritis, Gouty	glycol salicylate	2.5	0.925466661254316
+Arthritis, Gouty	glycolic acid	2	0.446420795369289
+Arthritis, Gouty	glycopyrronium	3	0.994546326650914
+Arthritis, Gouty	glycyrrhizic acid	2	0.233421057371901
+Arthritis, Gouty	glymidine	2.5	0.730431844384244
+Arthritis, Gouty	golimumab	2	0.539827837277029
+Arthritis, Gouty	golodirsen	2	0.5
+Arthritis, Gouty	gonadorelin	3	0.749629235561118
+Arthritis, Gouty	goserelin	3	0.94212486316042
+Arthritis, Gouty	granisetron	3	0.825994008081695
+Arthritis, Gouty	griseofulvin	2	0.188495385533661
+Arthritis, Gouty	guaiacol	2	0.607564331445103
+Arthritis, Gouty	guaifenesin	2.28571428571429	0.67365239840995
+Arthritis, Gouty	guanabenz	3	0.991573118552272
+Arthritis, Gouty	guanadrel	3	0.879160118403912
+Arthritis, Gouty	guanethidine	3	0.859826339410149
+Arthritis, Gouty	guanfacine	3	0.987696539332432
+Arthritis, Gouty	guanidine	2	0.097642253369769
+Arthritis, Gouty	guselkumab	3	0.917168874638881
+Arthritis, Gouty	halazepam	2.6	0.756786163542366
+Arthritis, Gouty	halcinonide	3	0.961887578573769
+Arthritis, Gouty	halofantrine	2	0.384606000868728
+Arthritis, Gouty	haloperidol	2.72222222222222	0.999998341778445
+Arthritis, Gouty	halothane	2.48148148148148	0.757022905985754
+Arthritis, Gouty	heparin	2.41666666666667	0.948292954793031
+Arthritis, Gouty	hesperidin	2	0.615393999131272
+Arthritis, Gouty	hexachlorophene	2	0.243017017244268
+Arthritis, Gouty	hexafluronium	3	0.588282548300136
+Arthritis, Gouty	hexocyclium	3	0.998906553451881
+Arthritis, Gouty	hexylcaine	2.5	0.650159382529735
+Arthritis, Gouty	hexylresorcinol	1.66666666666667	0.00463767626926971
+Arthritis, Gouty	histamine	2.8	0.873197444919638
+Arthritis, Gouty	histrelin	3	0.797956667211574
+Arthritis, Gouty	homatropine	3	0.991958681926244
+Arthritis, Gouty	homatropine methylbromide	3	0.994640216839187
+Arthritis, Gouty	homosalate	2	0.713953774118376
+Arthritis, Gouty	human c1-esterase inhibitor	2.33333333333333	0.800269856194757
+Arthritis, Gouty	human calcitonin	2	0.556515707849836
+Arthritis, Gouty	human immunoglobulin g	1.7	0.000113648522184755
+Arthritis, Gouty	human thrombin	2.375	0.798696549490807
+Arthritis, Gouty	huperzine a	3	0.980031114586946
+Arthritis, Gouty	hyaluronic acid	2.08333333333333	0.173332466224595
+Arthritis, Gouty	hydralazine	2.33333333333333	0.835289991224799
+Arthritis, Gouty	hydrochlorothiazide	2.5	0.905207739763562
+Arthritis, Gouty	hydrocodone	2	0.20804882294573
+Arthritis, Gouty	hydrocortamate	2	0.607564331445103
+Arthritis, Gouty	hydrocortisone	2	0.53600358359888
+Arthritis, Gouty	hydrocortisone acetate	2.33333333333333	0.84005436221155
+Arthritis, Gouty	hydrocortisone butyrate	2.33333333333333	0.870384317293019
+Arthritis, Gouty	hydrocortisone cypionate	2.33333333333333	0.832387115867761
+Arthritis, Gouty	hydrocortisone phosphate	2.33333333333333	0.862998412569355
+Arthritis, Gouty	hydrocortisone probutate	2.33333333333333	0.839892750846363
+Arthritis, Gouty	hydrocortisone valerate	2.33333333333333	0.846797194982195
+Arthritis, Gouty	hydroflumethiazide	2.625	0.994735565022428
+Arthritis, Gouty	hydromorphone	2	0.273874558340981
+Arthritis, Gouty	hydroquinone	2	0.178835605536245
+Arthritis, Gouty	hydroxocobalamin	2.77777777777778	0.987544721388215
+Arthritis, Gouty	hydroxychloroquine	2	0.245271802829977
+Arthritis, Gouty	hydroxyprogesterone caproate	2	0.5
+Arthritis, Gouty	hydroxyurea	2	0.405648127869354
+Arthritis, Gouty	hydroxyzine	2	0.232155176837053
+Arthritis, Gouty	hyoscyamine	3	0.998347008266791
+Arthritis, Gouty	hypromellose	2	0.188898651935021
+Arthritis, Gouty	ibalizumab	2	0.522943119175437
+Arthritis, Gouty	ibandronate	2	0.38409908550975
+Arthritis, Gouty	ibritumomab tiuxetan	1.63636363636364	2.50123903336209e-07
+Arthritis, Gouty	ibrutinib	1	2.08137521949324e-23
+Arthritis, Gouty	ibuprofen	2.3	0.918303524248225
+Arthritis, Gouty	ibutilide	2.5	0.646587805183572
+Arthritis, Gouty	icatibant	2.5	0.629374888417376
+Arthritis, Gouty	icosapent	2.18181818181818	0.487364091163526
+Arthritis, Gouty	idarubicin	2	0.569452950120241
+Arthritis, Gouty	idelalisib	2	0.350260214298369
+Arthritis, Gouty	idursulfase	2	0.43054704987976
+Arthritis, Gouty	ifenprodil	2	0.433219431788052
+Arthritis, Gouty	ifosfamide	2	0.443484292150164
+Arthritis, Gouty	iloperidone	2.63636363636364	0.997804022149635
+Arthritis, Gouty	iloprost	2.25	0.504305616226602
+Arthritis, Gouty	imatinib	2	0.506199707816231
+Arthritis, Gouty	imipramine	2.72	0.999991454764303
+Arthritis, Gouty	imiquimod	2	0.117893215439927
+Arthritis, Gouty	indacaterol	2	0.599239516386724
+Arthritis, Gouty	indapamide	2	0.282829544037019
+Arthritis, Gouty	indecainide	2	0.424072650566491
+Arthritis, Gouty	indigotindisulfonic acid	2.85714285714286	0.998122282103039
+Arthritis, Gouty	indomethacin	2.33333333333333	0.791739064654251
+Arthritis, Gouty	infliximab	2	0.467517173550279
+Arthritis, Gouty	ingenol mebutate	2	0.677413356810351
+Arthritis, Gouty	inotuzumab ozogamicin	2	0.350260214298369
+Arthritis, Gouty	insulin aspart	2	0.5
+Arthritis, Gouty	insulin degludec	2	0.53753599493273
+Arthritis, Gouty	insulin detemir	2	0.560301693991225
+Arthritis, Gouty	insulin glargine	2	0.5
+Arthritis, Gouty	insulin glulisine	2	0.486763653916884
+Arthritis, Gouty	insulin human	2	0.559166297794654
+Arthritis, Gouty	insulin lispro	2	0.572539989341634
+Arthritis, Gouty	insulin pork	2.13333333333333	0.32946616855773
+Arthritis, Gouty	interferon alfa-2a, recombinant	2.5	0.961685806645801
+Arthritis, Gouty	interferon alfa-2b	2.5	0.951246364432428
+Arthritis, Gouty	interferon alfa-n1	2.5	0.970994114274438
+Arthritis, Gouty	interferon alfa-n3	2.5	0.940339918502362
+Arthritis, Gouty	interferon alfacon-1	2.5	0.980031114586946
+Arthritis, Gouty	interferon beta-1a	2.5	0.981264672005092
+Arthritis, Gouty	interferon beta-1b	2.5	0.980607941682367
+Arthritis, Gouty	interferon gamma-1b	2.5	0.826035246278758
+Arthritis, Gouty	iopodic acid	3	0.83082413921889
+Arthritis, Gouty	ipilimumab	3	0.969500272206473
+Arthritis, Gouty	ipratropium	3	0.993698504571203
+Arthritis, Gouty	irbesartan	2	0.678262208476275
+Arthritis, Gouty	irinotecan	2	0.108383992747055
+Arthritis, Gouty	iron	2.28571428571429	0.802500323652369
+Arthritis, Gouty	iron dextran	2.4	0.884227486047948
+Arthritis, Gouty	iron sucrose	3	0.946590846136368
+Arthritis, Gouty	isavuconazole	2.33333333333333	0.844856998800449
+Arthritis, Gouty	isocarboxazid	2	0.100633269058792
+Arthritis, Gouty	isoetharine	2.5	0.965280981335166
+Arthritis, Gouty	isoflurane	2.55	0.83232127964994
+Arthritis, Gouty	isoflurophate	2.66666666666667	0.912559286490423
+Arthritis, Gouty	isometheptene	2.5	0.636519959144303
+Arthritis, Gouty	isoniazid	2.5	0.584165241534696
+Arthritis, Gouty	isoprenaline	2	0.323481997804686
+Arthritis, Gouty	isopropamide	3	0.967270470875319
+Arthritis, Gouty	isopropyl alcohol	2.14285714285714	0.260108903599585
+Arthritis, Gouty	isosorbide	2	0.490891907194225
+Arthritis, Gouty	isosorbide dinitrate	2	0.267469696891442
+Arthritis, Gouty	isosorbide mononitrate	2	0.298602920768755
+Arthritis, Gouty	isotretinoin	2	0.471884801705183
+Arthritis, Gouty	isradipine	2.57142857142857	0.807284910248828
+Arthritis, Gouty	istradefylline	3	0.997942584001815
+Arthritis, Gouty	itraconazole	2	0.19332691244163
+Arthritis, Gouty	ivabradine	2	0.208279971638396
+Arthritis, Gouty	ivacaftor	2	0.590280184349119
+Arthritis, Gouty	ivermectin	2	0.242497250706788
+Arthritis, Gouty	ivosidenib	2	0.392435668554897
+Arthritis, Gouty	ixabepilone	2	0.545204052591652
+Arthritis, Gouty	ixekizumab	2	0.211483105988325
+Arthritis, Gouty	kaletra	2.28571428571429	0.596158839546658
+Arthritis, Gouty	kappadione	2.42857142857143	0.960752236128332
+Arthritis, Gouty	ketamine	2.73913043478261	0.999972077040181
+Arthritis, Gouty	ketazolam	2.4	0.349050743924623
+Arthritis, Gouty	ketoconazole	2.2	0.847861775759318
+Arthritis, Gouty	ketoprofen	2.66666666666667	0.986327912526916
+Arthritis, Gouty	ketorolac	2.5	0.795165808694361
+Arthritis, Gouty	ketotifen	2	0.243395161081946
+Arthritis, Gouty	keyhole limpet hemocyanin	3	0.940247374935415
+Arthritis, Gouty	l-glutamine	2	0.282154048637767
+Arthritis, Gouty	l-lysine	2	0.104293221333999
+Arthritis, Gouty	labetalol	2.8	0.999902801832047
+Arthritis, Gouty	lacidipine	2.44444444444444	0.788539261339343
+Arthritis, Gouty	lacosamide	3	0.886425896957242
+Arthritis, Gouty	lactose	2	0.158536173025104
+Arthritis, Gouty	lamotrigine	2.75	0.999908126371888
+Arthritis, Gouty	lanadelumab	3	0.90319951541439
+Arthritis, Gouty	lanreotide	2.5	0.828106556695188
+Arthritis, Gouty	lansoprazole	2	0.5
+Arthritis, Gouty	lapatinib	1.5	0.113874096989553
+Arthritis, Gouty	larotrectinib	2	0.411225003425013
+Arthritis, Gouty	lasmiditan	3	0.675094610966594
+Arthritis, Gouty	lasofoxifene	2.33333333333333	0.809188002940345
+Arthritis, Gouty	latanoprost	3	0.893318648385445
+Arthritis, Gouty	latanoprostene bunod	3	0.841463826974896
+Arthritis, Gouty	lauric acid	2	0.0266404207325599
+Arthritis, Gouty	leflunomide	2	0.389661762637626
+Arthritis, Gouty	lemborexant	3	0.891011023259608
+Arthritis, Gouty	lenalidomide	2	0.331903790714222
+Arthritis, Gouty	lenograstim	2	0.374957161283911
+Arthritis, Gouty	lenvatinib	2	0.408605060640901
+Arthritis, Gouty	lepirudin	2	0.460172162722971
+Arthritis, Gouty	lercanidipine	3	0.66217742291099
+Arthritis, Gouty	lesinurad	3	0.898020142263447
+Arthritis, Gouty	letrozole	2	0.155031410571942
+Arthritis, Gouty	leuprolide	3	0.747791672591408
+Arthritis, Gouty	levacetylmethadol	2.66666666666667	0.917612425541021
+Arthritis, Gouty	levallorphan	2	0.424072650566491
+Arthritis, Gouty	levamisole	2.5	0.541143255644535
+Arthritis, Gouty	levamlodipine	2.25	0.827897381800871
+Arthritis, Gouty	levetiracetam	2	0.161742308584578
+Arthritis, Gouty	levobetaxolol	3	0.976866046149277
+Arthritis, Gouty	levobunolol	2.5	0.987022240434271
+Arthritis, Gouty	levobupivacaine	3	0.759147321819919
+Arthritis, Gouty	levocabastine	3	0.85533976524554
+Arthritis, Gouty	levocarnitine	2.54545454545455	0.687576683537679
+Arthritis, Gouty	levocetirizine	2	0.242497250706788
+Arthritis, Gouty	levodopa	2.8	0.998161205008239
+Arthritis, Gouty	levofloxacin	2	0.569452950120241
+Arthritis, Gouty	levomenthol	2.38461538461538	0.487062880621198
+Arthritis, Gouty	levomilnacipran	2.5	0.818661067143788
+Arthritis, Gouty	levonordefrin	3	0.986215043863653
+Arthritis, Gouty	levonorgestrel	2	0.680199665029621
+Arthritis, Gouty	levorphanol	2	0.272551233636201
+Arthritis, Gouty	levosalbutamol	2	0.580471939347127
+Arthritis, Gouty	levosimendan	2.75	0.983502693120576
+Arthritis, Gouty	levothyroxine	2	0.402829654114181
+Arthritis, Gouty	lidocaine	2.33333333333333	0.743036716932406
+Arthritis, Gouty	lifitegrast	2	0.297781794118698
+Arthritis, Gouty	linaclotide	2	0.203428523821845
+Arthritis, Gouty	linagliptin	2	0.414499995640553
+Arthritis, Gouty	lindane	2.125	0.256866084032152
+Arthritis, Gouty	liothyronine	2	0.539827837277029
+Arthritis, Gouty	liotrix	2	0.421945575872958
+Arthritis, Gouty	lipegfilgrastim	2	0.406651710300601
+Arthritis, Gouty	lipoic acid	2	0.0890192579910062
+Arthritis, Gouty	liraglutide	2	0.482236284666628
+Arthritis, Gouty	lisinopril	2.5	0.779272603798832
+Arthritis, Gouty	lisuride	2.8	0.999997671747089
+Arthritis, Gouty	lithium carbonate	2.25	0.625203159157354
+Arthritis, Gouty	lithium citrate	2.25	0.61961173012733
+Arthritis, Gouty	lixisenatide	2	0.556515707849836
+Arthritis, Gouty	lofexidine	2.66666666666667	0.994479760583073
+Arthritis, Gouty	lomefloxacin	2	0.539827837277029
+Arthritis, Gouty	lomitapide	2	0.183665196813397
+Arthritis, Gouty	lomustine	3	0.85465068632033
+Arthritis, Gouty	lonoctocog alfa	2.09090909090909	0.361192721812645
+Arthritis, Gouty	loperamide	2.14285714285714	0.646321616653685
+Arthritis, Gouty	lopinavir	2.33333333333333	0.618722020479195
+Arthritis, Gouty	loratadine	2	0.269885100332698
+Arthritis, Gouty	lorazepam	2.57142857142857	0.628770706338305
+Arthritis, Gouty	lorcaserin	3	0.883985433316665
+Arthritis, Gouty	lorlatinib	2	0.556515707849836
+Arthritis, Gouty	lormetazepam	2.8	0.803714919638764
+Arthritis, Gouty	lornoxicam	2.5	0.859141576053925
+Arthritis, Gouty	lorpiprazole	2.8	0.999809948594176
+Arthritis, Gouty	losartan	2	0.368095261747934
+Arthritis, Gouty	loteprednol etabonate	2	0.590280184349119
+Arthritis, Gouty	lovastatin	2	0.297405232524206
+Arthritis, Gouty	loxapine	2.80645161290323	0.999998888056589
+Arthritis, Gouty	loxoprofen	2.5	0.821346502469393
+Arthritis, Gouty	lubiprostone	2	0.363244662055771
+Arthritis, Gouty	lumacaftor	2	0.615393999131272
+Arthritis, Gouty	lumateperone	2.6	0.99966553522212
+Arthritis, Gouty	lumiracoxib	2.5	0.842938888338788
+Arthritis, Gouty	lurasidone	2.66666666666667	0.99143378159364
+Arthritis, Gouty	lusutrombopag	3	0.986044282000928
+Arthritis, Gouty	lutetium lu 177 dotatate	2.8	0.993258866630945
+Arthritis, Gouty	lutropin alfa	3	0.976866046149277
+Arthritis, Gouty	lyme disease vaccine (recombinant ospa)	2	0.460172162722971
+Arthritis, Gouty	lypressin	2.66666666666667	0.878149476348684
+Arthritis, Gouty	macimorelin	3	0.771094022995954
+Arthritis, Gouty	macitentan	2	0.256986186849996
+Arthritis, Gouty	mafenide	3	0.883985433316665
+Arthritis, Gouty	magnesium acetate	2	0.5
+Arthritis, Gouty	magnesium acetate tetrahydrate	2.28571428571429	0.702314867058963
+Arthritis, Gouty	magnesium carbonate	2.28571428571429	0.688140766073312
+Arthritis, Gouty	magnesium cation	2	0.482236284666628
+Arthritis, Gouty	magnesium sulfate	2.5	0.634537549779848
+Arthritis, Gouty	malathion	3	0.61141213129249
+Arthritis, Gouty	manganese	2.2	0.812374781684308
+Arthritis, Gouty	manidipine	2.58333333333333	0.936569637934764
+Arthritis, Gouty	maprotiline	2.88235294117647	0.99999949520304
+Arthritis, Gouty	maraviroc	2	0.419528060652873
+Arthritis, Gouty	masoprocol	2	0.398626189818971
+Arthritis, Gouty	mazindol	2.25	0.428490486524722
+Arthritis, Gouty	mebendazole	2	0.590280184349119
+Arthritis, Gouty	mecamylamine	3	0.988335516342536
+Arthritis, Gouty	mecasermin	2	0.481274004266148
+Arthritis, Gouty	mecasermin rinfabate	2	0.435697353664103
+Arthritis, Gouty	meclizine	2	0.225983494382793
+Arthritis, Gouty	meclofenamic acid	2.6	0.959191729524932
+Arthritis, Gouty	medrogestone	2	0.569452950120241
+Arthritis, Gouty	medroxyprogesterone acetate	2.5	0.728842905326803
+Arthritis, Gouty	medrysone	2	0.580471939347127
+Arthritis, Gouty	mefenamic acid	2.5	0.771514295514083
+Arthritis, Gouty	mefloquine	3	0.996615629426542
+Arthritis, Gouty	megestrol acetate	2	0.580471939347127
+Arthritis, Gouty	meloxicam	2.5	0.899219591102469
+Arthritis, Gouty	memantine	2.54166666666667	0.90182887230182
+Arthritis, Gouty	menadione	2.38461538461538	0.866654913982805
+Arthritis, Gouty	menotropins	2.5	0.872273589870482
+Arthritis, Gouty	menthyl salicylate	2.5	0.84005436221155
+Arthritis, Gouty	mepenzolate	3	0.972017561300764
+Arthritis, Gouty	meperidine	2.5	0.95599210469809
+Arthritis, Gouty	mephentermine	2.77777777777778	0.9997804359222
+Arthritis, Gouty	mephenytoin	2	0.333844760105556
+Arthritis, Gouty	mepivacaine	3	0.782800715662779
+Arthritis, Gouty	mepolizumab	3	0.802968200025648
+Arthritis, Gouty	meprobamate	2.61538461538462	0.68594017717374
+Arthritis, Gouty	mepyramine	2	0.203428523821845
+Arthritis, Gouty	mercaptopurine	2	0.259258496522561
+Arthritis, Gouty	mesalazine	2.28571428571429	0.908050655845829
+Arthritis, Gouty	mesoridazine	3	0.999685279640919
+Arthritis, Gouty	mestranol	2	0.667945862951247
+Arthritis, Gouty	metamfetamine	2.44444444444444	0.716485379272268
+Arthritis, Gouty	metamizole	3	0.95758907279707
+Arthritis, Gouty	metaraminol	3	0.931153272283878
+Arthritis, Gouty	metergoline	3	0.859492427064479
+Arthritis, Gouty	metformin	2.33333333333333	0.586197071489264
+Arthritis, Gouty	methacholine	3	0.965661217299385
+Arthritis, Gouty	methadone	2.42857142857143	0.926250587670806
+Arthritis, Gouty	methantheline	3	0.842051039889541
+Arthritis, Gouty	methazolamide	2.75	0.896345939515147
+Arthritis, Gouty	methdilazine	2	0.237569428041602
+Arthritis, Gouty	methimazole	3	0.739863101889446
+Arthritis, Gouty	methionine	2.4	0.549372862743051
+Arthritis, Gouty	methocarbamol	3	0.835655153620539
+Arthritis, Gouty	methohexital	3	0.883985433316665
+Arthritis, Gouty	methotrexate	2	0.290571470605074
+Arthritis, Gouty	methotrimeprazine	2.89473684210526	0.999999975090048
+Arthritis, Gouty	methoxamine	3	0.998258723286343
+Arthritis, Gouty	methoxy polyethylene glycol-epoetin beta	2	0.513236346083117
+Arthritis, Gouty	methoxyflurane	2.55555555555556	0.780090343027918
+Arthritis, Gouty	methscopolamine bromide	3	0.989090245868123
+Arthritis, Gouty	methsuximide	3	0.728581061596639
+Arthritis, Gouty	methyclothiazide	2.75	0.941403686959514
+Arthritis, Gouty	methyl aminolevulinate	1	0.00181800089329235
+Arthritis, Gouty	methyldopa	2.5	0.684186123709742
+Arthritis, Gouty	methylene blue	2	0.286046225881624
+Arthritis, Gouty	methylergometrine	3	0.979288897959506
+Arthritis, Gouty	methylnaltrexone	2	0.288034907556519
+Arthritis, Gouty	methylphenidate	2.33333333333333	0.531894948692992
+Arthritis, Gouty	methylphenobarbital	2.63636363636364	0.923273952812527
+Arthritis, Gouty	methylprednisolone	2	0.625042838716089
+Arthritis, Gouty	methyltestosterone	2	0.701882466712354
+Arthritis, Gouty	methyprylon	2.61538461538462	0.737976024390177
+Arthritis, Gouty	methysergide	2.75	0.990468577319618
+Arthritis, Gouty	metipranolol	2.5	0.99771894306564
+Arthritis, Gouty	metixene	3	0.98438679144549
+Arthritis, Gouty	metoclopramide	2.75	0.896366901134944
+Arthritis, Gouty	metocurine	3.5	0.998907489950227
+Arthritis, Gouty	metocurine iodide	4	0.99796239995424
+Arthritis, Gouty	metolazone	2	0.337981481399644
+Arthritis, Gouty	metoprolol	2.5	0.984001985619378
+Arthritis, Gouty	metreleptin	2	0.389537016279682
+Arthritis, Gouty	metyrapone	4	0.987709819122848
+Arthritis, Gouty	metyrosine	2	0.344044106225632
+Arthritis, Gouty	mexiletine	2	0.326246671503714
+Arthritis, Gouty	mianserin	2.73913043478261	0.999993370318762
+Arthritis, Gouty	miconazole	2.33333333333333	0.582906630790188
+Arthritis, Gouty	midazolam	2.83333333333333	0.869342606786949
+Arthritis, Gouty	midodrine	3	0.991771315051504
+Arthritis, Gouty	midostaurin	2	0.455318481145097
+Arthritis, Gouty	mifamurtide	0.5	1.31220047315937e-12
+Arthritis, Gouty	mifepristone	2	0.411604781511435
+Arthritis, Gouty	migalastat	2	0.320545910980988
+Arthritis, Gouty	miglitol	2	0.105108932761323
+Arthritis, Gouty	miglustat	2	0.207838699590591
+Arthritis, Gouty	milnacipran	2.33333333333333	0.809718624941795
+Arthritis, Gouty	milrinone	2	0.326246671503714
+Arthritis, Gouty	miltefosine	2	0.337981481399644
+Arthritis, Gouty	minaprine	2.77777777777778	0.999864325283071
+Arthritis, Gouty	minocycline	1.85714285714286	0.0216874359083048
+Arthritis, Gouty	minoxidil	2.66666666666667	0.92081589618392
+Arthritis, Gouty	mirabegron	2	0.174005991918305
+Arthritis, Gouty	mirtazapine	2.75	0.99995021320957
+Arthritis, Gouty	misoprostol	2.75	0.964762494803548
+Arthritis, Gouty	mitotane	2.6	0.994518224162886
+Arthritis, Gouty	mivacurium	3.25	0.999907954982645
+Arthritis, Gouty	moclobemide	2	0.104468191958862
+Arthritis, Gouty	modafinil	2.5	0.826035246278758
+Arthritis, Gouty	moexipril	2.5	0.639178061763185
+Arthritis, Gouty	mogamulizumab	2	0.580471939347127
+Arthritis, Gouty	molindone	2.75	0.990996748768311
+Arthritis, Gouty	molsidomine	2	0.262421470906054
+Arthritis, Gouty	mometasone	2	0.642321565484967
+Arthritis, Gouty	mometasone furoate	2	0.629927932097713
+Arthritis, Gouty	monobenzone	2	0.184060125346759
+Arthritis, Gouty	montelukast	3	0.937500688099139
+Arthritis, Gouty	moricizine	2	0.363244662055771
+Arthritis, Gouty	moroctocog alfa	2.09090909090909	0.414290948706747
+Arthritis, Gouty	morphine	1.75	0.0129229290870135
+Arthritis, Gouty	moxetumomab pasudotox	2	0.38334196447269
+Arthritis, Gouty	moxifloxacin	2	0.539827837277029
+Arthritis, Gouty	moxisylyte	3	0.999726138158633
+Arthritis, Gouty	moxonidine	2.5	0.84005436221155
+Arthritis, Gouty	muromonab	1.64285714285714	9.81000645079565e-08
+Arthritis, Gouty	mycophenolate mofetil	2	0.291759420532198
+Arthritis, Gouty	mycophenolic acid	2	0.358966441107371
+Arthritis, Gouty	myrrh	2	0.519863768700243
+Arthritis, Gouty	n-acetylglucosamine	2.57142857142857	0.758578752084885
+Arthritis, Gouty	nabilone	3	0.934310290516282
+Arthritis, Gouty	nabumetone	2.5	0.837566968444779
+Arthritis, Gouty	nadh	2.22388059701493	0.257149366409463
+Arthritis, Gouty	nadolol	2.5	0.988135008327755
+Arthritis, Gouty	nadroparin	2.5	0.979397033826955
+Arthritis, Gouty	nafarelin	3	0.739863101889446
+Arthritis, Gouty	naftifine	2	0.193738942187845
+Arthritis, Gouty	nalbuphine	2	0.316655695038267
+Arthritis, Gouty	naldemedine	2	0.260410731087502
+Arthritis, Gouty	nalmefene	2	0.242188737604348
+Arthritis, Gouty	naloxegol	2	0.35503595890891
+Arthritis, Gouty	naloxone	1.85714285714286	0.0297924832060021
+Arthritis, Gouty	naltrexone	2	0.27972852956859
+Arthritis, Gouty	nandrolone decanoate	2	0.615393999131272
+Arthritis, Gouty	nandrolone phenpropionate	2	0.599239516386724
+Arthritis, Gouty	naphazoline	3	0.99445634366391
+Arthritis, Gouty	naproxen	2.5	0.866934994555417
+Arthritis, Gouty	naratriptan	2.75	0.878099439133281
+Arthritis, Gouty	natalizumab	1.54545454545455	1.1021507499941e-08
+Arthritis, Gouty	nateglinide	2.5	0.913479347458114
+Arthritis, Gouty	nebivolol	2.33333333333333	0.788251065546641
+Arthritis, Gouty	necitumumab	1	0.0304997277935272
+Arthritis, Gouty	nedocromil	2.6	0.891285404081212
+Arthritis, Gouty	nefazodone	2.6	0.996565420158436
+Arthritis, Gouty	nelarabine	2	0.482236284666628
+Arthritis, Gouty	neomycin	2	0.247443801451088
+Arthritis, Gouty	neostigmine	3	0.986044282000928
+Arthritis, Gouty	nepafenac	2.5	0.871736349489669
+Arthritis, Gouty	neratinib	1	0.0466151774612966
+Arthritis, Gouty	nesiritide	2	0.156290631941542
+Arthritis, Gouty	netarsudil	2.33333333333333	0.873475505600599
+Arthritis, Gouty	netupitant	3	0.8888043172891
+Arthritis, Gouty	niacin	2	0.152100449471452
+Arthritis, Gouty	nialamide	2	0.0743338948663843
+Arthritis, Gouty	nicardipine	2.8	0.999743314262501
+Arthritis, Gouty	nicergoline	3	0.922131055124552
+Arthritis, Gouty	nicorandil	3	0.83082413921889
+Arthritis, Gouty	nicotinamide	2.25	0.744175907048134
+Arthritis, Gouty	nicotine	2.6	0.787263164098852
+Arthritis, Gouty	nifedipine	2.55555555555556	0.972520418059881
+Arthritis, Gouty	nilotinib	2	0.625042838716089
+Arthritis, Gouty	nilutamide	2	0.590280184349119
+Arthritis, Gouty	nilvadipine	2.66666666666667	0.935626658218189
+Arthritis, Gouty	nimesulide	2	0.347131708262821
+Arthritis, Gouty	nimodipine	2.4	0.794238129138332
+Arthritis, Gouty	nintedanib	1.91666666666667	0.149781609234539
+Arthritis, Gouty	niraparib	2	0.454265659166377
+Arthritis, Gouty	nisoldipine	2.6	0.87100752614515
+Arthritis, Gouty	nitisinone	2	0.1647100087752
+Arthritis, Gouty	nitrazepam	2.625	0.784179398829808
+Arthritis, Gouty	nitrendipine	2.625	0.853898347804772
+Arthritis, Gouty	nitric oxide	2	0.0852766573995211
+Arthritis, Gouty	nitroglycerin	2	0.262421470906054
+Arthritis, Gouty	nitroprusside	2	0.277669818423777
+Arthritis, Gouty	nitrous acid	2.5	0.691545458850005
+Arthritis, Gouty	nivolumab	3	0.898123230201775
+Arthritis, Gouty	nizatidine	3	0.634269845818649
+Arthritis, Gouty	nomifensine	2.28571428571429	0.369351184296956
+Arthritis, Gouty	nonacog beta pegol	2.33333333333333	0.833590074899891
+Arthritis, Gouty	norelgestromin	2	0.638534927211517
+Arthritis, Gouty	norepinephrine	2.72727272727273	0.998517536093628
+Arthritis, Gouty	norethisterone	2	0.608710552977649
+Arthritis, Gouty	norethynodrel	2	0.662702464330446
+Arthritis, Gouty	norfloxacin	2	0.539827837277029
+Arthritis, Gouty	norgestimate	2	0.725206377980299
+Arthritis, Gouty	norgestrel	2	0.617911422188953
+Arthritis, Gouty	nortriptyline	2.70833333333333	0.999999848850532
+Arthritis, Gouty	noscapine	2	0.262421470906054
+Arthritis, Gouty	nylidrin	3	0.990119733065116
+Arthritis, Gouty	obeticholic acid	2	0.460172162722971
+Arthritis, Gouty	obinutuzumab	3	0.969500272206473
+Arthritis, Gouty	ocrelizumab	3	0.986044282000928
+Arthritis, Gouty	ocriplasmin	1.66666666666667	0.0877470324827414
+Arthritis, Gouty	octocrylene	2	0.689934261405811
+Arthritis, Gouty	octreotide	2.66666666666667	0.912695634571214
+Arthritis, Gouty	ofatumumab	3	0.965854129401203
+Arthritis, Gouty	ofloxacin	2	0.522943119175437
+Arthritis, Gouty	olanzapine	2.81818181818182	0.999995509069099
+Arthritis, Gouty	olaparib	2	0.335811294853914
+Arthritis, Gouty	olaratumab	2	0.545204052591652
+Arthritis, Gouty	oleic acid	2.16666666666667	0.43054704987976
+Arthritis, Gouty	olmesartan	2	0.409719815650881
+Arthritis, Gouty	olodaterol	2	0.62282512785252
+Arthritis, Gouty	olopatadine	2.625	0.949059166748312
+Arthritis, Gouty	olsalazine	2.5	0.578054424127041
+Arthritis, Gouty	omalizumab	2	0.203310260878466
+Arthritis, Gouty	omega-3-acid ethyl esters	2	0.467517173550279
+Arthritis, Gouty	omega-3-carboxylic acids	2.16666666666667	0.307965093272812
+Arthritis, Gouty	omega-3 fatty acids	2	0.508278030246775
+Arthritis, Gouty	omeprazole	2	0.448466639612347
+Arthritis, Gouty	ondansetron	2.4	0.575182278294817
+Arthritis, Gouty	opicapone	2	0.342684282960263
+Arthritis, Gouty	opium	2	0.255292482015055
+Arthritis, Gouty	oprelvekin	3	0.888503069232803
+Arthritis, Gouty	orciprenaline	2	0.629927932097713
+Arthritis, Gouty	orlistat	2.66666666666667	0.928648816413123
+Arthritis, Gouty	ornithine	2.27272727272727	0.224487013802245
+Arthritis, Gouty	orphenadrine	2.42857142857143	0.75495765897569
+Arthritis, Gouty	oseltamivir	2	0.0953641191360887
+Arthritis, Gouty	osimertinib	1	0.0466151774612966
+Arthritis, Gouty	ospemifene	2	0.649739785701631
+Arthritis, Gouty	ouabain	2	0.251850654017079
+Arthritis, Gouty	oxacillin	4	0.999625408237079
+Arthritis, Gouty	oxandrolone	2	0.629927932097713
+Arthritis, Gouty	oxaprozin	2.5	0.886125903010447
+Arthritis, Gouty	oxazepam	2.6	0.779704182258996
+Arthritis, Gouty	oxcarbazepine	3	0.999646897651491
+Arthritis, Gouty	oxetacaine	3	0.902914003711916
+Arthritis, Gouty	oxiconazole	2	0.400760483613276
+Arthritis, Gouty	oxprenolol	2.33333333333333	0.813553920791088
+Arthritis, Gouty	oxtriphylline	2.4	0.915452729180802
+Arthritis, Gouty	oxybenzone	2	0.698220264938091
+Arthritis, Gouty	oxybuprocaine	3	0.888503069232803
+Arthritis, Gouty	oxybutynin	3	0.994103477074405
+Arthritis, Gouty	oxycodone	2	0.26458114376481
+Arthritis, Gouty	oxygen	2.8	0.938129221571307
+Arthritis, Gouty	oxymetazoline	3	0.999782539688613
+Arthritis, Gouty	oxymetholone	2.5	0.949331343538752
+Arthritis, Gouty	oxymorphone	2	0.377940582532638
+Arthritis, Gouty	oxyphencyclimine	3	0.98888714815878
+Arthritis, Gouty	oxyphenonium	3	0.883678925603411
+Arthritis, Gouty	oxytocin	2.5	0.537578880885027
+Arthritis, Gouty	paclitaxel	2	0.400064097249182
+Arthritis, Gouty	palbociclib	2	0.601373810181029
+Arthritis, Gouty	palifermin	2	0.443484292150165
+Arthritis, Gouty	paliperidone	2.73333333333333	0.999871260110479
+Arthritis, Gouty	palivizumab	1.44444444444444	1.84888237573487e-07
+Arthritis, Gouty	palmitic acid	2.1	0.188321241694515
+Arthritis, Gouty	palonosetron	3	0.825994008081695
+Arthritis, Gouty	pamidronic acid	2	0.348782706757389
+Arthritis, Gouty	pancuronium	3.33333333333333	0.999945810631038
+Arthritis, Gouty	panitumumab	1	0.0466151774612966
+Arthritis, Gouty	panobinostat	2	0.712114494512222
+Arthritis, Gouty	pantoprazole	2.5	0.869497097453744
+Arthritis, Gouty	papain	0	1.96783109423651e-08
+Arthritis, Gouty	papaverine	2	0.125734645014069
+Arthritis, Gouty	parachlorophenol	3	0.912440761559609
+Arthritis, Gouty	paramethadione	3	0.878848306220981
+Arthritis, Gouty	parathyroid hormone	2.5	0.67080677462246
+Arthritis, Gouty	parecoxib	2	0.345509460985262
+Arthritis, Gouty	pargyline	2	0.0997113015502158
+Arthritis, Gouty	paricalcitol	2	0.443484292150164
+Arthritis, Gouty	paroxetine	2.88571428571429	0.999999964276434
+Arthritis, Gouty	pasireotide	2.5	0.860214672374518
+Arthritis, Gouty	patent blue	2	0.599239516386724
+Arthritis, Gouty	pazopanib	2	0.247298024763643
+Arthritis, Gouty	pegademase	2	0.722330181576224
+Arthritis, Gouty	pegaptanib	2	0.384606000868728
+Arthritis, Gouty	pegfilgrastim	2	0.363244662055771
+Arthritis, Gouty	peginesatide	2	0.53600358359888
+Arthritis, Gouty	peginterferon alfa-2a	2.5	0.955156989114818
+Arthritis, Gouty	peginterferon alfa-2b	2.5	0.92692589945085
+Arthritis, Gouty	pegvisomant	2	0.515010203114794
+Arthritis, Gouty	pembrolizumab	3	0.869174454705882
+Arthritis, Gouty	pemetrexed	2	0.291852103693929
+Arthritis, Gouty	penbutolol	2.5	0.956075221054501
+Arthritis, Gouty	pentaerythritol tetranitrate	2.66666666666667	0.90478420993112
+Arthritis, Gouty	pentagastrin	3	0.935727974991015
+Arthritis, Gouty	pentamidine	3	0.997674013116332
+Arthritis, Gouty	pentazocine	2	0.208205291332311
+Arthritis, Gouty	pentobarbital	2.48	0.874403848872635
+Arthritis, Gouty	pentolinium	3	0.917253554802442
+Arthritis, Gouty	pentosan polysulfate	2.33333333333333	0.612022510126514
+Arthritis, Gouty	pentostatin	2	0.293290868807751
+Arthritis, Gouty	pentoxifylline	2.33333333333333	0.554018402979264
+Arthritis, Gouty	pentoxyverine	2.54545454545455	0.94470305720965
+Arthritis, Gouty	perampanel	2	0.409719815650881
+Arthritis, Gouty	pergolide	2.88235294117647	0.999999999224733
+Arthritis, Gouty	perhexiline	2.33333333333333	0.571649788216521
+Arthritis, Gouty	periciazine	2.75	0.998886206809869
+Arthritis, Gouty	perindopril	2.5	0.811981186989076
+Arthritis, Gouty	permethrin	2.33333333333333	0.872210700335689
+Arthritis, Gouty	perphenazine	2.66666666666667	0.998386399202497
+Arthritis, Gouty	pertuzumab	2	0.62282512785252
+Arthritis, Gouty	pexidartinib	2	0.380650139741676
+Arthritis, Gouty	phenacemide	3	0.9076877421883
+Arthritis, Gouty	phenazopyridine	3	0.9076877421883
+Arthritis, Gouty	phendimetrazine	3	0.996133967402285
+Arthritis, Gouty	phenelzine	2.66666666666667	0.836762578801047
+Arthritis, Gouty	phenformin	3	0.999367344475617
+Arthritis, Gouty	phenindamine	2	0.252411540378021
+Arthritis, Gouty	phenindione	3	0.996385697432202
+Arthritis, Gouty	pheniramine	2.33333333333333	0.49007435773618
+Arthritis, Gouty	phenmetrazine	2.5	0.669630876939805
+Arthritis, Gouty	phenobarbital	2.38461538461538	0.936289709825418
+Arthritis, Gouty	phenol	2	0.615393999131272
+Arthritis, Gouty	phenolphthalein	2	0.487116939313208
+Arthritis, Gouty	phenoxybenzamine	2.75	0.999792775062048
+Arthritis, Gouty	phenoxymethylpenicillin	4	0.960042507000895
+Arthritis, Gouty	phenprocoumon	3	0.999782439597868
+Arthritis, Gouty	phentermine	2.33333333333333	0.544030090712206
+Arthritis, Gouty	phentolamine	3	0.999842289716109
+Arthritis, Gouty	phenyl salicylate	2.5	0.912440761559609
+Arthritis, Gouty	phenylalanine	2.42857142857143	0.862133324256592
+Arthritis, Gouty	phenylbutazone	2.66666666666667	0.963990432909922
+Arthritis, Gouty	phenylephrine	3	0.998526234238504
+Arthritis, Gouty	phenylpropanolamine	2.83333333333333	0.999732638452953
+Arthritis, Gouty	phenytoin	2.56666666666667	0.967076254176561
+Arthritis, Gouty	pholcodine	2	0.265000341692654
+Arthritis, Gouty	phosphatidyl serine	2.3	0.445379008134886
+Arthritis, Gouty	phylloquinone	2	0.117755321655828
+Arthritis, Gouty	physostigmine	3	0.994294980588112
+Arthritis, Gouty	pidolic acid	2.88888888888889	0.995052551310962
+Arthritis, Gouty	pilocarpine	3	0.996474635444789
+Arthritis, Gouty	pimavanserin	3	0.998769757489203
+Arthritis, Gouty	pimecrolimus	2	0.539827837277029
+Arthritis, Gouty	pimozide	2.5	0.996942731596342
+Arthritis, Gouty	pinaverium	2	0.272551233636201
+Arthritis, Gouty	pindolol	2.4	0.751749008540493
+Arthritis, Gouty	pioglitazone	2	0.255441383691115
+Arthritis, Gouty	pipecuronium	3.33333333333333	0.999979479195671
+Arthritis, Gouty	piperazine	2	0.282829544037019
+Arthritis, Gouty	pipotiazine	2.75	0.996484267505817
+Arthritis, Gouty	pipradrol	3	0.987769184426634
+Arthritis, Gouty	pirbuterol	2.5	0.991802464075404
+Arthritis, Gouty	pirenzepine	3	0.8352899912248
+Arthritis, Gouty	piretanide	3	0.845320610363501
+Arthritis, Gouty	pirfenidone	2	0.522943119175437
+Arthritis, Gouty	piroxicam	2.5	0.880019859640287
+Arthritis, Gouty	pitavastatin	2	0.228905977004046
+Arthritis, Gouty	pitolisant	3	0.942026042946056
+Arthritis, Gouty	pizotifen	2.875	0.999998198974821
+Arthritis, Gouty	plecanatide	2	0.242497250706788
+Arthritis, Gouty	plerixafor	2	0.569452950120241
+Arthritis, Gouty	podofilox	2	0.642321565484967
+Arthritis, Gouty	polatuzumab vedotin	2	0.345509460985262
+Arthritis, Gouty	polyestradiol phosphate	2	0.662018518600356
+Arthritis, Gouty	polyethylene glycol 400	2.5	0.584631950984923
+Arthritis, Gouty	polythiazide	2	0.303977174948613
+Arthritis, Gouty	pomalidomide	2	0.292508807669127
+Arthritis, Gouty	ponatinib	1.93333333333333	0.248902586404127
+Arthritis, Gouty	porfimer sodium	1.5	0.00783367385281356
+Arthritis, Gouty	potassium	2	0.460172162722971
+Arthritis, Gouty	potassium acetate	2	0.539827837277029
+Arthritis, Gouty	potassium cation	2	0.532482826449721
+Arthritis, Gouty	potassium chloride	2.33333333333333	0.367908411783159
+Arthritis, Gouty	potassium nitrate	2	0.419528060652873
+Arthritis, Gouty	potassium sulfate	2	0.460172162722972
+Arthritis, Gouty	practolol	3	0.986044282000928
+Arthritis, Gouty	pralatrexate	2	0.342604524374016
+Arthritis, Gouty	pralidoxime	3	0.971281396032205
+Arthritis, Gouty	pramipexole	2.6	0.982910100129433
+Arthritis, Gouty	pramlintide	3.5	0.99999781456986
+Arthritis, Gouty	pramocaine	2.85714285714286	0.98961177077249
+Arthritis, Gouty	prasterone	2.41379310344828	0.913613030256194
+Arthritis, Gouty	prasugrel	3	0.634238443482089
+Arthritis, Gouty	pravastatin	2	0.371145714811151
+Arthritis, Gouty	prazepam	2.6	0.782330701881591
+Arthritis, Gouty	prazosin	2.83333333333333	0.998625948300876
+Arthritis, Gouty	prednicarbate	2	0.599239516386724
+Arthritis, Gouty	prednisolone	2	0.63675533794423
+Arthritis, Gouty	prednisolone acetate	2	0.643348413060771
+Arthritis, Gouty	prednisone	2	0.580471939347127
+Arthritis, Gouty	pregabalin	3	0.874012986245176
+Arthritis, Gouty	pregnenolone	2.5	0.82101531190107
+Arthritis, Gouty	prenylamine	2	0.5
+Arthritis, Gouty	prilocaine	2	0.397363447230139
+Arthritis, Gouty	primaquine	2	0.232658061024763
+Arthritis, Gouty	primidone	2.58823529411765	0.851023700846105
+Arthritis, Gouty	probenecid	2.66666666666667	0.724940881341723
+Arthritis, Gouty	probucol	2.5	0.79980302554831
+Arthritis, Gouty	procainamide	2	0.414055832271377
+Arthritis, Gouty	procaine	2.46666666666667	0.754537219266652
+Arthritis, Gouty	procarbazine	2	0.10040107365385
+Arthritis, Gouty	procaterol	2	0.569452950120241
+Arthritis, Gouty	prochlorperazine	2.875	0.999782982806939
+Arthritis, Gouty	procyclidine	3	0.998816075231851
+Arthritis, Gouty	profenamine	2.66666666666667	0.884528985284474
+Arthritis, Gouty	proflavine	2	0.454795947408348
+Arthritis, Gouty	progesterone	2.1	0.732429681582277
+Arthritis, Gouty	proguanil	2	0.326246671503714
+Arthritis, Gouty	promazine	2.85714285714286	0.999997625625874
+Arthritis, Gouty	promethazine	2.81818181818182	0.999779856312118
+Arthritis, Gouty	propafenone	2.25	0.89257021480982
+Arthritis, Gouty	propanoic acid	2	0.397363447230139
+Arthritis, Gouty	propantheline	3	0.883678925603411
+Arthritis, Gouty	proparacaine	3	0.721457019907544
+Arthritis, Gouty	propiomazine	2.85714285714286	0.99999368240773
+Arthritis, Gouty	propiverine	2.85714285714286	0.997945518317064
+Arthritis, Gouty	propofol	2.66666666666667	0.87268635057598
+Arthritis, Gouty	propoxycaine	2.85714285714286	0.997168107270515
+Arthritis, Gouty	propranolol	2.4	0.827162541352655
+Arthritis, Gouty	propyl alcohol	2	0.424072650566491
+Arthritis, Gouty	propylene glycol	2	0.320545910980988
+Arthritis, Gouty	propylhexedrine	2	0.262421470906054
+Arthritis, Gouty	propylthiouracil	3	0.825994008081695
+Arthritis, Gouty	protamine sulfate	2.5	0.849547601654097
+Arthritis, Gouty	protein s human	2.66666666666667	0.975854325241704
+Arthritis, Gouty	prothrombin	2	0.17382724006666
+Arthritis, Gouty	protirelin	3	0.798154521220958
+Arthritis, Gouty	protokylol	2	0.607564331445103
+Arthritis, Gouty	protriptyline	2.5	0.785668340064762
+Arthritis, Gouty	prucalopride	2	0.12346374958809
+Arthritis, Gouty	pseudoephedrine	2.23809523809524	0.985837702646716
+Arthritis, Gouty	pyrantel	3	0.874330169576492
+Arthritis, Gouty	pyrethrum extract	2	0.45740174409047
+Arthritis, Gouty	pyridostigmine	2.66666666666667	0.925601611994386
+Arthritis, Gouty	pyridoxal phosphate	2.36734693877551	0.866137201312603
+Arthritis, Gouty	pyridoxine	2	0.267469696891442
+Arthritis, Gouty	pyrimethamine	2	0.311110377366673
+Arthritis, Gouty	pyruvic acid	2.35714285714286	0.484826051107466
+Arthritis, Gouty	quazepam	2.6	0.725993166839935
+Arthritis, Gouty	quetiapine	2.84615384615385	0.999999985144621
+Arthritis, Gouty	quinagolide	3	0.99967779467196
+Arthritis, Gouty	quinapril	2	0.227761049963819
+Arthritis, Gouty	quinestrol	2	0.615393999131272
+Arthritis, Gouty	quinethazone	2.4	0.693265650990179
+Arthritis, Gouty	quinidine	2.5	0.953214598496593
+Arthritis, Gouty	quinidine barbiturate	2.6	0.904832585834064
+Arthritis, Gouty	quinine	2.5	0.708240579467802
+Arthritis, Gouty	rabeprazole	2	0.5
+Arthritis, Gouty	racepinephrine	2.77777777777778	0.999851978792848
+Arthritis, Gouty	raloxifene	2	0.538314792755411
+Arthritis, Gouty	raltitrexed	2	0.147268726995569
+Arthritis, Gouty	ramelteon	2.5	0.961887578573769
+Arthritis, Gouty	ramipril	2.5	0.590862262955681
+Arthritis, Gouty	ramucirumab	2	0.482236284666628
+Arthritis, Gouty	ranibizumab	2	0.443484292150164
+Arthritis, Gouty	ranitidine	3	0.945884116801174
+Arthritis, Gouty	ranolazine	2.76	0.999986646265343
+Arthritis, Gouty	rapacuronium	3	0.953384822538703
+Arthritis, Gouty	rasagiline	2	0.207485717393945
+Arthritis, Gouty	ravulizumab	2	0.303977174948613
+Arthritis, Gouty	reboxetine	3	0.898123230201775
+Arthritis, Gouty	regadenoson	3	0.969500272206473
+Arthritis, Gouty	regorafenib	2	0.405318121840565
+Arthritis, Gouty	remdesivir	3	0.997674013116332
+Arthritis, Gouty	remifentanil	2	0.255292482015055
+Arthritis, Gouty	remoxipride	2.6	0.976773653242158
+Arthritis, Gouty	repaglinide	2.5	0.84005436221155
+Arthritis, Gouty	rescinnamine	2	0.277669818423777
+Arthritis, Gouty	reserpine	2	0.252208327408592
+Arthritis, Gouty	reslizumab	3	0.793337788197683
+Arthritis, Gouty	resorcinol	3	0.780684865229451
+Arthritis, Gouty	resveratrol	2.08695652173913	0.861402446574017
+Arthritis, Gouty	reteplase	2.25	0.922629045893056
+Arthritis, Gouty	revefenacin	3	0.992438101086726
+Arthritis, Gouty	ribavirin	2.25	0.577884485715017
+Arthritis, Gouty	ribociclib	2	0.629518196223263
+Arthritis, Gouty	riboflavin	2	0.100614577137609
+Arthritis, Gouty	ribostamycin	2	0.37717487214748
+Arthritis, Gouty	rifabutin	1	0.000302586131269019
+Arthritis, Gouty	rifampicin	2	0.43054704987976
+Arthritis, Gouty	rifaximin	2	0.421945575872959
+Arthritis, Gouty	rilmenidine	3	0.965661217299385
+Arthritis, Gouty	rilonacept	2.33333333333333	0.530306043870141
+Arthritis, Gouty	rilpivirine	2	0.482236284666628
+Arthritis, Gouty	riluzole	2	0.208205291332311
+Arthritis, Gouty	rimexolone	2	0.607564331445103
+Arthritis, Gouty	rimonabant	3	0.965661217299385
+Arthritis, Gouty	riociguat	2	0.266836920025131
+Arthritis, Gouty	risankizumab	3	0.953361828137612
+Arthritis, Gouty	risedronic acid	2	0.309420465698755
+Arthritis, Gouty	risperidone	2.73333333333333	0.999991065153879
+Arthritis, Gouty	ritodrine	2	0.62282512785252
+Arthritis, Gouty	ritonavir	2	0.443484292150164
+Arthritis, Gouty	rituximab	3	0.945585741494888
+Arthritis, Gouty	rivaroxaban	2	0.332054137048752
+Arthritis, Gouty	rivastigmine	3	0.9407583670748
+Arthritis, Gouty	rizatriptan	3	0.921077128052176
+Arthritis, Gouty	rocuronium	3.33333333333333	0.998698980656667
+Arthritis, Gouty	rofecoxib	2	0.336722931438395
+Arthritis, Gouty	roflumilast	2	0.156786605682565
+Arthritis, Gouty	rolapitant	3	0.878848306220981
+Arthritis, Gouty	romidepsin	2	0.637270356312522
+Arthritis, Gouty	romiplostim	3	0.983151379636745
+Arthritis, Gouty	romosozumab	3	0.864333939053617
+Arthritis, Gouty	ropinirole	2.88888888888889	0.999991261229805
+Arthritis, Gouty	ropivacaine	3	0.783690621275128
+Arthritis, Gouty	rosiglitazone	2	0.435754198845037
+Arthritis, Gouty	rosuvastatin	2	0.26177923620177
+Arthritis, Gouty	rotigotine	2.71428571428571	0.998311030724008
+Arthritis, Gouty	roxithromycin	2	0.348782706757389
+Arthritis, Gouty	rucaparib	2	0.316799002918507
+Arthritis, Gouty	rufinamide	2	0.356651586939229
+Arthritis, Gouty	rupatadine	2	0.187625218315692
+Arthritis, Gouty	rutin	2	0.242497250706788
+Arthritis, Gouty	ruxolitinib	2	0.617911422188953
+Arthritis, Gouty	sacubitril	2	0.522943119175437
+Arthritis, Gouty	safinamide	2	0.21268534215561
+Arthritis, Gouty	salbutamol	2.33333333333333	0.663756058827945
+Arthritis, Gouty	salicylic acid	2.33333333333333	0.579926346968396
+Arthritis, Gouty	salmeterol	2.33333333333333	0.770841152933461
+Arthritis, Gouty	salmon calcitonin	3	0.955156989114818
+Arthritis, Gouty	salsalate	2.5	0.913479347458114
+Arthritis, Gouty	sapropterin	2.5	0.872856849437202
+Arthritis, Gouty	sargramostim	2.4	0.897713285524707
+Arthritis, Gouty	sarilumab	1.42857142857143	2.82052683451263e-09
+Arthritis, Gouty	saxagliptin	2	0.370072067902287
+Arthritis, Gouty	scopolamine	3	0.999535053061495
+Arthritis, Gouty	secobarbital	2.52941176470588	0.936570154272262
+Arthritis, Gouty	secretin human	3	0.917168874638881
+Arthritis, Gouty	secukinumab	2	0.232155176837053
+Arthritis, Gouty	segesterone acetate	2	0.628854285188848
+Arthritis, Gouty	selegiline	2	0.104101746244415
+Arthritis, Gouty	selexipag	2	0.313974599262192
+Arthritis, Gouty	selinexor	2	0.643348413060771
+Arthritis, Gouty	semaglutide	2	0.460172162722971
+Arthritis, Gouty	sennosides	3	0.859492427064479
+Arthritis, Gouty	seractide acetate	2	0.193738942187845
+Arthritis, Gouty	sermorelin	3	0.790292034819316
+Arthritis, Gouty	sertindole	2.875	0.999992867124946
+Arthritis, Gouty	sertraline	2.2	0.419869416642514
+Arthritis, Gouty	sevoflurane	2.55555555555556	0.802994331763127
+Arthritis, Gouty	sibutramine	2.33333333333333	0.613912239550096
+Arthritis, Gouty	sildenafil	2.33333333333333	0.427525838888502
+Arthritis, Gouty	silicon dioxide	4	0.993600443139877
+Arthritis, Gouty	silodosin	3	0.995664036505156
+Arthritis, Gouty	siltuximab	3	0.912440761559609
+Arthritis, Gouty	silver	2.30769230769231	0.278784155221269
+Arthritis, Gouty	simoctocog alfa	2	0.368095261747934
+Arthritis, Gouty	simvastatin	2	0.240572099038279
+Arthritis, Gouty	siponimod	2.5	0.668364489897296
+Arthritis, Gouty	sipuleucel-t	2	0.1647100087752
+Arthritis, Gouty	sirolimus	2	0.462464005067271
+Arthritis, Gouty	sitagliptin	2	0.37717487214748
+Arthritis, Gouty	sitaxentan	2	0.26177923620177
+Arthritis, Gouty	sodium carbonate	2.75	0.984001985619378
+Arthritis, Gouty	sodium ferric gluconate complex	2.5	0.910422151108726
+Arthritis, Gouty	sodium stibogluconate	1	7.22039941045998e-06
+Arthritis, Gouty	sodium sulfate	2.5	0.736057836608435
+Arthritis, Gouty	sodium tetradecyl sulfate	2.5	0.814972271417728
+Arthritis, Gouty	solifenacin	3	0.995535168065738
+Arthritis, Gouty	solriamfetol	2.5	0.689481932081082
+Arthritis, Gouty	somatostatin	2.8	0.97233005594012
+Arthritis, Gouty	somatotropin	2	0.28968896964008
+Arthritis, Gouty	somatrem	2	0.414499995640554
+Arthritis, Gouty	sonidegib	3	0.988690301312338
+Arthritis, Gouty	sorafenib	2	0.401798746623836
+Arthritis, Gouty	sotalol	2.33333333333333	0.970884320105708
+Arthritis, Gouty	soybean oil	2	0.532482826449721
+Arthritis, Gouty	sparfloxacin	2	0.556515707849836
+Arthritis, Gouty	spirapril	2	0.292508807669128
+Arthritis, Gouty	spironolactone	2.56666666666667	0.991141879784023
+Arthritis, Gouty	stanozolol	2	0.599239516386724
+Arthritis, Gouty	stearic acid	2.5	0.652761717496046
+Arthritis, Gouty	stiripentol	2.53333333333333	0.739924872375045
+Arthritis, Gouty	streptokinase	2	0.439698306008775
+Arthritis, Gouty	streptomycin	3	0.961685806645801
+Arthritis, Gouty	streptozocin	2.5	0.7313607281088
+Arthritis, Gouty	succinic acid	2.15	0.213202481357561
+Arthritis, Gouty	succinylcholine	3	0.998419520937861
+Arthritis, Gouty	sucralfate	2	0.304867027277916
+Arthritis, Gouty	sufentanil	2	0.242690864839527
+Arthritis, Gouty	sulfamethoxazole	2	0.392435668554897
+Arthritis, Gouty	sulfasalazine	2.1	0.188488550612064
+Arthritis, Gouty	sulfinpyrazone	2.25	0.700494279100735
+Arthritis, Gouty	sulindac	2.28571428571429	0.714573777324822
+Arthritis, Gouty	sulodexide	3	0.967923159199014
+Arthritis, Gouty	sulpiride	2.75	0.955950971422828
+Arthritis, Gouty	sumatriptan	2.75	0.848867362806898
+Arthritis, Gouty	sunitinib	2	0.333209424462438
+Arthritis, Gouty	suprofen	2.5	0.870384317293019
+Arthritis, Gouty	susoctocog alfa	2	0.370072067902287
+Arthritis, Gouty	suvorexant	3	0.945109256444099
+Arthritis, Gouty	synthetic conjugated estrogens, a	2	0.667945862951247
+Arthritis, Gouty	synthetic conjugated estrogens, b	2	0.643348413060771
+Arthritis, Gouty	tacrine	3	0.946037854856186
+Arthritis, Gouty	tacrolimus	2	0.539827837277029
+Arthritis, Gouty	tadalafil	2.5	0.433031169141399
+Arthritis, Gouty	tafamidis	3	0.99970189568733
+Arthritis, Gouty	tafluprost	3	0.880019859640287
+Arthritis, Gouty	tagraxofusp	2.5	0.928616380103965
+Arthritis, Gouty	talazoparib	2	0.530809008469575
+Arthritis, Gouty	talbutal	2.58823529411765	0.856270380598717
+Arthritis, Gouty	tamoxifen	1.94117647058824	0.27793719189856
+Arthritis, Gouty	tamsulosin	3	0.997404283519002
+Arthritis, Gouty	tapentadol	2.33333333333333	0.705015656482567
+Arthritis, Gouty	tasimelteon	2.5	0.953602836469735
+Arthritis, Gouty	tasonermin	2	0.593951541384903
+Arthritis, Gouty	taurine	2.5625	0.764074634862862
+Arthritis, Gouty	taurocholic acid	2.5	0.754728197170023
+Arthritis, Gouty	tazarotene	2	0.453073873373715
+Arthritis, Gouty	technetium tc-99m nofetumomab merpentan	2.5	0.688889622633327
+Arthritis, Gouty	technetium tc-99m tilmanocept	2	0.176220180823174
+Arthritis, Gouty	teduglutide	2	0.227272062436361
+Arthritis, Gouty	tegafur	2	0.397363447230139
+Arthritis, Gouty	tegafur-uracil	2	0.19332691244163
+Arthritis, Gouty	tegaserod	2.75	0.940387188860646
+Arthritis, Gouty	telaprevir	3	0.668096209285778
+Arthritis, Gouty	telmisartan	2	0.530809008469575
+Arthritis, Gouty	telotristat ethyl	3	0.903503537482732
+Arthritis, Gouty	temazepam	2.5625	0.646156264330844
+Arthritis, Gouty	temsirolimus	2	0.580471939347127
+Arthritis, Gouty	tenapanor	3	0.912440761559609
+Arthritis, Gouty	tenecteplase	2.27272727272727	0.989286512637186
+Arthritis, Gouty	teniposide	2	0.539827837277029
+Arthritis, Gouty	tenoxicam	2.5	0.860741898551877
+Arthritis, Gouty	terazosin	2.8	0.991029242147817
+Arthritis, Gouty	terbinafine	2	0.17438538255815
+Arthritis, Gouty	terbutaline	2.33333333333333	0.802361793596189
+Arthritis, Gouty	terfenadine	2.71428571428571	0.968506929394546
+Arthritis, Gouty	teriflunomide	2	0.297781794118698
+Arthritis, Gouty	teriparatide	2	0.303977174948613
+Arthritis, Gouty	terlipressin	2.66666666666667	0.825899160293437
+Arthritis, Gouty	tesamorelin	3	0.83082413921889
+Arthritis, Gouty	testolactone	2	0.154679389636499
+Arthritis, Gouty	testosterone	2	0.572539989341635
+Arthritis, Gouty	testosterone cypionate	2	0.610338237362373
+Arthritis, Gouty	testosterone enanthate	2	0.583853698238546
+Arthritis, Gouty	testosterone propionate	2	0.62282512785252
+Arthritis, Gouty	testosterone undecanoate	2	0.668096209285778
+Arthritis, Gouty	tetrabenazine	2.5	0.782538481486449
+Arthritis, Gouty	tetracaine	2.66666666666667	0.976513221523433
+Arthritis, Gouty	tetrachlorodecaoxide	2	0.165861977702976
+Arthritis, Gouty	tetracosactide	2	0.232658061024763
+Arthritis, Gouty	tetracycline	2.5	0.983682856336675
+Arthritis, Gouty	tetradecyl hydrogen sulfate (ester)	2	0.237569428041602
+Arthritis, Gouty	tetraferric tricitrate decahydrate	2	0.460172162722971
+Arthritis, Gouty	tetryzoline	3	0.961685806645801
+Arthritis, Gouty	tezacaftor	2	0.599239516386724
+Arthritis, Gouty	thalidomide	2.14285714285714	0.554270248285717
+Arthritis, Gouty	theophylline	2.28571428571429	0.664395840000323
+Arthritis, Gouty	thiamine	2.5	0.404653594320306
+Arthritis, Gouty	thiamylal	3.33333333333333	0.999047469524174
+Arthritis, Gouty	thiethylperazine	2.66666666666667	0.989766099724651
+Arthritis, Gouty	thimerosal	2.33333333333333	0.387849285505375
+Arthritis, Gouty	thiopental	2.75	0.963417568513608
+Arthritis, Gouty	thioridazine	2.83333333333333	0.99999658176448
+Arthritis, Gouty	thiothixene	3	0.999984774173766
+Arthritis, Gouty	thonzonium	2	0.522943119175437
+Arthritis, Gouty	thonzylamine	2.83333333333333	0.990861457009715
+Arthritis, Gouty	threonine	2.33333333333333	0.641997602247835
+Arthritis, Gouty	thrombin	2.4	0.877136926523727
+Arthritis, Gouty	thrombin alfa	2.375	0.885040321466418
+Arthritis, Gouty	thrombomodulin alfa	2.5	0.936659802299527
+Arthritis, Gouty	thyrotropin alfa	2	0.370072067902287
+Arthritis, Gouty	tiagabine	3	0.761446394020469
+Arthritis, Gouty	tiaprofenic acid	2.5	0.911492008562598
+Arthritis, Gouty	tibolone	2	0.643348413060771
+Arthritis, Gouty	ticagrelor	3	0.714274713647501
+Arthritis, Gouty	ticlopidine	3	0.633521587766168
+Arthritis, Gouty	tildrakizumab	3	0.953104152758971
+Arthritis, Gouty	tiludronic acid	2	0.595346405679694
+Arthritis, Gouty	timolol	2.5	0.966194615634024
+Arthritis, Gouty	tinzaparin	2.33333333333333	0.813553920791088
+Arthritis, Gouty	tioconazole	2	0.227761049963819
+Arthritis, Gouty	tiotropium	3	0.995411054987289
+Arthritis, Gouty	tipiracil	2	0.217538793096214
+Arthritis, Gouty	tirofiban	2	0.356651586939229
+Arthritis, Gouty	tisagenlecleucel	2	0.38409908550975
+Arthritis, Gouty	titanium dioxide	4	0.996585136269603
+Arthritis, Gouty	tixocortol	2	0.649739785701631
+Arthritis, Gouty	tizanidine	2.85714285714286	0.999302785337673
+Arthritis, Gouty	tocainide	2	0.384606000868728
+Arthritis, Gouty	tocilizumab	2	0.257403132953896
+Arthritis, Gouty	tocofersolan	2	0.314940478733754
+Arthritis, Gouty	tofacitinib	2	0.629518196223263
+Arthritis, Gouty	tolazamide	3	0.971313792796183
+Arthritis, Gouty	tolazoline	2.83333333333333	0.98075079631986
+Arthritis, Gouty	tolbutamide	2.5	0.773485148271616
+Arthritis, Gouty	tolcapone	2	0.350260214298369
+Arthritis, Gouty	tolfenamic acid	2.5	0.865563405913591
+Arthritis, Gouty	tolmetin	2.5	0.94470305720965
+Arthritis, Gouty	tolterodine	3	0.99164432319964
+Arthritis, Gouty	tolvaptan	2.5	0.721457019907544
+Arthritis, Gouty	topiramate	2.65384615384615	0.996826137102312
+Arthritis, Gouty	topotecan	2	0.130978434238745
+Arthritis, Gouty	torasemide	2.5	0.68019966502962
+Arthritis, Gouty	toremifene	2	0.685059521266246
+Arthritis, Gouty	tositumomab	1.6	9.3011273764565e-06
+Arthritis, Gouty	tramadol	2.54545454545455	0.998935406404326
+Arthritis, Gouty	trametinib	2	0.439698306008775
+Arthritis, Gouty	trandolapril	2	0.272551233636201
+Arthritis, Gouty	tranexamic acid	2	0.565406593191326
+Arthritis, Gouty	tranylcypromine	2	0.143694031128996
+Arthritis, Gouty	trastuzumab	1.5	3.72807229061579e-08
+Arthritis, Gouty	trastuzumab deruxtecan	1	2.21750868385654e-06
+Arthritis, Gouty	trastuzumab emtansine	2	0.62282512785252
+Arthritis, Gouty	travoprost	3	0.874330169576492
+Arthritis, Gouty	trazodone	2.57142857142857	0.939896974764565
+Arthritis, Gouty	treprostinil	2.33333333333333	0.47119706057021
+Arthritis, Gouty	triamcinolone	2	0.580471939347127
+Arthritis, Gouty	triamterene	2	0.16937824628127
+Arthritis, Gouty	triazolam	2.5625	0.664532602114985
+Arthritis, Gouty	trichlormethiazide	2.4	0.811522147519349
+Arthritis, Gouty	triclosan	2.2	0.638424176933782
+Arthritis, Gouty	trifarotene	2	0.416848089164225
+Arthritis, Gouty	trifluoperazine	2.66666666666667	0.996680382800078
+Arthritis, Gouty	triflupromazine	3	0.999673276624929
+Arthritis, Gouty	trifluridine	2	0.409719815650881
+Arthritis, Gouty	triflusal	2.25	0.612832504153318
+Arthritis, Gouty	trihexyphenidyl	3	0.993100781000382
+Arthritis, Gouty	trilostane	2.33333333333333	0.700494279100735
+Arthritis, Gouty	trimebutine	2.58333333333333	0.997158343279202
+Arthritis, Gouty	trimetazidine	2	0.397363447230139
+Arthritis, Gouty	trimethadione	3	0.752730330154467
+Arthritis, Gouty	trimethoprim	2	0.298602920768755
+Arthritis, Gouty	trimetrexate	2	0.350260214298369
+Arthritis, Gouty	trimipramine	2.75	0.999996712730463
+Arthritis, Gouty	tripelennamine	2	0.21313749767595
+Arthritis, Gouty	triprolidine	2	0.272551233636201
+Arthritis, Gouty	triptorelin	3	0.830452011862318
+Arthritis, Gouty	troglitazone	2	0.264000379471269
+Arthritis, Gouty	trolamine salicylate	2.5	0.818661067143788
+Arthritis, Gouty	troleandomycin	2	0.454795947408348
+Arthritis, Gouty	tromethamine	2.2	0.24255673149776
+Arthritis, Gouty	tropicamide	3	0.997842335662586
+Arthritis, Gouty	tropisetron	3	0.893318648385445
+Arthritis, Gouty	trospium	3	0.874330169576492
+Arthritis, Gouty	trovafloxacin	2	0.556515707849836
+Arthritis, Gouty	tryptophan	2.5	0.798154521220958
+Arthritis, Gouty	tuberculin purified protein derivative	2	0.382088577811047
+Arthritis, Gouty	tubocurarine	3	0.98672968114609
+Arthritis, Gouty	turoctocog alfa	2.33333333333333	0.773280907426124
+Arthritis, Gouty	turoctocog alfa pegol	2.33333333333333	0.785056455360617
+Arthritis, Gouty	turpentine	1	0.00232598688366816
+Arthritis, Gouty	tyloxapol	2	0.348782706757389
+Arthritis, Gouty	tyrosine	2.25	0.474861446728314
+Arthritis, Gouty	tyrothricin	3	0.983151379636745
+Arthritis, Gouty	ubidecarenone	2	0.382088577811048
+Arthritis, Gouty	ubrogepant	3	0.879160118403912
+Arthritis, Gouty	udenafil	2	0.184060125346759
+Arthritis, Gouty	ulipristal	2	0.686025400737808
+Arthritis, Gouty	ulobetasol	2	0.569452950120241
+Arthritis, Gouty	umeclidinium	3	0.998588423564115
+Arthritis, Gouty	upadacitinib	2	0.482236284666628
+Arthritis, Gouty	urea	2	0.365492599484296
+Arthritis, Gouty	urofollitropin	2	0.348782706757389
+Arthritis, Gouty	urokinase	2.4	0.992481680288082
+Arthritis, Gouty	ursodeoxycholic acid	2.5	0.601570073053631
+Arthritis, Gouty	ustekinumab	3	0.936900856700496
+Arthritis, Gouty	valdecoxib	2.33333333333333	0.472991281008641
+Arthritis, Gouty	valine	2	0.292657305508881
+Arthritis, Gouty	valproic acid	2.61111111111111	0.999015352946715
+Arthritis, Gouty	valsartan	2	0.391289447022351
+Arthritis, Gouty	vandetanib	1.8	0.126423461282507
+Arthritis, Gouty	vardenafil	2.33333333333333	0.43996009631905
+Arthritis, Gouty	varenicline	2.75	0.817731633440876
+Arthritis, Gouty	vasopressin	2.66666666666667	0.888931500767791
+Arthritis, Gouty	vecuronium	4	0.990907805679678
+Arthritis, Gouty	vedolizumab	2	0.473976628658378
+Arthritis, Gouty	velaglucerase alfa	2	0.454795947408348
+Arthritis, Gouty	vemurafenib	2	0.539827837277029
+Arthritis, Gouty	venetoclax	2	0.585500004359447
+Arthritis, Gouty	venlafaxine	2.33333333333333	0.584651994346815
+Arthritis, Gouty	verapamil	2.54545454545455	0.996735510990661
+Arthritis, Gouty	vernakalant	2	0.253123099714367
+Arthritis, Gouty	vigabatrin	2.5	0.787762564280041
+Arthritis, Gouty	vilanterol	2	0.556515707849836
+Arthritis, Gouty	vilazodone	2	0.228485704485916
+Arthritis, Gouty	vildagliptin	2	0.389537016279682
+Arthritis, Gouty	viloxazine	3	0.883678925603411
+Arthritis, Gouty	vinblastine	2	0.33962079884241
+Arthritis, Gouty	vincristine	2	0.638534927211517
+Arthritis, Gouty	vindesine	2	0.449519206289237
+Arthritis, Gouty	vinflunine	2	0.607564331445103
+Arthritis, Gouty	vinorelbine	2	0.643348413060771
+Arthritis, Gouty	vismodegib	3	0.945585741494888
+Arthritis, Gouty	vitamin a	2.35294117647059	0.144219077487091
+Arthritis, Gouty	vitamin d	2.5	0.970198183862429
+Arthritis, Gouty	vitamin e	2	0.136621844293096
+Arthritis, Gouty	von willebrand factor human	2	0.431949773586689
+Arthritis, Gouty	vonicog alfa	2	0.406048458615097
+Arthritis, Gouty	vorapaxar	2	0.370072067902287
+Arthritis, Gouty	voretigene neparvovec	4	0.991813471596769
+Arthritis, Gouty	vorinostat	2	0.720441113077797
+Arthritis, Gouty	vortioxetine	2.57142857142857	0.967562546441192
+Arthritis, Gouty	voxelotor	3	0.936106814026672
+Arthritis, Gouty	warfarin	2.5	0.991883424589392
+Arthritis, Gouty	xamoterol	3	0.976703148314434
+Arthritis, Gouty	xanthinol	2	0.363894554121422
+Arthritis, Gouty	ximelagatran	2	0.430547049879759
+Arthritis, Gouty	xylometazoline	3	0.999582180382938
+Arthritis, Gouty	yohimbine	2.88235294117647	0.999999992608285
+Arthritis, Gouty	zafirlukast	4	0.970007906386994
+Arthritis, Gouty	zaleplon	2.5	0.553579204630711
+Arthritis, Gouty	zanamivir	3	0.640738483894795
+Arthritis, Gouty	zanubrutinib	1.86666666666667	0.0401199126412404
+Arthritis, Gouty	zidovudine	2	0.590280184349119
+Arthritis, Gouty	zileuton	2	0.370481803776737
+Arthritis, Gouty	zimelidine	2	0.0749224137959784
+Arthritis, Gouty	zinc	2.25217391304348	0.976821024229773
+Arthritis, Gouty	zinc acetate	2.25217391304348	0.930243181345584
+Arthritis, Gouty	zinc chloride	2.25217391304348	0.958231612400953
+Arthritis, Gouty	ziprasidone	2.84	0.999999908352696
+Arthritis, Gouty	zofenopril	2	0.308508141767109
+Arthritis, Gouty	zoledronic acid	2	0.129735573022754
+Arthritis, Gouty	zolmitriptan	2.75	0.810333470952651
+Arthritis, Gouty	zolpidem	3	0.981698179237544
+Arthritis, Gouty	zonisamide	2.76	0.993848295267605
+Arthritis, Gouty	zopiclone	2.6	0.586214702847596
+Arthritis, Gouty	zotepine	2.75	0.999790392851455
+Arthritis, Gouty	zucapsaicin	2	0.298602920768755
+Arthritis, Gouty	zuclopenthixol	2.85714285714286	0.999765180590812
