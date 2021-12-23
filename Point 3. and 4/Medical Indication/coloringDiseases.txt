@@ -1,0 +1,416 @@
+TTD_association_old	color test	TDD_ass
+Wilson disease 	1	Wilson disease
+Vitamin K deficiency 	1	Vitamin K deficiency
+Vitamin E deficiency 	1	Vitamin E deficiency
+Vitamin deficiency 	1	Vitamin deficiency
+Vitamin D deficiency 	1	Vitamin D deficiency
+Vitamin D deficiency 	1	Vitamin D deficiency
+Vitamin B12 deficiency 	1	Vitamin B12 deficiency
+Visceral leishmaniasis 	1	Visceral leishmaniasis
+Virus infection 	1	Virus infection
+Venous thromboembolism 	1	Venous thromboembolism
+Vasculitis 	1	Vasculitis
+Urticaria 	1	Urticaria
+Urothelial carcinoma 	1	Urothelial carcinoma
+Urinary tract infection 	1	Urinary tract infection
+Urinary tract infection 	1	Urinary tract infection
+Ulcerative colitis 	1	Ulcerative colitis
+Ulcerative colitis 	1	Ulcerative colitis
+Ulcer 	1	Ulcer
+Type-2 diabetes 	1	Type-2 diabetes
+Type-2 diabetes 	1	Type-2 diabetes
+Type-2 diabetes 	1	Type-2 diabetes
+Type-2 diabetes 	1	Type-2 diabetes
+Type-2 diabetes 	1	Type-2 diabetes
+Type-1/2 diabetes 	1	Type-1/2 diabetes
+Type-1 diabetes 	1	Type-1 diabetes
+Tumour 	1	Tumour
+Tuberculosis 	1	Tuberculosis
+Toxoplasmosis 	1	Toxoplasmosis
+Thyroid cancer 	1	Thyroid cancer
+Thrombosis 	1	Thrombosis
+Thrombosis 	1	Thrombosis
+Thrombosis 	1	Thrombosis
+Thrombocytopenia 	1	Thrombocytopenia
+Thrombocytopenia 	1	Thrombocytopenia
+Thrombocytopenia 	1	Thrombocytopenia
+Thrombocythemia 	1	Thrombocythemia
+Thrombin deficiency 	1	Thrombin deficiency
+Thrombin deficiency 	1	Thrombin deficiency
+Tachyarrhythmias 	1	Tachyarrhythmias
+Systemic sclerosis 	1	Systemic sclerosis
+Systemic lupus erythematosus 	1	Systemic lupus erythematosus
+Somatotropin deficiency 	1	Somatotropin deficiency
+Solid tumour/cancer 	1	Solid tumour/cancer
+Solid tumour/cancer 	1	Solid tumour/cancer
+Solid tumour/cancer 	1	Solid tumour/cancer
+Solid tumour/cancer 	1	Solid tumour/cancer
+Solid tumour/cancer 	1	Solid tumour/cancer
+Solid tumour/cancer 	1	Solid tumour/cancer
+Solid tumour/cancer 	1	Solid tumour/cancer
+Solid tumour/cancer 	1	Solid tumour/cancer
+Solid tumour/cancer 	1	Solid tumour/cancer
+Solid tumour/cancer 	1	Solid tumour/cancer
+Skin cancer 	1	Skin cancer
+Skin allergy 	1	Skin allergy
+Sinus rhythm disorder 	1	Sinus rhythm disorder
+Severe sepsis 	1	Severe sepsis
+Sepsis 	1	Sepsis
+Sciatica 	1	Sciatica
+Schizophrenia 	1	Schizophrenia
+Schizophrenia 	1	Schizophrenia
+Schizophrenia 	1	Schizophrenia
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Rheumatoid arthritis 	1	Rheumatoid arthritis
+Respiratory tract inflammation 	1	Respiratory tract inflammation
+Respiratory syncytial virus infection 	1	Respiratory syncytial virus infection
+Renal transplantation 	1	Renal transplantation
+Renal cell carcinoma 	1	Renal cell carcinoma
+Renal cell carcinoma 	1	Renal cell carcinoma
+Rectal adenocarcinoma 	1	Rectal adenocarcinoma
+Radionuclide imaging 	1	Radionuclide imaging
+Pulmonary embolism 	1	Pulmonary embolism
+Pulmonary embolism 	1	Pulmonary embolism
+Pulmonary arterial hypertension 	1	Pulmonary arterial hypertension
+Pulmonary arterial hypertension 	1	Pulmonary arterial hypertension
+Pulmonary and extrapulmonary tuberculosis 	1	Pulmonary and extrapulmonary tuberculosis
+Psychotic disorder 	1	Psychotic disorder
+Psoriatic arthritis 	1	Psoriatic arthritis
+Psoriatic arthritis 	1	Psoriatic arthritis
+Psoriatic arthritis 	1	Psoriatic arthritis
+Psoriasis vulgaris 	1	Psoriasis vulgaris
+Psoriasis vulgaris 	1	Psoriasis vulgaris
+Psoriasis vulgaris 	1	Psoriasis vulgaris
+Prostate cancer 	1	Prostate cancer
+Prostate cancer 	1	Prostate cancer
+Prostate cancer 	1	Prostate cancer
+Prostate cancer 	1	Prostate cancer
+Primary mediastinal B-cell lymphoma 	1	Primary mediastinal B-cell lymphoma
+Primary haemophagocytic lymphohistiocytosis 	1	Primary haemophagocytic lymphohistiocytosis
+Premature labour 	1	Premature labour
+Premature labour 	1	Premature labour
+Postoperative inflammation 	1	Postoperative inflammation
+Postoperative inflammation 	1	Postoperative inflammation
+Postoperative hemorrhage 	1	Postoperative hemorrhage
+Postmenopausal osteoporosis 	1	Postmenopausal osteoporosis
+Postmenopausal osteoporosis 	1	Postmenopausal osteoporosis
+Plaque psoriasis 	1	Plaque psoriasis
+Plaque psoriasis 	1	Plaque psoriasis
+Plaque psoriasis 	1	Plaque psoriasis
+Plaque psoriasis 	1	Plaque psoriasis
+Plaque psoriasis 	1	Plaque psoriasis
+Plaque psoriasis 	1	Plaque psoriasis
+Peripheral T-cell lymphoma 	1	Peripheral T-cell lymphoma
+Peripheral T-cell lymphoma 	1	Peripheral T-cell lymphoma
+Peptic ulcer 	1	Peptic ulcer
+Peptic ulcer 	1	Peptic ulcer
+Pemphigus vulgaris 	1	Pemphigus vulgaris
+Pediculus capitis infestation 	1	Pediculus capitis infestation
+Paroxysmal supraventricular tachycardia 	1	Paroxysmal supraventricular tachycardia
+Paroxysmal nocturnal haemoglobinuria 	1	Paroxysmal nocturnal haemoglobinuria
+Parkinson disease 	1	Parkinson disease
+Pain 	1	Pain
+Pain 	1	Pain
+Pain 	1	Pain
+Pain 	1	Pain
+Pain 	1	Pain
+Pain 	1	Pain
+Pain 	1	Pain
+Pain 	1	Pain
+Pain 	1	Pain
+Pain 	1	Pain
+Pain 	1	Pain
+Pain 	1	Pain
+Overactive bladder 	1	Overactive bladder
+Ovarian cancer 	1	Ovarian cancer
+Osteoporosis 	1	Osteoporosis
+Osteoarthritis 	1	Osteoarthritis
+Osteoarthritis 	1	Osteoarthritis
+Osteoarthritis 	1	Osteoarthritis
+Osteoarthritis 	1	Osteoarthritis
+Osteoarthritis 	1	Osteoarthritis
+Osteoarthritis 	1	Osteoarthritis
+Organ transplant rejection 	1	Organ transplant rejection
+Organ transplant rejection 	1	Organ transplant rejection
+Organ transplant rejection 	1	Organ transplant rejection
+Open-angle glaucoma 	1	Open-angle glaucoma
+Open-angle glaucoma 	1	Open-angle glaucoma
+NSAID-associated gastric ulcer 	1	NSAID-associated gastric ulcer
+Non-small-cell lung cancer 	1	Non-small-cell lung cancer
+Non-small-cell lung cancer 	1	Non-small-cell lung cancer
+Non-small-cell lung cancer 	1	Non-small-cell lung cancer
+Non-small-cell lung cancer 	1	Non-small-cell lung cancer
+Non-hodgkin lymphoma 	1	Non-hodgkin lymphoma
+Non-hodgkin lymphoma 	1	Non-hodgkin lymphoma
+Non-hodgkin lymphoma 	1	Non-hodgkin lymphoma
+Non-hodgkin lymphoma 	1	Non-hodgkin lymphoma
+Non-erosive gastro-esophageal reflux disease 	1	Non-erosive gastro-esophageal reflux disease
+Nausea 	1	Nausea
+Nasal congestion 	1	Nasal congestion
+Myocardial infarction 	1	Myocardial infarction
+Myocardial infarction 	1	Myocardial infarction
+Musculoskeletal pain 	1	Musculoskeletal pain
+Musculoskeletal disorder 	1	Musculoskeletal disorder
+Multiple sclerosis 	1	Multiple sclerosis
+Multiple sclerosis 	1	Multiple sclerosis
+Multiple sclerosis 	1	Multiple sclerosis
+Multiple sclerosis 	1	Multiple sclerosis
+Multiple sclerosis 	1	Multiple sclerosis
+Multiple sclerosis 	1	Multiple sclerosis
+Multiple myeloma 	1	Multiple myeloma
+Multiple myeloma 	1	Multiple myeloma
+Multiple myeloma 	1	Multiple myeloma
+Multiple myeloma 	1	Multiple myeloma
+Miosis 	1	Miosis
+Migraine 	1	Migraine
+Migraine 	1	Migraine
+Metastatic colorectal cancer 	1	Metastatic colorectal cancer
+Metastatic colorectal cancer 	1	Metastatic colorectal cancer
+Merkel cell carcinoma 	1	Merkel cell carcinoma
+Menstrual disorder 	1	Menstrual disorder
+Menorrhagia 	1	Menorrhagia
+Menopausal and postmenopausal disorder 	1	Menopausal and postmenopausal disorder
+Melanoma 	1	Melanoma
+Melanoma 	1	Melanoma
+Melanoma 	1	Melanoma
+Melanoma 	1	Melanoma
+Melanoma 	1	Melanoma
+Melanoma 	1	Melanoma
+Medical abortion 	1	Medical abortion
+Medical abortion 	1	Medical abortion
+Mantle cell lymphoma 	1	Mantle cell lymphoma
+Malignant pleural mesothelioma 	1	Malignant pleural mesothelioma
+Malignant pleural effusion 	1	Malignant pleural effusion
+Malaria 	1	Malaria
+Malaria 	1	Malaria
+Malaria 	1	Malaria
+Malaria 	1	Malaria
+Major depressive disorder 	1	Major depressive disorder
+Lymphatic filariasis 	1	Lymphatic filariasis
+Lung injury 	1	Lung injury
+leukaemia 	1	leukaemia
+leukaemia 	1	leukaemia
+LennoxGastaut syndrome 	1	LennoxGastaut syndrome
+Leishmaniasis 	1	Leishmaniasis
+Knee osteoarthritis 	1	Knee osteoarthritis
+Kidney transplant rejection 	1	Kidney transplant rejection
+Juvenile idiopathic arthritis 	1	Juvenile idiopathic arthritis
+Irritable bowel syndrome 	1	Irritable bowel syndrome
+Intermittent claudication 	1	Intermittent claudication
+Insomnia 	1	Insomnia
+Insomnia 	1	Insomnia
+Insomnia 	1	Insomnia
+Inflammatory bowel disease 	1	Inflammatory bowel disease
+Inflammatory bowel disease 	1	Inflammatory bowel disease
+Inflammatory bowel disease 	1	Inflammatory bowel disease
+Inflammatory bowel disease 	1	Inflammatory bowel disease
+Inflammation 	1	Inflammation
+Inflammation 	1	Inflammation
+Infection of P. falciparum 	1	Infection of P. falciparum
+Immune thrombocytopenic purpura 	1	Immune thrombocytopenic purpura
+Hyperuricaemia 	1	Hyperuricaemia
+Hypertriglyceridemia 	1	Hypertriglyceridemia
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hypertension 	1	Hypertension
+Hyperprolactinaemia 	1	Hyperprolactinaemia
+Hyperparathyroidism 	1	Hyperparathyroidism
+Hyperlipidaemia 	1	Hyperlipidaemia
+Hyperglyceridemia 	1	Hyperglyceridemia
+Human immunodeficiency virus-1 infection 	1	Human immunodeficiency virus-1 infection
+Human immunodeficiency virus infection 	1	Human immunodeficiency virus infection
+Human immunodeficiency virus infection 	1	Human immunodeficiency virus infection
+Human immunodeficiency virus infection 	1	Human immunodeficiency virus infection
+Hormonally-responsive breast cancer 	1	Hormonally-responsive breast cancer
+Hormonally-responsive breast cancer 	1	Hormonally-responsive breast cancer
+High blood pressure 	1	High blood pressure
+High blood pressure 	1	High blood pressure
+Hereditary hemorrhagic telangiectasia 	1	Hereditary hemorrhagic telangiectasia
+Hereditary angioedema 	1	Hereditary angioedema
+Hepatitis C virus infection 	1	Hepatitis C virus infection
+Hepatitis C virus infection 	1	Hepatitis C virus infection
+Hepatitis B virus infection 	1	Hepatitis B virus infection
+Hepatic veno-occlusive disease 	1	Hepatic veno-occlusive disease
+Heart arrhythmia 	1	Heart arrhythmia
+Hay fever 	1	Hay fever
+Hairy cell leukaemia 	1	Hairy cell leukaemia
+Hairy cell leukaemia 	1	Hairy cell leukaemia
+Growth hormone deficiency 	1	Growth hormone deficiency
+Gout 	1	Gout
+Glaucoma/ocular hypertension 	1	Glaucoma/ocular hypertension
+Glaucoma/ocular hypertension 	1	Glaucoma/ocular hypertension
+Glaucoma/ocular hypertension 	1	Glaucoma/ocular hypertension
+Gastrointestinal disease 	1	Gastrointestinal disease
+Gastroesophageal reflux disease 	1	Gastroesophageal reflux disease
+Gastroesophageal reflux disease 	1	Gastroesophageal reflux disease
+Fungal infection 	1	Fungal infection
+Fungal infection 	1	Fungal infection
+Follicular lymphoma 	1	Follicular lymphoma
+Erosive esophagitis 	1	Erosive esophagitis
+Endometriosis 	1	Endometriosis
+Edema 	1	Edema
+Dysmenorrhea 	1	Dysmenorrhea
+Dysmenorrhea 	1	Dysmenorrhea
+Dry eye disease 	1	Dry eye disease
+Dry eye disease 	1	Dry eye disease
+Dravet syndrome 	1	Dravet syndrome
+Diffuse large B-cell lymphoma 	1	Diffuse large B-cell lymphoma
+Diabetic nephropathy 	1	Diabetic nephropathy
+Dermatitis 	1	Dermatitis
+Depression 	1	Depression
+Depression 	1	Depression
+Depression 	1	Depression
+Depression 	1	Depression
+Depression 	1	Depression
+Depression 	1	Depression
+Depression 	1	Depression
+Cutaneous T-cell lymphoma 	1	Cutaneous T-cell lymphoma
+Cutaneous squamous cell carcinoma 	1	Cutaneous squamous cell carcinoma
+Cushing disease 	1	Cushing disease
+Cushing disease 	1	Cushing disease
+Cushing disease 	1	Cushing disease
+Cryopyrin-associated periodic syndromes 	1	Cryopyrin-associated periodic syndromes
+Cough 	1	Cough
+Coronary artery disease 	1	Coronary artery disease
+Contraception 	1	Contraception
+Contraception 	1	Contraception
+Contraception 	1	Contraception
+Contraception 	1	Contraception
+Contraception 	1	Contraception
+Contraception 	1	Contraception
+Contraception 	1	Contraception
+Contraception 	1	Contraception
+Contraception 	1	Contraception
+Constipation 	1	Constipation
+Congestive heart failure 	1	Congestive heart failure
+Congestive heart failure 	1	Congestive heart failure
+Congestive heart failure 	1	Congestive heart failure
+Congestive heart failure 	1	Congestive heart failure
+Congestive heart failure 	1	Congestive heart failure
+Congestive heart failure 	1	Congestive heart failure
+Congenital alopecia 	1	Congenital alopecia
+Common cold 	1	Common cold
+Colorectal cancer 	1	Colorectal cancer
+Colorectal cancer 	1	Colorectal cancer
+Colorectal cancer 	1	Colorectal cancer
+Colorectal cancer 	1	Colorectal cancer
+Coagulation defect 	1	Coagulation defect
+Circadian rhythm sleep disorder 	1	Circadian rhythm sleep disorder
+Chronic pain 	1	Chronic pain
+Chronic open-angle glaucoma 	1	Chronic open-angle glaucoma
+Chronic open-angle glaucoma 	1	Chronic open-angle glaucoma
+Chronic obstructive pulmonary disease 	1	Chronic obstructive pulmonary disease
+Chronic obstructive pulmonary disease 	1	Chronic obstructive pulmonary disease
+Chronic obstructive pulmonary disease 	1	Chronic obstructive pulmonary disease
+Chronic obstructive pulmonary disease 	1	Chronic obstructive pulmonary disease
+Chronic myelogenous leukaemia 	1	Chronic myelogenous leukaemia
+Chronic myelogenous leukaemia 	1	Chronic myelogenous leukaemia
+Chronic lymphocytic leukaemia 	1	Chronic lymphocytic leukaemia
+Chronic lymphocytic leukaemia 	1	Chronic lymphocytic leukaemia
+Chronic granulomatous disease 	1	Chronic granulomatous disease
+Chronic breathing disorder 	1	Chronic breathing disorder
+Chemotherapy-induced nausea 	1	Chemotherapy-induced nausea
+Chemotherapy-induced nausea 	1	Chemotherapy-induced nausea
+Cerebrovascular ischaemia 	1	Cerebrovascular ischaemia
+Cardiovascular disease 	1	Cardiovascular disease
+Cardiac arrhythmias 	1	Cardiac arrhythmias
+Carcinoid syndrome diarrhea 	1	Carcinoid syndrome diarrhea
+Carcinoid syndrome 	1	Carcinoid syndrome
+Bronchioalveolar carcinoma 	1	Bronchioalveolar carcinoma
+Bronchial asthma 	1	Bronchial asthma
+Breast cancer 	1	Breast cancer
+Breast cancer 	1	Breast cancer
+Breast cancer 	1	Breast cancer
+Breast cancer 	1	Breast cancer
+Breast cancer 	1	Breast cancer
+Breast cancer 	1	Breast cancer
+Breast cancer 	1	Breast cancer
+Bleeding disorder 	1	Bleeding disorder
+Bleeding disorder 	1	Bleeding disorder
+Bleeding disorder 	1	Bleeding disorder
+Bacterial infection 	1	Bacterial infection
+Bacterial infection 	1	Bacterial infection
+Bacterial infection 	1	Bacterial infection
+Bacterial infection 	1	Bacterial infection
+Bacterial infection 	1	Bacterial infection
+Bacterial infection 	1	Bacterial infection
+Attention deficit hyperactivity disorder 	1	Attention deficit hyperactivity disorder
+Atopic dermatitis 	1	Atopic dermatitis
+Atopic dermatitis 	1	Atopic dermatitis
+Asthma 	1	Asthma
+Asthma 	1	Asthma
+Asthma 	1	Asthma
+Asthma 	1	Asthma
+Asthma 	1	Asthma
+Asthma 	1	Asthma
+Asthma 	1	Asthma
+Asthma 	1	Asthma
+Asthma 	1	Asthma
+Asthma 	1	Asthma
+Arthritis 	1	Arthritis
+Arthritis 	1	Arthritis
+Arthritis 	1	Arthritis
+Arthritis 	1	Arthritis
+Ankylosing spondylitis 	1	Ankylosing spondylitis
+Angina pectoris 	1	Angina pectoris
+Anemia 	1	Anemia
+Anemia 	1	Anemia
+Alzheimer disease 	1	Alzheimer disease
+Alzheimer disease 	1	Alzheimer disease
+Alopecia 	1	Alopecia
+Allergic rhinitis 	1	Allergic rhinitis
+Allergic conjunctivitis 	1	Allergic conjunctivitis
+Age-related macular degeneration 	1	Age-related macular degeneration
+Adrenocortical carcinoma 	1	Adrenocortical carcinoma
+Acute supraventricular tachycardia 	1	Acute supraventricular tachycardia
+Acute myeloid leukaemia 	1	Acute myeloid leukaemia
+Acute myeloid leukaemia 	1	Acute myeloid leukaemia
+Acute lymphoblastic leukaemia 	1	Acute lymphoblastic leukaemia
+Acute lymphoblastic leukaemia 	1	Acute lymphoblastic leukaemia
+Acute lymphoblastic leukaemia 	1	Acute lymphoblastic leukaemia
+Acute lymphoblastic leukaemia 	1	Acute lymphoblastic leukaemia
+Acute gout flare 	1	Acute gout flare
+Acute asthma 	1	Acute asthma
+Acne vulgaris 	1	Acne vulgaris
+Acne vulgaris 	1	Acne vulgaris

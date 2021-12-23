@@ -1,0 +1,416 @@
+drug	proximity	pval	similarity	adjusted_similarity	TTD_association	TDD_ass
+abatacept	0	0.000332997	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+abciximab	0.307692308	2.59E-10	0.897435897	0.999641387	Angina pectoris 	Angina pectoris
+abiraterone	0	0.00899109	1	0.99995369	Prostate cancer 	Prostate cancer
+acebutolol	0	0.001777356	1	0.99995369	Hypertension 	Hypertension
+aceclofenac	0	0.001044252	1	0.99995369	Inflammation 	Inflammation
+acenocoumarol	0	0.019968885	1	0.99995369	Thrombosis 	Thrombosis
+acetaminophen	0.5	0.00076704	0.833333333	0.998712041	Pain 	Pain
+acetohydroxamic acid	0	0.007713034	1	0.99995369	Urinary tract infection 	Urinary tract infection
+adalimumab	0	7.67E-09	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+adenosine	0.5	0.000362947	0.833333333	0.998712041	Paroxysmal supraventricular tachycardia 	Paroxysmal supraventricular tachycardia
+aflibercept	0.666666667	0.004417594	0.777777778	0.996106348	Metastatic colorectal cancer 	Metastatic colorectal cancer
+alclofenac	0	0.00173908	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+aldesleukin	0.333333333	0.000221145	0.888888889	0.999574708	Non-hodgkin lymphoma 	Non-hodgkin lymphoma
+aldesleukin	0.333333333	0.000221145	0.888888889	0.999574708	Renal cell carcinoma 	Renal cell carcinoma
+alefacept	0	1.61E-18	1	0.99995369	Pain 	Pain
+alemtuzumab	0.1	1.68E-14	0.966666667	0.999909924	Chronic lymphocytic leukaemia 	Chronic lymphocytic leukaemia
+alemtuzumab	0.1	1.68E-14	0.966666667	0.999909924	Multiple sclerosis 	Multiple sclerosis
+alogliptin	0	1.70E-07	1	0.99995369	Type-2 diabetes 	Type-2 diabetes
+alteplase	0.75	0.041546638	0.75	0.993240715	Pulmonary embolism 	Pulmonary embolism
+ambrisentan	0.5	0.023242505	0.833333333	0.998712041	Pulmonary arterial hypertension 	Pulmonary arterial hypertension
+aminocaproic acid	0.666666667	0.020102841	0.777777778	0.996106348	Bleeding disorder 	Bleeding disorder
+aminocaproic acid	0.666666667	0.020102841	0.777777778	0.996106348	Postoperative hemorrhage 	Postoperative hemorrhage
+aminoglutethimide	0.5	0.003733156	0.833333333	0.998712041	Cushing disease 	Cushing disease
+aminophylline	0.5	0.000232266	0.833333333	0.998712041	Asthma 	Asthma
+aminophylline	0.5	0.000232266	0.833333333	0.998712041	Bronchial asthma 	Bronchial asthma
+aminosalicylic acid	0.333333333	0.008197536	0.888888889	0.999574708	Inflammatory bowel disease 	Inflammatory bowel disease
+aminosalicylic acid	0.333333333	0.008197536	0.888888889	0.999574708	Pulmonary and extrapulmonary tuberculosis 	Pulmonary and extrapulmonary tuberculosis
+amlexanox	1	0.045832352	0.666666667	0.965333637	Respiratory tract inflammation 	Respiratory tract inflammation
+amphetamine	1.176470588	0.025480433	0.607843137	0.019807653	Attention deficit hyperactivity disorder 	Attention deficit hyperactivity disorder
+anagrelide	0	0.002357022	1	0.99995369	Thrombocythemia 	Thrombocythemia
+anakinra	0	0.014136576	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+anastrozole	0	0.000537771	1	0.99995369	Breast cancer 	Breast cancer
+anti-inhibitor coagulant complex	0.625	0.001277086	0.791666667	0.99704628	Bleeding disorder 	Bleeding disorder
+antithrombin alfa	0.5	0.046942665	0.833333333	0.998712041	Thrombin deficiency 	Thrombin deficiency
+aprepitant	0	0.016946622	1	0.99995369	Nausea 	Nausea
+arbutamine	0	0.000331077	1	0.99995369	Coronary artery disease 	Coronary artery disease
+argatroban	0	0.016708873	1	0.99995369	Thrombosis 	Thrombosis
+arsenic trioxide	0.7	0.00317314	0.766666667	0.99514426	Acute lymphoblastic leukaemia 	Acute lymphoblastic leukaemia
+asenapine	1.105263158	0.038760436	0.631578947	0.932537987	Schizophrenia 	Schizophrenia
+atenolol	0	0.001514771	1	0.99995369	Hypertension 	Hypertension
+atezolizumab	0	0.007057017	1	0.99995369	Melanoma 	Melanoma
+atezolizumab	0	0.007057017	1	0.99995369	Solid tumour/cancer 	Solid tumour/cancer
+atezolizumab	0	0.007057017	1	0.99995369	Ulcer 	Ulcer
+atezolizumab	0	0.007057017	1	0.99995369	Bronchioalveolar carcinoma 	Bronchioalveolar carcinoma
+atovaquone	0	0.025066729	1	0.99995369	Fungal infection 	Fungal infection
+avelumab	0	0.004581879	1	0.99995369	Solid tumour/cancer 	Solid tumour/cancer
+avelumab	0	0.004581879	1	0.99995369	Merkel cell carcinoma 	Merkel cell carcinoma
+axicabtagene ciloleucel	0	0.003976105	1	0.99995369	Non-hodgkin lymphoma 	Non-hodgkin lymphoma
+axicabtagene ciloleucel	0	0.003976105	1	0.99995369	Follicular lymphoma 	Follicular lymphoma
+axicabtagene ciloleucel	0	0.003976105	1	0.99995369	Mantle cell lymphoma 	Mantle cell lymphoma
+axicabtagene ciloleucel	0	0.003976105	1	0.99995369	Diffuse large B-cell lymphoma 	Diffuse large B-cell lymphoma
+axicabtagene ciloleucel	0	0.003976105	1	0.99995369	Acute lymphoblastic leukaemia 	Acute lymphoblastic leukaemia
+axicabtagene ciloleucel	0	0.003976105	1	0.99995369	Primary mediastinal B-cell lymphoma 	Primary mediastinal B-cell lymphoma
+azathioprine	0.5	0.000401652	0.833333333	0.998712041	Organ transplant rejection 	Organ transplant rejection
+balsalazide	0.25	0.000544636	0.916666667	0.999755673	Inflammatory bowel disease 	Inflammatory bowel disease
+baricitinib	0.5	0.002444564	0.833333333	0.998712041	Rheumatoid arthritis 	Rheumatoid arthritis
+basiliximab	0.083333333	9.09E-19	0.972222222	0.999919378	Organ transplant rejection 	Organ transplant rejection
+belatacept	0	0.000227858	1	0.99995369	Kidney transplant rejection 	Kidney transplant rejection
+belimumab	0	0.003295233	1	0.99995369	Systemic lupus erythematosus 	Systemic lupus erythematosus
+benazepril	0	0.007423115	1	0.99995369	Hypertension 	Hypertension
+benralizumab	0.5	0.027923321	0.833333333	0.998712041	Chronic obstructive pulmonary disease 	Chronic obstructive pulmonary disease
+benralizumab	0.5	0.027923321	0.833333333	0.998712041	Asthma 	Asthma
+betaxolol	0	0.003397538	1	0.99995369	Hypertension 	Hypertension
+bethanidine	0.857142857	0.017541847	0.714285714	0.986308457	Heart arrhythmia 	Heart arrhythmia
+bevacizumab	0	6.87E-16	1	0.99995369	Glaucoma/ocular hypertension 	Glaucoma/ocular hypertension
+bisoprolol	0	0.002590892	1	0.99995369	Hypertension 	Hypertension
+bivalirudin	0	0.004752629	1	0.99995369	Thrombocytopenia 	Thrombocytopenia
+blinatumomab	0.5	0.023218158	0.833333333	0.998712041	Acute lymphoblastic leukaemia 	Acute lymphoblastic leukaemia
+bosentan	0.5	0.0416363	0.833333333	0.998712041	Pulmonary arterial hypertension 	Pulmonary arterial hypertension
+bromfenac	0	0.00013971	1	0.99995369	Postoperative inflammation 	Postoperative inflammation
+bufexamac	0.5	0.001565395	0.833333333	0.998712041	Dermatitis 	Dermatitis
+calcifediol	0	0.034338783	1	0.99995369	Vitamin D deficiency 	Vitamin D deficiency
+calcipotriol	0	0.02681328	1	0.99995369	Psoriasis vulgaris 	Psoriasis vulgaris
+calcitriol	0.5	0.048816261	0.833333333	0.998712041	Congenital alopecia 	Congenital alopecia
+canakinumab	0	0.003786114	1	0.99995369	Urticaria 	Urticaria
+canakinumab	0	0.003786114	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+canakinumab	0	0.003786114	1	0.99995369	Cryopyrin-associated periodic syndromes 	Cryopyrin-associated periodic syndromes
+canakinumab	0	0.003786114	1	0.99995369	Vasculitis 	Vasculitis
+cannabidiol	1.078947368	0.000403846	0.640350877	0.942753314	Dravet syndrome 	Dravet syndrome
+cannabidiol	1.078947368	0.000403846	0.640350877	0.942753314	LennoxGastaut syndrome 	LennoxGastaut syndrome
+capecitabine	0	0.003304639	1	0.99995369	Breast cancer 	Breast cancer
+capecitabine	0	0.003304639	1	0.99995369	Colorectal cancer 	Colorectal cancer
+captopril	0.4	4.75E-05	0.866666667	0.999337448	Hypertension 	Hypertension
+carbidopa	1	0.045787005	0.666666667	0.965333637	Parkinson disease 	Parkinson disease
+carbocisteine	0	6.63E-06	1	0.99995369	Chronic obstructive pulmonary disease 	Chronic obstructive pulmonary disease
+carfilzomib	0.666666667	0.027787398	0.777777778	0.996106348	Multiple myeloma 	Multiple myeloma
+carprofen	0	0.00061961	1	0.99995369	Pain 	Pain
+carteolol	0	0.01007801	1	0.99995369	Glaucoma/ocular hypertension 	Glaucoma/ocular hypertension
+castor oil	0.5	0.019166156	0.833333333	0.998712041	Constipation 	Constipation
+catumaxomab	0.285714286	1.38E-08	0.904761905	0.999690158	Malignant pleural effusion 	Malignant pleural effusion
+cefazolin	0	2.93E-05	1	0.99995369	Bacterial infection 	Bacterial infection
+cemiplimab	0	0.006972806	1	0.99995369	Cutaneous squamous cell carcinoma 	Cutaneous squamous cell carcinoma
+cetuximab	0.090909091	1.54E-13	0.96969697	0.999915211	Colorectal cancer 	Colorectal cancer
+chlorothiazide	0.666666667	0.009311212	0.777777778	0.996106348	Congestive heart failure 	Congestive heart failure
+chlorprothixene	1.083333333	0.048089179	0.638888889	0.941157897	Psychotic disorder 	Psychotic disorder
+cholecalciferol	0	0.01684862	1	0.99995369	Vitamin D deficiency 	Vitamin D deficiency
+choline magnesium trisalicylate	0	0.00063153	1	0.99995369	Osteoarthritis 	Osteoarthritis
+cilazapril	0	0.014847474	1	0.99995369	Congestive heart failure 	Congestive heart failure
+cilostazol	0	0.003137502	1	0.99995369	Intermittent claudication 	Intermittent claudication
+cisapride	0.75	0.006239311	0.75	0.993240715	Gastrointestinal disease 	Gastrointestinal disease
+cisapride	0.75	0.006239311	0.75	0.993240715	Gastroesophageal reflux disease 	Gastroesophageal reflux disease
+cisplatin	0.25	6.20E-06	0.916666667	0.999755673	Solid tumour/cancer 	Solid tumour/cancer
+citalopram	0.5	0.02254035	0.833333333	0.998712041	Depression 	Depression
+clenbuterol	0.2	4.82E-07	0.933333333	0.999824804	Chronic breathing disorder 	Chronic breathing disorder
+clomipramine	0.666666667	0.002300373	0.777777778	0.996106348	Depression 	Depression
+copper	0.955882353	3.70E-06	0.681372549	0.973921936	Contraception 	Contraception
+curcumin	0.4	0.004315781	0.866666667	0.999337448	Solid tumour/cancer 	Solid tumour/cancer
+cyanocobalamin	0.833333333	9.46E-05	0.722222222	0.988290836	Anemia 	Anemia
+cyclobenzaprine	0.888888889	0.033605244	0.703703704	0.983142716	Depression 	Depression
+dabigatran etexilate	0	0.013472051	1	0.99995369	Venous thromboembolism 	Venous thromboembolism
+danazol	0.4	0.008913807	0.866666667	0.999337448	Breast cancer 	Breast cancer
+danazol	0.4	0.008913807	0.866666667	0.999337448	Menorrhagia 	Menorrhagia
+daratumumab	0	0.015759553	1	0.99995369	Multiple myeloma 	Multiple myeloma
+darolutamide	0	0.014111374	1	0.99995369	Prostate cancer 	Prostate cancer
+defibrotide	0.666666667	0.034211558	0.777777778	0.996106348	Hepatic veno-occlusive disease 	Hepatic veno-occlusive disease
+defibrotide	0.666666667	0.034211558	0.777777778	0.996106348	Diabetic nephropathy 	Diabetic nephropathy
+denileukin diftitox	0.333333333	0.000672119	0.888888889	0.999574708	leukaemia 	leukaemia
+denileukin diftitox	0.333333333	0.000672119	0.888888889	0.999574708	Non-small-cell lung cancer 	Non-small-cell lung cancer
+denosumab	0	0.000958758	1	0.99995369	Prostate cancer 	Prostate cancer
+denosumab	0	0.000958758	1	0.99995369	Postmenopausal osteoporosis 	Postmenopausal osteoporosis
+denosumab	0	0.000958758	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+desogestrel	0	4.10E-05	1	0.99995369	Contraception 	Contraception
+dexamethasone	0.6	0.032388676	0.8	0.997497769	Rheumatoid arthritis 	Rheumatoid arthritis
+dexibuprofen	0.666666667	0.000108671	0.777777778	0.996106348	Ankylosing spondylitis 	Ankylosing spondylitis
+dexlansoprazole	0.666666667	0.002310128	0.777777778	0.996106348	Peptic ulcer 	Peptic ulcer
+dexlansoprazole	0.666666667	0.002310128	0.777777778	0.996106348	Non-erosive gastro-esophageal reflux disease 	Non-erosive gastro-esophageal reflux disease
+dexlansoprazole	0.666666667	0.002310128	0.777777778	0.996106348	Erosive esophagitis 	Erosive esophagitis
+dexlansoprazole	0.666666667	0.002310128	0.777777778	0.996106348	NSAID-associated gastric ulcer 	NSAID-associated gastric ulcer
+diclofenac	0	0.000215067	1	0.99995369	Osteoarthritis 	Osteoarthritis
+diethylcarbamazine	0.5	0.007433097	0.833333333	0.998712041	Lymphatic filariasis 	Lymphatic filariasis
+diflunisal	0	1.56E-05	1	0.99995369	Pain 	Pain
+dinoprostone	1	0.015429928	0.666666667	0.965333637	Medical abortion 	Medical abortion
+dipivefrin	0.8	0.026251633	0.733333333	0.990597992	Chronic open-angle glaucoma 	Chronic open-angle glaucoma
+donepezil	0.933333333	0.037842021	0.688888889	0.977473185	Alzheimer disease 	Alzheimer disease
+doxepin	1.157894737	0.011722351	0.614035088	0.906883775	Depression 	Depression
+drospirenone	0.25	0.003944967	0.916666667	0.999755673	Contraception 	Contraception
+drotrecogin alfa	0.833333333	0.004503875	0.722222222	0.988290836	Severe sepsis 	Severe sepsis
+drotrecogin alfa	0.833333333	0.004503875	0.722222222	0.988290836	Cerebrovascular ischaemia 	Cerebrovascular ischaemia
+dupilumab	0	0.006347713	1	0.99995369	Atopic dermatitis 	Atopic dermatitis
+dupilumab	0	0.006347713	1	0.99995369	Asthma 	Asthma
+durvalumab	0	4.70E-05	1	0.99995369	Urothelial carcinoma 	Urothelial carcinoma
+dydrogesterone	0	4.10E-05	1	0.99995369	Menstrual disorder 	Menstrual disorder
+eculizumab	0	0.012447848	1	0.99995369	Age-related macular degeneration 	Age-related macular degeneration
+efalizumab	0	1.00E-16	1	0.99995369	Psoriasis vulgaris 	Psoriasis vulgaris
+efalizumab	0	1.00E-16	1	0.99995369	Renal transplantation 	Renal transplantation
+emapalumab	0	0.006428897	1	0.99995369	Primary haemophagocytic lymphohistiocytosis 	Primary haemophagocytic lymphohistiocytosis
+enalapril	0	0.013815055	1	0.99995369	Hypertension 	Hypertension
+enalaprilat	0.5	0.00553636	0.833333333	0.998712041	Hypertension 	Hypertension
+enoximone	0	0.000109655	1	0.99995369	Congestive heart failure 	Congestive heart failure
+enprofylline	0.833333333	0.010596284	0.722222222	0.988290836	Asthma 	Asthma
+erenumab	0	0.00707124	1	0.99995369	Hyperprolactinaemia 	Hyperprolactinaemia
+esmolol	0	0.010658603	1	0.99995369	Acute supraventricular tachycardia 	Acute supraventricular tachycardia
+esomeprazole	0.5	0.00824911	0.833333333	0.998712041	Peptic ulcer 	Peptic ulcer
+estrone	0.2	0.007262702	0.933333333	0.999824804	Menopausal and postmenopausal disorder 	Menopausal and postmenopausal disorder
+etanercept	0.076923077	1.31E-14	0.974358974	0.999922744	Sciatica 	Sciatica
+etanercept	0.076923077	1.31E-14	0.974358974	0.999922744	Pemphigus vulgaris 	Pemphigus vulgaris
+etanercept	0.076923077	1.31E-14	0.974358974	0.999922744	Arthritis 	Arthritis
+ethinamate	0.5	0.004752629	0.833333333	0.998712041	Insomnia 	Insomnia
+ethynodiol diacetate	0	0.000370198	1	0.99995369	Contraception 	Contraception
+etodolac	0.333333333	0.00010441	0.888888889	0.999574708	Pain 	Pain
+etonogestrel	0	0.000143541	1	0.99995369	Contraception 	Contraception
+etoricoxib	0	0.001669771	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+exemestane	0	0.009604005	1	0.99995369	Hormonally-responsive breast cancer 	Hormonally-responsive breast cancer
+fenoprofen	0.25	0.000522862	0.916666667	0.999755673	Rheumatoid arthritis 	Rheumatoid arthritis
+fenoterol	0	3.82E-07	1	0.99995369	Asthma 	Asthma
+floxuridine	0	0.000120539	1	0.99995369	Solid tumour/cancer 	Solid tumour/cancer
+floxuridine	0	0.000120539	1	0.99995369	Colorectal cancer 	Colorectal cancer
+flufenamic acid	0.5	0.020721353	0.833333333	0.998712041	Dysmenorrhea 	Dysmenorrhea
+fluocinolone acetonide	0.666666667	0.006160664	0.777777778	0.996106348	Inflammation 	Inflammation
+fluorouracil	0	0.001418066	1	0.99995369	Tumour 	Tumour
+fluorouracil	0	0.001418066	1	0.99995369	Solid tumour/cancer 	Solid tumour/cancer
+flurbiprofen	0	0.000150034	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+fluticasone	0.5	0.015331203	0.833333333	0.998712041	Allergic rhinitis 	Allergic rhinitis
+folic acid	1	0.045687971	0.666666667	0.965333637	Vitamin deficiency 	Vitamin deficiency
+formoterol	0	0.00018127	1	0.99995369	Asthma 	Asthma
+fosinopril	0	0.013825818	1	0.99995369	Hypertension 	Hypertension
+fostamatinib	0.972972973	0.000763065	0.675675676	0.970872878	Immune thrombocytopenic purpura 	Immune thrombocytopenic purpura
+fostamatinib	0.972972973	0.000763065	0.675675676	0.970872878	Rheumatoid arthritis 	Rheumatoid arthritis
+gemtuzumab ozogamicin	0.181818182	2.09E-13	0.939393939	0.999844763	Acute myeloid leukaemia 	Acute myeloid leukaemia
+gentamicin	0.5	0.00634902	0.833333333	0.998712041	Bacterial infection 	Bacterial infection
+gestrinone	0.5	0.041646738	0.833333333	0.998712041	Breast cancer 	Breast cancer
+glucosamine	0	8.19E-08	1	0.99995369	Osteoarthritis 	Osteoarthritis
+golimumab	0	0.000137263	1	0.99995369	Inflammatory bowel disease 	Inflammatory bowel disease
+golimumab	0	0.000137263	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+human thrombin	0.625	0.000518798	0.791666667	0.99704628	Bleeding disorder 	Bleeding disorder
+hydroxocobalamin	1.111111111	0.002902997	0.62962963	0.930048617	Vitamin B12 deficiency 	Vitamin B12 deficiency
+hydroxocobalamin	1.111111111	0.002902997	0.62962963	0.930048617	Lung injury 	Lung injury
+hydroxychloroquine	0	0.001453457	1	0.99995369	Malaria 	Malaria
+ibalizumab	0.333333333	3.64E-05	0.888888889	0.999574708	Human immunodeficiency virus-1 infection 	Human immunodeficiency virus-1 infection
+ibuprofen	0.6	0.001672809	0.8	0.997497769	Pain 	Pain
+icatibant	0.5	0.002533414	0.833333333	0.998712041	Hereditary angioedema 	Hereditary angioedema
+icosapent	0.909090909	0.015212446	0.696969697	0.980764205	Thrombin deficiency 	Thrombin deficiency
+icosapent	0.909090909	0.015212446	0.696969697	0.980764205	Hypertriglyceridemia 	Hypertriglyceridemia
+icosapent	0.909090909	0.015212446	0.696969697	0.980764205	Hyperglyceridemia 	Hyperglyceridemia
+imiquimod	0	5.82E-05	1	0.99995369	Skin cancer 	Skin cancer
+infliximab	0	4.10E-05	1	0.99995369	Asthma 	Asthma
+infliximab	0	4.10E-05	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+infliximab	0	4.10E-05	1	0.99995369	Plaque psoriasis 	Plaque psoriasis
+interferon alfa-2b	0.5	0.017031454	0.833333333	0.998712041	Melanoma 	Melanoma
+interferon alfa-n1	0.5	0.034499576	0.833333333	0.998712041	Chronic myelogenous leukaemia 	Chronic myelogenous leukaemia
+interferon alfa-n3	0.5	0.042904372	0.833333333	0.998712041	Human immunodeficiency virus infection 	Human immunodeficiency virus infection
+interferon alfacon-1	0.5	0.010552767	0.833333333	0.998712041	Hepatitis C virus infection 	Hepatitis C virus infection
+interferon beta-1a	0.5	0.03003023	0.833333333	0.998712041	Multiple sclerosis 	Multiple sclerosis
+interferon beta-1b	0.5	0.01740202	0.833333333	0.998712041	Multiple sclerosis 	Multiple sclerosis
+interferon gamma-1b	0	0.000230549	1	0.99995369	Chronic granulomatous disease 	Chronic granulomatous disease
+ipilimumab	0	0.011059404	1	0.99995369	Melanoma 	Melanoma
+isoetharine	0	0.003525365	1	0.99995369	Asthma 	Asthma
+isoflurophate	0.666666667	0.000483424	0.777777778	0.996106348	Glaucoma/ocular hypertension 	Glaucoma/ocular hypertension
+isoniazid	0	1.67E-08	1	0.99995369	Tuberculosis 	Tuberculosis
+ixekizumab	0	0.003408955	1	0.99995369	Psoriatic arthritis 	Psoriatic arthritis
+ixekizumab	0	0.003408955	1	0.99995369	Plaque psoriasis 	Plaque psoriasis
+ketoconazole	0.6	0.026330505	0.8	0.997497769	Fungal infection 	Fungal infection
+ketoprofen	0	2.64E-07	1	0.99995369	Musculoskeletal pain 	Musculoskeletal pain
+ketoprofen	0	2.64E-07	1	0.99995369	Pain 	Pain
+ketorolac	0	5.95E-06	1	0.99995369	Postoperative inflammation 	Postoperative inflammation
+leflunomide	0.666666667	0.039984255	0.777777778	0.996106348	Arthritis 	Arthritis
+leflunomide	0.666666667	0.039984255	0.777777778	0.996106348	Multiple sclerosis 	Multiple sclerosis
+lenalidomide	0.5	0.004417594	0.833333333	0.998712041	Multiple myeloma 	Multiple myeloma
+lepirudin	0	0.013472051	1	0.99995369	Thrombocytopenia 	Thrombocytopenia
+letrozole	0	0.00591557	1	0.99995369	Hormonally-responsive breast cancer 	Hormonally-responsive breast cancer
+levamlodipine	0.75	0.045468657	0.75	0.993240715	Hypertension 	Hypertension
+levobetaxolol	0	0.004114838	1	0.99995369	Chronic open-angle glaucoma 	Chronic open-angle glaucoma
+levobunolol	0	0.002508618	1	0.99995369	Open-angle glaucoma 	Open-angle glaucoma
+levonorgestrel	0.2	0.005094782	0.933333333	0.999824804	Contraception 	Contraception
+lifitegrast	0	0.01483018	1	0.99995369	Allergic conjunctivitis 	Allergic conjunctivitis
+lifitegrast	0	0.01483018	1	0.99995369	Dry eye disease 	Dry eye disease
+linagliptin	0	3.87E-05	1	0.99995369	Type-2 diabetes 	Type-2 diabetes
+lopinavir	0.666666667	0.00083501	0.777777778	0.996106348	Human immunodeficiency virus infection 	Human immunodeficiency virus infection
+lornoxicam	0	0.000273474	1	0.99995369	Migraine 	Migraine
+lumiracoxib	0	0.00052221	1	0.99995369	Knee osteoarthritis 	Knee osteoarthritis
+macimorelin	0	4.34E-05	1	0.99995369	Growth hormone deficiency 	Growth hormone deficiency
+macimorelin	0	4.34E-05	1	0.99995369	Somatotropin deficiency 	Somatotropin deficiency
+macitentan	0.5	0.021423498	0.833333333	0.998712041	Cardiovascular disease 	Cardiovascular disease
+malathion	0	3.80E-06	1	0.99995369	Pediculus capitis infestation 	Pediculus capitis infestation
+maraviroc	0	0.003059102	1	0.99995369	Chronic obstructive pulmonary disease 	Chronic obstructive pulmonary disease
+maraviroc	0	0.003059102	1	0.99995369	Human immunodeficiency virus infection 	Human immunodeficiency virus infection
+mefenamic acid	0	0.000600993	1	0.99995369	Dysmenorrhea 	Dysmenorrhea
+meloxicam	0	0.000366273	1	0.99995369	Arthritis 	Arthritis
+menadione	0.769230769	0.000658587	0.743589744	0.992325178	Vitamin K deficiency 	Vitamin K deficiency
+menadione	0.769230769	0.000658587	0.743589744	0.992325178	Prostate cancer 	Prostate cancer
+mercaptopurine	0.5	0.006862833	0.833333333	0.998712041	Acute lymphoblastic leukaemia 	Acute lymphoblastic leukaemia
+mesalazine	0.285714286	5.71E-05	0.904761905	0.999690158	Ulcerative colitis 	Ulcerative colitis
+mesoridazine	0.5	0.040794317	0.833333333	0.998712041	Schizophrenia 	Schizophrenia
+methocarbamol	0	0.000683139	1	0.99995369	Musculoskeletal disorder 	Musculoskeletal disorder
+methotrexate	0	2.43E-05	1	0.99995369	leukaemia 	leukaemia
+methotrexate	0	2.43E-05	1	0.99995369	Solid tumour/cancer 	Solid tumour/cancer
+methyl aminolevulinate	0	0.003584328	1	0.99995369	Acne vulgaris 	Acne vulgaris
+metipranolol	0	0.001723861	1	0.99995369	Open-angle glaucoma 	Open-angle glaucoma
+metoprolol	0	0.003633753	1	0.99995369	Hypertension 	Hypertension
+metyrapone	1	0.019968885	0.666666667	0.965333637	Cushing disease 	Cushing disease
+mifamurtide	0	3.92E-07	1	0.99995369	Solid tumour/cancer 	Solid tumour/cancer
+mifepristone	0.5	0.008255457	0.833333333	0.998712041	Cushing disease 	Cushing disease
+milrinone	0	0.015776019	1	0.99995369	Congestive heart failure 	Congestive heart failure
+miltefosine	0	0.006016778	1	0.99995369	Leishmaniasis 	Leishmaniasis
+miltefosine	0	0.006016778	1	0.99995369	Visceral leishmaniasis 	Visceral leishmaniasis
+minaprine	1	0.042725057	0.666666667	0.965333637	Depression 	Depression
+minocycline	0.428571429	2.85E-07	0.857142857	0.999198842	Bacterial infection 	Bacterial infection
+mirabegron	0	0.001617456	1	0.99995369	Overactive bladder 	Overactive bladder
+misoprostol	0.75	0.004657727	0.75	0.993240715	Medical abortion 	Medical abortion
+mitotane	0.4	0.004112728	0.866666667	0.999337448	Adrenocortical carcinoma 	Adrenocortical carcinoma
+moexipril	0	0.000308958	1	0.99995369	Hypertension 	Hypertension
+mometasone	0	0.00374932	1	0.99995369	Skin allergy 	Skin allergy
+muromonab	0.214285714	6.62E-12	0.928571429	0.999807338	Organ transplant rejection 	Organ transplant rejection
+nabumetone	0	0.001178101	1	0.99995369	Pain 	Pain
+nadolol	0	0.000911485	1	0.99995369	High blood pressure 	High blood pressure
+naproxen	0	0.000334465	1	0.99995369	Pain 	Pain
+naproxen	0	0.000334465	1	0.99995369	Osteoarthritis 	Osteoarthritis
+naproxen	0	0.000334465	1	0.99995369	Endometriosis 	Endometriosis
+nebivolol	0	0.000102642	1	0.99995369	Hypertension 	Hypertension
+nepafenac	0	8.78E-05	1	0.99995369	Osteoarthritis 	Osteoarthritis
+netupitant	0	0.016200802	1	0.99995369	Chemotherapy-induced nausea 	Chemotherapy-induced nausea
+nilotinib	0.5	0.011309699	0.833333333	0.998712041	Chronic myelogenous leukaemia 	Chronic myelogenous leukaemia
+nimesulide	0.5	0.02225028	0.833333333	0.998712041	Metastatic colorectal cancer 	Metastatic colorectal cancer
+nimesulide	0.5	0.02225028	0.833333333	0.998712041	Non-hodgkin lymphoma 	Non-hodgkin lymphoma
+nimesulide	0.5	0.02225028	0.833333333	0.998712041	Non-small-cell lung cancer 	Non-small-cell lung cancer
+nivolumab	0	0.009878298	1	0.99995369	Non-small-cell lung cancer 	Non-small-cell lung cancer
+nivolumab	0	0.009878298	1	0.99995369	Melanoma 	Melanoma
+norgestimate	0	0.0019142	1	0.99995369	Contraception 	Contraception
+nortriptyline	1.083333333	0.017463572	0.638888889	0.941157897	Depression 	Depression
+olsalazine	0	0.000448126	1	0.99995369	Ulcerative colitis 	Ulcerative colitis
+oprelvekin	0	0.000841869	1	0.99995369	Thrombocytopenia 	Thrombocytopenia
+oxaprozin	0	0.001632281	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+oxprenolol	0	6.71E-05	1	0.99995369	Hypertension 	Hypertension
+oxtriphylline	0.6	0.003336461	0.8	0.997497769	Cough 	Cough
+palivizumab	0	3.98E-14	1	0.99995369	Respiratory syncytial virus infection 	Respiratory syncytial virus infection
+pantoprazole	0.5	0.010085138	0.833333333	0.998712041	Gastroesophageal reflux disease 	Gastroesophageal reflux disease
+paricalcitol	0	0.046615177	1	0.99995369	Hyperparathyroidism 	Hyperparathyroidism
+peginterferon alfa-2a	0.5	0.015166429	0.833333333	0.998712041	Hairy cell leukaemia 	Hairy cell leukaemia
+peginterferon alfa-2b	0.5	0.017031454	0.833333333	0.998712041	Hepatitis C virus infection 	Hepatitis C virus infection
+pembrolizumab	0	0.006109672	1	0.99995369	Melanoma 	Melanoma
+pemetrexed	0.25	9.16E-06	0.916666667	0.999755673	Malignant pleural mesothelioma 	Malignant pleural mesothelioma
+pentostatin	0	0.026378826	1	0.99995369	Hairy cell leukaemia 	Hairy cell leukaemia
+perindopril	0.5	0.035379458	0.833333333	0.998712041	Hypertension 	Hypertension
+phenindione	0	0.02663977	1	0.99995369	Coagulation defect 	Coagulation defect
+phenindione	0	0.02663977	1	0.99995369	Pulmonary embolism 	Pulmonary embolism
+pheniramine	0.666666667	0.007231692	0.777777778	0.996106348	Hay fever 	Hay fever
+phenprocoumon	0	0.02681328	1	0.99995369	Thrombosis 	Thrombosis
+phenylbutazone	0.333333333	0.000915939	0.888888889	0.999574708	Chronic pain 	Chronic pain
+pindolol	0.8	0.025412148	0.733333333	0.990597992	Hypertension 	Hypertension
+pirbuterol	0	0.005768635	1	0.99995369	Asthma 	Asthma
+piroxicam	0	4.29E-05	1	0.99995369	Pain 	Pain
+pomalidomide	0.333333333	0.001613215	0.888888889	0.999574708	Systemic sclerosis 	Systemic sclerosis
+porfimer sodium	0	0.001850171	1	0.99995369	Non-small-cell lung cancer 	Non-small-cell lung cancer
+practolol	0	0.007896615	1	0.99995369	Cardiac arrhythmias 	Cardiac arrhythmias
+pralatrexate	0	6.69E-05	1	0.99995369	Breast cancer 	Breast cancer
+pralatrexate	0	6.69E-05	1	0.99995369	Peripheral T-cell lymphoma 	Peripheral T-cell lymphoma
+pramlintide	0.5	0.002807764	0.833333333	0.998712041	Type-1/2 diabetes 	Type-1/2 diabetes
+primaquine	0.5	0.033958827	0.833333333	0.998712041	Malaria 	Malaria
+probenecid	1	0.042369302	0.666666667	0.965333637	Hyperuricaemia 	Hyperuricaemia
+probenecid	1	0.042369302	0.666666667	0.965333637	Gout 	Gout
+proflavine	0	0.002281057	1	0.99995369	Sepsis 	Sepsis
+progesterone	0.5	0.008547583	0.833333333	0.998712041	Premature labour 	Premature labour
+progesterone	0.5	0.008547583	0.833333333	0.998712041	Contraception 	Contraception
+proguanil	0	0.005254506	1	0.99995369	Malaria 	Malaria
+propafenone	0.5	0.02092068	0.833333333	0.998712041	Tachyarrhythmias 	Tachyarrhythmias
+propranolol	0.8	0.004445649	0.733333333	0.990597992	Migraine 	Migraine
+pseudoephedrine	0.714285714	0.001398004	0.761904762	0.994662667	Nasal congestion 	Nasal congestion
+quinapril	0	0.014663709	1	0.99995369	Hypertension 	Hypertension
+raltitrexed	0	7.15E-06	1	0.99995369	Rectal adenocarcinoma 	Rectal adenocarcinoma
+ramelteon	0	1.59E-05	1	0.99995369	Circadian rhythm sleep disorder 	Circadian rhythm sleep disorder
+ramelteon	0	1.59E-05	1	0.99995369	Insomnia 	Insomnia
+ramipril	0.5	0.013335084	0.833333333	0.998712041	Congestive heart failure 	Congestive heart failure
+ranibizumab	0	7.21E-05	1	0.99995369	Hereditary hemorrhagic telangiectasia 	Hereditary hemorrhagic telangiectasia
+ravulizumab	0	0.017435927	1	0.99995369	Paroxysmal nocturnal haemoglobinuria 	Paroxysmal nocturnal haemoglobinuria
+regadenoson	0	0.019774843	1	0.99995369	Radionuclide imaging 	Radionuclide imaging
+rescinnamine	0	0.023133954	1	0.99995369	Hypertension 	Hypertension
+rilonacept	0	2.41E-05	1	0.99995369	Acute gout flare 	Acute gout flare
+rilonacept	0	2.41E-05	1	0.99995369	Arthritis 	Arthritis
+risankizumab	0	0.000189308	1	0.99995369	Psoriatic arthritis 	Psoriatic arthritis
+risankizumab	0	0.000189308	1	0.99995369	Plaque psoriasis 	Plaque psoriasis
+ritodrine	0	0.046615177	1	0.99995369	Premature labour 	Premature labour
+rivastigmine	1	0.047457678	0.666666667	0.965333637	Alzheimer disease 	Alzheimer disease
+rofecoxib	0.5	0.026534379	0.833333333	0.998712041	Osteoarthritis 	Osteoarthritis
+rolapitant	0	0.006109672	1	0.99995369	Chemotherapy-induced nausea 	Chemotherapy-induced nausea
+romidepsin	0.8	0.002170363	0.733333333	0.990597992	Renal cell carcinoma 	Renal cell carcinoma
+romidepsin	0.8	0.002170363	0.733333333	0.990597992	Cutaneous T-cell lymphoma 	Cutaneous T-cell lymphoma
+romidepsin	0.8	0.002170363	0.733333333	0.990597992	Peripheral T-cell lymphoma 	Peripheral T-cell lymphoma
+romosozumab	0	0.000975802	1	0.99995369	Postmenopausal osteoporosis 	Postmenopausal osteoporosis
+salbutamol	0	1.15E-06	1	0.99995369	Acute asthma 	Acute asthma
+salmeterol	0	2.29E-05	1	0.99995369	Chronic obstructive pulmonary disease 	Chronic obstructive pulmonary disease
+salmon calcitonin	0	0.007897129	1	0.99995369	Osteoporosis 	Osteoporosis
+salsalate	0	0.000394835	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+sarilumab	0	9.84E-16	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+saxagliptin	0	3.25E-05	1	0.99995369	Type-2 diabetes 	Type-2 diabetes
+secukinumab	0	0.003435471	1	0.99995369	Atopic dermatitis 	Atopic dermatitis
+secukinumab	0	0.003435471	1	0.99995369	Psoriatic arthritis 	Psoriatic arthritis
+secukinumab	0	0.003435471	1	0.99995369	Plaque psoriasis 	Plaque psoriasis
+secukinumab	0	0.003435471	1	0.99995369	Multiple sclerosis 	Multiple sclerosis
+secukinumab	0	0.003435471	1	0.99995369	Alopecia 	Alopecia
+secukinumab	0	0.003435471	1	0.99995369	Type-1 diabetes 	Type-1 diabetes
+secukinumab	0	0.003435471	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+secukinumab	0	0.003435471	1	0.99995369	Dry eye disease 	Dry eye disease
+siltuximab	0	0.001667734	1	0.99995369	Anemia 	Anemia
+sitagliptin	0	2.43E-05	1	0.99995369	Type-2 diabetes 	Type-2 diabetes
+sotalol	0.333333333	0.012390736	0.888888889	0.999574708	Sinus rhythm disorder 	Sinus rhythm disorder
+spirapril	0	0.023012062	1	0.99995369	Hypertension 	Hypertension
+streptomycin	0	0.012428583	1	0.99995369	Bacterial infection 	Bacterial infection
+sucralfate	0.6	0.004960403	0.8	0.997497769	Acne vulgaris 	Acne vulgaris
+sulfamethoxazole	0	0.000370198	1	0.99995369	Bacterial infection 	Bacterial infection
+sulfamethoxazole	0	0.000370198	1	0.99995369	Infection of P. falciparum 	Infection of P. falciparum
+sulfasalazine	0.7	0.001948092	0.766666667	0.99514426	Rheumatoid arthritis 	Rheumatoid arthritis
+sulindac	0.857142857	0.01331693	0.714285714	0.986308457	Rheumatoid arthritis 	Rheumatoid arthritis
+suprofen	0	0.0006698	1	0.99995369	Miosis 	Miosis
+tasimelteon	0	0.000299977	1	0.99995369	Insomnia 	Insomnia
+tasonermin	0	0.00263194	1	0.99995369	Solid tumour/cancer 	Solid tumour/cancer
+tegafur	0	0.000756916	1	0.99995369	Solid tumour/cancer 	Solid tumour/cancer
+tegaserod	0.75	0.00067071	0.75	0.993240715	Irritable bowel syndrome 	Irritable bowel syndrome
+telotristat ethyl	1	0.042410927	0.666666667	0.965333637	Carcinoid syndrome diarrhea 	Carcinoid syndrome diarrhea
+telotristat ethyl	1	0.042410927	0.666666667	0.965333637	Carcinoid syndrome 	Carcinoid syndrome
+tenecteplase	0.818181818	0.014732805	0.727272727	0.98940178	Myocardial infarction 	Myocardial infarction
+tenoxicam	0	0.000149427	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+terbutaline	0	4.87E-05	1	0.99995369	Asthma 	Asthma
+teriflunomide	0	0.012416143	1	0.99995369	Hepatitis B virus infection 	Hepatitis B virus infection
+teriflunomide	0	0.012416143	1	0.99995369	Hyperlipidaemia 	Hyperlipidaemia
+teriflunomide	0	0.012416143	1	0.99995369	Multiple sclerosis 	Multiple sclerosis
+teriflunomide	0	0.012416143	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+testolactone	0	0.002263869	1	0.99995369	Breast cancer 	Breast cancer
+tetracycline	0.5	0.038561674	0.833333333	0.998712041	Bacterial infection 	Bacterial infection
+thalidomide	0.571428571	0.0020376	0.80952381	0.997930062	Multiple myeloma 	Multiple myeloma
+thiothixene	0.666666667	0.043340073	0.777777778	0.996106348	Schizophrenia 	Schizophrenia
+thyrotropin alfa	0	0.004953049	1	0.99995369	Thyroid cancer 	Thyroid cancer
+tiaprofenic acid	0	0.000202811	1	0.99995369	Pain 	Pain
+tildrakizumab	0	0.002919968	1	0.99995369	Plaque psoriasis 	Plaque psoriasis
+timolol	0	0.007161012	1	0.99995369	High blood pressure 	High blood pressure
+tocilizumab	0	0.00794031	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+tocilizumab	0	0.00794031	1	0.99995369	Juvenile idiopathic arthritis 	Juvenile idiopathic arthritis
+tocofersolan	0	0.003442181	1	0.99995369	Vitamin E deficiency 	Vitamin E deficiency
+tofacitinib	0.25	0.000116585	0.916666667	0.999755673	Rheumatoid arthritis 	Rheumatoid arthritis
+tolmetin	0	0.000114478	1	0.99995369	Rheumatoid arthritis 	Rheumatoid arthritis
+topotecan	1	0.044565463	0.666666667	0.965333637	Ovarian cancer 	Ovarian cancer
+tositumomab	0.1	3.79E-15	0.966666667	0.999909924	Non-hodgkin lymphoma 	Non-hodgkin lymphoma
+trametinib	0.5	0.036672399	0.833333333	0.998712041	Melanoma 	Melanoma
+trandolapril	0	0.015759553	1	0.99995369	Hypertension 	Hypertension
+trastuzumab	0.166666667	3.36E-16	0.944444444	0.999859647	Breast cancer 	Breast cancer
+trastuzumab deruxtecan	0.5	0.026125751	0.833333333	0.998712041	Colorectal cancer 	Colorectal cancer
+trazodone	0.857142857	0.017143139	0.714285714	0.986308457	Depression 	Depression
+triamterene	0.75	0.043660304	0.75	0.993240715	Hypertension 	Hypertension
+triamterene	0.75	0.043660304	0.75	0.993240715	Edema 	Edema
+triamterene	0.75	0.043660304	0.75	0.993240715	Congestive heart failure 	Congestive heart failure
+trifluridine	0	0.008116575	1	0.99995369	Virus infection 	Virus infection
+trimethoprim	0	5.03E-05	1	0.99995369	Urinary tract infection 	Urinary tract infection
+trimetrexate	0	0.014834136	1	0.99995369	Toxoplasmosis 	Toxoplasmosis
+trimipramine	1.125	0.023866247	0.625	0.923792525	Major depressive disorder 	Major depressive disorder
+trolamine salicylate	0	4.47E-05	1	0.99995369	Pain 	Pain
+ulipristal	0	0.003804913	1	0.99995369	Contraception 	Contraception
+urokinase	0.7	0.002496798	0.766666667	0.99514426	Myocardial infarction 	Myocardial infarction
+ustekinumab	0	0.000162994	1	0.99995369	Plaque psoriasis 	Plaque psoriasis
+ustekinumab	0	0.000162994	1	0.99995369	Inflammatory bowel disease 	Inflammatory bowel disease
+ustekinumab	0	0.000162994	1	0.99995369	Malaria 	Malaria
+ustekinumab	0	0.000162994	1	0.99995369	Psoriasis vulgaris 	Psoriasis vulgaris
+venetoclax	0	0.008929131	1	0.99995369	Acute myeloid leukaemia 	Acute myeloid leukaemia
+venetoclax	0	0.008929131	1	0.99995369	Chronic lymphocytic leukaemia 	Chronic lymphocytic leukaemia
+vildagliptin	0	0.003137502	1	0.99995369	Type-2 diabetes 	Type-2 diabetes
+zinc acetate	0.947826087	2.78E-10	0.684057971	0.975249273	Wilson disease 	Wilson disease
+zinc chloride	0.947826087	2.02E-08	0.684057971	0.975249273	Common cold 	Common cold
