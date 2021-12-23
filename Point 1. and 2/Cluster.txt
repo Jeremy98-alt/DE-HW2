@@ -1,0 +1,609 @@
+node	cluster
+Arthritis, Infectious	1
+acrivastine	1
+adalimumab	1
+alcaftadine	1
+alfacalcidol	1
+alimemazine	1
+amrinone	1
+antazoline	1
+asparagine	1
+aspartic acid	1
+axitinib	1
+azatadine	1
+bacitracin	1
+becaplermin	1
+bendroflumethiazide	1
+benralizumab	1
+bepotastine	1
+bexarotene	1
+bilastine	1
+binimetinib	1
+bromodiphenhydramine	1
+buclizine	1
+butriptyline	1
+calcifediol	1
+calcipotriol	1
+calcitriol	1
+canakinumab	1
+cannabidiol	1
+capecitabine	1
+carbinoxamine	1
+carfilzomib	1
+certolizumab pegol	1
+cetirizine	1
+chloramphenicol	1
+chlorcyclizine	1
+chloroquine	1
+cholecalciferol	1
+chromic nitrate	1
+chromium	1
+chromium gluconate	1
+chromium nicotinate	1
+chromous sulfate	1
+citalopram	1
+clemastine	1
+clenbuterol	1
+clofedanol	1
+coccidioides immitis spherule	1
+creatine	1
+curcumin	1
+cyclizine	1
+dactinomycin	1
+dapiprazole	1
+daunorubicin	1
+desloratadine	1
+dexbrompheniramine	1
+dexchlorpheniramine maleate	1
+dexrazoxane	1
+dihydrotachysterol	1
+dimenhydrinate	1
+dimetindene	1
+diphenhydramine	1
+diphenylpyraline	1
+doxercalciferol	1
+emapalumab	1
+emedastine	1
+enasidenib	1
+epinephrine	1
+erdafitinib	1
+ethinamate	1
+fexofenadine	1
+floxuridine	1
+fluorouracil	1
+foreskin fibroblast (neonatal)	1
+foreskin keratinocyte (neonatal)	1
+gallium nitrate	1
+gemcitabine	1
+ginseng	1
+glatiramer	1
+golimumab	1
+hydroxychloroquine	1
+hydroxyurea	1
+hydroxyzine	1
+ibalizumab	1
+imiquimod	1
+infliximab	1
+interferon alfa-2a, recombinant	1
+interferon alfa-2b	1
+interferon alfa-n1	1
+interferon alfa-n3	1
+interferon alfacon-1	1
+interferon beta-1a	1
+interferon beta-1b	1
+interferon gamma-1b	1
+isopropyl alcohol	1
+ketotifen	1
+l-glutamine	1
+lenvatinib	1
+levocetirizine	1
+lorpiprazole	1
+lyme disease vaccine (recombinant ospa)	1
+maraviroc	1
+meclizine	1
+mepyramine	1
+methdilazine	1
+midostaurin	1
+mirtazapine	1
+modafinil	1
+mogamulizumab	1
+nadh	1
+nicotinamide	1
+nintedanib	1
+obinutuzumab	1
+ocrelizumab	1
+ofatumumab	1
+olaratumab	1
+olsalazine	1
+omega-3-carboxylic acids	1
+paricalcitol	1
+pazopanib	1
+peginterferon alfa-2a	1
+peginterferon alfa-2b	1
+periciazine	1
+phendimetrazine	1
+phenindamine	1
+pheniramine	1
+prochlorperazine	1
+propyl alcohol	1
+pseudoephedrine	1
+rituximab	1
+rupatadine	1
+silodosin	1
+siltuximab	1
+sodium sulfate	1
+sulfasalazine	1
+sunitinib	1
+technetium tc-99m nofetumomab merpentan	1
+tegafur	1
+tegafur-uracil	1
+threonine	1
+tocilizumab	1
+trichlormethiazide	1
+trifluridine	1
+tripelennamine	1
+triprolidine	1
+tuberculin purified protein derivative	1
+tyrosine	1
+vitamin d	1
+Arthritis, Juvenile Rheumatoid	2
+aldesleukin	2
+anakinra	2
+denileukin diftitox	2
+glucosamine	2
+glutathione	2
+methotrexate	2
+miltefosine	2
+oprelvekin	2
+pemetrexed	2
+pralatrexate	2
+raltitrexed	2
+rilonacept	2
+roxithromycin	2
+tocofersolan	2
+trimethoprim	2
+5-o-phosphono-alpha-d-ribofuranosyl diphosphate	2
+5cocktail	2
+abatacept	2
+acarbose	2
+acitretin	2
+adapalene	2
+adenosine	2
+alogliptin	2
+aminoglutethimide	2
+aminolevulinic acid	2
+anastrozole	2
+arbutamine	2
+atezolizumab	2
+avatrombopag	2
+avelumab	2
+belatacept	2
+benazepril	2
+brentuximab vedotin	2
+brompheniramine	2
+bupivacaine	2
+calcium chloride	2
+captopril	2
+carbocisteine	2
+carboprost tromethamine	2
+cefazolin	2
+cevimeline	2
+cholesterol	2
+chondroitin sulfate	2
+cilazapril	2
+citric acid	2
+collagenase clostridium histolyticum	2
+copper	2
+corticorelin ovine triflutate	2
+corticotropin	2
+cyproterone acetate	2
+danazol	2
+daratumumab	2
+defibrotide	2
+deoxycholic acid	2
+diphemanil	2
+dipyridamole	2
+dronabinol	2
+dupilumab	2
+durvalumab	2
+dyphylline	2
+eculizumab	2
+enalapril	2
+enalaprilat	2
+enprofylline	2
+estrone	2
+exemestane	2
+fenoterol	2
+fentanyl	2
+flavin adenine dinucleotide	2
+flavin mononucleotide	2
+flunarizine	2
+formoterol	2
+fosinopril	2
+gentamicin	2
+glutathione disulfide	2
+guselkumab	2
+idelalisib	2
+inotuzumab ozogamicin	2
+insulin human	2
+insulin pork	2
+ipilimumab	2
+isoprenaline	2
+istradefylline	2
+keyhole limpet hemocyanin	2
+lamotrigine	2
+letrozole	2
+lifitegrast	2
+lisinopril	2
+lopinavir	2
+manganese	2
+masoprocol	2
+medroxyprogesterone acetate	2
+mefloquine	2
+mercaptopurine	2
+methacholine	2
+metoclopramide	2
+metyrosine	2
+mirabegron	2
+moexipril	2
+moxetumomab pasudotox	2
+nabilone	2
+nebivolol	2
+nortriptyline	2
+oseltamivir	2
+oxprenolol	2
+oxtriphylline	2
+pentostatin	2
+pentoxifylline	2
+perindopril	2
+pitavastatin	2
+polatuzumab vedotin	2
+pramlintide	2
+prenylamine	2
+proguanil	2
+promethazine	2
+prucalopride	2
+pyrimethamine	2
+quinapril	2
+raloxifene	2
+ramipril	2
+ravulizumab	2
+regadenoson	2
+rescinnamine	2
+riboflavin	2
+rimonabant	2
+risankizumab	2
+romidepsin	2
+salbutamol	2
+salmeterol	2
+salmon calcitonin	2
+somatotropin	2
+spirapril	2
+sulfamethoxazole	2
+tasonermin	2
+tazarotene	2
+terbutaline	2
+testolactone	2
+thonzylamine	2
+thyrotropin alfa	2
+tildrakizumab	2
+trandolapril	2
+trifarotene	2
+trimetrexate	2
+ustekinumab	2
+vildagliptin	2
+zileuton	2
+zinc	2
+zinc acetate	2
+zinc chloride	2
+zofenopril	2
+Arthritis, Rheumatoid	3
+isopropamide	3
+abiraterone	3
+acebutolol	3
+aceclofenac	3
+acemetacin	3
+acenocoumarol	3
+acetaminophen	3
+acetohydroxamic acid	3
+aflibercept	3
+agomelatine	3
+alclofenac	3
+alteplase	3
+ambrisentan	3
+aminocaproic acid	3
+aminophylline	3
+aminosalicylic acid	3
+amlexanox	3
+amphetamine	3
+anagrelide	3
+ancestim	3
+anti-inhibitor coagulant complex	3
+antipyrine	3
+antithrombin alfa	3
+antithymocyte immunoglobulin (rabbit)	3
+antrafenine	3
+aprepitant	3
+argatroban	3
+arsenic trioxide	3
+asenapine	3
+atenolol	3
+atovaquone	3
+axicabtagene ciloleucel	3
+azathioprine	3
+azithromycin	3
+balsalazide	3
+baricitinib	3
+belimumab	3
+bendazac	3
+berberine	3
+betaxolol	3
+bethanidine	3
+bisoprolol	3
+bivalirudin	3
+blinatumomab	3
+bosentan	3
+brolucizumab	3
+bromfenac	3
+bufexamac	3
+carbidopa	3
+carprofen	3
+carteolol	3
+castor oil	3
+catridecacog	3
+celiprolol	3
+cemiplimab	3
+chlorothiazide	3
+chlorprothixene	3
+choline magnesium trisalicylate	3
+cilostazol	3
+cisapride	3
+cisplatin	3
+citrulline	3
+clomipramine	3
+clove oil	3
+cobimetinib	3
+conestat alfa	3
+cyanocobalamin	3
+cyclobenzaprine	3
+dabigatran etexilate	3
+dalteparin	3
+darolutamide	3
+denosumab	3
+desogestrel	3
+dexamethasone	3
+dexfenfluramine	3
+dexibuprofen	3
+dexketoprofen	3
+dexlansoprazole	3
+diacerein	3
+diclofenac	3
+dicoumarol	3
+dienogest	3
+diethylcarbamazine	3
+diflunisal	3
+difluocortolone	3
+dinoprostone	3
+dipivefrin	3
+dipyrithione	3
+donepezil	3
+doxepin	3
+drospirenone	3
+drotrecogin alfa	3
+dydrogesterone	3
+echothiophate	3
+encorafenib	3
+enoximone	3
+enzacamene	3
+erenumab	3
+esmolol	3
+esomeprazole	3
+ethynodiol diacetate	3
+etodolac	3
+etonogestrel	3
+etoricoxib	3
+fenfluramine	3
+fenoprofen	3
+flufenamic acid	3
+fluocinolone acetonide	3
+flurbiprofen	3
+fluticasone	3
+fluticasone furoate	3
+fluticasone propionate	3
+folic acid	3
+fosnetupitant	3
+fostamatinib	3
+gestrinone	3
+gimeracil	3
+glycine betaine	3
+glycol salicylate	3
+glycyrrhizic acid	3
+guanidine	3
+hexafluronium	3
+homosalate	3
+human c1-esterase inhibitor	3
+human thrombin	3
+hyaluronic acid	3
+hydroxocobalamin	3
+hydroxyprogesterone caproate	3
+ibuprofen	3
+icatibant	3
+icosapent	3
+isoetharine	3
+isoflurophate	3
+isoniazid	3
+ixekizumab	3
+kaletra	3
+ketoconazole	3
+ketoprofen	3
+ketorolac	3
+leflunomide	3
+lenalidomide	3
+lepirudin	3
+levamlodipine	3
+levobetaxolol	3
+levobunolol	3
+levonorgestrel	3
+linagliptin	3
+lornoxicam	3
+loxoprofen	3
+lumateperone	3
+lumiracoxib	3
+macimorelin	3
+macitentan	3
+malathion	3
+medrogestone	3
+mefenamic acid	3
+megestrol acetate	3
+meloxicam	3
+menadione	3
+menthyl salicylate	3
+mesalazine	3
+mesoridazine	3
+metamizole	3
+methocarbamol	3
+metipranolol	3
+metoprolol	3
+metyrapone	3
+mifepristone	3
+milrinone	3
+minaprine	3
+misoprostol	3
+mitotane	3
+mometasone	3
+mometasone furoate	3
+mycophenolic acid	3
+nabumetone	3
+nadolol	3
+naproxen	3
+nepafenac	3
+netupitant	3
+nilotinib	3
+nimesulide	3
+nivolumab	3
+norelgestromin	3
+norethisterone	3
+norgestimate	3
+norgestrel	3
+oxaprozin	3
+oxybenzone	3
+pantoprazole	3
+parecoxib	3
+pembrolizumab	3
+phenindione	3
+phenprocoumon	3
+phenyl salicylate	3
+phenylbutazone	3
+pidolic acid	3
+pindolol	3
+pirbuterol	3
+piroxicam	3
+pomalidomide	3
+practolol	3
+pralidoxime	3
+primaquine	3
+probenecid	3
+proflavine	3
+progesterone	3
+propafenone	3
+propranolol	3
+propylene glycol	3
+protein s human	3
+prothrombin	3
+ramelteon	3
+ranibizumab	3
+remoxipride	3
+resveratrol	3
+ritodrine	3
+rivastigmine	3
+rofecoxib	3
+rolapitant	3
+romosozumab	3
+salicylic acid	3
+salsalate	3
+saxagliptin	3
+secukinumab	3
+segesterone acetate	3
+sitagliptin	3
+sitaxentan	3
+sotalol	3
+streptomycin	3
+sucralfate	3
+sulindac	3
+suprofen	3
+tasimelteon	3
+tegaserod	3
+telotristat ethyl	3
+tenecteplase	3
+tenoxicam	3
+teriflunomide	3
+tetracycline	3
+thalidomide	3
+thiothixene	3
+thrombin	3
+thrombin alfa	3
+thrombomodulin alfa	3
+tiaprofenic acid	3
+timolol	3
+tinzaparin	3
+tisagenlecleucel	3
+tofacitinib	3
+tolfenamic acid	3
+tolmetin	3
+topotecan	3
+trametinib	3
+trazodone	3
+triamterene	3
+triflusal	3
+trimipramine	3
+trolamine salicylate	3
+ubrogepant	3
+ulipristal	3
+ulobetasol	3
+urokinase	3
+venetoclax	3
+xamoterol	3
+ximelagatran	3
+Arthritis, Gouty	4
+aluminum chloride	4
+catumaxomab	4
+etanercept	4
+lauric acid	4
+methyl aminolevulinate	4
+mifamurtide	4
+minocycline	4
+naloxone	4
+papain	4
+porfimer sodium	4
+sarilumab	4
+trastuzumab deruxtecan	4
+abciximab	4
+acalabrutinib	4
+acetylsalicylic acid	4
+alefacept	4
+alemtuzumab	4
+basiliximab	4
+bevacizumab	4
+cetuximab	4
+dimethyl fumarate	4
+efalizumab	4
+gefitinib	4
+gemtuzumab ozogamicin	4
+hexylresorcinol	4
+human immunoglobulin g	4
+ibritumomab tiuxetan	4
+ibrutinib	4
+morphine	4
+muromonab	4
+natalizumab	4
+necitumumab	4
+neratinib	4
+osimertinib	4
+palivizumab	4
+panitumumab	4
+rifabutin	4
+sodium stibogluconate	4
+tositumomab	4
+trastuzumab	4
+turpentine	4
+zanubrutinib	4
